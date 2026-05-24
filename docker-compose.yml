@@ -1,0 +1,14 @@
+version: "3.9"
+
+services:
+  app:
+    build: .
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./chroma_db:/app/chroma_db
+      - ./mlflow_runs:/app/mlflow_runs
+      - ./data:/app/data
+    env_file:
+      - .env
+    restart: unless-stopped

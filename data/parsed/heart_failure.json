@@ -1,0 +1,2587 @@
+[
+  {
+    "pmid": "32749493",
+    "title": "Heart Failure With Reduced Ejection Fraction: A Review.",
+    "abstract": "IMPORTANCE: Worldwide, the burden of heart failure has increased to an estimated 23 million people, and approximately 50% of cases are HF with reduced ejection fraction (HFrEF). OBSERVATIONS: Heart failure is a clinical syndrome characterized by dyspnea or exertional limitation due to impairment of ventricular filling or ejection of blood or both. HFrEF occurs when the left ventricular ejection fraction (LVEF) is 40% or less and is accompanied by progressive left ventricular dilatation and adverse cardiac remodeling. Assessment for heart failure begins with obtaining a medical history and physical examination. Also central to diagnosis are elevated natriuretic peptides above age- and context-specific thresholds and identification of left ventricular systolic dysfunction with LVEF of 40% or less as measured by echocardiography. Treatment strategies include the use of diuretics to relieve symptoms and application of an expanding armamentarium of disease-modifying drug and device therapies. Unless there are specific contraindications, patients with HFrEF should be treated with a β-blocker and one of an angiotensin receptor-neprilysin inhibitor, angiotensin-converting enzyme inhibitor, or angiotensin receptor blocker as foundational therapy, with addition of a mineralocorticoid receptor antagonist in patients with persistent symptoms. Ivabradine and hydralazine/isosorbide dinitrate also have a role in the care of certain patients with HFrEF. More recently, sodium-glucose cotransporter 2 (SGLT2) inhibitors have further improved disease outcomes, significantly reducing cardiovascular and all-cause mortality irrespective of diabetes status, and vericiguat, a soluble guanylate cyclase stimulator, reduces heart failure hospitalization in high-risk patients with HFrEF. Device therapies may be beneficial in specific subpopulations, such as cardiac resynchronization therapy in patients with interventricular dyssynchrony, transcatheter mitral valve repair in patients with severe secondary mitral regurgitation, and implantable cardiac defibrillators in patients with more severe left ventricular dysfunction particularly of ischemic etiology. CONCLUSIONS AND RELEVANCE: HFrEF is a major public health concern with substantial morbidity and mortality. The management of HFrEF has seen significant scientific breakthrough in recent decades, and the ability to alter the natural history of the disease has never been better. Recent developments include SGLT2 inhibitors, vericiguat, and transcatheter mitral valve repair, all of which incrementally improve prognosis beyond foundational neurohormonal therapies. Disease morbidity and mortality remain high, with a 5-year survival rate of 25% after hospitalization for HFrEF.",
+    "authors": [
+      "Murphy SP",
+      "Ibrahim NE",
+      "Januzzi JL"
+    ],
+    "journal": "JAMA",
+    "year": 2020,
+    "mesh_terms": [
+      "Cardiac Rehabilitation",
+      "Cardiotonic Agents",
+      "Defibrillators, Implantable",
+      "Diuretics",
+      "Heart Failure",
+      "Humans",
+      "Prognosis",
+      "Stroke Volume"
+    ],
+    "doi": "10.1001/jama.2020.10262"
+  },
+  {
+    "pmid": "33983837",
+    "title": "Pathophysiology and Therapeutic Approaches to Acute Decompensated Heart Failure.",
+    "abstract": "Acute decompensated heart failure (ADHF) is one of the leading admission diagnoses worldwide, yet it is an entity with incompletely understood pathophysiology and limited therapeutic options. Patients admitted for ADHF have high in-hospital morbidity and mortality, as well as frequent rehospitalizations and subsequent cardiovascular death. This devastating clinical course is partly due to suboptimal medical management of ADHF with persistent congestion upon hospital discharge and inadequate predischarge initiation of life-saving guideline-directed therapies. While new drugs for the treatment of chronic HF continue to be approved, there has been no new therapy approved for ADHF in decades. This review will focus on the current limited understanding of ADHF pathophysiology, possible therapeutic targets, and current limitations in expanding available therapies in light of the unmet need among these high-risk patients.",
+    "authors": [
+      "Njoroge JN",
+      "Teerlink JR"
+    ],
+    "journal": "Circulation research",
+    "year": 2021,
+    "mesh_terms": [
+      "Acute Disease",
+      "Body Fluids",
+      "Cardio-Renal Syndrome",
+      "Cardiotoxins",
+      "Comorbidity",
+      "Heart Failure",
+      "Hospitalization",
+      "Humans",
+      "Inflammation Mediators",
+      "Myocardial Contraction",
+      "Natriuretic Peptide, Brain",
+      "Patient Discharge",
+      "Patient Readmission",
+      "Renin-Angiotensin System",
+      "Symptom Assessment",
+      "Vascular Resistance",
+      "Vasoconstriction",
+      "Vasodilator Agents"
+    ],
+    "doi": "10.1161/CIRCRESAHA.121.318186"
+  },
+  {
+    "pmid": "38538204",
+    "title": "Enhanced Decongestive Therapy in Patients With Acute Heart Failure: JACC Review Topic of the Week.",
+    "abstract": "Because signs of congestion are associated with adverse outcomes in patients with acute heart failure (AHF), attempts were made to decongest patients as much as possible with diuretic agents (loop diuretic agents, thiazides, acetazolamide) or mechanical devices. Those interventions improved signs of congestion but failed to meaningfully improve patients' symptoms, improve quality of life, or reduce early readmissions or deaths. Recent studies have shown that implementation of guideline-directed medical therapies after an AHF admission led to both more decongestion and improved symptoms, quality of life, and outcomes. Therefore, for most patients with AHF whose symptoms and congestion can be controlled with loop diuretic agents, the main focus should be rapid guideline-directed medical therapy uptitration. Enhanced decongestion, ie, adding a second-line diuretic agent to a loop diuretic agent, should be reserved for those patients who do not respond to loop diuretic agents.",
+    "authors": [
+      "Cotter G",
+      "Davison B",
+      "Chioncel O"
+    ],
+    "journal": "Journal of the American College of Cardiology",
+    "year": 2024,
+    "mesh_terms": [
+      "Humans",
+      "Sodium Potassium Chloride Symporter Inhibitors",
+      "Quality of Life",
+      "Heart Failure",
+      "Diuretics",
+      "Hospitalization",
+      "Acute Disease"
+    ],
+    "doi": "10.1016/j.jacc.2024.01.029"
+  },
+  {
+    "pmid": "36697141",
+    "title": "Worsening Heart Failure: Nomenclature, Epidemiology, and Future Directions: JACC Review Topic of the Week.",
+    "abstract": "Heart failure (HF) is a progressive disease characterized by variable durations of symptomatic stability often punctuated by episodes of worsening despite continued therapy. These periods of clinical worsening are increasingly recognized as a distinct phase in the history of HF, termed worsening HF (WHF). The definition of WHF continues to evolve from a historical focus solely on hospitalization to now include nonhospitalization events (eg, need for intravenous diuretic therapy in the emergency or outpatient setting). Most HF clinical trials to date have had HF hospitalization and death as primary endpoints, and only recently, some studies have included other WHF events regardless of location of care. This article reviews the evolution of the WHF definition, highlights the importance of considering the onset of WHF as an event that marks a new phase of HF, summarizes the latest clinical trials investigating novel therapies, and outlines unmet needs regarding identification and treatment of WHF.",
+    "authors": [
+      "Greene SJ",
+      "Bauersachs J",
+      "Brugts JJ",
+      "Ezekowitz JA",
+      "Lam CSP",
+      "Lund LH",
+      "Ponikowski P",
+      "Voors AA",
+      "Zannad F",
+      "Zieroth S",
+      "Butler J"
+    ],
+    "journal": "Journal of the American College of Cardiology",
+    "year": 2023,
+    "mesh_terms": [
+      "Humans",
+      "Acute Disease",
+      "Disease Progression",
+      "Diuretics",
+      "Heart Failure",
+      "Hospitalization"
+    ],
+    "doi": "10.1016/j.jacc.2022.11.023"
+  },
+  {
+    "pmid": "39222642",
+    "title": "Semaglutide versus placebo in patients with heart failure and mildly reduced or preserved ejection fraction: a pooled analysis of the SELECT, FLOW, STEP-HFpEF, and STEP-HFpEF DM randomised trials.",
+    "abstract": "BACKGROUND: Heart failure with mildly reduced or preserved ejection fraction (hereafter referred to as HFpEF) is the most common type of heart failure and is associated with a high risk of hospitalisation and death, especially in patients with overweight, obesity, or type 2 diabetes. In the STEP-HFpEF and STEP-HFpEF DM trials, semaglutide improved heart failure-related symptoms and physical limitations in participants with HFpEF. Whether semaglutide also reduces clinical heart failure events in this group remains to be established. METHODS: We conducted a post-hoc pooled, participant-level analysis of four randomised, placebo-controlled trials (SELECT, FLOW, STEP-HFpEF, and STEP-HFpEF DM) to examine the effects of once-weekly subcutaneous semaglutide (2·4 mg in SELECT, STEP-HFpEF, and STEP-HFpEF DM; 1·0 mg in FLOW) on heart failure events. The STEP-HFpEF and STEP-HFpF DM trials enrolled participants with obesity-related HFpEF, the SELECT trial enrolled participants with atherosclerotic cardiovascular disease and overweight or obesity, and the FLOW trial enrolled participants with type 2 diabetes and chronic kidney disease. Hence, for this analysis, we include all participants from the STEP-HFpEF trials and those with an investigator-reported history of HFpEF from SELECT and FLOW. The main outcomes for this analysis were the composite endpoint of time to cardiovascular death or first worsening heart failure event (defined as hospitalisation or urgent visit due to heart failure), time to first worsening heart failure event, and time to cardiovascular death. Efficacy and safety endpoints were analysed with the full analysis set (ie, all participants randomly assigned to treatment, according to the intention-to-treat principle). The SELECT, FLOW, STEP-HFpEF, and STEP-HFpEF DM trials are registered at ClinicalTrials.gov, NCT03574597, NCT03819153, NCT04788511, and NCT04916470, respectively, and all are complete. FINDINGS: Across the four trials, 3743 (16·8%) of 22 282 participants had a history of HFpEF (1914 assigned to semaglutide and 1829 assigned to placebo). In this group of participants with HFpEF, semaglutide reduced the risk of the combined endpoint of cardiovascular death or heart failure events (103 [5·4%] of 1914 in the semaglutide group had events vs 138 [7·5%] of 1829 in the placebo group; hazard ratio [HR] 0·69 [95% CI 0·53-0·89]; p=0·0045). Semaglutide also reduced the risk of worsening heart failure events (54 [2·8%] vs 86 [4·7%]; HR 0·59 [0·41-0·82]; p=0·0019). No significant effect on cardiovascular death alone was seen (59 [3·1%] vs 67 [3·7%]; HR 0·82 [0·57-1·16]; p=0·25). A lower proportion of patients treated with semaglutide had serious adverse events than did those who were treated with placebo (572 [29·9%] vs 708 [38·7%]). INTERPRETATION: In patients with HFpEF, semaglutide reduced the risk of the combined endpoint of cardiovascular death or worsening heart failure events, and worsening heart failure events alone, whereas its effect on cardiovascular death alone was not significant. These data support the use of semaglutide as an efficacious therapy to reduce the risk of clinical heart failure events in patients with HFpEF, for whom few treatment options are currently available. FUNDING: Novo Nordisk.",
+    "authors": [
+      "Kosiborod MN",
+      "Deanfield J",
+      "Pratley R",
+      "Borlaug BA",
+      "Butler J",
+      "Davies MJ",
+      "Emerson SS",
+      "Kahn SE",
+      "Kitzman DW",
+      "Lingvay I",
+      "Mahaffey KW",
+      "Petrie MC",
+      "Plutzky J",
+      "Rasmussen S",
+      "Rönnbäck C",
+      "Shah SJ",
+      "Verma S",
+      "Weeke PE",
+      "Lincoff AM"
+    ],
+    "journal": "Lancet (London, England)",
+    "year": 2024,
+    "mesh_terms": [
+      "Aged",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Diabetes Mellitus, Type 2",
+      "Glucagon-Like Peptides",
+      "Heart Failure",
+      "Hospitalization",
+      "Obesity",
+      "Stroke Volume",
+      "Treatment Outcome",
+      "Glucagon-Like Peptide-1 Receptor Agonists",
+      "Semaglutide"
+    ],
+    "doi": "10.1016/S0140-6736(24)01643-X"
+  },
+  {
+    "pmid": "38960519",
+    "title": "Practical Guidance for Hemodynamic Assessment by Right Heart Catheterization in Management of Heart Failure.",
+    "abstract": "Heart failure is a clinical syndrome characterized by the inability of the heart to meet the circulatory demands of the body without requiring an increase in intracardiac pressures at rest or with exertion. Hemodynamic parameters can be measured via right heart catheterization, which has an integral role in the full spectrum of heart failure: from ambulatory patients to those in cardiogenic shock, as well as patients being considered for left ventricular device therapy and heart transplantation. Hemodynamic data are critical for prompt recognition of clinical deterioration, assessment of prognosis, and guidance of treatment decisions. This review is a field guide for hemodynamic assessment, troubleshooting, and interpretation for clinicians treating patients with heart failure.",
+    "authors": [
+      "Rajagopalan N",
+      "Borlaug BA",
+      "Bailey AL",
+      "Eckman PM",
+      "Guglin M",
+      "Hall S",
+      "Montgomery M",
+      "Ramani G",
+      "Khazanie P"
+    ],
+    "journal": "JACC. Heart failure",
+    "year": 2024,
+    "mesh_terms": [
+      "Humans",
+      "Heart Failure",
+      "Cardiac Catheterization",
+      "Hemodynamics"
+    ],
+    "doi": "10.1016/j.jchf.2024.03.020"
+  },
+  {
+    "pmid": "28063800",
+    "title": "Gene therapy for heart failure.",
+    "abstract": "Novel strategies are needed to treat the growing population of heart failure patients. While new drug and device based therapies have improved outcomes over the past several decades, heart failure patients continue to experience amongst the lowest quality of life of any chronic disease, high likelihood of being hospitalized and marked reduction in survival. Better understanding of many of the basic mechanisms involved in the development of heart failure has helped identify abnormalities that could potentially be targeted by gene transfer. Despite success in experimental animal models, translating gene transfer strategies from the laboratory to the clinic remains at an early stage. This review provides an introduction to gene transfer as a therapy for treating heart failure, describes some of the many factors that need to be addressed in order for it to be successful and discusses some of the recent studies that have been carried out in heart failure patients. Insights from these studies highlight both the enormous promise of gene transfer and the obstacles that still need to be overcome for this treatment approach to be successful.",
+    "authors": [
+      "Greenberg B"
+    ],
+    "journal": "Trends in cardiovascular medicine",
+    "year": 2017,
+    "mesh_terms": [
+      "Adenoviridae",
+      "Adenylyl Cyclases",
+      "Animals",
+      "Chemokine CXCL12",
+      "Dependovirus",
+      "Gene Expression Regulation",
+      "Gene Transfer Techniques",
+      "Genetic Therapy",
+      "Genetic Vectors",
+      "Heart Failure",
+      "Humans",
+      "Sarcoplasmic Reticulum Calcium-Transporting ATPases",
+      "Treatment Outcome"
+    ],
+    "doi": "10.1016/j.tcm.2016.11.001"
+  },
+  {
+    "pmid": "41642391",
+    "title": "Gene Therapy for Heart Failure.",
+    "abstract": "Heart failure is the leading cause of hospitalization globally, burdening healthcare systems and the economy. Heart failure is a multifactorial cardiac syndrome, where the heart fails to maintain sufficient cardiac output to support body function. As the population ages, heart failure rates will increase. Current treatments, such as medications and surgery, are not suitable for all patients, creating a need for alternative therapies. Gene therapy offers promising new approaches, with therapeutic angiogenesis, regenerative strategies, and calcium ion regulation as key targets. SERCA2a plays a critical role in calcium regulation, and clinical trials have focused on its potential as a therapeutic agent. VEGF-B, which specifically targets the myocardium, also regulates myocardial metabolism and SERCA2a activity. Although clinical trials have been conducted, results have not consistently replicated pre-clinical success. This review summarizes the current state of gene therapy for heart failure, including therapeutic agents, vectors, delivery methods, and preclinical models.",
+    "authors": [
+      "Wang H",
+      "Määttä A",
+      "Ylä-Herttuala S"
+    ],
+    "journal": "Journal of cardiovascular translational research",
+    "year": 2026,
+    "mesh_terms": [
+      "Genetic Therapy",
+      "Humans",
+      "Heart Failure",
+      "Animals",
+      "Sarcoplasmic Reticulum Calcium-Transporting ATPases",
+      "Gene Transfer Techniques",
+      "Genetic Vectors",
+      "Treatment Outcome",
+      "Myocardium",
+      "Regeneration",
+      "Recovery of Function",
+      "Vascular Endothelial Growth Factor B"
+    ],
+    "doi": "10.1038/mt.2012.194"
+  },
+  {
+    "pmid": "34033164",
+    "title": "Gene therapy for ischaemic heart disease and heart failure.",
+    "abstract": "Gene therapy has been expected to become a novel treatment method since the structure of DNA was discovered in 1953. The morbidity from cardiovascular diseases remains remarkable despite the improvement of percutaneous interventions and pharmacological treatment, underlining the need for novel therapeutics. Gene therapy-mediated therapeutic angiogenesis could help those who have not gained sufficient symptom relief with traditional treatment methods. Especially patients with severe coronary artery disease and heart failure could benefit from gene therapy. Some clinical trials have reported improved myocardial perfusion and symptom relief in CAD patients, but few trials have come up with disappointing negative results. Translating preclinical success into clinical applications has encountered difficulties in successful transduction, study design, endpoint selection, and patient selection and recruitment. However, promising new methods for transducing the cells, such as retrograde delivery and cardiac-specific AAV vectors, hold great promise for myocardial gene therapy. This review introduces gene therapy for ischaemic heart disease and heart failure and discusses the current status and future developments in this field.",
+    "authors": [
+      "Korpela H",
+      "Järveläinen N",
+      "Siimes S",
+      "Lampela J",
+      "Airaksinen J",
+      "Valli K",
+      "Turunen M",
+      "Pajula J",
+      "Nurro J",
+      "Ylä-Herttuala S"
+    ],
+    "journal": "Journal of internal medicine",
+    "year": 2021,
+    "mesh_terms": [
+      "Coronary Artery Disease",
+      "Genetic Therapy",
+      "Heart Failure",
+      "Humans",
+      "Myocardial Ischemia",
+      "Myocardium"
+    ],
+    "doi": "10.1111/joim.13308"
+  },
+  {
+    "pmid": "40576736",
+    "title": "Stem Cell Therapy in Ischemic Heart Failure.",
+    "abstract": "Stem cells have emerged as a promising therapeutic approach for ischemic heart failure, with multiple preclinical and clinical trials demonstrating encouraging outcomes. However, limitations and challenges encountered during clinical trials or follow-up periods hinder stem cell therapy's clinical translation for heart failure. In this review, we will elaborate on the applications of stem cell-based therapy, the main subtypes and fundamental properties of stem cells, and the mechanisms by which stem cells exert their effects in ischemic heart failure, such as remuscularization, paracrine effects, autocrine effects, and endocrine-like effects. We will also demonstrate and explain the extensive clinical trials of stem cell therapy in ischemic heart failure, focusing on safety, efficacy, and primary and secondary outcome measures. To improve transplanted stem cells' viability and retention rates, we will discuss various delivery routes and advanced biomaterials used to encapsulate stem cells, such as injectable hydrogels, cardiac patches, and cell sheets. Several challenges severely obstruct the clinical translation of stem cell therapy for ischemic heart failure, including immunological rejection, post-transplantation hypoxia, inflammatory reactions, the maturity of transplanted stem cells, and cost. Finally, we will focus on the prospects of stem cell-based therapy for ischemic heart failure, emphasizing the ongoing need for further research to address existing challenges and establish clearer avenues toward clinical application.",
+    "authors": [
+      "Guo Q",
+      "Hua Y"
+    ],
+    "journal": "American journal of cardiovascular drugs : drugs, devices, and other interventions",
+    "year": 2025,
+    "mesh_terms": [
+      "Humans",
+      "Heart Failure",
+      "Stem Cell Transplantation",
+      "Myocardial Ischemia",
+      "Animals",
+      "Stem Cells"
+    ],
+    "doi": "10.1007/s40256-025-00741-0"
+  },
+  {
+    "pmid": "27365454",
+    "title": "Heart failure-potential new targets for therapy.",
+    "abstract": "INTRODUCTION/BACKGROUND: Heart failure is a major cause of cardiovascular morbidity and mortality. This review covers current heart failure treatment guidelines, emerging therapies that are undergoing clinical trial, and potential new therapeutic targets arising from basic science advances. SOURCES OF DATA: A non-systematic search of MEDLINE was carried out. International guidelines and relevant reviews were searched for additional articles. AREAS OF AGREEMENT: Angiotensin-converting enzyme inhibitors and beta-blockers are first line treatments for chronic heart failure with reduced left ventricular function. AREAS OF CONTROVERSY: Treatment strategies to improve mortality in heart failure with preserved left ventricular function are unclear. GROWING POINTS: Many novel therapies are being tested for clinical efficacy in heart failure, including those that target natriuretic peptides and myosin activators. A large number of completely novel targets are also emerging from laboratory-based research. Better understanding of pathophysiological mechanisms driving heart failure in different settings (e.g. hypertension, post-myocardial infarction, metabolic dysfunction) may allow for targeted therapies. AREAS TIMELY FOR DEVELOPING RESEARCH: Therapeutic targets directed towards modifying the extracellular environment, angiogenesis, cell viability, contractile function and microRNA-based therapies.",
+    "authors": [
+      "Nabeebaccus A",
+      "Zheng S",
+      "Shah AM"
+    ],
+    "journal": "British medical bulletin",
+    "year": 2016,
+    "mesh_terms": [
+      "Angiotensin-Converting Enzyme Inhibitors",
+      "Antihypertensive Agents",
+      "Calcium Channel Blockers",
+      "Heart Failure",
+      "Humans",
+      "Hypertension",
+      "MicroRNAs",
+      "Molecular Targeted Therapy",
+      "Treatment Outcome"
+    ],
+    "doi": "10.1093/bmb/ldw025"
+  },
+  {
+    "pmid": "34410521",
+    "title": "What Is the Status of Regenerative Therapy in Heart Failure?",
+    "abstract": "PURPOSE OF REVIEW: Heart failure remains a major public health concern with high burden of morbidity and mortality despite advances in pharmacotherapy, device therapy, and surgical and percutaneous techniques. Cardiac regeneration may have a role to play in these patients with a huge unmet need for these therapies in patients with chronic ischemic heart disease, post-infarct heart failure, dilated cardiomyopathy, and heart failure with preserved ejection fraction. RECENT FINDINGS: In this review, we focus on the pre-clinical and translational basis for different modes of cardiac regenerative medicine and then critically appraise the clinical evidence amassed from pivotal clinical trials focused on cardiac regeneration for ischemic and non-ischemic cardiomyopathies. Cardiac regenerative medicine is rapidly evolving with novel approaches involving cell-based, cell-free, tissue engineering, and hybrid therapies to achieve myocardial regeneration and repair. Further studies are warranted with a robust comparison arm with optimal contemporary medical therapy to translate regenerative therapies to a clinical reality.",
+    "authors": [
+      "Kir D",
+      "Patel MJ",
+      "Munagala MR"
+    ],
+    "journal": "Current cardiology reports",
+    "year": 2021,
+    "mesh_terms": [
+      "Heart",
+      "Heart Failure",
+      "Humans",
+      "Myocardial Ischemia",
+      "Regeneration",
+      "Regenerative Medicine",
+      "Stem Cell Transplantation"
+    ],
+    "doi": "10.1007/s11886-021-01575-3"
+  },
+  {
+    "pmid": "34511203",
+    "title": "Advanced Heart Failure: Definition, Epidemiology, and Clinical Course.",
+    "abstract": "Advanced heart failure (HF) is characterized by a progressive worsening of symptoms disabling for daily life, refractory to all therapies, and with high mortality. These patients may be candidates for life-prolonging therapies, such as heart transplantation (HT) or long-term (LT) mechanical circulatory support (MCS) or must just require palliative therapies. The 1-year survival after HT and/or LT-MCS is approaching 80% to 90%, being patient selection and timely referral to advanced HF centers critical for optimal outcomes. There is no single symptom, sign, or test that can identify these patients and different classifications are complementary and helpful for clinical decision-making.",
+    "authors": [
+      "Crespo-Leiro MG",
+      "Barge-Caballero E"
+    ],
+    "journal": "Heart failure clinics",
+    "year": 2021,
+    "mesh_terms": [
+      "Heart Failure",
+      "Heart Transplantation",
+      "Heart-Assist Devices",
+      "Humans",
+      "Palliative Care",
+      "Patient Selection"
+    ],
+    "doi": "10.1016/j.hfc.2021.06.002"
+  },
+  {
+    "pmid": "37532424",
+    "title": "Implementing Guideline-Directed Medical Therapy for Heart Failure: JACC Focus Seminar 1/3.",
+    "abstract": "Despite the availability of lifesaving guideline-directed medical therapy (GDMT) for heart failure with reduced ejection fraction (HFrEF), there remain major gaps in utilization of these therapies among eligible patients. Simultaneous with these gaps in quality of care, HFrEF continues as a leading cause of death and hospitalization with associated clinical risk far exceeding most other cardiovascular and noncardiovascular conditions. In the context of this urgent need to improve provision of appropriate therapy, multiple lines of evidence support various implementation strategies. Such strategies include in-hospital initiation of GDMT, simultaneous or rapid sequence initiation of GDMT, participation in quality improvement registries to assess site performance and provide feedback, multidisciplinary titration clinics, virtual consult teams, reduction of cost-sharing, remote algorithm-based medication optimization, electronic health record-based interventions, and direct-to-patient educational initiatives. This review describes and contextualizes the evidence surrounding each of these potential avenues for improving use of foundational GDMTs for patients with HFrEF.",
+    "authors": [
+      "Patolia H",
+      "Khan MS",
+      "Fonarow GC",
+      "Butler J",
+      "Greene SJ"
+    ],
+    "journal": "Journal of the American College of Cardiology",
+    "year": 2023,
+    "mesh_terms": [
+      "Humans",
+      "Heart Failure",
+      "Stroke Volume",
+      "Hospitalization",
+      "Ventricular Dysfunction, Left"
+    ],
+    "doi": "10.1016/j.jacc.2023.03.430"
+  },
+  {
+    "pmid": "38656292",
+    "title": "Atrial Fibrillation Ablation in Heart Failure With Reduced vs Preserved Ejection Fraction: A Systematic Review and Meta-Analysis.",
+    "abstract": "IMPORTANCE: Catheter ablation is associated with reduced heart failure (HF) hospitalization and death in select patients with atrial fibrillation (AF) and heart failure with reduced ejection fraction (HFrEF). However, the benefit in patients with HF with preserved ejection fraction (HFpEF) is uncertain. OBJECTIVE: To investigate whether catheter ablation for AF is associated with reduced HF-related outcomes according to HF phenotype. DATA SOURCE: A systematic search of MEDLINE, Embase, and Cochrane Central was conducted among studies published from inception to September 2023. STUDY SELECTION: Parallel-group randomized clinical trials (RCTs) comparing catheter ablation with conventional rate or rhythm control therapies in patients with HF, New York Heart Association functional class II or greater, and a history of paroxysmal or persistent AF were included. Pairs of independent reviewers screened 7531 titles and abstracts, of which 12 RCTs and 4 substudies met selection criteria. DATA EXTRACTION AND SYNTHESIS: Data were abstracted in duplicate according to the Preferred Reporting Items for Systematic Reviews and Meta-analyses (PRISMA) reporting guideline. Pooled effect estimates were calculated using random-effects Mantel-Haenszel models. Interaction P values were used to test for subgroup differences. MAIN OUTCOMES AND MEASURES: The primary outcome was HF events, defined as HF hospitalization, clinically significant worsening of HF, or unscheduled visits to a clinician for treatment intensification. Secondary outcomes included cardiovascular and all-cause mortality. RESULTS: A total of 12 RCTs with 2465 participants (mean [SD] age, 65.3 [9.7] years; 658 females [26.7%]) were included; there were 1552 participants with HFrEF and 913 participants with HFpEF. Compared with conventional rate or rhythm control, catheter ablation was associated with reduced risk of HF events in HFrEF (risk ratio [RR], 0.59; 95% CI, 0.48-0.72), while there was no benefit in patients with HFpEF (RR, 0.93; 95% CI, 0.65-1.32) (P for interaction = .03). Catheter ablation was associated with reduced risk of cardiovascular death compared with conventional therapies in HFrEF (RR, 0.49; 95% CI, 0.34-0.70) but a differential association was not detected in HFpEF (RR, 0.91; 95% CI, 0.46-1.79) (P for interaction = .12). Similarly, no difference in the association of catheter ablation with all-cause mortality was found between HFrEF (RR vs conventional therapies, 0.63; 95% CI, 0.47-0.86) and HFpEF (RR vs conventional therapies, 0.95; 95% CI, 0.39-2.30) groups (P for interaction = .39). CONCLUSIONS AND RELEVANCE: This study found that catheter ablation for AF was associated with reduced risk of HF events in patients with HFrEF but had limited or no benefit in HFpEF. Results from ongoing trials may further elucidate the role of catheter ablation for AF in HFpEF.",
+    "authors": [
+      "Oraii A",
+      "McIntyre WF",
+      "Parkash R",
+      "Kowalik K",
+      "Razeghi G",
+      "Benz AP",
+      "Belley-Côté EP",
+      "Conen D",
+      "Connolly SJ",
+      "Tang ASL",
+      "Healey JS",
+      "Wong JA"
+    ],
+    "journal": "JAMA cardiology",
+    "year": 2024,
+    "mesh_terms": [
+      "Humans",
+      "Atrial Fibrillation",
+      "Catheter Ablation",
+      "Heart Failure",
+      "Stroke Volume"
+    ],
+    "doi": "10.1016/j.hroo.2021.09.015"
+  },
+  {
+    "pmid": "41052644",
+    "title": "Lifetime benefits of comprehensive medical therapy in heart failure with mildly reduced or preserved ejection fraction.",
+    "abstract": "Sodium-glucose cotransporter-2 inhibitors (SGLT2i) and the nonsteroidal mineralocorticoid receptor antagonist (nsMRA) finerenone have each been shown to individually improve heart failure events among patients with heart failure and mildly reduced or preserved ejection fraction (HFmrEF/HFpEF). Moreover, the angiotensin receptor neprilysin inhibitor (ARNI) sacubitril/valsartan has been shown to improve outcomes in patients with HFmrEF/HFpEF with a left ventricular ejection fraction (LVEF) below normal (<60%). However, the expected benefits of the combined use of these agents with long-term administration are not well defined. Here, in this cross-trial analysis of DELIVER, FINEARTS-HF and PARAGON-HF, combined use of SGLT2i and nsMRA therapies was estimated to reduce the risk of cardiovascular death or first worsening heart failure event by 31% in the overall population (hazard ratio 0.69; 95% confidence interval 0.59-0.81), while combined use of SGLT2i, nsMRA and ARNI therapies was estimated to reduce risk by 39% in patients with HFmrEF/HFpEF and an LVEF <60% (hazard ratio 0.61; 95% confidence interval 0.48-0.77). With long-term use, combined SGLT2i and nsMRA therapies in a 65-year-old patient with HFmrEF/HFpEF, or combined SGLT2i, nsMRA and ARNI therapies in a 65-year-old patient with an LVEF <60%, were projected to afford 3.6 (2.0-5.2) or 4.9 (2.5-7.3) additional years free from cardiovascular death or a heart failure event, respectively. Combined therapy was estimated to result in meaningful gains in event-free survival across a broad age range, from 55 to 85 years. Among patients with HFmrEF and HFpEF, the potential aggregated long-term treatment effects of early combination medical therapy with SGLT2i and nsMRA (and ARNI in selected individuals) are projected to be substantial.",
+    "authors": [
+      "Vaduganathan M",
+      "Claggett BL",
+      "Chatur S",
+      "Desai AS",
+      "Jhund PS",
+      "Vardeny O",
+      "Merkely B",
+      "Martinez F",
+      "Comin-Colet J",
+      "Kerr Saraiva JF",
+      "Shah SJ",
+      "Lam CSP",
+      "Zannad F",
+      "Docherty KF",
+      "McMurray JJV",
+      "Solomon SD"
+    ],
+    "journal": "Nature medicine",
+    "year": 2026,
+    "mesh_terms": [
+      "Humans",
+      "Heart Failure",
+      "Stroke Volume",
+      "Aged",
+      "Male",
+      "Female",
+      "Sodium-Glucose Transporter 2 Inhibitors",
+      "Biphenyl Compounds",
+      "Mineralocorticoid Receptor Antagonists",
+      "Aminobutyrates",
+      "Valsartan",
+      "Drug Combinations",
+      "Tetrazoles",
+      "Angiotensin Receptor Antagonists",
+      "Aged, 80 and over",
+      "Middle Aged",
+      "Drug Therapy, Combination",
+      "Treatment Outcome",
+      "Naphthyridines"
+    ],
+    "doi": "10.1002/ejhf.3535"
+  },
+  {
+    "pmid": "29387880",
+    "title": "Outpatient Worsening Heart Failure as a Target for Therapy: A Review.",
+    "abstract": "IMPORTANCE: Hospitalizations for worsening heart failure (WHF) represent an enormous public health and financial burden, with physicians, health systems, and payers placing increasing emphasis on hospitalization prevention. In addition, maximizing time out of the hospital is an important patient-centered outcome. In this review, we discuss the concept of outpatient WHF, highlight the rationale and data for the outpatient treatment of WHF as an alternative to hospitalization, and examine opportunities and strategies for developing outpatient \"interceptive\" therapies for treatment of worsening symptoms and prevention of hospitalization. OBSERVATIONS: Worsening heart failure has traditionally been synonymous with an episode of in-hospital care for worsening symptoms. While WHF often leads to hospitalization, many patients experience WHF in the outpatient setting and carry a similarly poor prognosis. These findings support WHF as a distinct condition, independent of location of care. For those that are hospitalized, most patients have an uncomplicated clinical course, with diuretics as the only intravenous therapy. Although complicated scenarios exist, it is conceivable that improved tools for outpatient management of clinical congestion would allow a greater proportion of hospitalized patients to receive comparable care outside the hospital. Most patients with WHF have a gradual onset of congestive signs and symptoms, offering a potential window in which effective therapy may abort continued worsening and obviate the need for hospitalization. To date, outpatient WHF has received minimal attention in randomized clinical trials, but this high-risk group possesses key features that favor effective clinical trial investigation. CONCLUSIONS AND RELEVANCE: As the public health and economic burdens of heart failure continue to grow, recognizing the entity of outpatient WHF is critical. Efforts to reduce heart failure hospitalization should include developing effective therapies and care strategies for outpatient WHF. The outpatient WHF population represents a major opportunity for therapeutic advancements that could fundamentally change heart failure care delivery.",
+    "authors": [
+      "Greene SJ",
+      "Mentz RJ",
+      "Felker GM"
+    ],
+    "journal": "JAMA cardiology",
+    "year": 2018,
+    "mesh_terms": [
+      "Ambulatory Care",
+      "Disease Progression",
+      "Heart Failure",
+      "Humans",
+      "Patient Selection",
+      "Randomized Controlled Trials as Topic"
+    ],
+    "doi": "10.1016/j.jchf.2017.10.001"
+  },
+  {
+    "pmid": "40608862",
+    "title": "Cardiovascular Aging and Exercise: Implications for Heart Failure Prevention and Management.",
+    "abstract": "A demographic shift toward an aging population is occurring worldwide. Commensurate with this trend, age-related diseases are also rising. Although aging is an immutable part of life, biological aging is a highly heterogeneous process influenced by health-related behaviors, genetics, and the environment. The biological effects of aging are evident across all organ systems. Some individuals demonstrate an accelerated aging phenotype, which is associated with substantial morbidity and mortality. Moreover, common cardiovascular conditions, such as heart failure with preserved ejection fraction, can be conceptualized as a consequence of accelerated aging. Physical activity and exercise training modify the biological effects of accelerated aging considerably. They are associated with various salutary benefits and have emerged as potent therapeutics in disease states characterized by the accelerated aging phenotype. In this state-of-the-art review, we discuss the age-related changes observed in cardiovascular and peripheral tissues, the implications of age acceleration, and the effectiveness and mechanisms of physical activity and exercise training to curb the deleterious effects of aging and improve outcomes.",
+    "authors": [
+      "Subramanian V",
+      "Tucker WJ",
+      "Peters AE",
+      "Upadhya B",
+      "Kitzman DW",
+      "Pandey A"
+    ],
+    "journal": "Circulation research",
+    "year": 2025,
+    "mesh_terms": [
+      "Humans",
+      "Heart Failure",
+      "Exercise",
+      "Aging",
+      "Animals",
+      "Exercise Therapy",
+      "Cardiovascular System"
+    ],
+    "doi": "10.1161/CIRCRESAHA.125.325531"
+  },
+  {
+    "pmid": "32588055",
+    "title": "An overview of stem cell therapy for paediatric heart failure.",
+    "abstract": "Significant achievements in paediatric cardiology, surgical treatment and intensive care of congenital heart disease have drastically changed clinical outcomes for paediatric patients. Nevertheless, late-onset heart failure in children after staged surgeries still remains a serious concern in the medical community. Heart transplantation is an option for treatment; however, the shortage of available organs is a persistent problem in many developed countries. In order to resolve these issues, advanced technologies, such as innovative mechanical circulatory support devices and regenerative therapies, are strongly desired. Accumulated evidence regarding cell-based cardiac regenerative therapies has suggested their safety and efficacy in treating adult heart failure. Given that young children seem to have a higher regenerative capacity than adults, stem cell-based therapies appear a promising treatment option for paediatric heart failure as well. Based on the findings from past trials and studies, we present the potential of various different types of stem cells, ranging from bone marrow mononuclear cells to cardiosphere-derived stem cells for use in paediatric cell-based therapies. Here, we assess both the current challenges associated with cell-based therapies and novel strategies that may be implemented in the future to advance stem cell therapy in the paediatric population.",
+    "authors": [
+      "Ishigami S",
+      "Sano T",
+      "Krishnapura S",
+      "Ito T",
+      "Sano S"
+    ],
+    "journal": "European journal of cardio-thoracic surgery : official journal of the European Association for Cardio-thoracic Surgery",
+    "year": 2020,
+    "mesh_terms": [
+      "Cell- and Tissue-Based Therapy",
+      "Child",
+      "Heart Defects, Congenital",
+      "Heart Failure",
+      "Heart Transplantation",
+      "Humans",
+      "Stem Cell Transplantation"
+    ],
+    "doi": "10.1093/ejcts/ezaa155"
+  },
+  {
+    "pmid": "39548233",
+    "title": "Trials and tribulations of cell therapy for heart failure: an update on ongoing trials.",
+    "abstract": "Heart failure (HF) remains a leading cause of mortality, responsible for 13% of all deaths worldwide. The prognosis for patients with HF is poor, with only a 50% survival rate within 5 years. A major challenge of ischaemia-driven HF is the loss of cardiomyocytes, compounded by the minimal regenerative capacity of the adult heart. To date, replacement of irreversibly damaged heart muscle can only be achieved by complete heart transplantation. In the past 20 years, cell therapy has emerged and evolved as a promising avenue for cardiac repair and regeneration. During this time, cell therapy for HF has encountered substantial barriers in both preclinical studies and clinical trials but the field continues to progress and evolve from lessons learned from such research. In this Review, we provide an overview of ongoing trials of cell-based and cell product-based therapies for the treatment of HF. Findings from these trials will facilitate the clinical translation of cardiac regenerative and reparative therapies not only by evaluating the safety and efficacy of specific cell-based therapeutics but also by establishing the feasibility of novel or underexplored treatment protocols such as repeated intravenous dosing, personalized patient selection based on pharmacogenomics, systemic versus intramural cell delivery, and epicardial engraftment of engineered tissue products.",
+    "authors": [
+      "Zhang JJ",
+      "Pogwizd SM",
+      "Fukuda K",
+      "Zimmermann WH",
+      "Fan C",
+      "Hare JM",
+      "Bolli R",
+      "Menasché P"
+    ],
+    "journal": "Nature reviews. Cardiology",
+    "year": 2025,
+    "mesh_terms": [
+      "Animals",
+      "Humans",
+      "Cell- and Tissue-Based Therapy",
+      "Clinical Trials as Topic",
+      "Heart Failure",
+      "Myocytes, Cardiac",
+      "Regeneration",
+      "Stem Cell Transplantation",
+      "Treatment Outcome"
+    ],
+    "doi": "10.1136/bmjopen-2019-034393"
+  },
+  {
+    "pmid": "24621794",
+    "title": "Heart failure.",
+    "abstract": "Despite major improvements in the treatment of virtually all cardiac disorders, heart failure (HF) is an exception, in that its prevalence is rising, and only small prolongations in survival are occurring. An increasing fraction, especially older women with diabetes, obesity, and atrial fibrillation exhibit HF with preserved systolic function. Several pathogenetic mechanisms appear to be operative in HF. These include increased hemodynamic overload, ischemia-related dysfunction, ventricular remodeling, excessive neurohumoral stimulation, abnormal myocyte calcium cycling, excessive or inadequate proliferation of the extracellular matrix, accelerated apoptosis, and genetic mutations. Biomarkers released as a consequence of myocardial stretch, imbalance between formation and breakdown of extracellular matrix, inflammation, and renal failure are useful in the identification of the pathogenetic mechanism and, when used in combination, may become helpful in estimating prognosis and selecting appropriate therapy. Promising new therapies that are now undergoing intensive investigation include an angiotensin receptor neprilysin inhibitor, a naturally-occurring vasodilator peptide, a myofilament sensitizer and several drugs that enhance Ca++ uptake by the sarcoplasmic reticulum. Cell therapy, using autologous bone marrow and cardiac progenitor cells, appears to be promising, as does gene therapy. Chronic left ventricular assistance with continuous flow pumps is being applied more frequently and successfully as destination therapy, as a bridge to transplantation, and even as a bridge to recovery and explantation. While many of these therapies will improve the care of patients with HF, significant reductions in prevalence will require vigorous, multifaceted, preventive approaches.",
+    "authors": [
+      "Braunwald E"
+    ],
+    "journal": "JACC. Heart failure",
+    "year": 2013,
+    "mesh_terms": [
+      "Adult",
+      "Aged",
+      "Aged, 80 and over",
+      "Biomarkers",
+      "Calcium Channels",
+      "Cardiotonic Agents",
+      "Female",
+      "Forecasting",
+      "Genetic Therapy",
+      "Heart Failure",
+      "Heart-Assist Devices",
+      "Hemodynamics",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Models, Biological",
+      "Myocarditis",
+      "Myocytes, Cardiac",
+      "Stem Cell Transplantation",
+      "Ventricular Remodeling",
+      "Young Adult"
+    ],
+    "doi": "10.1016/j.jchf.2012.10.002"
+  },
+  {
+    "pmid": "29564593",
+    "title": "Advances in heart failure therapy in pediatric patients with dilated cardiomyopathy.",
+    "abstract": "While in adults major advances in heart failure therapy in patients with dilated cardiomyopathy were documented in the last two decades, research on the mechanism and therapies of heart failure in children with left ventricular dilated cardiomyopathy has lagged behind. Despite the lack of sufficient randomized prospective studies, ACE inhibitors are first line and ß-receptor antagonists are second-line strategies in children. Following the adult guidelines, without having data concerning the pediatric population, mineral corticoids are also accepted in the treatment of pediatric heart failure, while diuretics should only be used to achieve a euvolemic status. In cases of complete left bundle bunch block or prolonged QRS duration, cardiac resynchronization is an option. If these instruments are exploited, and the child is still listed for heart transplantation as destination, evolving therapies like pulmonary artery banding in cases of preserved right ventricular function and cardiac cell therapy in cases of localized ventricular dysfunction might represent additional treatment options. This review summarizes the actual guidelines and provides an outlook for evolving therapies.",
+    "authors": [
+      "Rupp S",
+      "Jux C"
+    ],
+    "journal": "Heart failure reviews",
+    "year": 2018,
+    "mesh_terms": [
+      "Cardiac Resynchronization Therapy",
+      "Cardiomyopathy, Dilated",
+      "Cell- and Tissue-Based Therapy",
+      "Child",
+      "Heart Failure",
+      "Humans",
+      "Ligation",
+      "Pulmonary Artery",
+      "Stroke Volume",
+      "Ventricular Function, Left"
+    ],
+    "doi": "10.1007/s10741-018-9692-1"
+  },
+  {
+    "pmid": "34655282",
+    "title": "'Time is prognosis' in heart failure: time-to-treatment initiation as a modifiable risk factor.",
+    "abstract": "In heart failure (HF), acute decompensation can occur quickly and unexpectedly because of worsening of chronic HF or to new-onset HF diagnosed for the first time ('de novo'). Patients presenting with acute HF (AHF) have a poor prognosis comparable with those with acute myocardial infarction, and any delay of treatment initiation is associated with worse outcomes. Recent HF guidelines and recommendations have highlighted the importance of a timely diagnosis and immediate treatment for patients presenting with AHF to decrease disease progression and improve prognosis. However, based on the available data, there is still uncertainty regarding the optimal 'time-to-treatment' effect in AHF. Furthermore, the immediate post-worsening HF period plays an important role in clinical outcomes in HF patients after hospitalization and is known as the 'vulnerable phase' characterized by high risk of readmission and early death. Early and intensive treatment for HF patients in the 'vulnerable phase' might be associated with lower rates of early readmission and mortality. Additionally, in the chronic stable HF outpatient, treatments are often delayed or not initiated when symptoms are stable, ignoring the risk for adverse outcomes such as sudden death. Consequently, there is a dire need to better identify HF patients during hospitalization and after discharge and treating them adequately to improve their prognosis. HF is an urgent clinical scenario along all its stages and disease conditions. Therefore, time plays a significant role throughout the entire patient's journey. Therapy should be optimized as soon as possible, because this is beneficial regardless of severity or duration of HF. Time lavished before treatment initiation is recognized as important modifiable risk factor in HF.",
+    "authors": [
+      "Abdin A",
+      "Anker SD",
+      "Butler J",
+      "Coats AJS",
+      "Kindermann I",
+      "Lainscak M",
+      "Lund LH",
+      "Metra M",
+      "Mullens W",
+      "Rosano G",
+      "Slawik J",
+      "Wintrich J",
+      "Böhm M"
+    ],
+    "journal": "ESC heart failure",
+    "year": 2021,
+    "mesh_terms": [
+      "Heart Failure",
+      "Hospitalization",
+      "Humans",
+      "Prognosis",
+      "Risk Factors",
+      "Time-to-Treatment"
+    ],
+    "doi": "10.1002/ehf2.13646"
+  },
+  {
+    "pmid": "26489162",
+    "title": "Heart Failure.",
+    "abstract": "Heart failure is a major public health concern. It is the most common reason for hospitalization. It commonly affects older population and given the increasing life expectancy coupled with improved management of chronic medical conditions, the number of patients with heart failure is expected to increase. Heart failure has been recently categorized into heart failure with reduced and preserved ejection fraction. Despite differences in the two types, mortality remains high and similar in both conditions. Over the past few decades, numerous medical and device based therapies have been developed for the management of heart failure. These therapies have improved outcomes for the patients both in terms of morbidity and mortality. The objective of this review is to provide an overview of management of heart failure, specifically heart failure with reduced ejection fraction. It is of paramount importance for all health care providers to be aware of therapies for management of heart failure. We will also briefly discuss the role of mechanical circulatory support as an emerging new therapy for patients with advanced heart failure.",
+    "authors": [
+      "Gedela M",
+      "Khan M",
+      "Jonsson O"
+    ],
+    "journal": "South Dakota medicine : the journal of the South Dakota State Medical Association",
+    "year": 2015,
+    "mesh_terms": [
+      "Aged",
+      "Heart Failure",
+      "Hospitalization",
+      "Humans",
+      "Public Health",
+      "Risk Factors"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "32295407",
+    "title": "Conceptual Considerations for Device-Based Therapy in Acute Decompensated Heart Failure: DRI2P2S.",
+    "abstract": "Acute decompensated heart failure remains the most common cause of hospitalization in older adults, and studies of pharmacological therapies have yielded limited progress in improving outcomes for these patients. This has prompted the development of novel device-based interventions, classified mechanistically based on the way in which they intend to improve central hemodynamics, increase renal perfusion, remove salt and water from the body, and result in clinically meaningful degrees of decongestion. In this review, we provide an overview of the pathophysiology of acute decompensated heart failure, current management strategies, and failed pharmacological therapies. We provide an in depth description of seven investigational device classes designed to target one or more of the pathophysiologic derangements in acute decompensated heart failure, denoted by the acronym DRI2P2S. Dilators decrease central pressures by increasing venous capacitance through splanchnic nerve modulation. Removers remove excess fluid through peritoneal dialysis, aquaphoresis, or hemodialysis. Inotropes directly modulate the cardiac nerve plexus to enhance ventricular contractility. Interstitial devices enhance volume removal through lymphatic duct decompression. Pushers are novel descending aorta rotary pumps that directly increase renal artery pressure. Pullers reduce central venous pressures or renal venous pressures to increase renal perfusion. Selective intrarenal artery catheters facilitate direct delivery of short acting vasodilator therapy. We also discuss challenges posed in clinical trial design for these novel device-based strategies including optimal patient selection and appropriate end points to establish efficacy.",
+    "authors": [
+      "Rosenblum H",
+      "Kapur NK",
+      "Abraham WT",
+      "Udelson J",
+      "Itkin M",
+      "Uriel N",
+      "Voors AA",
+      "Burkhoff D"
+    ],
+    "journal": "Circulation. Heart failure",
+    "year": 2020,
+    "mesh_terms": [
+      "Animals",
+      "Autonomic Denervation",
+      "Catheterization",
+      "Clinical Decision-Making",
+      "Electric Stimulation Therapy",
+      "Equipment Design",
+      "Heart Failure",
+      "Hemodynamics",
+      "Humans",
+      "Kidney",
+      "Patient Selection",
+      "Recovery of Function",
+      "Renal Dialysis",
+      "Risk Factors",
+      "Treatment Outcome"
+    ],
+    "doi": "10.1161/CIRCHEARTFAILURE.119.006731"
+  },
+  {
+    "pmid": "16428042",
+    "title": "Gene therapy for heart failure.",
+    "abstract": "Congestive heart failure (CHF) remains a leading cause of morbidity and mortality in the United States and in many other countries. Current heart failure therapies, including multidrug treatment regimens, biventricular pacing, and mechanical support such as left ventricular assist devices, are often hindered by limited benefits or significant associated procedural complications or side effects. Therefore, new forms of treatment, which could ideally target the underlying biological processes affecting the ailing cardiomyocyte, would be of significant potential benefit to the population of individuals with CHF. Gene transfer strategies, including modification of cellular contractile signaling and regulatory pathways, represent a promising new form of such biologic therapy for heart disease.",
+    "authors": [
+      "Nayak L",
+      "Rosengart TK"
+    ],
+    "journal": "Seminars in thoracic and cardiovascular surgery",
+    "year": 2005,
+    "mesh_terms": [
+      "Adenylyl Cyclases",
+      "Animals",
+      "Calcium-Binding Proteins",
+      "Calcium-Transporting ATPases",
+      "Genetic Therapy",
+      "Heart Failure",
+      "Humans",
+      "Parvalbumins",
+      "Peptides",
+      "Rats",
+      "Recombinant Proteins",
+      "S100 Proteins",
+      "Sarcoplasmic Reticulum Calcium-Transporting ATPases",
+      "Phospholamban"
+    ],
+    "doi": "10.1053/j.semtcvs.2005.09.002"
+  },
+  {
+    "pmid": "37505309",
+    "title": "Advances in MicroRNA Therapy for Heart Failure: Clinical Trials, Preclinical Studies, and Controversies.",
+    "abstract": "Heart failure (HF) is a rapidly growing public health issue with more than 37.7 million patients worldwide and an annual healthcare cost of $108 billion. However, HF-related drugs have not changed significantly for decades, and it is essential to find biological drugs to provide better treatment for HF patients. MicroRNAs (miRNAs) are non-coding RNAs (ncRNAs) with a length of approximately 21 nucleotides and play an important role in the onset and progression of cardiovascular diseases. Increasing studies have shown that miRNAs are widely involved in the pathophysiology of HF, and the regulation of miRNAs has promising therapeutic effects. Among them, there is great interest in miRNA-132, since the encouraging success of anti-miRNA-132 therapy in a phase 1b clinical trial in 2020. However, it is worth noting that the multi-target effect of miRNA may produce side effects such as thrombocytopenia, revascularization dysfunction, severe immune response, and even death. Advances in drug delivery modalities, delivery vehicles, chemical modifications, and plant-derived miRNAs are expected to address safety concerns and further improve miRNA therapy. Here, we reviewed the preclinical studies and clinical trials of HF-related miRNAs (especially miRNA-132) in the past 5 years and summarized the controversies of miRNA therapy.",
+    "authors": [
+      "Huang S",
+      "Zhou Y",
+      "Zhang Y",
+      "Liu N",
+      "Liu J",
+      "Liu L",
+      "Fan C"
+    ],
+    "journal": "Cardiovascular drugs and therapy",
+    "year": 2025,
+    "mesh_terms": [
+      "Humans",
+      "MicroRNAs",
+      "Heart Failure",
+      "Animals",
+      "Genetic Therapy",
+      "Clinical Trials as Topic",
+      "Treatment Outcome",
+      "Gene Expression Regulation"
+    ],
+    "doi": "10.1016/j.ymthe.2021.05.005"
+  },
+  {
+    "pmid": "21074127",
+    "title": "Gene therapy for heart failure.",
+    "abstract": "Despite the progress achieved in conventional treatment modalities, heart failure remains a major cause of mortality and morbidity. The identification of novel signaling pathways has provided a solid scientific rationale which has stimulated preclinical development of gene-based therapies for heart failure. Advances in somatic gene transfer technologies have been crucial to the advent of the first human clinical trials which are currently in progress. As these and other trials of gene transfer-based therapies are initiated, these approaches have generated excitement and hope for novel treatments for cardiovascular disease. In this review, we present a summary of advancements in construction of different vectors and methods of delivery that have been used for specific myocardial gene delivery. In addition, we will show results from studies focusing on the use of gene therapy to target heart failure mechanisms in animal models of cardiac dysfunction. Finally, we discuss the limited but highly promising results from clinical studies that have served as catalysts to translate preclinical achievements towards new treatment modalities for heart failure.",
+    "authors": [
+      "Njeim MT",
+      "Hajjar RJ"
+    ],
+    "journal": "Archives of cardiovascular diseases",
+    "year": 2010,
+    "mesh_terms": [
+      "Animals",
+      "Apoptosis",
+      "Calcium Signaling",
+      "Genetic Therapy",
+      "Genetic Vectors",
+      "Heart Failure",
+      "Humans",
+      "Injections",
+      "Receptors, Adrenergic, beta",
+      "Treatment Outcome"
+    ],
+    "doi": "10.1016/j.acvd.2010.04.004"
+  },
+  {
+    "pmid": "35981791",
+    "title": "Implantable Cardioverter-Defibrillator Therapy in the Contemporary Era of Heart Failure Therapeutics.",
+    "abstract": "",
+    "authors": [
+      "Chatterjee NA",
+      "Levy WC"
+    ],
+    "journal": "JACC. Clinical electrophysiology",
+    "year": 2022,
+    "mesh_terms": [
+      "Cardiac Resynchronization Therapy",
+      "Defibrillators, Implantable",
+      "Heart Failure",
+      "Humans"
+    ],
+    "doi": "10.1016/j.jacep.2022.06.016"
+  },
+  {
+    "pmid": "37045653",
+    "title": "Barriers in Heart Failure Gene Therapy and Approaches to Overcome Them.",
+    "abstract": "With the growing prevalence and incidence of heart failure worldwide, investigation and development of new therapies to address disease burden are of great urgency. Gene therapy is one promising approach for the management of heart failure, but several barriers currently exclude safe and efficient gene delivery to the human heart. These barriers include the anatomical and biological difficulty of specifically targeting cardiomyocytes, the vascular endothelium, and immunogenicity against administered vectors and the transgene. We review approaches taken to overcome these barriers with a focus on vector modification, evasion of immune responses, and heart-targeted delivery techniques. While various modifications proposed to date show promise in managing some barriers, continued investigation into improvements to existing therapies is required to address transduction efficiency, duration of transgene expression, and immune response.",
+    "authors": [
+      "Ravichandran AJ",
+      "Romeo FJ",
+      "Mazurek R",
+      "Ishikawa K"
+    ],
+    "journal": "Heart, lung & circulation",
+    "year": 2023,
+    "mesh_terms": [
+      "Humans",
+      "Genetic Therapy",
+      "Gene Transfer Techniques",
+      "Heart Failure",
+      "Genetic Vectors",
+      "Transduction, Genetic",
+      "Adenoviridae"
+    ],
+    "doi": "10.1016/j.hlc.2023.02.011"
+  },
+  {
+    "pmid": "34043424",
+    "title": "Immune Cells and Immunotherapy for Cardiac Injury and Repair.",
+    "abstract": "Cardiac injury remains a major cause of morbidity and mortality worldwide. Despite significant advances, a full understanding of why the heart fails to fully recover function after acute injury, and why progressive heart failure frequently ensues, remains elusive. No therapeutics, short of heart transplantation, have emerged to reliably halt or reverse the inexorable progression of heart failure in the majority of patients once it has become clinically evident. To date, most pharmacological interventions have focused on modifying hemodynamics (reducing afterload, controlling blood pressure and blood volume) or on modifying cardiac myocyte function. However, important contributions of the immune system to normal cardiac function and the response to injury have recently emerged as exciting areas of investigation. Therapeutic interventions aimed at harnessing the power of immune cells hold promise for new treatment avenues for cardiac disease. Here, we review the immune response to heart injury, its contribution to cardiac fibrosis, and the potential of immune modifying therapies to affect cardiac repair.",
+    "authors": [
+      "Rurik JG",
+      "Aghajanian H",
+      "Epstein JA"
+    ],
+    "journal": "Circulation research",
+    "year": 2021,
+    "mesh_terms": [
+      "Adaptive Immunity",
+      "B-Lymphocytes",
+      "Bioengineering",
+      "Cytokines",
+      "Disease Progression",
+      "Eosinophils",
+      "Fibroblasts",
+      "Fibrosis",
+      "Heart Failure",
+      "Heart Injuries",
+      "Humans",
+      "Immunotherapy",
+      "Immunotherapy, Adoptive",
+      "Macrophages",
+      "Mast Cells",
+      "Monocytes",
+      "Myocardium",
+      "Myocytes, Cardiac",
+      "Neutrophils",
+      "Receptors, Chimeric Antigen",
+      "T-Lymphocytes"
+    ],
+    "doi": "10.1038/s41587-020-0462-y"
+  },
+  {
+    "pmid": "37871982",
+    "title": "Cardiac reverse remodelling by imaging parameters with recent changes to guideline medical therapy in heart failure.",
+    "abstract": "Recently established heart failure therapies, including sodium glucose co-transporter 2 inhibitors, angiotensin-neprilysin inhibitors, and cardiac resynchronization therapy, have led to both clinical and structural improvements. Reverse remodelling describes the structural and functional responses to therapy and has been shown to correlate with patients' clinical response, acting as a biomarker for treatment success. The introduction of these new therapeutic agents in addition to advances in non-invasive cardiac imaging has led to an expansion in the evaluation and the validation of cardiac reverse remodelling. Methods including volumetric changes as well as strain and myocardial work have all been shown to be non-invasive end-points of reverse remodelling, correlating with clinical outcomes. Our review summarizes the current available evidence on reverse remodelling in heart failure by the non-invasive cardiac imaging techniques, in particular transthoracic echocardiography.",
+    "authors": [
+      "Kodsi M",
+      "Makarious D",
+      "Gan GCH",
+      "Choudhary P",
+      "Thomas L"
+    ],
+    "journal": "ESC heart failure",
+    "year": 2023,
+    "mesh_terms": [
+      "Humans",
+      "Heart",
+      "Heart Failure",
+      "Treatment Outcome",
+      "Echocardiography",
+      "Cardiac Resynchronization Therapy"
+    ],
+    "doi": "10.1016/j.jacc.2012.06.062"
+  },
+  {
+    "pmid": "26716391",
+    "title": "The mechanisms of breathlessness in heart failure as the basis of therapy.",
+    "abstract": "PURPOSE OF REVIEW: The review provides an overview of recent understanding in relation to the mechanisms relating to skeletal muscle and the sympathetic nervous system, and therapies for breathlessness which target these mechanisms. These are set in the context of established knowledge in this field. RECENT FINDINGS: Despite strong evidence to support exercise training programmes, and recommendations in international guidelines, programmes are implemented poorly. Electrical stimulation appears to be a way of exercising people too frail to undertake a full exercise programme. There is evidence to support the use of opioids for breathlessness in other conditions, but as yet the evidence in chronic heart failure is mixed. SUMMARY: Previous work in relation to the role of skeletal muscle and sympathetic nervous system has set the scene for targeted therapies for the relief of breathlessness in people with heart failure.",
+    "authors": [
+      "Johnson MJ",
+      "Clark AL"
+    ],
+    "journal": "Current opinion in supportive and palliative care",
+    "year": 2016,
+    "mesh_terms": [
+      "Analgesics, Opioid",
+      "Dyspnea",
+      "Exercise Therapy",
+      "Heart Failure",
+      "Humans",
+      "Muscle, Skeletal",
+      "Sympathetic Nervous System"
+    ],
+    "doi": "10.1097/SPC.0000000000000181"
+  },
+  {
+    "pmid": "11852890",
+    "title": "Outcome studies with device therapy in patients with heart failure.",
+    "abstract": "Heart failure is a common debilitating condition for which pharmacologic therapy thus far has provided only partial relief. Despite, and sometimes because of, medical therapy, the overall prognosis remains poor, with high rates of sudden death and death from progressive heart failure. Device-based therapies offer considerable promise for relief of symptoms and for improving prognosis. It is clear that implantable defibrillators should be considered for patients with heart failure who have been resuscitated from ventricular fibrillation or sustained ventricular tachycardia. Several large studies currently are investigating the effects of implantable defibrillators on total mortality in patients with major left ventricular systolic dysfunction but without other risk factors for sudden death. Cardiac resynchronization is a promising new therapy that may relieve the symptoms of heart failure in appropriately selected patients resistant to optimal pharmacologic therapy. Two large trials (CARE-HF and COMPANION) currently are investigating the effects of cardiac resynchronization therapy (CRT) on morbidity and mortality. It is important that those involved in these trials enroll patients quickly and minimize device implantation into patients who have not been assigned this therapy (cross-overs). Overenthusiasm for the benefits that doctors believe devices might bring could destroy the future basis for our clinical practice, denying future generations of patients and the doctors themselves access to what they believe to be effective treatments.",
+    "authors": [
+      "Cleland JG",
+      "Thackray S",
+      "Goodge L",
+      "Kaye G",
+      "Cooklin M"
+    ],
+    "journal": "Journal of cardiovascular electrophysiology",
+    "year": 2002,
+    "mesh_terms": [
+      "Atrioventricular Node",
+      "Cardiac Pacing, Artificial",
+      "Cardiac Surgical Procedures",
+      "Combined Modality Therapy",
+      "Defibrillators, Implantable",
+      "Heart Failure",
+      "Heart-Assist Devices",
+      "Humans",
+      "Treatment Outcome"
+    ],
+    "doi": "10.1111/j.1540-8167.2002.tb01958.x"
+  },
+  {
+    "pmid": "25432476",
+    "title": "Exercise therapy for heart failure patients in Canada.",
+    "abstract": "Contemporary pharmacologic therapies have greatly improved outcomes in patients with heart failure (HF). Exercise therapy also has become increasingly recognized and utilized over the last decade. Patients with HF undergo significant central and peripheral deconditioning. Aerobic and resistance training in this patient population may improve quality of life, muscular strength, aerobic capacity, and potentially longevity. Those HF patients who are able to remain adherent to exercise training programs may improve their self-monitoring skills with respect to progressive volume overload, as well as their capacity for independent living, thereby reducing the likelihood of rehospitalization.",
+    "authors": [
+      "Stone JA",
+      "Hauer T",
+      "Haykowsky M",
+      "Aggarwal S"
+    ],
+    "journal": "Heart failure clinics",
+    "year": 2015,
+    "mesh_terms": [
+      "Canada",
+      "Exercise Therapy",
+      "Exercise Tolerance",
+      "Heart Failure",
+      "Humans",
+      "Morbidity",
+      "Oxygen Consumption"
+    ],
+    "doi": "10.1016/j.hfc.2014.08.011"
+  },
+  {
+    "pmid": "20670189",
+    "title": "Cell therapy for heart failure: the need for a new therapeutic strategy.",
+    "abstract": "Improvements in the treatment of ischemic heart disease have led to a significant growth in the numbers of patients with systolic heart failure secondary to myocardial injury. Current therapies fail to address the loss of contractile tissue due to myocardial injury. Cell therapy is singular in its promise of primarily treating this underlying issue through salvage of viable myocardium or generation of new contractile tissue. Multiple cell types have been used to target acute myocardial infarction, chronic ischemic heart disease and heart failure due to infarction. Bone marrow mononuclear cells have been used to increase myocardial salvage after acute infarction. Randomized trials of over 800 patients have demonstrated no safety issues, and meta-analyses have suggested an improvement in left ventricular function in treated patients with trends toward improvements in hard cardiac end points. Cell therapy for chronic ischemic heart disease with bone marrow angiogenic progenitors has shown similar safety and trends toward improvement in function. While these therapies have targeted patients with viable myocardium, myoblasts have been used to treat patients with left ventricular dysfunction secondary to transmural infarction. Cell types with cardiomyogenic potential, including induced pluripotent stem cells and cardiac progenitor cells, offer the promise of true myocardial regeneration. Future studies with these cells may open the door for true myocardial regeneration.",
+    "authors": [
+      "Povsic TJ",
+      "O'Connor CM"
+    ],
+    "journal": "Expert review of cardiovascular therapy",
+    "year": 2010,
+    "mesh_terms": [
+      "Animals",
+      "Cell- and Tissue-Based Therapy",
+      "Heart Failure",
+      "Humans",
+      "Myoblasts",
+      "Myocardial Infarction",
+      "Myocardial Ischemia",
+      "Myocardium",
+      "Randomized Controlled Trials as Topic",
+      "Regeneration",
+      "Stem Cell Transplantation"
+    ],
+    "doi": "10.1586/erc.10.99"
+  },
+  {
+    "pmid": "23260502",
+    "title": "Frontiers of therapy for patients with heart failure.",
+    "abstract": "This review broadly covers advances in heart failure, which is responsible for significant morbidity, mortality, and cost in the United States. It is a heterogeneous condition, and accurate classification helps ensure appropriate application of evidence-based therapies. Hemodynamics are important in acute heart failure syndromes and may help tailor therapy. Neurohormonal modulation forms the cornerstone of chronic systolic heart failure treatment but does not affect outcomes in diastolic heart failure where management goals emphasize optimization of central volume, blood pressure, and atrial rhythm, as well as the treatment of comorbidities. Frontiers of heart failure therapy range from advances in pharmacology (novel inotropic agents and neurohormonal modulators), to cell biology (nucleic acid-based drugs and cell therapy) to biomedical engineering (devices such as ultrafiltration, biventricular pacemakers, implantable cardiac defibrillators, remote monitoring systems, and left ventricular assist devices), and to health systems (risk stratification and integrated care of comorbidities). The ultimate frontier will be to integrate these data effectively to ensure that patients with heart failure consistently receive the best evidenced-based care possible.",
+    "authors": [
+      "Liu SS",
+      "Monti J",
+      "Kargbo HM",
+      "Athar MW",
+      "Parakh K"
+    ],
+    "journal": "The American journal of medicine",
+    "year": 2013,
+    "mesh_terms": [
+      "Cardiac Pacing, Artificial",
+      "Cardiovascular Agents",
+      "Defibrillators, Implantable",
+      "Heart Failure",
+      "Heart-Assist Devices",
+      "Humans"
+    ],
+    "doi": "10.1016/j.amjmed.2012.04.033"
+  },
+  {
+    "pmid": "17386183",
+    "title": "Nonpharmacologic therapy in heart failure: an overview.",
+    "abstract": "Heart failure therapy has seen significant changes over the past few decades. Therapies aimed at various pathophysiologic states have been and are currently used in the treatment of heart failure. Despite this, incidence and mortality continue to rise. Nonpharmacologic therapy plays a significant and life-saving role in certain subsets of patients. This review will discuss the current evidence and future direction of nonpharmacologic therapy as it pertains to surgical options, devices, and exercise.",
+    "authors": [
+      "Arumugham PS",
+      "O'Connor CM"
+    ],
+    "journal": "Current heart failure reports",
+    "year": 2007,
+    "mesh_terms": [
+      "Cardiac Pacing, Artificial",
+      "Cardiac Surgical Procedures",
+      "Clinical Trials as Topic",
+      "Exercise Therapy",
+      "Heart Failure",
+      "Heart-Assist Devices",
+      "Humans"
+    ],
+    "doi": "10.1007/s11897-007-0023-4"
+  },
+  {
+    "pmid": "21619379",
+    "title": "Chronic heart failure: current evidence, challenges to therapy, and future directions.",
+    "abstract": "Heart failure (HF) is a complex syndrome characterized by the inability of the heart to maintain a normal cardiac output without elevated intracardiac filling pressures, resulting in signs of pulmonary and peripheral edema and symptoms of dyspnea and fatigue. Central to the management of HF is a multifaceted pharmacological intervention to abate the harmful counter-regulatory effects of neurohormonal activation and avid salt and water retention. Whereas up to 40 years ago HF was managed with diuretics and leaf of digitalis, the cornerstones of therapy for HF patients with systolic dysfunction now include ACE inhibitors or angiotensin II type 1 receptor antagonists (angiotensin receptor blockers), β-adrenoceptor antagonists (β-blockers), and aldosterone antagonists, which have significantly improved survival. However, with the increasing number of beneficial therapies, there are challenges to implementing all of them. Specific cardiomyopathies also merit specific considerations with respect to treatment, and - unfortunately - there is no therapy for HF with preserved left ventricular ejection fraction that has been shown to improve survival. Although mortality has improved in HF, the biggest challenge to treatment lies in addressing the morbidity of this disease, which is now the most common reason for hospital admission in our aged population. As such, there are many therapies that may serve to improve the quality of life of HF patients. Future HF treatment regimens may include direct cellular therapy via hormone and cytokine signaling or cardiac regeneration through growth factors or cell therapy.",
+    "authors": [
+      "Morrissey RP",
+      "Czer L",
+      "Shah PK"
+    ],
+    "journal": "American journal of cardiovascular drugs : drugs, devices, and other interventions",
+    "year": 2011,
+    "mesh_terms": [
+      "Animals",
+      "Cardiovascular Agents",
+      "Chronic Disease",
+      "Heart Failure, Diastolic",
+      "Heart Failure, Systolic",
+      "Hospitalization",
+      "Humans"
+    ],
+    "doi": "10.2165/11592090-000000000-00000"
+  },
+  {
+    "pmid": "17392618",
+    "title": "Heat therapy in the management of heart failure.",
+    "abstract": "Heart failure remains a health care epidemic, and additional complementary therapies beyond pharmaceuticals and devices are needed. Using heat therapy or topical thermal therapy is an ancient therapeutic approach for the treatment of heart failure. Currently, there are several studies reporting salutary effects of heat therapy in patients with heart failure using either dry heat or water immersion therapies. The authors describe an additional theoretic construct using topically applied heat pads that might be a simple and economic approach to affect heat therapy as an adjunct for many patients. Hopefully future studies will continue to explore heat therapy as adjunctive care for heart failure patients.",
+    "authors": [
+      "Weber AA",
+      "Silver MA"
+    ],
+    "journal": "Congestive heart failure (Greenwich, Conn.)",
+    "year": 2007,
+    "mesh_terms": [
+      "Heart Failure",
+      "Humans",
+      "Hyperthermia, Induced"
+    ],
+    "doi": "10.1111/j.1527-5299.2007.06348.x"
+  },
+  {
+    "pmid": "21856485",
+    "title": "Medical therapy for chronic heart failure.",
+    "abstract": "Understanding of contemporary pharmacological therapy for chronic heart failure continues to evolve. In this Review, we discuss how findings from clinical trials have caused the roles of old therapies to be expanded and past treatment algorithms to be challenged. Several trials investigating preserved ejection fraction as a measure of heart failure had disappointing results, although important studies are in progress. Many novel therapeutic approaches for heart failure have emerged and are discussed in this review. The pharmacological treatments for heart failure continue to change, with many exciting possibilities for the future.",
+    "authors": [
+      "Krum H",
+      "Teerlink JR"
+    ],
+    "journal": "Lancet (London, England)",
+    "year": 2011,
+    "mesh_terms": [
+      "Administration, Oral",
+      "Cardiotonic Agents",
+      "Chronic Disease",
+      "Heart Failure",
+      "Heart Failure, Systolic",
+      "Heart Rate",
+      "Humans",
+      "Stroke Volume",
+      "Vasodilator Agents"
+    ],
+    "doi": "10.1016/S0140-6736(11)61038-6"
+  },
+  {
+    "pmid": "22330611",
+    "title": "Sex-related differences in patients' responses to heart failure therapy.",
+    "abstract": "Men and women with heart failure display important differences in clinical characteristics that might affect their responses to pharmacological and nonpharmacological therapies. In women, heart failure is associated with a higher frequency of hypertension, nonischemic cardiomyopathy and left bundle branch block than in men. Subgroup analyses of data from randomized clinical trials suggest that these differences result in a differential response to heart failure therapies, including a somewhat better response to β-blockers, a worse prognosis with digoxin therapy, and a lower survival benefit with implantable cardioverter-defibrillators in women. Importantly, female patients with heart failure also derive significantly greater improvements in cardiac volumes from cardiac resynchronization therapy than do male patients, and this treatment is associated with reduced risks of all-cause mortality and heart failure events among women with mild symptoms. These data suggest that sex-related differences might exist in response to both medical and device therapies for patients with heart failure.",
+    "authors": [
+      "Barsheshet A",
+      "Brenyo A",
+      "Goldenberg I",
+      "Moss AJ"
+    ],
+    "journal": "Nature reviews. Cardiology",
+    "year": 2012,
+    "mesh_terms": [
+      "Cardiac Resynchronization Therapy",
+      "Cardiovascular Agents",
+      "Defibrillators, Implantable",
+      "Electric Countershock",
+      "Evidence-Based Medicine",
+      "Female",
+      "Health Status Disparities",
+      "Heart Failure",
+      "Humans",
+      "Male",
+      "Risk Assessment",
+      "Risk Factors",
+      "Sex Factors",
+      "Treatment Outcome"
+    ],
+    "doi": "10.1038/nrcardio.2012.10"
+  },
+  {
+    "pmid": "24930087",
+    "title": "[Organ-protection therapy. A new therapeutic approach for acute heart failure?].",
+    "abstract": "Unlike the prolonged benefit produced by the treatment of chronic heart failure, newer drugs tested for the treatment of acute heart failure in the last decade have failed to provide evidence of clinical benefit beyond some improvement in symptom relief. In particular, no drug has shown the ability to reduce the higher medium- and long-term risk of morbidity and mortality in these patients after an episode of decompensation. Current understanding of the pathophysiology of acute heart failure and its consequences has led to the hypothesis that, beyond symptom control, effective therapies for this syndrome should target not only the hemodynamic changes of the initial phase of the syndrome but should also \"protect\" the organism from the activation of neurohumoral and inflammatory pathways triggered by the decompensation episode, which persist in time and confer a risk of deleterious effects in several organs and tissues. Serelaxin, a new drug related to the peptidic endogenous hormones of the relaxin family, has recently been shown to provide multiple beneficial effects in terms of \"organ protection\" - not only in the cardiovascular and renal systems - from these acute heart failure-related deleterious changes. This drug has already been tested in acute heart failure patients with encouraging results in terms of medium-term clinical benefit, rendering serelaxin as a serious candidate for first-line, prognosis-modifying therapy in this syndrome.",
+    "authors": [
+      "Chivite D",
+      "Formiga F",
+      "Corbella X"
+    ],
+    "journal": "Medicina clinica",
+    "year": 2014,
+    "mesh_terms": [
+      "Acute Disease",
+      "Amides",
+      "Benzazepines",
+      "Cardio-Renal Syndrome",
+      "Dobutamine",
+      "Fumarates",
+      "Heart Failure",
+      "Humans",
+      "Hydrazones",
+      "Inflammation",
+      "Kaplan-Meier Estimate",
+      "Multicenter Studies as Topic",
+      "Natriuretic Peptide, Brain",
+      "Prognosis",
+      "Pyridazines",
+      "Randomized Controlled Trials as Topic",
+      "Recombinant Proteins",
+      "Relaxin",
+      "Simendan",
+      "Therapies, Investigational",
+      "Tolvaptan"
+    ],
+    "doi": "10.1016/S0025-7753(14)70086-7"
+  },
+  {
+    "pmid": "26106934",
+    "title": "Combination decongestion therapy in hospitalized heart failure: loop diuretics, mineralocorticoid receptor antagonists and vasopressin antagonists.",
+    "abstract": "Congestion is the most common reason for admissions and readmissions for heart failure (HF). The vast majority of hospitalized HF patients appear to respond readily to loop diuretics, but available data suggest that a significant proportion are being discharged with persistent evidence of congestion. Although novel therapies targeting congestion should continue to be developed, currently available agents may be utilized more optimally to facilitate complete decongestion. The combination of loop diuretics, natriuretic doses of mineralocorticoid receptor antagonists and vasopressin antagonists represents a regimen of currently available therapies that affects early and persistent decongestion, while limiting the associated risks of electrolyte disturbances, hemodynamic fluctuations, renal dysfunction and mortality.",
+    "authors": [
+      "Vaduganathan M",
+      "Mentz RJ",
+      "Greene SJ",
+      "Senni M",
+      "Sato N",
+      "Nodari S",
+      "Butler J",
+      "Gheorghiade M"
+    ],
+    "journal": "Expert review of cardiovascular therapy",
+    "year": 2015,
+    "mesh_terms": [
+      "Antidiuretic Hormone Receptor Antagonists",
+      "Diuretics",
+      "Drug Therapy, Combination",
+      "Heart Failure",
+      "Hospitalization",
+      "Humans",
+      "Mineralocorticoid Receptor Antagonists"
+    ],
+    "doi": "10.1586/14779072.2015.1053872"
+  },
+  {
+    "pmid": "26235192",
+    "title": "In-hospital worsening heart failure.",
+    "abstract": "Acute worsening heart failure (WHF) is seen in a sizable portion of patients hospitalized for heart failure, and is increasingly being recognized as an entity that is associated with an adverse in-hospital course. WHF is generally defined as worsening heart failure symptoms and signs requiring an intensification of therapy, and is reported to be seen in anywhere from 5% to 42% of heart failure admissions. It is difficult to ascertain the exact epidemiology of WHF due to varying definitions used in the literature. Studies indicate that WHF cannot be precisely predicted on the basis of baseline variables assessed at the time of admission. Recent data suggest that some experimental therapies may reduce the risk of development of WHF among hospitalized heart failure patients, and this is associated with a reduction in risk of subsequent post-discharge cardiovascular mortality. In this respect, WHF holds promise as a endpoint for acute heart failure clinical trials to better elucidate the benefit of targeted novel therapies. Better understanding of the pathophysiology and a consensus on the definition of WHF will further improve our epidemiological and clinical understanding of this entity.",
+    "authors": [
+      "Butler J",
+      "Gheorghiade M",
+      "Kelkar A",
+      "Fonarow GC",
+      "Anker S",
+      "Greene SJ",
+      "Papadimitriou L",
+      "Collins S",
+      "Ruschitzka F",
+      "Yancy CW",
+      "Teerlink JR",
+      "Adams K",
+      "Cotter G",
+      "Ponikowski P",
+      "Felker GM",
+      "Metra M",
+      "Filippatos G"
+    ],
+    "journal": "European journal of heart failure",
+    "year": 2015,
+    "mesh_terms": [
+      "Disease Progression",
+      "Heart Failure",
+      "Hospitalization",
+      "Humans",
+      "Prognosis",
+      "Secondary Prevention",
+      "Symptom Flare Up",
+      "Therapies, Investigational"
+    ],
+    "doi": "10.1002/ejhf.333"
+  },
+  {
+    "pmid": "37611987",
+    "title": "Device Interventions for Heart Failure.",
+    "abstract": "Despite remarkable advances in drug therapy for heart failure (HF), the residual HF-related morbidity, mortality, and hospitalizations remain substantial across all HF phenotypes, and significant proportions of patients with HF remain symptomatic despite optimal drug therapy. Driven by these unmet clinical needs, the exponential growth of transcatheter interventions, and a recent shift in the regulatory landscape of device-based therapies, novel device-based interventions have emerged as a potential therapy for various phenotypes of HF. Device-based interventions can overcome some of the limitations of drug therapy (eg, intolerance, nonadherence, inconsistent delivery, and recurrent and long-term cost) and can target some HF-related pathophysiologic pathways more effectively than drug therapy. This paper reviews the current evolving landscape of device-based interventions in HF and highlights critical points related to implementation of these therapies in the current workflow of HF management.",
+    "authors": [
+      "Salah HM",
+      "Fudim M",
+      "Burkhoff D"
+    ],
+    "journal": "JACC. Heart failure",
+    "year": 2023,
+    "mesh_terms": [
+      "Humans",
+      "Heart Failure",
+      "Hospitalization",
+      "Phenotype"
+    ],
+    "doi": "10.1016/j.jchf.2023.07.002"
+  },
+  {
+    "pmid": "31120816",
+    "title": "The Medical and Device-Related Treatment of Heart Failure.",
+    "abstract": "",
+    "authors": [
+      "Willerson JT"
+    ],
+    "journal": "Circulation research",
+    "year": 2019,
+    "mesh_terms": [
+      "Animals",
+      "Cardiovascular Agents",
+      "Gene Editing",
+      "Genetic Predisposition to Disease",
+      "Genetic Therapy",
+      "Heart Failure",
+      "Heart Transplantation",
+      "Heart-Assist Devices",
+      "Humans",
+      "Molecular Targeted Therapy",
+      "Phenotype",
+      "Prosthesis Design",
+      "Recovery of Function",
+      "Regeneration",
+      "Stem Cell Transplantation",
+      "Treatment Outcome"
+    ],
+    "doi": "10.1161/CIRCRESAHA.119.315268"
+  },
+  {
+    "pmid": "30145979",
+    "title": "[Acute heart failure].",
+    "abstract": "Acute heart failure Abstract. Acute heart failure (AHF) is a life-threatening condition requiring immediate treatment. The initial therapy should take into account the clinical presentation, the pathophysiology at play, the precipitating factors, and the underlying cardiac pathology. Particular attention should be given to polymorbidity and the avoidance of potential iatrogenic harms. Patient preferences and ethical issues should be integrated into the treatment plan at an early stage. The average survival of AHF patients is two years and the most vulnerable period is the three-month time window directly after discharge. Therefore, reducing both persistent subclinical congestion and underutilization of disease-modifying heart failure therapies as well as ensuring optimal transitions of care after hospital discharge are essentials in improving outcomes of AHF patients. Zusammenfassung. Akute Herzinsuffizienz (AHF) ist eine lebensbedrohliche Erkrankung, die eine sofortige Behandlung erfordert. Die initiale Therapie sollte die klinische Präsentation, die pathophysiologischen Mechanismen, die auslösenden Faktoren und die zugrundeliegende Herzpathologie berücksichtigen. Besondere Aufmerksamkeit sollte der Polymorbidität und der Vermeidung potentieller iatrogener Schäden gewidmet werden. Patientenpräferenzen, Langzeitoptionen und ethische Fragen sollten frühzeitig in den Behandlungsplan integriert werden. Die Prognose von AHF-Patienten ist ernst, und die kritischste Zeitspanne stellen die ersten drei Monate direkt nach der Spitalentlassung dar. Daher ist es für die Verbesserung der Prognose von AHF-Patienten unerlässlich, die persistierende subklinische systemische Stauung zu vermeiden, den Einsatz von krankheitsmodifizierenden Herzinsuffizienz-Therapien zu optimieren und optimale Versorgungsübergänge nach der Spitalentlassung sicherzustellen.",
+    "authors": [
+      "Arrigo M",
+      "Ruschitzka F",
+      "Flammer AJ"
+    ],
+    "journal": "Therapeutische Umschau. Revue therapeutique",
+    "year": 2018,
+    "mesh_terms": [
+      "Acute Disease",
+      "Algorithms",
+      "Diagnosis, Differential",
+      "Follow-Up Studies",
+      "Heart Failure",
+      "Humans",
+      "Patient Admission",
+      "Patient Care Team",
+      "Patient Discharge",
+      "Survival Rate",
+      "Triage"
+    ],
+    "doi": "10.1024/0040-5930/a000980"
+  },
+  {
+    "pmid": "20595625",
+    "title": "The new concept of ''interventional heart failure therapy'': part 2--inotropes, valvular disease, pumps, and transplantation.",
+    "abstract": "Recent advances in heart failure therapy include a variety of mechanical and device-based technologies that target structural aspects of heart failure that cannot be treated with drug therapy alone; these newer therapies can collectively be described as interventional heart failure therapy. This article is the second in a 2-part series reviewing interventional heart failure therapy. Interventions included in this discussion include those indicated for the treatment of end-stage refractory heart failure, including interventional medical therapy, interventional treatment of valvular disease, mechanical assist devices, and heart transplantation. Also included is a review of the currently available catheter-based pumps, which are intended to provide temporary support in patients with acute hemodynamic compromise. The use of cellular or stem cell therapy for the treatment of heart failure is an emerging interventional therapy and data supporting its use for the treatment heart failure will also be presented, as will a discussion of the role of palliative care and self-care in heart failure therapy.",
+    "authors": [
+      "Thompson KA",
+      "Philip KJ",
+      "Simsir S",
+      "Schwarz ER"
+    ],
+    "journal": "Journal of cardiovascular pharmacology and therapeutics",
+    "year": 2010,
+    "mesh_terms": [
+      "Cardiotonic Agents",
+      "Heart Failure",
+      "Heart Transplantation",
+      "Heart Valve Diseases",
+      "Heart-Assist Devices",
+      "Humans",
+      "Palliative Care",
+      "Self Care",
+      "Stem Cell Transplantation"
+    ],
+    "doi": "10.1177/1074248410369111"
+  },
+  {
+    "pmid": "26462092",
+    "title": "Inequalities in the Access to Advanced Therapy in Heart Failure.",
+    "abstract": "At present, heart failure (HF) is a worldwide problem, characterized by a high morbidity and mortality. In industrialized countries or regions, such as the United States, Canada, and western European countries, HF has a prevalence of 1.5% to 2.7%. Chile represents a growing economy in Latin America; however, the relatively high cost of more advanced therapies, in addition to other variables (ie, adequate and timely evaluation by HF specialists), makes access difficult for patients with HF. In this article, the authors review the principal difficulties in accessing advanced HF therapies in Chile, as a model of developing country.",
+    "authors": [
+      "Greig D",
+      "Olivares G"
+    ],
+    "journal": "Heart failure clinics",
+    "year": 2015,
+    "mesh_terms": [
+      "Advanced Cardiac Life Support",
+      "Cardiac Resynchronization Therapy",
+      "Defibrillators, Implantable",
+      "Health Services Accessibility",
+      "Healthcare Disparities",
+      "Heart Failure",
+      "Heart Transplantation",
+      "Humans",
+      "Morbidity",
+      "Tissue Donors"
+    ],
+    "doi": "10.1016/j.hfc.2015.07.014"
+  },
+  {
+    "pmid": "28285069",
+    "title": "Sacubitril/Valsartan: The Newest Addition to the Toolbox for Guideline-Directed Medical Therapy of Heart Failure.",
+    "abstract": "Sacubitril/valsartan combines a neprilysin inhibitor with an angiotensin receptor blocker. As an inhibitor of neprilysin, an enzyme that degrades biologically active natriuretic peptides, this first-in-class therapy increases levels of circulating natriuretic peptides, resulting in natriuretic, diuretic, and vasodilatory effects. In patients with chronic New York Heart Association class II-IV heart failure with reduced ejection fraction, the PARADIGM-HF trial demonstrated that sacubitril/valsartan significantly reduced the primary endpoint of cardiovascular mortality and heart failure hospitalization, compared with enalapril. The rate of all-cause mortality was also significantly reduced. Subsequently, the American College of Cardiology/American Heart Association/Heart Failure Society of America recently updated guideline recommendations for Stage C patients with heart failure with reduced ejection fraction to recommend angiotensin-converting enzyme inhibitors, angiotensin receptor blockers, or sacubitril/valsartan in conjunction with other evidence-based therapies to reduce morbidity and mortality. Several analyses have suggested the cost-effectiveness of this new therapy. To ensure tolerability, initiating the lower dosage form of sacubitril/valsartan is warranted in patients with severe renal impairment, moderate hepatic impairment, and low blood pressure, and close monitoring is warranted in such patients. A 36-hour washout period is recommended when switching patients from an angiotensin-converting enzyme inhibitor to sacubitril/valsartan. Similarly, sacubitril/valsartan is contraindicated in patients receiving concomitant angiotensin-converting enzyme inhibitor or angiotensin receptor blocker and those with a history of angioedema.",
+    "authors": [
+      "Rodgers JE"
+    ],
+    "journal": "The American journal of medicine",
+    "year": 2017,
+    "mesh_terms": [
+      "Aminobutyrates",
+      "Angiotensin Receptor Antagonists",
+      "Biphenyl Compounds",
+      "Drug Combinations",
+      "Drug Costs",
+      "Heart Failure",
+      "Hospitalization",
+      "Humans",
+      "Stroke Volume",
+      "Tetrazoles",
+      "Valsartan"
+    ],
+    "doi": "10.1016/j.amjmed.2017.02.010"
+  },
+  {
+    "pmid": "10980823",
+    "title": "Refractory heart failure.",
+    "abstract": "Managing patients with heart failure is rooted in appropriate recognition of the syndrome and subsequent tailoring of therapies to individual patients based on the stage of the disease. An individual with asymptomatic left ventricular dysfunction (the earliest stage of heart failure) is treated quite differently than a patient with more advanced heart failure manifested by problematic fluid retention, peripheral organ hypoperfusion with dysfunction, and several comorbidities. The latter patient requires aggressive pharmacologic intervention coupled with other creative strategies that are individually tailored to each individual\"s unique clinical circumstance. The therapies available include long-term administration of parenteral inotropic therapy, dialysis, insertion of a ventricular assist device, cardiac transplantation, dynamic skeletal myoplasty, volume reduction surgery, or more standard (but higher risk) operative procedures. New drugs are constantly undergoing evaluation and may lead to additional therapeutic improvements in patients with advanced heart failure. The key is recognizing the appropriate place for more radical therapies.",
+    "authors": [
+      "Young JB"
+    ],
+    "journal": "Current cardiology reports",
+    "year": 1999,
+    "mesh_terms": [
+      "Adrenergic beta-Antagonists",
+      "Anti-Arrhythmia Agents",
+      "Calcium Channel Blockers",
+      "Cardiac Surgical Procedures",
+      "Cardiotonic Agents",
+      "Combined Modality Therapy",
+      "Defibrillators, Implantable",
+      "Heart Failure",
+      "Heart Transplantation",
+      "Heart-Assist Devices",
+      "Humans",
+      "Laser Therapy",
+      "Myocardial Revascularization"
+    ],
+    "doi": "10.1007/s11886-999-0044-6"
+  },
+  {
+    "pmid": "39886783",
+    "title": "Safety and Efficacy of Transendocardial Stem Cells Therapy in Chronic Ischemic Heart Failure: A Systematic Review and Meta-analysis of Randomized Controlled Trials.",
+    "abstract": "INTRODUCTION: Chronic ischemic heart failure is a major global health issue despite advancements in therapy. Stem cell (SC) therapy has emerged as a potential treatment, but its effectiveness remains uncertain. This study aimed to systematically review and meta-analyze the current evidence on SC therapy's efficacy. METHODS: We conducted a comprehensive literature search in PubMed, Embase, and Cochrane databases up to April 2024. We included randomized controlled trials (RCTs) with blinded designs, focusing on patients with heart failure with reduced ejection fraction (HFrEF) treated with mesenchymal stem cells compared to placebo or sham interventions via percutaneous endomyocardial catheter systems. Data extraction, performed independently by two authors, focused on safety and efficacy variables. The meta-analysis used a random-effects model, with sensitivity analyses to address study heterogeneity. RESULTS: Twenty studies were included in the meta-analysis. Significant improvements were observed in the stem cell group for left ventricular end-systolic volume (LVESV) (pooled effect size -7.59, 95% CI [-12.28 to -2.89], P=0.002) and stress SPECT outcomes (pooled effect size - 5.33, 95% CI [-6.73 to -3.93], P<0.00001). Sensitivity analysis reduced heterogeneity in left ventricular end-diastolic function (LVEDF) (P=0.01, I²=54%) and revealed a significant benefit for stem cell therapy (pooled effect size -3.87, 95% CI [-6.77 to -0.97], P=0.009). No significant effects were observed for left ventricular ejection fraction (LVEF) or myocardial oxygen consumption (MVO2). Functional improvements in New York Heart Association (NYHA) classification were noted (OR=4.22, 95% CI (1.14-15.68), P=0.03), though no significant differences were found in safety outcomes, including major cardiovascular events, mortality, or rehospitalization rates. CONCLUSION: Transendocardial SC therapy shows promise in improving certain cardiac parameters, though its impact on LVEF and MVO2 remains inconclusive, indicating the need for further research.",
+    "authors": [
+      "Al-Sawalha I",
+      "Abu-Salih AQ",
+      "Al-Bdour M",
+      "Al Shimi R",
+      "Al-Slehat M",
+      "Almansi A",
+      "Batarseh SF",
+      "Al-Taj M",
+      "Jaloudi N"
+    ],
+    "journal": "Current cardiology reviews",
+    "year": 2025,
+    "mesh_terms": [
+      "Humans",
+      "Heart Failure",
+      "Randomized Controlled Trials as Topic",
+      "Myocardial Ischemia",
+      "Chronic Disease",
+      "Stem Cell Transplantation",
+      "Stroke Volume",
+      "Treatment Outcome",
+      "Ventricular Function, Left",
+      "Mesenchymal Stem Cell Transplantation"
+    ],
+    "doi": "10.1007/s12265-014-9594-0"
+  },
+  {
+    "pmid": "37286460",
+    "title": "Beyond Conventional Cardiac Resynchronisation Therapy: A Review of Electrophysiological Options in the Management of Chronic Heart Failure.",
+    "abstract": "The incidence of heart failure (HF) continues to grow and burden our health care system. Electrophysiological aberrations are common amongst patients with heart failure and can contribute to worsening symptoms and prognosis. Targeting these abnormalities with cardiac and extra-cardiac device therapies and catheter ablation procedures augments cardiac function. Newer technologies aimed to improvement procedural outcomes, address known procedural limitations and target newer anatomical sites have been trialled recently. We review the role and evidence base for conventional cardiac resynchronisation therapy (CRT) and its optimisation, catheter ablation therapies for atrial arrhythmias, cardiac contractility and autonomic modulation therapies.",
+    "authors": [
+      "Malaty MM",
+      "Sivagangabalan G",
+      "Qian PC"
+    ],
+    "journal": "Heart, lung & circulation",
+    "year": 2023,
+    "mesh_terms": [
+      "Humans",
+      "Defibrillators, Implantable",
+      "Cardiac Resynchronization Therapy",
+      "Heart Failure",
+      "Arrhythmias, Cardiac",
+      "Heart",
+      "Treatment Outcome",
+      "Catheter Ablation"
+    ],
+    "doi": "10.1016/j.hlc.2023.05.005"
+  },
+  {
+    "pmid": "16816876",
+    "title": "Stem cell therapy in heart failure: where do we stand and where are we heading?",
+    "abstract": "Heart failure is a multifactorial and complex debilitating disease facing limitations in available pharmacological therapeutics. To cure such a disease, cardiac regeneration has been envisioned using stem cells. A few clinical trials using bone marrow-derived stem cells have been carried out without conclusive results. Stem cells of other origins should therefore be considered for future trials. In this article, the advantages and disadvantages of the most promising stem cells to be used in cell therapy are reviewed. The remaining challenges of cell therapy of heart failure are also presented.",
+    "authors": [
+      "Pucéat M"
+    ],
+    "journal": "Heart failure monitor",
+    "year": 2006,
+    "mesh_terms": [
+      "Animals",
+      "Heart",
+      "Heart Failure",
+      "Humans",
+      "Regeneration",
+      "Stem Cell Transplantation",
+      "Treatment Outcome"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "28181010",
+    "title": "Mitochondrial Therapies in Heart Failure.",
+    "abstract": "The current therapy for patients with stable systolic heart failure is largely limited to treatments that interfere with neurohormonal activation. Critical pathophysiological hallmarks of heart failure are an energetic deficit and oxidative stress, and both may be the result of mitochondrial dysfunction. This dysfunction is not (only) the result of defect within mitochondria per se, but is in particular traced to defects in intermediary metabolism and of the regulatory interplay between excitation-contraction coupling and mitochondrial energetics, where defects of cytosolic calcium and sodium handling in failing hearts may play important roles. In the past years, several therapies targeting mitochondria have emerged with promising results in preclinical models. Here, we discuss the mechanisms and results of these mitochondria-targeted therapies, but also of interventions that were not primarily thought to target mitochondria but may have important impact on mitochondrial biology as well, such as iron and exercise. Future research should be directed at further delineating the details of mitochondrial dysfunction in patients with heart failure to further optimize these treatments.",
+    "authors": [
+      "von Hardenberg A",
+      "Maack C"
+    ],
+    "journal": "Handbook of experimental pharmacology",
+    "year": 2017,
+    "mesh_terms": [
+      "Antioxidants",
+      "Dietary Supplements",
+      "Exercise Therapy",
+      "Heart Failure",
+      "Humans",
+      "Iron",
+      "Mitochondria, Heart",
+      "Oligopeptides",
+      "Organophosphorus Compounds",
+      "Trace Elements",
+      "Ubiquinone",
+      "Vitamins"
+    ],
+    "doi": "10.1007/164_2016_123"
+  },
+  {
+    "pmid": "38780210",
+    "title": "[Acute heart failure (AHF)].",
+    "abstract": "Acute heart failure (AHF) is a frequent cause for emergency consultations, leads to long hospital stays and is characterized by high mortality and rehospitalization rates, with the first months after hospitalization having the highest risk («vulnerable phase»). The clinical presentation is usually characterized by fluid accumulation. Over the last three decades, few advances have been achieved in the treatment of AHF, as most studies with diuretics or vasodilators failed to show positive effects in terms of mortality and rehospitalization rates. In this context, the treatment of AHF must have an integrative approach, consisting of rapid correction of systemic congestion on the one hand, and specific therapies for the precipitating factors, the underlying cardiac pathology, and non-cardiac comorbidities on the other. Recently, it has been shown that a rapid and intensive up-titration of oral heart failure medical therapy during and immediately after hospitalization can improve the prognosis during the vulnerable phase after AHF. In this article, the principles of optimization and personalization of diuretic therapy and oral heart failure medication during hospitalization and the early outpatient phase after AHF are discussed. TITEL: Akute Herzinsuffizienz. EINLEITUNG: Zusammenfassung: Die akute Herzinsuffizienz (AHF) ist ein häufiger Grund für Notfallkonsultationen, führt zu langen Hospitalisationen und ist durch hohe Mortalität und Rehospitalisationsrate charakterisiert, wobei die ersten Monate nach dem Spitalaufenthalt das höchste Risiko aufweisen («vulnerable Phase»). Die klinische Präsentation wird meistens durch eine Flüssigkeitsakkumulation geprägt. Während den letzten drei Dekaden konnten wenige Fortschritte in der Behandlung erreicht werden, da die meisten Studien mit Diuretika oder Vasodilatatoren zwar eine Verbesserung der Symptome und der Hämodynamik zeigen konnten, jedoch keine po­sitive prognostische Wirkung hinsichtlich Mortalität und Rehospitalisationen. In diesem Kontext muss die Behandlung der AHF einen integrativen Ansatz haben, bestehend einerseits aus einer raschen Korrektur der systemischen Stauung, anderseits mit spezifischen Therapien für die Auslösefaktoren, die zugrunde liegende Herzpathologie und die Komorbiditäten. Erst kürzlich konnte gezeigt werden, dass eine rasche und intensive Etablierung der oralen Herzinsuffizienzmedikamente während und unmittelbar nach einem stationären Aufenthalt die Prognose bereits während der vulnerablen Phase verbessern kann. In diesem Artikel werden die Prinzipien der Optimierung und Personalisierung der diuretischen Therapie und der oralen Herzinsuffizienzmedikamente während des Spitalaufenthaltes und der frühen ambulanten Phase diskutiert.",
+    "authors": [
+      "Boll S",
+      "Lupi E",
+      "Wolters T",
+      "Höfflinghaus T",
+      "Arrigo M"
+    ],
+    "journal": "Therapeutische Umschau. Revue therapeutique",
+    "year": 2024,
+    "mesh_terms": [
+      "Heart Failure",
+      "Humans",
+      "Acute Disease",
+      "Diuretics",
+      "Prognosis",
+      "Patient Readmission",
+      "Vasodilator Agents",
+      "Hospitalization"
+    ],
+    "doi": "10.23785/TU.2024.02.004"
+  },
+  {
+    "pmid": "41811538",
+    "title": "Past, Present and Future of Regenerative Gene Therapy for Ischemic Heart Failure.",
+    "abstract": "Despite advances in heart failure management, current therapies largely focus on symptom relief and slowing disease progression, without reversing or preventing the underlying condition. As cardiovascular diseases remain a leading cause of mortality, developing curative treatments is an urgent goal. Advances in understanding the molecular mechanisms of heart failure, alongside insights into pathways that drive cardiac regeneration have opened new avenues for gene therapies aimed at restoring cardiac function. While several gene therapy candidates have advanced to clinical trials, their outcomes have been inconsistent, underscoring the challenge to translating preclinical success into clinical efficacy. In this review, we examine the current landscape of gene therapy strategies for ischemic heart failure, emphasize the importance of robust preclinical models in bridging the gap from bench to bedside, and highlight emerging regenerative approaches that aim to repair damaged myocardium and restore cardiac function.",
+    "authors": [
+      "Florit Gonzalez L",
+      "Bouwman M",
+      "Bakkers J"
+    ],
+    "journal": "Journal of cardiovascular translational research",
+    "year": 2026,
+    "mesh_terms": [
+      "Humans",
+      "Heart Failure",
+      "Genetic Therapy",
+      "Animals",
+      "Regeneration",
+      "Myocardial Ischemia",
+      "Recovery of Function",
+      "Treatment Outcome",
+      "Myocardium",
+      "Regenerative Medicine",
+      "Stem Cell Transplantation",
+      "Disease Models, Animal"
+    ],
+    "doi": "10.1016/j.jcin.2016.08.037"
+  },
+  {
+    "pmid": "12386955",
+    "title": "[Gene therapy for heart failure].",
+    "abstract": "Pharmacological, device, and surgical therapies can be used in the management of heart failure. Because those conventional therapies are not effective in patients with the most severe heart failure, gene therapy is expected to become a viable alternative. The molecular pathways that contribute to the development of heart failure have been clarified in recent years. Specific molecular interventions have been evaluated in heart failure models, and the results indicate the potential for gene transfer strategies that are customized to target the individual molecular defects responsible for heart failure. Gene transfer studies have shown that modulating calcium homeostasis, manipulating beta-adrenergic receptor signaling, and augmenting cardiomyocyte resistance to apoptosis can be expected to be useful therapeutic modalities.",
+    "authors": [
+      "Ohtsuka M",
+      "Komuro I"
+    ],
+    "journal": "Nihon Geka Gakkai zasshi",
+    "year": 2002,
+    "mesh_terms": [
+      "Gene Transfer Techniques",
+      "Genetic Therapy",
+      "Heart Failure",
+      "Humans"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "28661033",
+    "title": "Engineered Heart Repair.",
+    "abstract": "There is a pressing need for the development of advanced heart failure therapeutics. Current state-of-the-art is protection from neurohumoral overstimulation, which fails to address the underlying cause of heart failure, namely loss of cardiomyocytes. Implantation of stem cell-derived cardiomyocytes via tissue-engineered myocardium is being advanced to realize the remuscularization of the failing heart. Here, we discuss pharmacological challenges pertaining to the clinical translation of tissue-engineered heart repair with a focus on engineered heart muscle (EHM).",
+    "authors": [
+      "Fujita B",
+      "Zimmermann WH"
+    ],
+    "journal": "Clinical pharmacology and therapeutics",
+    "year": 2017,
+    "mesh_terms": [
+      "Animals",
+      "Cardiovascular Agents",
+      "Clinical Trials as Topic",
+      "Heart Failure",
+      "Humans",
+      "Myocytes, Cardiac",
+      "Stem Cell Transplantation",
+      "Tissue Engineering"
+    ],
+    "doi": "10.1002/cpt.724"
+  },
+  {
+    "pmid": "20424329",
+    "title": "The future of pharmacological therapy for heart failure.",
+    "abstract": "Current pharmacological therapy for heart failure (HF) is based on improved understanding of the pathophysiological mechanisms of HF progression. In particular, inhibition of key activated neurohormonal systems (eg, the renin-angiotensin-aldosterone system) and the sympathetic nervous system has been the cornerstone of drug therapy for this condition. However, despite these major advances, many HF patients still only marginally respond to these therapies. Novel therapeutic approaches have been tested. Several recent phase III studies have failed, however, despite intriguing pathophysiological concepts and promising pilot data. In other studies, significant benefits have been observed in certain subgroups only, suggesting the need for a more tailored approach to individual risk and comorbidity. This review will focus on recent and potential future pharmacological HF therapies and where drug treatment may be in the next few years. In discussing future pharmacological therapy for HF, 3 key strategies will be considered: (1) optimization of conventional therapies, (2) a focus on new drug development within areas not yet adequately represented by major clinical data and (3) new drugs affecting novel therapeutic targets.",
+    "authors": [
+      "Sata Y",
+      "Krum H"
+    ],
+    "journal": "Circulation journal : official journal of the Japanese Circulation Society",
+    "year": 2010,
+    "mesh_terms": [
+      "Aldosterone",
+      "Angiotensins",
+      "Drug Therapy",
+      "Heart Failure",
+      "Humans",
+      "Renin"
+    ],
+    "doi": "10.1253/circj.cj-10-0272"
+  },
+  {
+    "pmid": "31859832",
+    "title": "[Ethics of stem cell therapy for heart failure].",
+    "abstract": "Heart failure is one of the first diseases in which stem cells were used for regenerative medicine. Since 2001, many publications have shown that stem cell therapy has the potential to mitigate heart diseases, but there is no solid scientific evidence to fully support its clinical application at present. The future of regenerative medicine requires validated clinical trials with standardized platforms and transdisciplinary efforts to enable the development of safe and effective regenerative therapies to protect patients and to promote the ethical application of this new and highly promising therapy. Doctors and scientists have a responsibility to discuss with patients the current reality of regenerative therapies. They also have a responsibility to discourage the indiscriminate and commercial use of these therapies, which are sometimes based on false hopes, since their inappropriate use can harm vulnerable patients as well as research efforts. Although regenerative medicine may be the medicine of the future and might bring the hope of cure for chronic diseases, it is not yet ready for its wide clinical application.",
+    "authors": [
+      "Díaz-Navarro R",
+      "Pérez-Terzic C"
+    ],
+    "journal": "Revista medica de Chile",
+    "year": 2019,
+    "mesh_terms": [
+      "Heart Failure",
+      "Humans",
+      "Regenerative Medicine",
+      "Stem Cell Transplantation"
+    ],
+    "doi": "10.4067/S0034-98872019000600787"
+  },
+  {
+    "pmid": "23289619",
+    "title": "Stem cell therapy for chronic heart failure: an updated appraisal.",
+    "abstract": "INTRODUCTION: Significant advances have been made to understand the mechanisms involved in cardiac cell-based therapies. The early translational application of basic science knowledge has led to several animal and human clinical trials. The initial promising beneficial effect of stem cells on cardiac function restoration has been eclipsed by the inability of animal studies to translate into sustained clinical improvements in human clinical trials. AREAS COVERED: In this review, the authors cover an updated overview of various stem cell populations used in chronic heart failure. A critical review of clinical trials conducted in advanced heart failure patients is proposed, and finally promising avenues for developments in the field of cardiac cell-based therapies are presented. EXPERT OPINION: Several questions remain unanswered, and this limits our ability to understand basic mechanisms involved in stem cell therapeutics. Human studies have revealed critical unresolved issues. Further elucidation of the proper timing, mode delivery and prosurvival factors is imperative, if the field is to advance. The limited benefits seen to date are simply not enough if the potential for substantial recovery of nonfunctioning myocardium is to be realized.",
+    "authors": [
+      "Maltais S",
+      "Joggerst SJ",
+      "Hatzopoulos A",
+      "DiSalvo TG",
+      "Zhao D",
+      "Sung HJ",
+      "Wang X",
+      "Byrne JG",
+      "Naftilan AJ"
+    ],
+    "journal": "Expert opinion on biological therapy",
+    "year": 2013,
+    "mesh_terms": [
+      "Animals",
+      "Bone Marrow Transplantation",
+      "Cell- and Tissue-Based Therapy",
+      "Chronic Disease",
+      "Clinical Trials as Topic",
+      "Heart Failure",
+      "Humans",
+      "Stem Cell Transplantation"
+    ],
+    "doi": "10.1517/14712598.2013.749852"
+  },
+  {
+    "pmid": "34898244",
+    "title": "Nano-miR-133a Replacement Therapy Blunts Pressure Overload-Induced Heart Failure.",
+    "abstract": "",
+    "authors": [
+      "Modica J",
+      "Di Mauro V",
+      "Barandalla-Sobrados M",
+      "Chavez SEP",
+      "Carullo P",
+      "Nemska S",
+      "Anselmo A",
+      "Condorelli G",
+      "Iafisco M",
+      "Miragoli M",
+      "Catalucci D"
+    ],
+    "journal": "Circulation",
+    "year": 2021,
+    "mesh_terms": [
+      "Animals",
+      "Disease Models, Animal",
+      "Genetic Therapy",
+      "Heart Failure",
+      "Male",
+      "Mice",
+      "MicroRNAs",
+      "Myocardium"
+    ],
+    "doi": "10.1161/CIRCULATIONAHA.121.055866"
+  },
+  {
+    "pmid": "19379639",
+    "title": "Therapy for acute heart failure syndromes.",
+    "abstract": "The pharmacologic management of acute heart failure syndromes (AHFS) has changed little over the past 15 years. Traditional therapies, such as nitrates and loop diuretics, remain the mainstay of therapy, with inotropes reserved for patients who present in shock or an advanced low-output state. We review the use of these therapies in AHFS with added insights from recent clinical trials and registry data.",
+    "authors": [
+      "Donlan SM",
+      "Quattromani E",
+      "Pang PS",
+      "Gheorghiade M"
+    ],
+    "journal": "Current cardiology reports",
+    "year": 2009,
+    "mesh_terms": [
+      "Acute Disease",
+      "Aged",
+      "Aged, 80 and over",
+      "Cardiotonic Agents",
+      "Digoxin",
+      "Diuretics",
+      "Dobutamine",
+      "Drug Therapy, Combination",
+      "Female",
+      "Heart Failure",
+      "Humans",
+      "Male",
+      "Milrinone",
+      "Mineralocorticoid Receptor Antagonists",
+      "Morphine",
+      "Nitroprusside",
+      "Practice Guidelines as Topic",
+      "Prognosis",
+      "Randomized Controlled Trials as Topic",
+      "Risk Assessment",
+      "Severity of Illness Index",
+      "Survival Analysis",
+      "Syndrome",
+      "Treatment Outcome"
+    ],
+    "doi": "10.1007/s11886-009-0028-6"
+  },
+  {
+    "pmid": "20435990",
+    "title": "Review article: the new concept of interventional heart failure therapy--part 1: electrical therapy, treatment of CAD, fluid removal, and ventricular support.",
+    "abstract": "Congestive heart failure is a chronic and debilitating disease responsible for high cardiac morbidity and mortality in the world and is associated with more than 290 000 deaths in the United States each year. Recent advances in heart failure therapy target many of the mechanical and structural aspects of heart failure that are not addressed by drug-based therapies; these include abnormalities in electrical conduction, coronary artery or valvular architecture, and in ventricular size and shape. To target these abnormalities, newer therapies have largely been mechanical and device-based in nature and can be collectively described as interventional therapy. Interventional therapy includes the use of interventional medical therapy, electrical-based devices to augment ventricular function, catheterization-based devices for the treatment of underlying coronary artery disease and valvular disease, machines for the removal of excess fluid, mechanical pumps to assist the ventricles, surgical techniques aimed at reshaping the ventricles, the use of tissue therapies such as stem cell transplantation or complete heart transplant, palliative care, and self-care. This article is the first in a 2-part series that will review interventional heart failure therapy and present the most recent data supporting its use.",
+    "authors": [
+      "Thompson KA",
+      "Philip KJ",
+      "Barbagelata A",
+      "Schwarz ER"
+    ],
+    "journal": "Journal of cardiovascular pharmacology and therapeutics",
+    "year": 2010,
+    "mesh_terms": [
+      "Cardiac Catheterization",
+      "Cardiac Surgical Procedures",
+      "Coronary Artery Disease",
+      "Heart Conduction System",
+      "Heart Failure",
+      "Heart Valves",
+      "Heart Ventricles",
+      "Heart-Assist Devices",
+      "Humans",
+      "United States",
+      "Vagus Nerve Stimulation"
+    ],
+    "doi": "10.1177/1074248410366447"
+  },
+  {
+    "pmid": "24048232",
+    "title": "Heart failure: a disease complex with challenging therapeutics.",
+    "abstract": "Heart failure (HF) is the most common cause of cardiovascular hospitalization, especially among the elderly. It has a higher mortality and morbidity than several cancers and consumes a significant portion of the health-care budget. HF with preserved ejection fraction (HFpEF) is commoner among women who may have underlying hypertension. Significant progress has been achieved in the development of lifesaving drugs for HF with reduced ejection fraction (HFrEF). However, treatment of HFpEF still poses significant challenges.",
+    "authors": [
+      "Vincent J"
+    ],
+    "journal": "Clinical pharmacology and therapeutics",
+    "year": 2013,
+    "mesh_terms": [
+      "Biomarkers, Pharmacological",
+      "Heart Failure",
+      "Humans",
+      "Molecular Targeted Therapy",
+      "Stem Cell Transplantation",
+      "Stroke Volume"
+    ],
+    "doi": "10.1038/clpt.2013.151"
+  },
+  {
+    "pmid": "37709934",
+    "title": "Immunomodulation and immunopharmacology in heart failure.",
+    "abstract": "The immune system is intimately involved in the pathophysiology of heart failure. However, it is currently underused as a therapeutic target in the clinical setting. Moreover, the development of novel immunomodulatory therapies and their investigation for the treatment of patients with heart failure are hampered by the fact that currently used, evidence-based treatments for heart failure exert multiple immunomodulatory effects. In this Review, we discuss current knowledge on how evidence-based treatments for heart failure affect the immune system in addition to their primary mechanism of action, both to inform practising physicians about these pleiotropic actions and to create a framework for the development and application of future immunomodulatory therapies. We also delineate which subpopulations of patients with heart failure might benefit from immunomodulatory treatments. Furthermore, we summarize completed and ongoing clinical trials that assess immunomodulatory treatments in heart failure and present several therapeutic targets that could be investigated in the future. Lastly, we provide future directions to leverage the immunomodulatory potential of existing treatments and to foster the investigation of novel immunomodulatory therapeutics.",
+    "authors": [
+      "Markousis-Mavrogenis G",
+      "Baumhove L",
+      "Al-Mubarak AA",
+      "Aboumsallem JP",
+      "Bomer N",
+      "Voors AA",
+      "van der Meer P"
+    ],
+    "journal": "Nature reviews. Cardiology",
+    "year": 2024,
+    "mesh_terms": [
+      "Humans",
+      "Immune System",
+      "Heart Failure",
+      "Immunomodulation"
+    ],
+    "doi": "10.1007/s10741-021-10096-8"
+  },
+  {
+    "pmid": "36740210",
+    "title": "Misconceptions and Facts about Heart Failure with Reduced Ejection Fraction.",
+    "abstract": "Heart failure with reduced ejection fraction is a significant driver of morbidity and mortality. There are common misconceptions regarding the disease processes underlying heart failure and best practices for therapy. The terms heart failure with reduced ejection fraction and left ventricular systolic dysfunction are not interchangeable terms. Key therapies for heart failure with reduced ejection fraction target the underlying disease processes, not the left ventricular ejection fraction alone. The absence of congestion does not rule out heart failure. Patients with cardiac amyloidosis can also present with heart failure with reduced ejection fraction. A rise in serum creatinine in acute heart failure exacerbation is not associated with tubular injury. Guideline directed medical therapy should be continued during acute exacerbations of heart failure with reduced ejection fraction and should be started in the same hospitalization in new diagnoses. Marginal blood pressure is not a relative contraindication to optimal guideline directed medical therapy. Guideline directed medical therapy should be continued even if ejection fraction improves. There are other therapies that provide significant benefit besides the four key medications in guideline directed medical therapy.",
+    "authors": [
+      "Krittanawong C",
+      "Rodriguez M",
+      "Lui M",
+      "Misra A",
+      "Tang WHW",
+      "Bozkurt B",
+      "Yancy CW"
+    ],
+    "journal": "The American journal of medicine",
+    "year": 2023,
+    "mesh_terms": [
+      "Humans",
+      "Stroke Volume",
+      "Ventricular Function, Left",
+      "Ventricular Dysfunction, Left",
+      "Heart Failure",
+      "Hospitalization"
+    ],
+    "doi": "10.1016/j.amjmed.2023.01.024"
+  },
+  {
+    "pmid": "18382215",
+    "title": "Evidence for activation of immune system in heart failure: is there a role for anti-inflammatory therapy?",
+    "abstract": "PURPOSE OF REVIEW: The efficacy of already established heart failure therapeutics limits new developments; however, there are still fertile grounds for growth with a better understanding of often overlooked mechanisms of disease. We will review evidence on inflammation and components of the inflammatory process occurring in patients with chronic heart failure, review different therapeutic techniques such as intravenous immunoglobin, plasmapheresis and immuno-adsorption. RECENT FINDINGS: The use of highly specific anti-inflammatory therapeutic strategies in large randomized trials such as anti-TNF-alpha has failed to show clinical benefits; however, by taking a broad spectrum anti-inflammatory approach, strategies as in the ACCLAIM trial have been effective in improving the outcome in a select group of patients. SUMMARY: There is substantial evidence of immune modulation promoting the downregulation of inflammatory cytokines thus increasing several important and potentially therapeutic anti-inflammatory cytokines. It will be necessary to design large multicenter trials to overcome the expected improvements of current therapies, which may overshadow results, and to finally elucidate the therapeutic contributions of immune modulation in heart failure.",
+    "authors": [
+      "Celis R",
+      "Torre-Martinez G",
+      "Torre-Amione G"
+    ],
+    "journal": "Current opinion in cardiology",
+    "year": 2008,
+    "mesh_terms": [
+      "Anti-Inflammatory Agents",
+      "Heart Failure",
+      "Humans",
+      "Immunoglobulins",
+      "Immunologic Factors",
+      "Inflammation Mediators",
+      "Plasmapheresis"
+    ],
+    "doi": "10.1097/HCO.0b013e3282fbfbc7"
+  },
+  {
+    "pmid": "41166051",
+    "title": "RNA Therapeutics in Heart Failure.",
+    "abstract": "RNA-based therapeutics, such as small interfering RNAs (siRNAs), antisense oligonucleotides (ASOs) and messenger RNAs (mRNAs) are promising therapeutics that offer new avenues for targeting molecular pathways underlying heart failure (HF) pathogenesis. This review provides an overview of RNA therapeutics, detailing their mechanisms and potential applications in the treatment of HF. Key pathological processes in HF, including dysregulated calcium handling, myocardial fibrosis, oxidative stress, inflammation and aberrant signalling, are explored to identify how RNA-based therapeutics can be utilized to address these mechanisms. Preclinical studies demonstrating the potential of RNA therapeutics to modulate these pathways are discussed. In addition, the review identifies novel therapeutic targets of HF that may allow more precise and effective interventions, potentially reversing disease progression in HF. In this way, the potential of RNA therapeutics as a next-generation treatment strategy for HF are highlighted, offering hope for more targeted and personalized approaches for HF.",
+    "authors": [
+      "Deiman FE",
+      "de Graaf MM",
+      "Sillje HHW",
+      "Grote Beverborg N",
+      "Bomer N",
+      "van der Meer P"
+    ],
+    "journal": "Journal of cardiovascular translational research",
+    "year": 2025,
+    "mesh_terms": [
+      "Humans",
+      "Heart Failure",
+      "Animals",
+      "Signal Transduction",
+      "Genetic Therapy",
+      "RNA, Small Interfering",
+      "Treatment Outcome",
+      "Myocardium",
+      "Oxidative Stress",
+      "RNAi Therapeutics",
+      "Fibrosis",
+      "Oligonucleotides, Antisense"
+    ],
+    "doi": "10.1124/jpet.121.001251"
+  },
+  {
+    "pmid": "30447710",
+    "title": "Advanced Heart Failure Management and Transplantation.",
+    "abstract": "Hypertrophic cardiomyopathy is a genetic heart disease with heterogeneous clinical features, including progression to advanced heart failure. The development of these symptoms can be related to outflow obstruction but in some patients reflects an underlying process of fibrosis and progressive ventricular dysfunction. For patients with end-stage disease, traditional heart failure therapies have not proved beneficial. As such, more advanced therapies, such as left ventricular assist device or cardiac transplantation, should be considered for these patients. Although left ventricular assist device support is used infrequently due to the restrictive physiology underlying hypertrophic cardiomyopathy, transplant represents an effective treatment, with encouraging long-term outcome data.",
+    "authors": [
+      "Levine A",
+      "Gupta CA",
+      "Gass A"
+    ],
+    "journal": "Cardiology clinics",
+    "year": 2019,
+    "mesh_terms": [
+      "Atrial Fibrillation",
+      "Cardiac Resynchronization Therapy",
+      "Cardiomyopathy, Hypertrophic",
+      "Cardiotonic Agents",
+      "Heart Failure",
+      "Heart Transplantation",
+      "Heart-Assist Devices",
+      "Humans",
+      "Treatment Outcome",
+      "Ventricular Outflow Obstruction"
+    ],
+    "doi": "10.1016/j.ccl.2018.08.007"
+  },
+  {
+    "pmid": "12502915",
+    "title": "Ventricular resynchronization: a promising therapy for heart failure.",
+    "abstract": "Primarily a disease of the elderly, heart failure continues to be an ever-increasing health care problem given the growth in the number of individuals over age 65. Although there have been many advances in the pharmacologic management of heart failure, there continues to be a significant number of patients with persistent symptoms despite maximal therapy and it is likely that this group of patients will only continue to increase in number. Given this, significant research has gone into exploring new modalities, such as device therapies, to treat heart failure. Of these, ventricular resynchronization has emerged as one of the most promising. This review will examine the most important aspects of ventricular resynchronization therapy including: the significance of ventricular dyssynchrony, the role of traditional pacemakers, the effects on contractile function and reverse remodeling, and the currently accepted indications for resynchronization devices. Additionally, various aspects of completed and ongoing trials will be discussed.",
+    "authors": [
+      "Kumar UN",
+      "Saxon LA"
+    ],
+    "journal": "The American journal of geriatric cardiology",
+    "year": 2003,
+    "mesh_terms": [
+      "Aged",
+      "Arrhythmias, Cardiac",
+      "Cardiac Pacing, Artificial",
+      "Heart Conduction System",
+      "Heart Failure",
+      "Heart Ventricles",
+      "Hemodynamics",
+      "Humans",
+      "Myocardial Contraction",
+      "Pacemaker, Artificial"
+    ],
+    "doi": "10.1111/j.1076-7460.2003.01756.x"
+  },
+  {
+    "pmid": "23470684",
+    "title": "Emerging strategies for chronic heart failure: the role of gene therapy.",
+    "abstract": "Heart failure (HF) is a complex clinical syndrome and a major growing public health problem in Western countries. HF is a leading cause of death and morbidity in modern society, and its incidence continues to increase with the aging population. The complexity of this syndrome and its multifactorial origin constitute problems in the management of patients. Pharmacological treatments aim to interfere with the activation of the neurohormonal and adrenergic systems, which are key pathophysiological mechanisms underlying disease progression. Despite the improvements achieved by current therapies, patients in end stages of the disease still have a poor prognosis. Gene therapy represents a new approach to the treatment of HF, with the ambitious aim of repairing the molecular abnormalities that lead to the disease. Current medical management of clinical HF and novel gene therapies for treatment of HF are presented here.",
+    "authors": [
+      "Milano EG",
+      "Cicoira M"
+    ],
+    "journal": "Reviews in cardiovascular medicine",
+    "year": 2012,
+    "mesh_terms": [
+      "Cardiac Resynchronization Therapy",
+      "Cardiotonic Agents",
+      "Genetic Therapy",
+      "Genetic Vectors",
+      "Heart Failure",
+      "Humans",
+      "Transduction, Genetic"
+    ],
+    "doi": "10.3909/ricm0609"
+  },
+  {
+    "pmid": "29128254",
+    "title": "Anemia in Heart Failure: Still Relevant?",
+    "abstract": "One-third of all patients with heart failure have anemia, and its presence is associated with more symptoms, increased rates of hospitalization, and increased mortality. The etiology of anemia is multifactorial, complex, and varies between patients. The most important factors leading to anemia in heart failure are inadequate erythropoietin production resulting from renal failure, intrinsic bone marrow defects, medication use, and nutritional deficiencies such as iron deficiency. Erythropoiesis-stimulating agents (ESAs) have been proven to successfully correct hemoglobin levels, albeit without significant improvement in clinical outcome. On the contrary, the use of ESAs has led to increased rates of thromboembolic events and ischemic stroke. This use of ESAs for the treatment of anemia in heart failure, therefore, cannot be recommended. In addition, these results question whether anemia is a therapeutic target or merely a marker of disease severity. Other therapies are being studied and include agents targeting the erythropoietin receptor, hepcidin pathway, or iron availability. This review focuses on the pathophysiology of anemia in heart failure, explains why investigated therapies might not have led to the desired results, and discusses promising future therapies.",
+    "authors": [
+      "Grote Beverborg N",
+      "van Veldhuisen DJ",
+      "van der Meer P"
+    ],
+    "journal": "JACC. Heart failure",
+    "year": 2018,
+    "mesh_terms": [
+      "Anemia",
+      "Biomedical Research",
+      "Blood Transfusion",
+      "Ferritins",
+      "Heart Failure",
+      "Hematinics",
+      "Hepcidins",
+      "Humans",
+      "Infusions, Intravenous",
+      "Iron",
+      "Medical Illustration",
+      "Practice Guidelines as Topic",
+      "Randomized Controlled Trials as Topic"
+    ],
+    "doi": "10.1016/j.jchf.2017.08.023"
+  },
+  {
+    "pmid": "16698332",
+    "title": "Improving outcomes in post-acute myocardial infarction heart failure: incorporation of aldosterone blockade into combination therapy to optimize neurohormonal blockade.",
+    "abstract": "Although angiotensin-converting enzyme (ACE) inhibitors, angiotensin II receptor blockers (ARBs), and beta-blockers have been proved to reduce mortality in patients with heart failure post-acute myocardial infarction (AMI), studies show that these agents are consistently underused in this population. Further, morbidity and mortality remain high even when standard-of-care therapies are applied. Thus, new strategies have been sought to better counteract the maladaptive effects of neurohormonal stimulation in post-AMI heart failure. The Eplerenone Post-Acute Myocardial Infarction Heart Failure Efficacy and Survival Study (EPHESUS) demonstrated that the selective aldosterone blocker eplerenone, when used in addition to standard therapy, results in significant incremental improvements in survival and morbidity and is safe and well tolerated in this setting. Based on this, major therapeutic guidelines in the United States and Europe now strongly recommend that all eligible patients with concomitant heart failure post-AMI be treated with an aldosterone blocker in addition to an ACE inhibitor (or an ARB) and a beta-blocker. To achieve needed improvements in outcomes in this population, early and consistent initiation of these evidence-based, guideline-recommended therapies in all eligible patients is crucial.",
+    "authors": [
+      "Pitt B",
+      "Fonarow GC",
+      "Gheorghiade M",
+      "Deedwania PC",
+      "Duprez DA"
+    ],
+    "journal": "The American journal of cardiology",
+    "year": 2006,
+    "mesh_terms": [
+      "Adrenergic beta-Antagonists",
+      "Angiotensin-Converting Enzyme Inhibitors",
+      "Drug Therapy, Combination",
+      "Heart Failure",
+      "Humans",
+      "Mineralocorticoid Receptor Antagonists",
+      "Myocardial Infarction",
+      "Treatment Outcome"
+    ],
+    "doi": "10.1016/j.amjcard.2006.03.006"
+  },
+  {
+    "pmid": "29110789",
+    "title": "Long-term management of end-stage heart failure.",
+    "abstract": "End-stage heart failure manifests as severe and often relentless symptoms that define the clinical syndrome of heart failure, namely congestion and hypoperfusion. These patients suffer from dyspnea, fatigue, abdominal discomfort, and ultimately cardiac cachexia. Renal and hepatic dysfunction frequently further complicates the process. Recurrent hospitalizations, cardiac arrhythmias, and intolerance to standard heart failure therapies are common as the disease progresses. Management focuses on controlling symptoms, correcting precipitants, avoiding triggers, and maximizing therapies with demonstrable survival benefit. Among appropriate candidates, advanced therapies such as orthotopic heart transplant (OHT) can significantly extend survival and improve the quality of life. Left ventricular assist devices have been used with increasing frequency as a bridge to OHT or as a destination therapy in appropriately selected candidates where they have a demonstrable mortality benefit over medical therapy. Importantly, a multidisciplinary patient-centered approach is crucial when considering these advanced therapies.",
+    "authors": [
+      "Habal MV",
+      "Garan AR"
+    ],
+    "journal": "Best practice & research. Clinical anaesthesiology",
+    "year": 2017,
+    "mesh_terms": [
+      "Angiotensin-Converting Enzyme Inhibitors",
+      "Cardiac Resynchronization Therapy",
+      "Disease Management",
+      "Heart Failure",
+      "Heart Transplantation",
+      "Heart-Assist Devices",
+      "Humans",
+      "Palliative Care",
+      "Time Factors"
+    ],
+    "doi": "10.1016/j.bpa.2017.07.003"
+  },
+  {
+    "pmid": "40295011",
+    "title": "Bilateral Venous Access for Cardiac Resynchronization Therapy in a Hemodialysis Patient With Cabozantinib-associated Heart Failure.",
+    "abstract": "BACKGROUND: Cabozantinib, a multi-targeted tyrosine kinase inhibitor, is widely used for the treatment of renal and hepatic cancers. While cabozantinib-associated cardiotoxicity is rare, it has been documented in several cases. In most instances, cancer therapeutics-related cardiac dysfunction (CTRCD) is managed by discontinuing cabozantinib and initiating cardioprotective agents. In this report, we present the case of a 63-year-old male with cabozantinib-induced heart failure (HF) with reduced ejection fraction (EF) and complete left bundle branch block (CLBBB). CASE REPORT: The patient, undergoing hemodialysis for chronic kidney disease, had limited therapeutic options due to prior treatment failures. Despite six months of standard HF therapy, symptoms persisted, prompting cardiac resynchronization therapy (CRT) implantation without interrupting cabozantinib. Due to the presence of a dialysis shunt in the patient's left arm, the right subclavian vein was selected for venous access to minimize the risk of lead-related complications. Using a tunneling tool, the left ventricular lead was placed via the contralateral vasculature to the ipsilateral generator. Six months post-CRT, echocardiography showed significant reverse remodeling with improved EF and reduced left ventricular end-diastolic diameter, alongside clinical symptom relief. CONCLUSION: This case highlights the utility of bilateral venous access with a tunneling tool in cardiac resynchronization therapy, particularly for patients with hemodialysis shunts.",
+    "authors": [
+      "Otoi A",
+      "Higaki A",
+      "Miura N",
+      "Kurokawa K",
+      "Yoshimoto K",
+      "Nishikawa T",
+      "Horie R",
+      "Abe A",
+      "Nakao Y",
+      "Fujisawa T",
+      "Miyazaki S",
+      "Akazawa Y",
+      "Miyoshi T",
+      "Kawakami H",
+      "Higashi H",
+      "Tamaki S",
+      "Nishimura K",
+      "Inoue K",
+      "Ikeda S",
+      "Yamaguchi O"
+    ],
+    "journal": "In vivo (Athens, Greece)",
+    "year": 2025,
+    "mesh_terms": [
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Heart Failure",
+      "Renal Dialysis",
+      "Cardiac Resynchronization Therapy",
+      "Pyridines",
+      "Anilides",
+      "Treatment Outcome",
+      "Protein Kinase Inhibitors"
+    ],
+    "doi": "10.1016/j.hrthm.2024.08.063"
+  },
+  {
+    "pmid": "19215829",
+    "title": "Acute heart failure syndromes.",
+    "abstract": "Heart failure resulting in hospitalization represents a significant and growing health care burden. Heterogeneity characterizes this group in terms of mode of presentation, pathophysiology, and prognosis. The vast majority of patients symptomatically improve during hospitalization; however, their early post-discharge rehospitalization and mortality rates continue to be high. Worsening signs and symptoms, neurohormonal, and renal abnormalities occurring soon after discharge may contribute to these high post-discharge event rates. Currently available assessment modalities combined with recent advances in cardiovascular therapies provide present-day opportunities to improve post-discharge outcomes. Further investigation into pathophysiologic targets and novel approaches to clinical trial design are needed. Improving post-discharge outcomes is the single most important goal in the management of acute heart failure syndromes.",
+    "authors": [
+      "Gheorghiade M",
+      "Pang PS"
+    ],
+    "journal": "Journal of the American College of Cardiology",
+    "year": 2009,
+    "mesh_terms": [
+      "Acute Disease",
+      "Health Care Costs",
+      "Heart Failure",
+      "Humans",
+      "Patient Readmission",
+      "Treatment Outcome"
+    ],
+    "doi": "10.1016/j.jacc.2008.10.041"
+  },
+  {
+    "pmid": "29355725",
+    "title": "Cellular therapies for chronic ischemic heart failure.",
+    "abstract": "The development of stem cell therapies for chronic ischemic heart failure is highly sought after to attempt to improve morbidity and mortality of this prevalent disease. This article reviews clinical trials that investigate stem cell therapy for chronic ischemic heart failure. To generate this review article, PubMed was searched using keywords \"stem cell therapy heart failure\" with the article type \"Clinical Trial\" selected on 10/04/2016. The raw search yielded 156 articles; 53 articles were selected for inclusion in the review between the original literature search and manual research/cross-referencing. Additional reviews and original articles were also manually researched and cross-referenced. Cellular-based therapies utilizing peripheral blood progenitor cells, bone marrow cells, mesenchymal stem cells, cells of cardiac origin, and embryonic stem cells have yielded mixed results, but some studies have shown modest efficacy. Skeletal myoblasts raised concerns about safety due to arrhythmias. Optimizing cell type and delivery method will be of critical importance in enhancing efficacy of therapy within various subsets of chronic ischemic heart failure patients. Although much more work needs to be done to optimize treatment strategies, developing stem cell therapies for chronic ischemic heart failure could be of critical importance to lessen the impactful health burden that heart failure has on patients and society.",
+    "authors": [
+      "Sterner RM",
+      "Sterner RC",
+      "Brenes-Salazar JA",
+      "Yu Ballard AC"
+    ],
+    "journal": "Hellenic journal of cardiology : HJC = Hellenike kardiologike epitheorese",
+    "year": 2018,
+    "mesh_terms": [
+      "Cell- and Tissue-Based Therapy",
+      "Chronic Disease",
+      "Heart Failure",
+      "Humans",
+      "Myocardial Ischemia"
+    ],
+    "doi": "10.1016/j.hjc.2018.01.010"
+  },
+  {
+    "pmid": "36800678",
+    "title": "The role of discharge checklist in guideline-directed medical therapy for heart failure patients.",
+    "abstract": "BACKGROUND/AIMS: Initiation of guideline-directed medical therapy (GDMT) during hospitalization is recommended for patients with heart failure (HF). However, GDMT is underutilized in real-world practice. This study evaluated the role of a discharge checklist on GDMT. METHODS: This was a single-center, observational study. The study included all patients hospitalized for HF between 2021 and 2022. The clinical data were retrieved from the electronic medical records and discharge checklist published by the Korean Society of Heart Failure. The adequacy of GDMT prescriptions was evaluated in three ways: the total number of GDMT drug classes and two types of adequacy scores. The primary endpoint was the incidence of all-cause mortality or rehospitalization due to HF within 2 months of discharge. RESULTS: Overall, the checklist was completed by 244 patients (checklist group) and was not completed in 171 patients (non-checklist group). The baseline characteristics were comparable between two groups. At discharge, a higher proportion of patients in the checklist group received GDMT than in the non-checklist group (67.6% vs. 50.9%, p = 0.001). The incidence of primary endpoint was lower in the checklist group compared to the non-checklist group (5.3% vs. 11.7%, p = 0.018). The use of the discharge checklist was associated with significantly lower risk of death and rehospitalization in the multivariable analysis (hazard ratio, 0.45; 95% confidence interval, 0.23-0.92; p = 0.028). CONCLUSION: Discharge checklist usage is a simple but effective strategy for GDMT initiation during hospitalization. The discharge checklist was associated with better outcome in patients with HF.",
+    "authors": [
+      "Rismiati H",
+      "Lee KS",
+      "Kang J",
+      "Cho HJ",
+      "Lee HY"
+    ],
+    "journal": "The Korean journal of internal medicine",
+    "year": 2023,
+    "mesh_terms": [
+      "Humans",
+      "Patient Discharge",
+      "Heart Failure",
+      "Hospitalization",
+      "Proportional Hazards Models",
+      "Stroke Volume"
+    ],
+    "doi": "10.3904/kjim.2022.326"
+  },
+  {
+    "pmid": "12830691",
+    "title": "Cardiac resynchronization therapy through biventricular pacing in patients with heart failure and ventricular dyssynchrony.",
+    "abstract": "Cardiac resynchronization therapy provides a new adjunct in the armamentarium of therapies available to patients who remain symptomatic despite optimized standard therapies. It does not cure heart failure; patients must maintain evidence-based therapies promoted by the American Heart Association and American College of Cardiology. Therapy benefits can be influenced by lead placement and device programming, so it is essential that qualified personnel are consulted to initiate and monitor therapy. While we await final analysis of COMPANION and other studies that definitively answer the question of mortality benefits, substantial data support CRT in reversing left ventricular remodeling, providing hemodynamic benefits, and most importantly, imparting clinical benefits related to functional status, symptoms, quality of life, and morbidity. Acute and critical care nurses can take an active role in promoting this intervention for patients with wide QRS and cardiac dyssynchrony who are likely to benefit through improvement in cardiac function and efficiency.",
+    "authors": [
+      "Albert NM"
+    ],
+    "journal": "Critical care nurse",
+    "year": 2003,
+    "mesh_terms": [
+      "Cardiac Pacing, Artificial",
+      "Heart Failure",
+      "Hemodynamics",
+      "Humans",
+      "Pacemaker, Artificial",
+      "Patient Care Team",
+      "Patient Education as Topic",
+      "Treatment Outcome",
+      "Ventricular Dysfunction"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "23597298",
+    "title": "Heart failure epidemiology: European perspective.",
+    "abstract": "Heart failure poses an increasing problem for global healthcare systems. The epidemiological data which has been accrued over the last thirty years has predominantly been accumulated from experience within North America and Europe. Initial large cohort, prospective longitudinal studies produced the first publications; however latterly the focus has shifted onto epidemiological data governing hospitalisation and mortality. The emphasis behind this shift has been the resource implications with regards to repetitive, costly and prolonged hospitalisation. The European experience in heart failure, though similar to North America has recently demonstrated differences in hospitalisation which may underlie the differences between healthcare system configuration. Heart failure however remains an increasing global problem and the endpoint of a variety of cardiovascular diseases. Allied with the fact of increasingly elderly populations and prior data demonstrating a steep rise in prevalent cases within more elderly populations, it is likely that the increasing burden of disease will continue to pose challenges for modern healthcare. Despite the predicted increase in the number of patients affected by heart failure, over the last thirty years, a clear management algorithm has evolved for the use of pharmacotherapies (neuro-hormonal antagonists), device based therapies (Implantable Cardioverting Defibrillator (ICD) and Cardiac Resynchronisation Therapy (CRT)) and mechanical therapies including left ventricular assist devices and cardiac transplantation. Though the management of such patients has been clearly delineated in national and international guidelines, the underuse of all available and appropriate therapies remains a significant problem. When comparing various epidemiological studies from different settings and timepoints, it should be remembered that rates of prevalence and incidence may vary depending upon the definition used, methods of accumulating information (with the possibility of bias) and the chosen cut point of defining left ventricular systolic dysfunction (LVSD).",
+    "authors": [
+      "Guha K",
+      "McDonagh T"
+    ],
+    "journal": "Current cardiology reviews",
+    "year": 2013,
+    "mesh_terms": [
+      "Cardiac Resynchronization Therapy",
+      "Causality",
+      "Comorbidity",
+      "Defibrillators, Implantable",
+      "Echocardiography",
+      "Europe",
+      "Heart Failure",
+      "Heart-Assist Devices",
+      "Hospitalization",
+      "Humans",
+      "Incidence",
+      "Prevalence",
+      "Prognosis",
+      "Prospective Studies",
+      "Ventricular Dysfunction, Left"
+    ],
+    "doi": "10.2174/1573403x11309020005"
+  },
+  {
+    "pmid": "9715824",
+    "title": "Are symptoms the most important target for therapy in chronic heart failure?",
+    "abstract": "Symptoms combined with a loss of quality of life can be considered part of the morbidity of heart failure. Patients with chronic heart failure (CHF) have a poorer quality of life than do those with other chronic conditions including arthritis and lung disease. Although there is no evidence to show a mortality benefit, diuretics are frequently used for symptomatic relief in CHF patients. Angiotensin converting enzyme (ACE) inhibitors have been shown both to improve symptoms and to reduce mortality; however, ACE inhibitors have yet to show any conclusive benefit in improving quality of life. Digoxin is widely used and offers symptomatic relief, but it has been shown to have no overall effect on mortality. More recently, certain beta-blockers have been shown to impact both morbidity and mortality in patients already receiving standard therapy including an ACE inhibitor and diuretics. This article reviews these and additional therapies currently used in the management of CHF in the context of their impact on the joint goals of reducing both morbidity and mortality.",
+    "authors": [
+      "Cleland JG"
+    ],
+    "journal": "Progress in cardiovascular diseases",
+    "year": 1998,
+    "mesh_terms": [
+      "Cardiovascular Agents",
+      "Chronic Disease",
+      "Heart Failure",
+      "Humans",
+      "Palliative Care",
+      "Quality of Life",
+      "Treatment Outcome"
+    ],
+    "doi": "10.1016/s0033-0620(98)80032-7"
+  },
+  {
+    "pmid": "36166184",
+    "title": "'Acute Heart Failure': Should We Abandon the Term Altogether?",
+    "abstract": "PURPOSE OF REVIEW: The distinction between 'acute' and 'chronic' heart failure persists. Our review aims to explore whether reclassifying heart failure decompensation more accurately as an event within the natural history of chronic heart failure has the potential to improve outcomes. RECENT FINDINGS: Although hospitalisation for worsening heart failure confers a poor prognosis, much of this reflects chronic disease severity. Most patients survive hospitalisation with most deaths occurring in the post-discharge 'vulnerable phase'. Current evidence supports four classes of medications proven to reduce cardiovascular mortality for those who have heart failure with a reduced ejection fraction, with recent trials suggesting worsening heart failure events are opportunities to optimise these therapies. Abandoning the term 'acute heart failure' has the potential to give greater priority to initiating proven pharmacological and device therapies during decompensation episodes, in order to improve outcomes for those who are at the greatest risk.",
+    "authors": [
+      "Straw S",
+      "Napp A",
+      "Witte KK"
+    ],
+    "journal": "Current heart failure reports",
+    "year": 2022,
+    "mesh_terms": [
+      "Humans",
+      "Heart Failure",
+      "Aftercare",
+      "Patient Discharge",
+      "Hospitalization",
+      "Chronic Disease",
+      "Stroke Volume"
+    ],
+    "doi": "10.1007/s11897-022-00576-9"
+  },
+  {
+    "pmid": "34509411",
+    "title": "Adherence to Evidence-Based Therapies in Heart Failure: Deepening the Implementation Divide.",
+    "abstract": "",
+    "authors": [
+      "Bhatt AS"
+    ],
+    "journal": "JACC. Heart failure",
+    "year": 2021,
+    "mesh_terms": [
+      "Aftercare",
+      "Aminobutyrates",
+      "Biphenyl Compounds",
+      "Drug Combinations",
+      "Heart Failure",
+      "Humans",
+      "Patient Discharge",
+      "Stroke Volume",
+      "Valsartan"
+    ],
+    "doi": "10.1016/j.jchf.2021.07.007"
+  },
+  {
+    "pmid": "28279418",
+    "title": "Advanced Heart Failure Therapies for Cancer Therapeutics-Related Cardiac Dysfunction.",
+    "abstract": "End-stage heart failure in cancer survivors may result from cardiotoxic chemotherapy and/or chest radiation and require advanced therapies, including left ventricular assist devices (LVADs) and transplantation. Traditionally, such therapies have been underutilized in cancer survivors owing to lack of experience and perceived risk of cancer recurrence. Recent data from large registries, however, have shown excellent outcomes of LVADs and transplantation in cancer survivors, albeit subject to careful selection and special considerations. This article summarizes all aspects of advanced heart failure therapies in patients with cancer therapy-related cardiac dysfunction and underscores the need for careful selection of these candidates.",
+    "authors": [
+      "Bianco CM",
+      "Al-Kindi SG",
+      "Oliveira GH"
+    ],
+    "journal": "Heart failure clinics",
+    "year": 2017,
+    "mesh_terms": [
+      "Cardiac Resynchronization Therapy",
+      "Female",
+      "Heart Failure",
+      "Heart Transplantation",
+      "Heart Ventricles",
+      "Heart-Assist Devices",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Neoplasms",
+      "Patient Selection",
+      "Registries",
+      "Ventricular Function, Left",
+      "Ventricular Function, Right"
+    ],
+    "doi": "10.1016/j.hfc.2016.12.005"
+  },
+  {
+    "pmid": "31601085",
+    "title": "Continuation of Chronic Heart Failure Therapies During Heart Failure Hospitalization - a Review.",
+    "abstract": "Randomized controlled trials have demonstrated the benefits of guideline-directed medical therapy in the outpatient setting for treatment of chronic heart failure. However, the benefits of continuation (or discontinuation) of major chronic heart failure therapies when treating acute heart failure during hospitalization are less clear. Real and anticipated worsening renal function, hyperkalemia and hypotension are the three major reasons for discontinuation of renin-angiotensin-aldosterone system inhibitors during hospitalization, and a failure to resume renin-angiotensin-aldosterone system inhibitors before discharge could worsen cardiovascular outcomes. Available data, mostly observational, shows that continuation or initiation of renin-angiotensin-aldosterone system inhibitors appears efficacious, safe, and well tolerated in majority of acute heart failure patients during hospitalization. Worsening renal function portends poor prognosis only if associated with congestion in acute heart failure, and clinicians should not de-escalate diuretic therapy routinely for worsening renal function.",
+    "authors": [
+      "Singhania G",
+      "Ejaz AA",
+      "McCullough PA",
+      "Kluger AY",
+      "Balamuthusamy S",
+      "Dass B",
+      "Singhania N",
+      "Agarwal A"
+    ],
+    "journal": "Reviews in cardiovascular medicine",
+    "year": 2019,
+    "mesh_terms": [
+      "Angiotensin Receptor Antagonists",
+      "Angiotensin-Converting Enzyme Inhibitors",
+      "Cardio-Renal Syndrome",
+      "Clinical Decision-Making",
+      "Diuretics",
+      "Drug Administration Schedule",
+      "Heart Failure",
+      "Humans",
+      "Patient Admission",
+      "Renin-Angiotensin System",
+      "Risk Factors",
+      "Treatment Outcome"
+    ],
+    "doi": "10.31083/j.rcm.2019.03.562"
+  },
+  {
+    "pmid": "37098373",
+    "title": "ECMO as a bridge to advanced heart failure therapies: Moving beyond 'crash and burn'.",
+    "abstract": "",
+    "authors": [
+      "Khalif A",
+      "Kanwar MK"
+    ],
+    "journal": "The Journal of heart and lung transplantation : the official publication of the International Society for Heart Transplantation",
+    "year": 2023,
+    "mesh_terms": [
+      "Humans",
+      "Extracorporeal Membrane Oxygenation",
+      "Heart Failure",
+      "Treatment Outcome"
+    ],
+    "doi": "10.1016/j.healun.2023.04.003"
+  },
+  {
+    "pmid": "12929296",
+    "title": "Cardiac resynchronization therapy: a new frontier in the management of heart failure.",
+    "abstract": "CRT offers today another option for some patients with heart failure, side by side with more \"traditional\" therapies like drugs, assist devices, and heart transplantation. Clinical studies show that in properly selected patients a significant improvement in hemodynamic parameters and clinical status can be achieved by BV pacing. It is still unknown whether this type of therapy will also result in a survival benefit for patients with severe heart failure. The next few years certainly promise to be as exciting for CRT as were the last few.",
+    "authors": [
+      "Gurevitz O",
+      "Glikson M"
+    ],
+    "journal": "The Israel Medical Association journal : IMAJ",
+    "year": 2003,
+    "mesh_terms": [
+      "Cardiac Pacing, Artificial",
+      "Clinical Trials as Topic",
+      "Heart Failure",
+      "Humans",
+      "Pacemaker, Artificial",
+      "Patient Selection",
+      "Survival Analysis",
+      "Ventricular Dysfunction, Left"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "29111109",
+    "title": "Failing at Heart Failure Therapies: Are Health Behaviours to Blame?",
+    "abstract": "",
+    "authors": [
+      "Stone JA",
+      "Arena R",
+      "Aggarwal S"
+    ],
+    "journal": "The Canadian journal of cardiology",
+    "year": 2017,
+    "mesh_terms": [
+      "Cardiac Rehabilitation",
+      "Cognitive Behavioral Therapy",
+      "Health Behavior",
+      "Heart Failure",
+      "Humans"
+    ],
+    "doi": "10.1016/j.cjca.2017.08.021"
+  },
+  {
+    "pmid": "35612938",
+    "title": "Novel devices for managing heart failure.",
+    "abstract": "PURPOSE OF REVIEW: Despite advances in heart failure (HF) therapies, the associated morbidity, mortality, hospitalization rates, and healthcare expenditures remain high. A significant proportion of patients with HF remain symptomatic despite receiving optimal medical therapy. Consequently, there exists a large unmet clinical need for novel therapies for treating acute and chronic HF. With the exponential growth of transcatheter interventions in structural heart disease, novel applications of minimally invasive, device-based therapies have been sought in an effort to bridge this treatment gap. The rationale, development, and current data underscoring these therapies will be summarized in this review. RECENT FINDINGS: Recent studies have demonstrated the safety and efficacy of devices that alter left ventricular geometry (i.e., ventriculoplasty), create anatomic shunts to decompress the left atrium, and modulate vena caval and renal blood flow. However pivotal large trials evaluating clinical outcomes are ongoing. SUMMARY: Innovative device-based therapies may expand our armamentarium against the growing heterogeneous and morbid HF syndrome.",
+    "authors": [
+      "Howard T",
+      "Spilias N",
+      "Bhattacharya S",
+      "Harb S",
+      "Puri R"
+    ],
+    "journal": "Current opinion in cardiology",
+    "year": 2022,
+    "mesh_terms": [
+      "Heart Atria",
+      "Heart Failure",
+      "Hospitalization",
+      "Humans"
+    ],
+    "doi": "10.1016/j.jtcvs.2021.02.067"
+  },
+  {
+    "pmid": "25184412",
+    "title": "Paradigm shifts in heart-failure therapy--a timeline.",
+    "abstract": "",
+    "authors": [
+      "Sacks CA",
+      "Jarcho JA",
+      "Curfman GD"
+    ],
+    "journal": "The New England journal of medicine",
+    "year": 2014,
+    "mesh_terms": [
+      "Heart Failure",
+      "History, 20th Century",
+      "History, 21st Century",
+      "Humans",
+      "Randomized Controlled Trials as Topic",
+      "Therapeutics"
+    ],
+    "doi": "10.1056/NEJMp1410241"
+  },
+  {
+    "pmid": "26766163",
+    "title": "Heart failure and sleep-disordered breathing.",
+    "abstract": "PURPOSE OF REVIEW: Sleep-disordered breathing, which includes both obstructive and central sleep apnoea (OSA and CSA, respectively), is highly prevalent in patients with heart failure. In this review, we outline our current understanding of the bidirectional relationship between these disorders and heart failure. We also explore the role of recent advances in therapeutics. RECENT FINDINGS: Although early studies suggest promise of adaptive servoventilation in treating sleep-disordered breathing, particularly CSA with associated Cheyne-Stokes respiration, the recent clinical trial in the heart failure patient population has demonstrated worse cardiovascular outcome in symptomatic patients. SUMMARY: Both OSA and CSA are highly prevalent in patients with heart failure. Effective treatment of OSA with continuous positive airway pressure can improve cardiovascular outcome in these patients. However, recent evidence suggests that adaptive servoventilation cannot be safely recommended as a therapy for CSA in the context of heart failure, as a result of increased risk of cardiovascular mortality.",
+    "authors": [
+      "Zhai AB",
+      "Yip A",
+      "Haddad H"
+    ],
+    "journal": "Current opinion in cardiology",
+    "year": 2016,
+    "mesh_terms": [
+      "Continuous Positive Airway Pressure",
+      "Heart Failure",
+      "Humans",
+      "Patient Outcome Assessment",
+      "Sleep Apnea Syndromes"
+    ],
+    "doi": "10.1097/HCO.0000000000000263"
+  },
+  {
+    "pmid": "37953019",
+    "title": "Novel Approaches to Sleep Apnea in Heart Failure.",
+    "abstract": "Sleep apnea is a serious comorbid condition affecting patients with heart failure. Present in 50% to 75% of heart failure patients, it is often underrecognized, underdiagnosed, and undertreated. Patients with sleep apnea and heart failure are at increased risk of adverse cardiovascular events and sudden death. Treatment of sleep apnea has shown mixed results in reduction of adverse outcomes by sleep apnea type and intervention strategy. Evolving home-based technologies and device therapies present an exciting frontier for patients with sleep apnea and heart failure and an opportunity to improve outcomes. This article reviews novel approaches to sleep apnea in heart failure.",
+    "authors": [
+      "Jackson GR",
+      "Singh A"
+    ],
+    "journal": "Heart failure clinics",
+    "year": 2024,
+    "mesh_terms": [
+      "Humans",
+      "Sleep Apnea, Central",
+      "Cheyne-Stokes Respiration",
+      "Sleep Apnea Syndromes",
+      "Heart Failure",
+      "Continuous Positive Airway Pressure"
+    ],
+    "doi": "10.1016/j.hfc.2023.05.007"
+  },
+  {
+    "pmid": "41032214",
+    "title": "Navigating heart failure: a plain-language summary to empower people with heart failure.",
+    "abstract": "Heart failure is a chronic condition that can result from multiple causes and occurs when the heart cannot pump enough blood to meet the body's needs. Heart failure is often classified by ejection fraction (or 'heart squeeze'), into three categories: preserved, mildly reduced, or reduced ejection fraction. Diagnosing heart failure can be challenging. Common symptoms such as fatigue and shortness of breath may overlap with other conditions and can be missed by healthcare professionals. While heart failure can lead to serious health problems, it is a manageable condition through medical interventions that target the underlying causes along with nutrition and lifestyle approaches. Comprehensive care should also include addressing the impact of heart failure on mental health. Effective therapies can help patients with heart failure feel better, function better, stay out of hospital, and live longer. Working towards acceptance of a heart failure diagnosis and embracing self-care are key positive steps for improving quality of life. Effective healthcare professional-patient relationships are critical. Open communication allows healthcare providers, including specialist nurses and clinicians, along with primary healthcare professionals, to fully understand a patient's condition and recommend suitable treatment approaches. It may also motivate patients to adhere to therapies and adopt lifestyle changes. This review aims to empower patients with heart failure by providing clear information on diagnosis and treatment, as well as providing real-life patient perspectives that can support effective communication with healthcare providers.",
+    "authors": [
+      "Code J",
+      "Sauer AJ",
+      "Mentz RJ",
+      "Monroe RE"
+    ],
+    "journal": "Heart failure reviews",
+    "year": 2025,
+    "mesh_terms": [
+      "Humans",
+      "Heart Failure",
+      "Quality of Life",
+      "Self Care",
+      "Stroke Volume"
+    ],
+    "doi": "10.1161/CIRCOUTCOMES.123.010662"
+  },
+  {
+    "pmid": "29368701",
+    "title": "Effect of glucose-lowering therapies on heart failure.",
+    "abstract": "Heart failure is one of the most common comorbidities of diabetes mellitus. Glucose-lowering therapies that can prevent heart failure or improve outcomes in patients with established heart failure are of critical importance among those with type 2 diabetes. Several types of glucose-lowering drugs have been assessed in this setting. Metformin has been shown to modestly improve the outcomes of patients with heart failure, whereas the effect of insulin in those with established heart failure is less clear. The effect of sulfonylureas on improving heart failure is controversial; observational reports have suggested that they are harmful in these patients, but these data have not been confirmed in randomized, controlled trials. Thiazolidinediones are contraindicated in patients with established heart failure and have also been known to cause heart failure. Furthermore, certain dipeptidyl peptidase 4 inhibitors seem to increase heart failure hospitalization. The effects of glucagon-like peptide 1 receptor agonists might differ in patients with or without established heart failure, particularly those with decompensated heart failure with a reduced ejection fraction. However, perhaps the most important finding has been that sodium/glucose cotransporter 2 (SGLT2; also known as SLC5A2) inhibitors reduce heart failure hospitalizations and, in the case of empagliflozin, markedly reduce the rate of cardiovascular death. Given the known neutral (or even harmful) effects of other glucose-lowering drugs on heart failure outcomes, SGLT2 inhibitors might well be considered the drug class of choice in patients with diabetes and heart failure, or in those at high risk of developing heart failure.",
+    "authors": [
+      "Nassif M",
+      "Kosiborod M"
+    ],
+    "journal": "Nature reviews. Cardiology",
+    "year": 2018,
+    "mesh_terms": [
+      "Biomarkers",
+      "Blood Glucose",
+      "Clinical Decision-Making",
+      "Comorbidity",
+      "Contraindications, Drug",
+      "Diabetes Mellitus, Type 2",
+      "Disease Progression",
+      "Heart Failure",
+      "Humans",
+      "Hypoglycemic Agents",
+      "Patient Selection",
+      "Recovery of Function",
+      "Risk Assessment",
+      "Risk Factors",
+      "Treatment Outcome"
+    ],
+    "doi": "10.1038/nrcardio.2017.211"
+  },
+  {
+    "pmid": "37095602",
+    "title": "Targeting G protein-coupled receptors for heart failure treatment.",
+    "abstract": "Heart failure remains a leading cause of morbidity and mortality worldwide. Current treatment for patients with heart failure include drugs targeting G protein-coupled receptors such as β-adrenoceptor antagonists (β-blockers) and angiotensin II type 1 receptor antagonists (or angiotensin II receptor blockers). However, many patients progress to advanced heart failure with persistent symptoms, despite treatment with available therapeutics that have been shown to reduce mortality and mortality. GPCR targets currently being explored for the development of novel heart failure therapeutics include adenosine receptor, formyl peptide receptor, relaxin/insulin-like family peptide receptor, vasopressin receptor, endothelin receptor and the glucagon-like peptide 1 receptor. Many GPCR drug candidates are limited by insufficient efficacy and/or dose-limiting unwanted effects. Understanding the current challenges hindering successful clinical translation and the potential to overcome existing limitations will facilitate the future development of novel heart failure therapeutics. LINKED ARTICLES: This article is part of a themed issue Therapeutic Targeting of G Protein-Coupled Receptors: hot topics from the Australasian Society of Clinical and Experimental Pharmacologists and Toxicologists 2021 Virtual Annual Scientific Meeting. To view the other articles in this section visit http://onlinelibrary.wiley.com/doi/10.1111/bph.v181.14/issuetoc.",
+    "authors": [
+      "Thai BS",
+      "Chia LY",
+      "Nguyen ATN",
+      "Qin C",
+      "Ritchie RH",
+      "Hutchinson DS",
+      "Kompa A",
+      "White PJ",
+      "May LT"
+    ],
+    "journal": "British journal of pharmacology",
+    "year": 2024,
+    "mesh_terms": [
+      "Heart Failure",
+      "Humans",
+      "Receptors, G-Protein-Coupled",
+      "Animals",
+      "Molecular Targeted Therapy"
+    ],
+    "doi": "10.1111/bph.16099"
+  },
+  {
+    "pmid": "36994907",
+    "title": "Implantable defibrillator-detected heart failure status predicts ventricular tachyarrhythmias.",
+    "abstract": "INTRODUCTION: The prediction of ventricular tachyarrhythmias among patients with implantable cardioverter defibrillators is difficult with available clinical tools. We sought to assess whether in patients with heart failure (HF) and reduced ejection fraction with defibrillators, physiological sensor-based HF status, as summarized by the HeartLogic index, could predict appropriate device therapies. METHODS: Five hundred and sixty-eight consecutive HF patients with defibrillators (n = 158, 28%) or cardiac resynchronization therapy-defibrillators (n = 410, 72%) were included in this prospective observational multicenter analysis. The association of both HeartLogic index and its physiological components with defibrillator shocks and overall appropriate therapies was assessed in regression and time-dependent Cox models. RESULTS: Over a follow-up of 25 (15-35) months, 122 (21%) patients received an appropriate device therapy (shock, n = 74, 13%), while the HeartLogic index crossed the threshold value (alert, HeartLogic ≥ 16) 1200 times (0.71 alerts/patient-year) in 370 (65%) subjects. The occurrence of ≥1 HeartLogic alert was significantly associated with both appropriate shocks (Hazard ratios [HR]: 2.44, 95% confidence interval [CI]: 1.49-3.97, p = .003), and any appropriate defibrillator therapies. In multivariable time-dependent Cox models, weekly IN-alert state was the strongest predictor of appropriate defibrillator shocks (HR: 2.94, 95% CI: 1.73-5.01, p < .001) and overall therapies. Compared with stable patients, patients with appropriate shocks had significantly higher values of HeartLogic index, third heart sound amplitude, and resting heart rate 30-60 days before device therapy. CONCLUSION: The HeartLogic index is an independent dynamic predictor of appropriate defibrillator therapies. The combined index and its individual physiological components change before the arrhythmic event occurs.",
+    "authors": [
+      "Compagnucci P",
+      "Casella M",
+      "Bianchi V",
+      "Franculli F",
+      "Vitali F",
+      "Santini L",
+      "Savarese G",
+      "Santobuono VE",
+      "Chianese R",
+      "Lavalle C",
+      "Amellone C",
+      "Pecora D",
+      "Calvanese R",
+      "Stronati G",
+      "Santoro A",
+      "Ziacchi M",
+      "Campari M",
+      "Valsecchi S",
+      "Calò L",
+      "Guerra F",
+      "Dello Russo A"
+    ],
+    "journal": "Journal of cardiovascular electrophysiology",
+    "year": 2023,
+    "mesh_terms": [
+      "Humans",
+      "Defibrillators, Implantable",
+      "Tachycardia, Ventricular",
+      "Heart Failure",
+      "Cardiac Resynchronization Therapy",
+      "Ventricular Dysfunction, Left"
+    ],
+    "doi": "10.1111/jce.15898"
+  },
+  {
+    "pmid": "39915329",
+    "title": "Large-scale multi-omics identifies drug targets for heart failure with reduced and preserved ejection fraction.",
+    "abstract": "Heart failure (HF) has limited therapeutic options. In this study, we differentiated the pathophysiological underpinnings of the HF subtypes-HF with reduced ejection fraction (HFrEF) and HF with preserved ejection fraction (HFpEF)-and uncovered subtype-specific therapeutic strategies. We investigated the causal roles of the human proteome and transcriptome using Mendelian randomization on more than 420,000 participants from the Million Veteran Program (27,799 HFrEF and 27,579 HFpEF cases). We created therapeutic target profiles covering efficacy, safety, novelty, druggability and mechanism of action. We replicated findings on more than 175,000 participants of diverse ancestries. We identified 70 HFrEF and 10 HFpEF targets, of which 58 were not previously reported; notably, the HFrEF and HFpEF targets are non-overlapping, suggesting the need for subtype-specific therapies. We classified 14 previously unclassified HF loci as HFrEF. We substantiated the role of ubiquitin-proteasome system, small ubiquitin-related modifier pathway, inflammation and mitochondrial metabolism in HFrEF. Among druggable genes, IL6R, ADM and EDNRA emerged as potential HFrEF targets, and LPA emerged as a potential target for both subtypes.",
+    "authors": [
+      "Rasooly D",
+      "Giambartolomei C",
+      "Peloso GM",
+      "Dashti H",
+      "Ferolito BR",
+      "Golden D",
+      "Horimoto ARVR",
+      "Pietzner M",
+      "Farber-Eger EH",
+      "Wells QS",
+      "Bini G",
+      "Proietti G",
+      "Tartaglia GG",
+      "Kosik NM",
+      "Wilson PWF",
+      "Phillips LS",
+      "Munroe PB",
+      "Petersen SE",
+      "Cho K",
+      "Gaziano JM",
+      "Leach AR",
+      "Whittaker J",
+      "Langenberg C",
+      "Aung N",
+      "Sun YV",
+      "Pereira AC",
+      "Casas JP",
+      "Joseph J"
+    ],
+    "journal": "Nature cardiovascular research",
+    "year": 2025,
+    "mesh_terms": [
+      "Humans",
+      "Heart Failure",
+      "Stroke Volume",
+      "Ventricular Function, Left",
+      "Transcriptome",
+      "Proteomics",
+      "Cardiovascular Agents",
+      "Mendelian Randomization Analysis",
+      "Male",
+      "Phenotype",
+      "Molecular Targeted Therapy",
+      "Proteome",
+      "Aged",
+      "Female",
+      "Gene Expression Profiling",
+      "Multiomics"
+    ],
+    "doi": "10.1038/s41467-022-32821-z"
+  }
+]

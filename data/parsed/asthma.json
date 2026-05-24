@@ -1,0 +1,2866 @@
+[
+  {
+    "pmid": "28877011",
+    "title": "Tezepelumab in Adults with Uncontrolled Asthma.",
+    "abstract": "BACKGROUND: In some patients with moderate-to-severe asthma, particularly those with noneosinophilic inflammation, the disease remains uncontrolled. This trial evaluated the efficacy and safety of tezepelumab (AMG 157/MEDI9929), a human monoclonal antibody specific for the epithelial-cell-derived cytokine thymic stromal lymphopoietin (TSLP), in patients whose asthma remained uncontrolled despite treatment with long-acting beta-agonists and medium-to-high doses of inhaled glucocorticoids. METHODS: In this phase 2, randomized, double-blind, placebo-controlled trial, we compared subcutaneous tezepelumab at three dose levels with placebo over a 52-week treatment period. The primary end point was the annualized rate of asthma exacerbations (events per patient-year) at week 52. RESULTS: The use of tezepelumab at a dose of 70 mg every 4 weeks (low dose; 145 patients), 210 mg every 4 weeks (medium dose; 145 patients), or 280 mg every 2 weeks (high dose; 146 patients) resulted in annualized asthma exacerbation rates at week 52 of 0.26, 0.19, and 0.22, respectively, as compared with 0.67 in the placebo group (148 patients). Thus, exacerbation rates in the respective tezepelumab groups were lower by 61%, 71%, and 66% than the rate in the placebo group (P<0.001 for all comparisons). Similar results were observed in patients regardless of blood eosinophil counts at enrollment. The prebronchodilator forced expiratory volume in 1 second at week 52 was higher in all tezepelumab groups than in the placebo group (difference, 0.12 liters with the low dose [P=0.01], 0.11 liters with the medium dose [P=0.02], and 0.15 liters with the high dose [P=0.002]). A total of 2 patients in the medium-dose group, 3 in the high-dose group, and 1 in the placebo group discontinued the trial regimen because of adverse events. CONCLUSIONS: Among patients treated with long-acting beta-agonists and medium-to-high doses of inhaled glucocorticoids, those who received tezepelumab had lower rates of clinically significant asthma exacerbations than those who received placebo, independent of baseline blood eosinophil counts. (Funded by MedImmune [a member of the AstraZeneca Group] and Amgen; PATHWAY ClinicalTrials.gov number, NCT02054130 .).",
+    "authors": [
+      "Corren J",
+      "Parnes JR",
+      "Wang L",
+      "Mo M",
+      "Roseti SL",
+      "Griffiths JM",
+      "van der Merwe R"
+    ],
+    "journal": "The New England journal of medicine",
+    "year": 2017,
+    "mesh_terms": [
+      "Administration, Inhalation",
+      "Adrenergic beta-Agonists",
+      "Adult",
+      "Anti-Asthmatic Agents",
+      "Antibodies, Monoclonal",
+      "Antibodies, Monoclonal, Humanized",
+      "Asthma",
+      "Cytokines",
+      "Dose-Response Relationship, Drug",
+      "Double-Blind Method",
+      "Drug Therapy, Combination",
+      "Eosinophils",
+      "Female",
+      "Glucocorticoids",
+      "Humans",
+      "Injections, Subcutaneous",
+      "Intention to Treat Analysis",
+      "Male",
+      "Middle Aged",
+      "Thymic Stromal Lymphopoietin"
+    ],
+    "doi": "10.1056/NEJMoa1704064"
+  },
+  {
+    "pmid": "41461999",
+    "title": "Safety and Tolerability of Twice-Yearly Depemokimab in Patients with Asthma and Chronic Rhinosinusitis with Nasal Polyps: Pooled Results from SWIFT-1/-2 and ANCHOR-1/-2.",
+    "abstract": "INTRODUCTION: Depemokimab, the first ultra-long-acting respiratory biologic, is under investigation for diseases with underlying type 2 (T2) inflammation. Subcutaneous depemokimab 100 mg was efficacious in patients with T2 asthma characterized by blood eosinophil count and in chronic rhinosinusitis with nasal polyps (CRSwNP) when administered twice-yearly in four Phase III randomized, double-blind, placebo-controlled studies (SWIFT-1/-2 and ANCHOR-1/-2, respectively). This pooled analysis examined the safety and tolerability of subcutaneous depemokimab 100 mg versus placebo in patients with T2 asthma and in CRSwNP. METHODS: Adverse event (AE) frequency, severity, time-to-onset, duration, and relative risk (RR) were evaluated for depemokimab 100 mg and placebo administered subcutaneously every 26 weeks for 52 weeks using pooled SWIFT-1/-2 and ANCHOR-1/-2 data. The impact of immunogenicity on safety was also evaluated. RESULTS: Overall, 1290 patients from the four studies were included in the safety analysis population (773 [60%] received depemokimab; 517 [40%] received placebo). On-treatment AEs were reported by 73% and 78% of patients in the depemokimab and placebo groups, respectively; the majority were mild or moderate in intensity and transient, with similar durations between treatment groups. Serious AEs (SAEs; 5% and 10%, with depemokimab and placebo, respectively), and discontinuations due to AEs (< 1% and 1%, respectively) were infrequent. No fatal AEs or treatment-related SAEs (per investigator assessment) were reported. RRs (vs. placebo) were similar for all common on-treatment AEs except asthma and back pain, which occurred less frequently in the depemokimab group compared with the placebo group. Antidrug antibodies and neutralizing antibodies occurred infrequently, and no association between antidrug antibody status and depemokimab efficacy was identified. CONCLUSIONS: In these studies, twice-yearly depemokimab 100 mg was generally well tolerated by patients with T2 asthma or CRSwNP over the 52-week treatment period, supporting the safety of the first ultra-long-acting biologic for these diseases. CLINICAL TRIAL IDENTIFIER(S): NCT04719832/NCT04718103/NCT05274750/NCT05281523. Depemokimab is a treatment in development for asthma and for chronic rhinosinusitis with nasal polyps (CRSwNP). Once injected under the skin, depemokimab works for a 6-month period, so injections are only needed twice a year. It is the first ultra-long-acting biologic for respiratory diseases. Results from previous clinical trials have shown that depemokimab reduces the number of asthma attacks experienced by patients with a certain type of asthma (SWIFT-1 and SWIFT-2 studies), and reduces symptoms and improves quality of life in patients with CRSwNP (ANCHOR-1 and ANCHOR-2 studies). In this article, we describe the side effects that people experienced in these four studies. We found that the number of people who reported side effects was similar in patients who took twice-yearly depemokimab and in those who took a matching twice-yearly dose of placebo (inactive drug). The most common events over the study period, in both the depemokimab and placebo therapy groups, were colds, COVID-19, and upper respiratory tract infections. The majority of side effects were mild or moderate in intensity and were not long-lasting, with similar durations between treatment groups. This provides evidence of the safety of depemokimab for patients with asthma and CRSwNP.",
+    "authors": [
+      "Jackson DJ",
+      "Bourdin A",
+      "Blackorby A",
+      "Leslie A",
+      "Vichiendilokkul A",
+      "Howarth P",
+      "Karkoszka N",
+      "Fujieda S",
+      "Cornet M"
+    ],
+    "journal": "Advances in therapy",
+    "year": 2026,
+    "mesh_terms": [
+      "Humans",
+      "Sinusitis",
+      "Nasal Polyps",
+      "Rhinitis",
+      "Antibodies, Monoclonal, Humanized",
+      "Asthma",
+      "Male",
+      "Female",
+      "Chronic Disease",
+      "Adult",
+      "Middle Aged",
+      "Double-Blind Method",
+      "Treatment Outcome",
+      "Drug Administration Schedule",
+      "Aged",
+      "Injections, Subcutaneous",
+      "Randomized Controlled Trials as Topic",
+      "Rhinosinusitis"
+    ],
+    "doi": "10.1111/cts.12567"
+  },
+  {
+    "pmid": "25664620",
+    "title": "Pragmatic trial of health care technologies to improve adherence to pediatric asthma treatment: a randomized clinical trial.",
+    "abstract": "IMPORTANCE: Most patients with asthma take fewer than half of prescribed doses of controller medication. Interventions to improve adherence have typically been costly, impractical, and at best only minimally successful. OBJECTIVE: To test a speech recognition (SR) intervention to improve adherence to pediatric asthma controller medication. DESIGN, SETTING, AND PARTICIPANTS: The Breathe Well study was a 24-month pragmatic randomized clinical trial. The study was conducted within Kaiser Permanente Colorado, a large, group-model health maintenance organization. A total of 1187 children aged 3 to 12 years with a persistent asthma diagnosis and prescription for an inhaled corticosteroid were randomized to the computerized SR intervention or usual care condition and followed up for 24 months between October 2009 and February 2013. INTERVENTIONS: Speech recognition telephone calls to parents in the intervention condition were triggered when an inhaled corticosteroid refill was due or overdue. Calls were automatically tailored with medical and demographic information from the electronic health record and from parent answers to questions in the call regarding recent refills or a desire to receive help refilling, learn more about asthma control, or speak with an asthma nurse or pharmacy staff member. MAIN OUTCOMES AND MEASURES: Adherence to pediatric asthma controller medication, measured as the medication possession ratio over 24 months. RESULTS: In the intention-to-treat analysis, inhaled corticosteroid adherence was 25.4% higher in the intervention group than in the usual care group (24-month mean [SE] adherence, 44.5% [1.2%] vs 35.5% [1.1%], respectively; P < .001). Asthma-related urgent care events did not differ between the 2 groups. The intervention effect was consistent in subgroups stratified by age, sex, race/ethnicity, body mass index, and disease-related characteristics. CONCLUSIONS AND RELEVANCE: The intervention's significant impact on adherence demonstrates strong potential for low-cost SR adherence programs integrated with an electronic health record. The absence of change in urgent care visits may be attributable to the already low number of asthma urgent care visits within Kaiser Permanente Colorado. Application of electronic health record-leveraged SR interventions may reduce health care utilization when applied in a population with less-controlled asthma. TRIAL REGISTRATION: clinicaltrials.gov Identifier: NCT00958932.",
+    "authors": [
+      "Bender BG",
+      "Cvietusa PJ",
+      "Goodrich GK",
+      "Lowe R",
+      "Nuanes HA",
+      "Rand C",
+      "Shetterly S",
+      "Tacinas C",
+      "Vollmer WM",
+      "Wagner N",
+      "Wamboldt FS",
+      "Xu S",
+      "Magid DJ"
+    ],
+    "journal": "JAMA pediatrics",
+    "year": 2015,
+    "mesh_terms": [
+      "Administration, Inhalation",
+      "Anti-Asthmatic Agents",
+      "Asthma",
+      "Child",
+      "Child, Preschool",
+      "Electronic Health Records",
+      "Female",
+      "Glucocorticoids",
+      "Humans",
+      "Intention to Treat Analysis",
+      "Male",
+      "Medication Adherence",
+      "Parents",
+      "Reminder Systems",
+      "Speech Recognition Software",
+      "Telemedicine",
+      "Telephone"
+    ],
+    "doi": "10.1001/jamapediatrics.2014.3280"
+  },
+  {
+    "pmid": "4909447",
+    "title": "Clinical trial of Theograd.",
+    "abstract": "",
+    "authors": [
+      "Brantingham P"
+    ],
+    "journal": "The British journal of clinical practice",
+    "year": 1970,
+    "mesh_terms": [
+      "Aged",
+      "Asthma",
+      "Bronchitis",
+      "Clinical Trials as Topic",
+      "Delayed-Action Preparations",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Oxotremorine",
+      "Pulmonary Emphysema",
+      "Theophylline"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "6376144",
+    "title": "Treatment of adult asthma: controlled double-blind clinical trial of oxitropium bromide.",
+    "abstract": "Sixteen young adult sufferers from extrinsic paroxysmal asthma with pollen hypersensitivity took part in a therapeutic trial of the synthetic anticholinergic agent oxitropium bromide administered by a metered dose inhaler. The study comprised three 3-week periods. The first, run-in period was carried out to confirm the ability of the patients to maintain a daily record of symptoms. During the second and third periods, the patient received 3 X 2 inhalations of drug or placebo in a cross-over design. The medical staff was blind to the nature of the aerosol (drug or placebo), which was given in random order. The run-in clinical score was high. Asymptomatic days were relatively infrequent and daily drug consumption was high. Functional studies between the cross-over periods showed flow-rate values close to normal, with an increase in residual volume and functional residual capacity. During treatment either with placebo or oxitropium, there was a statistically significant decrease in clinical scores. Results for oxitropium bromide treatment were significantly better than the run-in values (p less than 0.005) and the placebo period (p less than 0.02). There was no significant change in non-trial drug consumption. Functional values showed no difference in terms of flow rate, although oxitropium did cause a significant improvement in the RV/TLC ratio (p less than 0.05). No adverse reactions were reported.",
+    "authors": [
+      "Taytard A",
+      "Auzerie J",
+      "Vergeret J",
+      "Tozon N",
+      "Freour P"
+    ],
+    "journal": "European journal of clinical pharmacology",
+    "year": 1984,
+    "mesh_terms": [
+      "Administration, Intranasal",
+      "Adolescent",
+      "Adult",
+      "Aerosols",
+      "Asthma",
+      "Clinical Trials as Topic",
+      "Double-Blind Method",
+      "Female",
+      "Functional Residual Capacity",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Parasympatholytics",
+      "Pulmonary Ventilation",
+      "Residual Volume",
+      "Scopolamine Derivatives"
+    ],
+    "doi": "10.1007/BF00542136"
+  },
+  {
+    "pmid": "3510384",
+    "title": "A controlled trial of methylprednisolone in the emergency treatment of acute asthma.",
+    "abstract": "Ninety-seven acutely ill patients with bronchial asthma were enrolled in a double-blind, placebo-controlled, randomized trial of intravenous methylprednisolone (125 mg), given on presentation in the emergency room in addition to standard emergency treatments for asthma. Subjective and spirometric indexes of the severity of the asthma were similar on entry into the study in all patients, but only 9 of 48 patients (19 percent) treated with methylprednisolone required hospital admission, as compared with 23 of 49 patients (47 percent) in the control group (P less than 0.003). Our results suggest that prompt use of glucocorticoids in the emergency treatment of severe asthma can prevent significant morbidity, reduce the number of hospitalizations, and effect substantial savings in health care costs.",
+    "authors": [
+      "Littenberg B",
+      "Gluck EH"
+    ],
+    "journal": "The New England journal of medicine",
+    "year": 1986,
+    "mesh_terms": [
+      "Acute Disease",
+      "Adult",
+      "Asthma",
+      "Clinical Trials as Topic",
+      "Double-Blind Method",
+      "Emergencies",
+      "Female",
+      "Follow-Up Studies",
+      "Forced Expiratory Volume",
+      "Hospitalization",
+      "Humans",
+      "Injections, Intravenous",
+      "Male",
+      "Methylprednisolone",
+      "Vital Capacity"
+    ],
+    "doi": "10.1056/NEJM198601163140304"
+  },
+  {
+    "pmid": "28233153",
+    "title": "Phenotype-Driven Therapeutics in Severe Asthma.",
+    "abstract": "Inhaled corticosteroids are the mainstay of asthma treatment using a step-up approach with incremental dosing and additional controller medications in order to achieve symptom control and prevent exacerbations. While most patients respond well to this treatment approach, some patients remain refractory despite high doses of inhaled corticosteroids and a long-acting β-agonist. The problem lies in the heterogeneity of severe asthma, which is further supported by the emergence of severe asthma phenotypes. This heterogeneity contributes to the variability in treatment response. Randomized controlled trials involving add-on therapies in poorly controlled asthma have challenged the idea of a \"one size fits all\" approach targeting specific phenotypes in their subject selection. This review discusses severe asthma phenotypes from unbiased clustering approaches and the most recent scientific evidence on novel treatments to provide a guide in personalizing severe asthma treatment.",
+    "authors": [
+      "Opina MT",
+      "Moore WC"
+    ],
+    "journal": "Current allergy and asthma reports",
+    "year": 2017,
+    "mesh_terms": [
+      "Administration, Inhalation",
+      "Adrenal Cortex Hormones",
+      "Anti-Asthmatic Agents",
+      "Asthma",
+      "Humans",
+      "Phenotype",
+      "Precision Medicine",
+      "Randomized Controlled Trials as Topic"
+    ],
+    "doi": "10.1007/s11882-017-0678-1"
+  },
+  {
+    "pmid": "23548650",
+    "title": "Evidence for therapeutic uses of nebulized lidocaine in the treatment of intractable cough and asthma.",
+    "abstract": "OBJECTIVE: To summarize the efficacy and safety data for use of nebulized lidocaine in intractable cough and asthma. DATA SOURCES: A literature search was conducted using PubMed (through November 2012), International Pharmaceutical Abstracts (1970-December 2012), and Cochrane Library (up to 2012) with the search terms nebulization, nebulized or nebulised; administration, inhalation; cough; asthma; and lidocaine. Results were limited to human studies published in the English language. Referenced citations from relevant publications were also reviewed. STUDY SELECTION AND DATA EXTRACTION: All articles identified from the data sources were reviewed for inclusion. Clinical trials and descriptive studies that discussed use of nebulized lidocaine for treatment of intractable cough and asthma were included in the review. DATA SYNTHESIS: Seventeen studies were identified for review. Seven studies (6 descriptive studies and 1 clinical trial) evaluating the use of nebulized lidocaine in intractable cough reported efficacy in doses ranging from 10 mg to 400 mg. Five clinical trials in asthma showed conflicting results regarding improvement in pulmonary function and glucocorticoid-sparing effects. General improvements in pulmonary function as well as the initial bronchoconstriction induced by nebulized lidocaine in subjects with baseline bronchial hyperreactivity were investigated in 5 studies. Overall, the available evidence does not appear to preclude the use of lidocaine as a treatment option for intractable cough after failure of traditional cough suppressants. Data on its use for short-term glucocorticoid-sparing effects in asthma are conflicting. Study limitations, including design, small sample size, and inconsistencies in method and adjunctive therapies, should be considered. Nebulized lidocaine is well tolerated; however, reports of initial bronchoconstriction have occurred. CONCLUSIONS: Although nebulized lidocaine is not first-line therapy in intractable cough and asthma, it may provide an alternative treatment option in patients who cannot tolerate or are unresponsive to other treatments. Appropriate monitoring precautions should be used to ensure patient safety.",
+    "authors": [
+      "Slaton RM",
+      "Thomas RH",
+      "Mbathi JW"
+    ],
+    "journal": "The Annals of pharmacotherapy",
+    "year": 2013,
+    "mesh_terms": [
+      "Administration, Inhalation",
+      "Anti-Arrhythmia Agents",
+      "Asthma",
+      "Clinical Trials as Topic",
+      "Cough",
+      "Humans",
+      "Lidocaine",
+      "Nebulizers and Vaporizers",
+      "Randomized Controlled Trials as Topic"
+    ],
+    "doi": "10.1345/aph.1R573"
+  },
+  {
+    "pmid": "380748",
+    "title": "Hypnosis.",
+    "abstract": "",
+    "authors": [
+      "Kinnell HG"
+    ],
+    "journal": "British medical journal",
+    "year": 1979,
+    "mesh_terms": [
+      "Asthma",
+      "Child",
+      "Clinical Trials as Topic",
+      "Female",
+      "Humans",
+      "Hypnosis",
+      "Male"
+    ],
+    "doi": "10.1136/bmj.1.6177.1563-b"
+  },
+  {
+    "pmid": "4870069",
+    "title": "Clinical trial of disodium cromoglycate in treatment of asthma in children.",
+    "abstract": "",
+    "authors": [
+      "Smith JM",
+      "Devey GF"
+    ],
+    "journal": "British medical journal",
+    "year": 1968,
+    "mesh_terms": [
+      "Adolescent",
+      "Adrenal Cortex Hormones",
+      "Asthma",
+      "Benzopyrans",
+      "Bronchial Spasm",
+      "Child",
+      "Child, Preschool",
+      "Clinical Trials as Topic",
+      "Cough",
+      "Humans",
+      "Isoproterenol",
+      "Placebos",
+      "Prednisolone",
+      "Respiratory Therapy",
+      "Spirometry",
+      "Sputum"
+    ],
+    "doi": "10.1136/bmj.2.5601.340"
+  },
+  {
+    "pmid": "2495900",
+    "title": "Comparison of 1 mg and 5 mg sodium cromoglycate metered dose inhalers in the treatment of asthma: a 12-week double-blind, parallel group trial.",
+    "abstract": "A double-blind, parallel group trial of a 1 mg sodium cromoglycate metered dose inhaler, a 5 mg formulation and a placebo aerosol was undertaken in 139 asthmatic patients with extrinsic allergic asthma. None of the patients had previously been treated with sodium cromoglycate and few (15%) were familiar with the use of a pressurized aerosol device. Each test treatment was taken at a dose of 2 'puffs' 4-times per day for a period of 12 weeks. Response to treatment was assessed by analysis of symptom scores, medication usage and 3-times daily home measurements of PEFR recorded on diary cards, and by assessment of asthma severity and lung function in the clinic at the beginning and end of a 2-week baseline period and at intervals of 3 weeks throughout the trial. Analysis of patient-generated data (symptom scores and PEFR) demonstrated statistically significant differences in favour of each active treatment compared with placebo treatment. Clinic assessments of asthma severity and the investigator's opinion of treatment also showed the superiority of each sodium cromoglycate treatment regimen over placebo. These differences were statistically significant after 9 weeks (high dose) and 12 weeks (both doses). No statistically significant differences were demonstrated between the two active treatment groups in the clinic assessments of asthma severity, or in the home or clinic measurements of PEFR. There was, however, a consistent trend in favour of the higher dose formulation with respect to diary card symptom scores. In general, improvement in the low-dose sodium cromoglycate treatment group was slower than in the high-dose group suggesting an advantage for the 5 mg sodium cromoglycate inhaler in terms of onset of therapeutic response. The results indicate that sodium cromoglycate administered by pressurized aerosol at a dose of 2 x 1 mg or 2 x 5 mg 4-times daily is effective in the treatment of asthma and suggest that the higher dose formulation may provide more rapid control of symptoms.",
+    "authors": [
+      "Carrasco E",
+      "Sepulveda R"
+    ],
+    "journal": "Current medical research and opinion",
+    "year": 1989,
+    "mesh_terms": [
+      "Administration, Inhalation",
+      "Adolescent",
+      "Adult",
+      "Asthma",
+      "Clinical Trials as Topic",
+      "Cromolyn Sodium",
+      "Double-Blind Method",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged"
+    ],
+    "doi": "10.1185/03007998909110134"
+  },
+  {
+    "pmid": "6795829",
+    "title": "[Clinical observation of the inthal treatment of bronchial asthma].",
+    "abstract": "The results are reported from the long-term clinical observation on inthal effect in the treatment of 57 patients with various forms of bronchial asthma--atopic (18 patients), infectious--allergic (14 patients), mixed (25 patients). The most pronounced clinical improvement was observed in the patients with atopic bronchial asthma: 66.63 per cent with excellent effect, 11.11 per cent with good effect, 5.56 per cent with poor effect and 16.63 per cent--no effect. A good effect on the clinical symptomatics was observed also in the patients with mixed bronchial asthma: 40 per cent--with excellent effect, 28 per cent--good effect, 12--poor and 20 per cent--no change. The effect of the drug in patients with infectious-allergic bronchial asthma was rather unpretending: 28.58 per cent--excellent, 14.29 per cent--good, 12 per cent--poor and 25.71 per cent--no effect. Corticosteroid dependence was recorded in 46.42 per cent of the patients. The effect of the drug was discussed in connection with bronchial asthma type, graviy of the course and concomitant treatment.",
+    "authors": [
+      "Kosturkov G",
+      "Kirchev P",
+      "Mileva Zh",
+      "Staneva M",
+      "Slavov S"
+    ],
+    "journal": "Vutreshni bolesti",
+    "year": 1981,
+    "mesh_terms": [
+      "Adrenal Cortex Hormones",
+      "Adult",
+      "Asthma",
+      "Bronchodilator Agents",
+      "Clinical Trials as Topic",
+      "Cromolyn Sodium",
+      "Drug Therapy, Combination",
+      "Female",
+      "Humans",
+      "Male"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "11514042",
+    "title": "Design and analytic considerations in determining the cost-effectiveness of early intervention in asthma from a multinational clinical trial.",
+    "abstract": "Demand for economic and outcomes data in support of drug formulary listing in private and government-sponsored health programs has led to fundamental changes in drug development. In part as a response to these pressures, the pharmaceutical industry has begun to include economic and quality-of-life endpoints in clinical trials with the hope of providing information to answer health policy questions on the economic value of its products. Here, the design and health economic techniques that will be used to analyze the START (inhaled Steroid Treatment As Regular Therapy in early asthma) study-a multinational (31 countries), randomized, placebo-controlled trial of 7240 patients with mild asthma over 3 years-will be presented. START compares the effect of once-daily administration of an inhaled glucocorticosteroid (Pulmicort Turbuhaler to conventional therapy in the management of newly diagnosed asthma, for which the use of this therapy is currently not the standard. The START study will examine both clinical effectiveness (measured as symptom-free days) and asthma-related costs for both treatment arms, aggregated for all patients across all countries. We believe that presenting the analytical plan prior to disseminating the results is an important way of increasing the credibility of economic evaluations. However, using clinical trials for collecting economic data poses several challenges, and the methods for conducting such evaluations are being developed. This paper will present and discuss several methodological options and the current state of the art for conducting economic evaluations alongside multinational clinical trials.",
+    "authors": [
+      "Sullivan SD",
+      "Liljas B",
+      "Buxton M",
+      "Lamm CJ",
+      "O'Byrne P",
+      "Tan WC",
+      "Weiss KB"
+    ],
+    "journal": "Controlled clinical trials",
+    "year": 2001,
+    "mesh_terms": [
+      "Administration, Inhalation",
+      "Administration, Topical",
+      "Anti-Inflammatory Agents",
+      "Asthma",
+      "Cost-Benefit Analysis",
+      "Data Collection",
+      "Glucocorticoids",
+      "Health Care Costs",
+      "Humans",
+      "Multicenter Studies as Topic",
+      "Randomized Controlled Trials as Topic",
+      "Regression Analysis",
+      "Research Design",
+      "Sensitivity and Specificity",
+      "Time Factors",
+      "Treatment Outcome",
+      "Utilization Review"
+    ],
+    "doi": "10.1016/s0197-2456(01)00137-4"
+  },
+  {
+    "pmid": "30474042",
+    "title": "Managing Severe Asthma: A Role for the Long-Acting Muscarinic Antagonist Tiotropium.",
+    "abstract": "Severe asthma is associated with substantial morbidity and mortality. Therapies must be maximized to gain control of a patient's severe asthma; however, avoiding overtreatment is also important. The mainstays of asthma maintenance treatment are inhaled corticosteroids (ICS) and long-acting β 2-agonsits (LABAs), with the option of supplementary add-on treatments. New add-on treatments for severe asthma have emerged over the past two decades, including personalized biological therapies that are guided by a patient's asthma phenotype. In addition, the long-acting muscarinic antagonist tiotropium has been recommended as an add-on treatment for severe asthma. Phase III clinical trials have shown tiotropium in combination with ICS/LABA to be efficacious in patients with severe asthma. Further analyses of clinical trial data have indicated that there is no benefit in stratifying patients by phenotype to predict tiotropium efficacy. Furthermore, health economic studies suggest tiotropium to be a cost-effective treatment in patients with severe asthma. This review will present the evidence surrounding the role of tiotropium in severe asthma and will discuss the use of tiotropium add-on therapy before personalized medicine strategies in the stepwise process of gaining asthma control.",
+    "authors": [
+      "Hamelmann E"
+    ],
+    "journal": "BioMed research international",
+    "year": 2018,
+    "mesh_terms": [
+      "Administration, Inhalation",
+      "Adrenal Cortex Hormones",
+      "Asthma",
+      "Clinical Trials, Phase III as Topic",
+      "Drug Therapy, Combination",
+      "Humans",
+      "Muscarinic Antagonists",
+      "Tiotropium Bromide"
+    ],
+    "doi": "10.1007/s40258-015-0216-z"
+  },
+  {
+    "pmid": "2201941",
+    "title": "Methylprednisolone therapy for acute asthma in infants and toddlers: a controlled clinical trial.",
+    "abstract": "A controlled double-blind trial was carried out to assess the effect of the early introduction of combined corticosteroid and beta-adrenergic drugs for the treatment of acute asthma in infants and toddlers. Seventy-four emergency room patients (aged 7 to 54 months) who were treated for acute asthma were studied. Treatment included, in addition to salbutamol inhalations, a single dose of intramuscular methylprednisolone (4 mg/kg) or normal saline as placebo. The patients were reevaluated 3 hours after initiation of treatment. At that time, patients were either admitted or discharged based on a clinical decision. Only 8 (20%) of 39 patients treated with steroids were admitted, compared with 15 (43%) of 35 in the placebo group (P less than .05). Sequential analysis of 33 pairs, matched by age and severity of symptoms, revealed statistically significant reduced admission rates in patients treated with steroids. In the younger patients (6 to 24 months), admission rate was significantly lower for those treated with steroids (18%) as compared with those treated without steroids (50%) (P less than .05). In the older group (24 to 54 months), the trend was similar but not statistically significant: 23% vs 31% in the steroid and placebo groups, respectively. These data indicate that corticosteroid treatment combined with an adrenergic agent, given early during an acute asthmatic episode, significantly reduces the hospital admission rate of infants and toddlers.",
+    "authors": [
+      "Tal A",
+      "Levy N",
+      "Bearman JE"
+    ],
+    "journal": "Pediatrics",
+    "year": 1990,
+    "mesh_terms": [
+      "Acute Disease",
+      "Albuterol",
+      "Asthma",
+      "Child, Preschool",
+      "Clinical Trials as Topic",
+      "Double-Blind Method",
+      "Drug Therapy, Combination",
+      "Female",
+      "Humans",
+      "Infant",
+      "Male",
+      "Methylprednisolone",
+      "Respiratory Function Tests"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "9425591",
+    "title": "Allergen-specific immunotherapy in childhood asthma.",
+    "abstract": "Immunotherapy has been shown to prevent rhinitis symptoms in seasonal allergic rhinitis, and to prevent anaphylaxis to hymenoptera and fire ant stings. The evidence supporting its effectiveness in the treatment of asthma is much more limited; it appears that clinical trials, until the past year, have only tested therapy for single allergens such as house dust mite, cats, pollen, and mold. In the past year, a double-blind placebo-controlled clinical trial was completed that tested immunotherapy with a mixture of multiple allergen extracts in 121 perennial asthmatic children. This was the first test of treatment with allergen mixtures. The trial showed that over 30% of children underwent a complete or partial remission during the 2.5 years of therapy, but the changes were almost identical in both treatment and placebo control groups. Other trials were reported that examined injection therapy using synthetic fragments of the major allergen responsible for allergic reactions to cats. In this trial, acute rhinitis and asthma during exposure to naturally occurring airborne particles of cat allergen were reduced significantly.",
+    "authors": [
+      "Eggleston PA"
+    ],
+    "journal": "Current opinion in pediatrics",
+    "year": 1997,
+    "mesh_terms": [
+      "Allergens",
+      "Asthma",
+      "Child",
+      "Desensitization, Immunologic",
+      "Humans",
+      "Randomized Controlled Trials as Topic",
+      "Treatment Outcome"
+    ],
+    "doi": "10.1097/00008480-199712000-00006"
+  },
+  {
+    "pmid": "11514041",
+    "title": "The inhaled Steroid Treatment as Regular Therapy in early asthma (START) study: rationale and design.",
+    "abstract": "Although the beneficial effects of treatment with inhaled steroids in asthma are widely accepted, the role of early intervention in patients with mild asthma remains unsettled. Conventional efficacy trials are often of short duration and involve highly selected patient populations that exclude many patients typical of those encountered in routine clinical practice. Hence, a large \"real-world\" effectiveness study is needed to evaluate the benefits of early intervention with inhaled steroids in patients with mild, persistent asthma. In the START (inhaled Steroid Treatment As Regular Therapy in early asthma) study, patients ages 6-60 years, from 31 countries and districts worldwide with mild persistent asthma, have been randomized to once-daily treatment with budesonide, 200 microg (for patients < 11 years) or 400 microg (for patients > or = 11 years), or placebo via Turbuhaler for 3 years. The double-blind treatment period will be followed by a 2-year period of open budesonide treatment. Throughout the study, other asthma medication including glucocorticosteroids can be given as judged appropriate by the investigator. Lung function will be measured by spirometry using standardized techniques at 3-month intervals throughout the study, and bronchodilator reversibility will be measured annually. The primary outcome measures are the time to the first severe asthma-related event during the first 3 years of the study and the change in postbronchodilator forced expiratory volume in 1 second (FEV(1)) from baseline during the entire 5-year study period. These measures have been chosen to reflect the progression of mild asthma toward more severe asthma and the extent of irreversible airflow limitation, which should reflect the degree of airway remodeling.",
+    "authors": [
+      "Pauwels RA",
+      "Busse WW",
+      "O'Byrne PM",
+      "Pedersen S",
+      "Tan WC",
+      "Chen YZ",
+      "Ohlsson SV",
+      "Ullman A"
+    ],
+    "journal": "Controlled clinical trials",
+    "year": 2001,
+    "mesh_terms": [
+      "Acute Disease",
+      "Administration, Topical",
+      "Adolescent",
+      "Adult",
+      "Anti-Inflammatory Agents",
+      "Asthma",
+      "Budesonide",
+      "Child",
+      "Double-Blind Method",
+      "Follow-Up Studies",
+      "Glucocorticoids",
+      "Humans",
+      "Middle Aged",
+      "Multicenter Studies as Topic",
+      "Nebulizers and Vaporizers",
+      "Outcome Assessment, Health Care",
+      "Random Allocation",
+      "Randomized Controlled Trials as Topic",
+      "Research Design",
+      "Respiratory Function Tests",
+      "Sample Size",
+      "Statistics as Topic"
+    ],
+    "doi": "10.1016/s0197-2456(01)00144-1"
+  },
+  {
+    "pmid": "376894",
+    "title": "Emergency treatment of asthma. A comparison of two treatment regimens.",
+    "abstract": "The effectiveness of epinephrine was compared to that of a combination of epinephrine and aminophylline in the initial treatment of acute asthma. Forty-four patients with 51 episodes of acute asthma were evaluated. Peak flow spirometry served as an objective measure of airway resistance, and theophylline levels were determined at fixed intervals throughout the study. Epinephrine and aminophylline were not found to be superior to epinephrine alone. There was no correlation between mean serum theophylline levels and the magnitude of improvement. Rapidity of emergency department discharge and frequency of admission was independent of treatment method. The failure of epinephrine-aminophylline to effect more rapid or profound improvement in pulmonary function might suggest that epinephrine alone, or an equivalent sympathomimetic is a rational choice in the initial treatment of acute asthma.",
+    "authors": [
+      "Josephson GW",
+      "MacKenzie EJ",
+      "Lietman PS",
+      "Gibson G"
+    ],
+    "journal": "JAMA",
+    "year": 1979,
+    "mesh_terms": [
+      "Acute Disease",
+      "Adolescent",
+      "Adult",
+      "Aminophylline",
+      "Asthma",
+      "Clinical Trials as Topic",
+      "Drug Therapy, Combination",
+      "Emergencies",
+      "Epinephrine",
+      "Female",
+      "Humans",
+      "Injections, Intravenous",
+      "Male",
+      "Middle Aged",
+      "Peak Expiratory Flow Rate"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "7015934",
+    "title": "A controlled trial of the use of single versus combined-drug therapy in the treatment of acute episodes of asthma.",
+    "abstract": "Eighty-nine patients who presented to the hospital for treatment of acute episodes of asthma were randomly assigned to initial therapy with subcutaneously administered epinephrine or 1 of 2 combination regimens consisting of intravenously administered aminophylline and either subcutaneously administered of epinephrine or inhaled isoproterenol. During the first hour of treatment, as a group, the patients treated with the 2-drug regimens showed greater objective improvement than did patients who received epinephrine alone. This was particularly true for patients with either severe airway obstruction or a subtherapeutic theophylline concentration at the time of presentation. There were no differences in the heart rate and blood pressure responses to the 3 regimens, and symptoms consistent with drug side effects were not reported more frequently by patients treated with 2 drugs. Thus, the combination of sympathomimetics and aminophylline appear more effective, and no more toxic, than epinephrine alone for the initial treatment of acute episodes of asthma.",
+    "authors": [
+      "Rossing TH",
+      "Fanta CH",
+      "McFadden ER"
+    ],
+    "journal": "The American review of respiratory disease",
+    "year": 1981,
+    "mesh_terms": [
+      "Acute Disease",
+      "Adolescent",
+      "Adult",
+      "Aminophylline",
+      "Asthma",
+      "Bronchodilator Agents",
+      "Clinical Trials as Topic",
+      "Drug Therapy, Combination",
+      "Epinephrine",
+      "Female",
+      "Humans",
+      "Injections, Intravenous",
+      "Injections, Subcutaneous",
+      "Isoproterenol",
+      "Male",
+      "Middle Aged",
+      "Random Allocation"
+    ],
+    "doi": "10.1164/arrd.1981.123.2.190"
+  },
+  {
+    "pmid": "3894481",
+    "title": "Albuterol syrup in the treatment of asthma.",
+    "abstract": "This study evaluated the administration of albuterol syrup (0.1 mg/kg/6 hr) or placebo to 2- to 6-year old children whose extrinsic asthma was treated with maintenance theophylline in a prerandomized, double-blind crossover study design. Albuterol/theophylline treatment produced peak expiratory flow rates 2 hours after administration that were significantly higher than in the theophylline/placebo-treated group (119.3 L/min versus 83 L/min) p less than 0.01. The theophylline/placebo-treated group also required higher serum concentrations of theophylline to control wheezing, 10.5 micrograms/ml versus 5.0 micrograms/ml (p less than 0.01). The average symptom scores for the albuterol/theophylline-treated patients (72.5) were less than that of theophylline/placebo-treated group (97.6) p less than 0.02. Side effects such as tremor, irritability, or insomnia occurred in only two of 17 patients. Serial EKG recordings demonstrated no evidence of cardiotoxicity, such as arrhythmias, or indication of myocardial injury. The addition of albuterol to theophylline improved control of severe asthma in children 2 to 6 years of age demonstrated by improvement in pulmonary function, decrease in theophylline dosage requirement, and improvement in symptoms. It was free of any known cardiotoxicity.",
+    "authors": [
+      "Pierson WE",
+      "Shapiro GG",
+      "Furukawa CT",
+      "Bierman CW"
+    ],
+    "journal": "The Journal of allergy and clinical immunology",
+    "year": 1985,
+    "mesh_terms": [
+      "Albuterol",
+      "Asthma",
+      "Child",
+      "Child, Preschool",
+      "Clinical Trials as Topic",
+      "Drug Therapy, Combination",
+      "Electrocardiography",
+      "Female",
+      "Humans",
+      "Male",
+      "Placebos",
+      "Random Allocation",
+      "Theophylline",
+      "Time Factors"
+    ],
+    "doi": "10.1016/0091-6749(85)90707-9"
+  },
+  {
+    "pmid": "3893233",
+    "title": "Once daily inhalation of budesonide in the treatment of chronic asthma: a clinical comparison.",
+    "abstract": "In a short-term, open cross-over clinical efficacy study, inhalation of budesonide 800 micrograms once daily was compared to inhalation of budesonide 400 micrograms twice daily and beclomethasone dipropionate 200 micrograms four times daily in 20 patients with stable steroid-dependent chronic asthma. Budesonide was inhaled through a spacer tube. The drugs were given in 3-week periods. Clinical symptoms, consumption of beta 2-agonists and peak flow were measured. In all but one patient, the reduced frequency of budesonide inhalations to only once daily has not given significantly different results compared with more frequent inhalations.",
+    "authors": [
+      "Stiksa G",
+      "Glennow C"
+    ],
+    "journal": "Annals of allergy",
+    "year": 1985,
+    "mesh_terms": [
+      "Administration, Intranasal",
+      "Asthma",
+      "Beclomethasone",
+      "Budesonide",
+      "Chronic Disease",
+      "Clinical Trials as Topic",
+      "Drug Administration Schedule",
+      "Female",
+      "Glucocorticoids",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Pregnenediones",
+      "Random Allocation"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "3887976",
+    "title": "A trial of tiaramide in asthma.",
+    "abstract": "Tiaramide hydrochloride is a new non-steroidal anti-inflammatory agent previously shown to inhibit allergic responses both in vitro and in vivo. Clinical studies in asthmatic adults and children have also shown benefit. We report a double blind cross-over study in 35 adult asthmatic patients comparing oral tiaramide 200 mg four times daily with oral salbutamol 4 mg four times daily and placebo. Symptoms and bronchodilator inhaler usage were recorded in diary cards and morning and evening peak expiratory flow rates were also monitored. Both tiaramide and salbutamol had a significant therapeutic effect compared with placebo. More patients preferred tiaramide than salbutamol and there were fewer side effects during treatment with tiaramide. Tiaramide may be a useful oral therapy in asthma particularly for those patients intolerant of oral beta-adrenergic agonists.",
+    "authors": [
+      "Harvey JE",
+      "Jones P",
+      "Tanser AR"
+    ],
+    "journal": "Allergy",
+    "year": 1985,
+    "mesh_terms": [
+      "Administration, Oral",
+      "Adult",
+      "Aerosols",
+      "Aged",
+      "Albuterol",
+      "Asthma",
+      "Benzothiazoles",
+      "Bronchodilator Agents",
+      "Clinical Trials as Topic",
+      "Double-Blind Method",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Peak Expiratory Flow Rate",
+      "Piperazines",
+      "Placebos"
+    ],
+    "doi": "10.1111/j.1398-9995.1985.tb00216.x"
+  },
+  {
+    "pmid": "3282826",
+    "title": "Six-month double-blind, controlled trial of high dose, concentrated beclomethasone dipropionate in the treatment of severe chronic asthma.",
+    "abstract": "A six-month double-blind controlled trial compared a 2,000 microgram per day dose of beclomethasone dipropionate aerosol (BDP), with current upper level doses of 800 micrograms per day of the standard BDP, in asthmatics requiring oral corticosteroids in addition to BDP and bronchodilators. Both groups showed a significant reduction in their oral steroid requirements during the study, with a 34 percent reduction in the lower dose group and a 57 percent reduction in the high dose BDP group while maintaining good symptomatic control of asthma; there was an associated improvement in baseline serum cortisol levels. Over the same period, the pulmonary function of the lower dose group showed significant worsening relative to that of the group receiving the high dose BDP which improved. There was no increase in dysphonia or oropharyngeal candidiasis among those using the concentrated BDP. We conclude that high dose concentrated BDP appears to be a safe medication in long-term steroid-dependent asthma, and is effective in reducing dependence on the use of oral corticosteroid with associated improvement both in pulmonary and adrenal function.",
+    "authors": [
+      "Tarlo SM",
+      "Broder I",
+      "Davies GM",
+      "Leznoff A",
+      "Mintz S",
+      "Corey PN"
+    ],
+    "journal": "Chest",
+    "year": 1988,
+    "mesh_terms": [
+      "Administration, Inhalation",
+      "Adult",
+      "Asthma",
+      "Beclomethasone",
+      "Clinical Trials as Topic",
+      "Double-Blind Method",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Random Allocation",
+      "Time Factors"
+    ],
+    "doi": "10.1378/chest.93.5.998"
+  },
+  {
+    "pmid": "3128589",
+    "title": "A multicenter evaluation of the clinical benefits of cromolyn sodium aerosol by metered-dose inhaler in the treatment of asthma.",
+    "abstract": "The efficacy and safety of cromolyn sodium by metered-dose inhaler (MDI) (1 mg per actuation) was evaluated with a double-blind, placebo-controlled, parallel-study design. Subjects with asthma, aged 8 to 58 years, whose asthma was well controlled taking cromolyn sodium capsules by Spinhaler turboinhaler, plus beta 2-agonists, entered the study after being maintained with cromolyn sodium capsules for a minimum of 4 weeks. The investigation began with a 2-week control interval with cromolyn sodium capsules followed by a 4-week single-blind period with placebo capsules. Subjects whose asthma significantly worsened while they were receiving placebo therapy were then randomized to a 10-week double-blind phase in which they received either active cromolyn sodium or placebo by MDI. Efficacy variables included diary data, physician evaluation, and spirometry. Comparisons were made between baseline period scores and each assessment variable over time. Of 155 subjects entered, 93 qualified for the double-blind, randomized phase. Eighty-three subjects completed the study and were analyzed. At baseline there existed no significant differences between the active-treatment and placebo-treatment groups. Significant differences (p less than 0.05) in favor of the cromolyn sodium-treatment group, however, were noted at all time points for daily diary symptoms (cough, breathlessness, and overall asthma severity), physician's assessments at each clinic visit, physician's and patient's overall final assessments, FEV1 at each clinic visit, and FVC and peak expiratory flow rate at the final visit. Concomitant bronchodilator medication use was less in the cromolyn sodium-treatment group. Cromolyn sodium by MDI is highly effective for (1) controlling asthmatic symptoms, (2) improving lung functions, and (3) decreasing the need for concomitant bronchodilators.",
+    "authors": [
+      "Blumenthal MN",
+      "Selcow J",
+      "Spector S",
+      "Zeiger RS",
+      "Mellon M"
+    ],
+    "journal": "The Journal of allergy and clinical immunology",
+    "year": 1988,
+    "mesh_terms": [
+      "Administration, Inhalation",
+      "Adolescent",
+      "Adult",
+      "Asthma",
+      "Bronchial Provocation Tests",
+      "Child",
+      "Clinical Trials as Topic",
+      "Cromolyn Sodium",
+      "Double-Blind Method",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Placebos"
+    ],
+    "doi": "10.1016/0091-6749(88)91038-x"
+  },
+  {
+    "pmid": "4912671",
+    "title": "A clinical trial of disodium cromoglycate in asthma.",
+    "abstract": "",
+    "authors": [
+      "Linehan WD"
+    ],
+    "journal": "Journal of the Irish Medical Association",
+    "year": 1970,
+    "mesh_terms": [
+      "Adolescent",
+      "Adult",
+      "Asthma",
+      "Bronchodilator Agents",
+      "Child",
+      "Chromones",
+      "Clinical Trials as Topic",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Placebos",
+      "Prednisolone"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "4929392",
+    "title": "Clinical trial of salbutamol on bronchial asthma in children.",
+    "abstract": "",
+    "authors": [
+      "Nakayama Y"
+    ],
+    "journal": "Postgraduate medical journal",
+    "year": 1971,
+    "mesh_terms": [
+      "Adolescent",
+      "Amino Alcohols",
+      "Asthma",
+      "Bronchodilator Agents",
+      "Child",
+      "Child, Preschool",
+      "Clinical Trials as Topic",
+      "Humans",
+      "Placebos"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "4396163",
+    "title": "A comparative clinical trial of different subcutaneous doses of terbutaline and orciprenaline in bronchial asthma.",
+    "abstract": "",
+    "authors": [
+      "Arner B"
+    ],
+    "journal": "Acta medica Scandinavica. Supplementum",
+    "year": 1970,
+    "mesh_terms": [
+      "Adrenergic beta-Agonists",
+      "Adult",
+      "Aged",
+      "Amino Alcohols",
+      "Asthma",
+      "Blood Pressure",
+      "Bronchial Spasm",
+      "Bronchodilator Agents",
+      "Clinical Trials as Topic",
+      "Female",
+      "Humans",
+      "Injections, Subcutaneous",
+      "Male",
+      "Metaproterenol",
+      "Middle Aged",
+      "Phenethylamines",
+      "Pulse",
+      "Resorcinols",
+      "Spirometry",
+      "Sympathomimetics"
+    ],
+    "doi": "10.1111/j.0954-6820.1970.tb05289.x"
+  },
+  {
+    "pmid": "6368649",
+    "title": "Aspirin-sensitive rhinosinusitis asthma: a double-blind crossover study of treatment with aspirin.",
+    "abstract": "Twenty-five ASA-sensitive patients with rhinosinusitis asthma underwent oral ASA challenges followed by desensitization to the adverse respiratory effects of ASA. We then compared the efficacy of continuous ASA treatment for their respiratory tract disease to that of a placebo treatment during a double-blind crossover study. For this group of 25 patients, there was significant improvement in nasal symptoms and a reduction in use of nasal beclomethasone during the months when they received ASA treatment. Lower respiratory tract symptoms, values of FEV1, and the use of antiasthmatic medications including prednisone were not significantly changed during ASA treatment. Desensitization to ASA followed by ASA treatment appears to significantly alleviate symptoms of rhinosinusitis. However, only half the patients experienced improvement in their asthma symptoms during ASA treatment.",
+    "authors": [
+      "Stevenson DD",
+      "Pleskow WW",
+      "Simon RA",
+      "Mathison DA",
+      "Lumry WR",
+      "Schatz M",
+      "Zeiger RS"
+    ],
+    "journal": "The Journal of allergy and clinical immunology",
+    "year": 1984,
+    "mesh_terms": [
+      "Aspirin",
+      "Asthma",
+      "Clinical Trials as Topic",
+      "Double-Blind Method",
+      "Drug Hypersensitivity",
+      "Forced Expiratory Volume",
+      "Humans",
+      "Hypersensitivity, Delayed",
+      "Placebos",
+      "Rhinitis",
+      "Sinusitis"
+    ],
+    "doi": "10.1016/0091-6749(84)90361-0"
+  },
+  {
+    "pmid": "24937476",
+    "title": "The effect of inhaled IFN-β on worsening of asthma symptoms caused by viral infections. A randomized trial.",
+    "abstract": "RATIONALE: Ex vivo, bronchial epithelial cells from people with asthma are more susceptible to rhinovirus infection caused by deficient induction of the antiviral protein, IFN-β. Exogenous IFN-β restores antiviral activity. OBJECTIVES: To compare the efficacy and safety of inhaled IFN-β with placebo administered to people with asthma after onset of cold symptoms to prevent or attenuate asthma symptoms caused by respiratory viruses. METHODS: A total of 147 people with asthma on inhaled corticosteroids (British Thoracic Society Steps 2-5), with a history of virus-associated exacerbations, were randomized to 14-day treatment with inhaled IFN-β (n = 72) or placebo (n = 75) within 24 hours of developing cold symptoms and were assessed clinically, with relevant samples collected to assess virus infection and antiviral responses. MEASUREMENTS AND MAIN RESULTS: A total of 91% of randomized patients developed a defined cold. In this modified intention-to-treat population, asthma symptoms did not get clinically significantly worse (mean change in six-item Asthma Control Questionnaire <0.5) and IFN-β treatment had no significant effect on this primary endpoint, although it enhanced morning peak expiratory flow recovery (P = 0.033), reduced the need for additional treatment, and boosted innate immunity as assessed by blood and sputum biomarkers. In an exploratory analysis of the subset of more difficult-to-treat, Step 4-5 people with asthma (n = 27 IFN-β; n = 31 placebo), Asthma Control Questionnaire-6 increased significantly on placebo; this was prevented by IFN-β (P = 0.004). CONCLUSIONS: Although the trial did not meet its primary endpoint, it suggests that inhaled IFN-β is a potential treatment for virus-induced deteriorations of asthma in difficult-to-treat people with asthma and supports the need for further, adequately powered, trials in this population. Clinical trial registered with www.clinicaltrials.gov (NCT 01126177).",
+    "authors": [
+      "Djukanović R",
+      "Harrison T",
+      "Johnston SL",
+      "Gabbay F",
+      "Wark P",
+      "Thomson NC",
+      "Niven R",
+      "Singh D",
+      "Reddel HK",
+      "Davies DE",
+      "Marsden R",
+      "Boxall C",
+      "Dudley S",
+      "Plagnol V",
+      "Holgate ST",
+      "Monk P"
+    ],
+    "journal": "American journal of respiratory and critical care medicine",
+    "year": 2014,
+    "mesh_terms": [
+      "Administration, Inhalation",
+      "Adolescent",
+      "Adrenal Cortex Hormones",
+      "Adult",
+      "Aged",
+      "Anti-Asthmatic Agents",
+      "Antiviral Agents",
+      "Asthma",
+      "Disease Progression",
+      "Double-Blind Method",
+      "Drug Administration Schedule",
+      "Drug Therapy, Combination",
+      "Female",
+      "Humans",
+      "Intention to Treat Analysis",
+      "Interferon-beta",
+      "Male",
+      "Middle Aged",
+      "Respiratory Tract Infections",
+      "Severity of Illness Index",
+      "Surveys and Questionnaires",
+      "Treatment Outcome",
+      "Virus Diseases",
+      "Young Adult"
+    ],
+    "doi": "10.1164/rccm.201312-2235OC"
+  },
+  {
+    "pmid": "4591458",
+    "title": "A clinical trial of beclomethasone dipropionate aerosol in children and adolescents with asthma.",
+    "abstract": "",
+    "authors": [
+      "Smith JM"
+    ],
+    "journal": "Clinical allergy",
+    "year": 1973,
+    "mesh_terms": [
+      "Administration, Topical",
+      "Adolescent",
+      "Adult",
+      "Anti-Inflammatory Agents",
+      "Asthma",
+      "Beclomethasone",
+      "Child",
+      "Child, Preschool",
+      "Clinical Trials as Topic",
+      "Evaluation Studies as Topic",
+      "Female",
+      "Glucocorticoids",
+      "Humans",
+      "Male",
+      "Methylprednisolone",
+      "Respiratory Therapy",
+      "Time Factors"
+    ],
+    "doi": "10.1111/j.1365-2222.1973.tb01330.x"
+  },
+  {
+    "pmid": "6418441",
+    "title": "The treatment of asthma in adults using sodium cromoglycate pressurized aerosol: a double-blind controlled trial.",
+    "abstract": "Sodium cromoglycate formulated as a pressurized aerosol (2 mg 4-times daily) and placebo were compared in 31 adult asthmatic patients in a double-blind crossover trial lasting 12 weeks. Sodium cromoglycate was superior to placebo in improving breathlessness at rest (p less than 0.001), breathlessness on exertion (p less than 0.05) and the quality of sleep (p less than 0.001), and also in improving the morning peak expiratory flow rate value (p less than 0.05). Both the patients' (p less than 0.05) and the clinicians' (p less than 0.01) treatment opinions, and their treatment preferences (p less than 0.05), favoured sodium cromoglycate. Moreover, usage of bronchodilators (theophylline and aerosol beta-stimulants combined) declined significantly (p less than 0.001) during sodium cromoglycate treatment compared to placebo. No side-effects were reported. The results of this study show that sodium cromoglycate delivered by pressurized aerosol was significantly superior to placebo, not only in improving asthmatic symptoms, but also in reducing the amount of concomitant bronchodilator therapy required.",
+    "authors": [
+      "Rubin AE",
+      "Alroy G",
+      "Spitzer S"
+    ],
+    "journal": "Current medical research and opinion",
+    "year": 1983,
+    "mesh_terms": [
+      "Adolescent",
+      "Adult",
+      "Aerosols",
+      "Asthma",
+      "Child",
+      "Clinical Trials as Topic",
+      "Cromolyn Sodium",
+      "Double-Blind Method",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Respiratory Therapy"
+    ],
+    "doi": "10.1185/03007998309109797"
+  },
+  {
+    "pmid": "98084",
+    "title": "Therapy with cromolyn sodium.",
+    "abstract": "Cromolyn is a prototype of a new series of drugs, the pharmacologic activities of which may offer an entirely new approach in the treatment of asthma. Whereas bronchodilator drugs and steroids act primarily at tissue sites to counteract the effects of various toxic mediators released from tissue mast cells, cromolyn prevents the release of such mediators from mast cell membranes. The advent of cromolyn sodium therapy has been recognized as a significant advance by the pharmaceutical industry, which is rapidly developing a series of cromolyn-like drugs with similar properties. Many of these compounds are active orally, and some preliminary investigations suggest that they also could be clinically effective. Cromolyn has therapeutic value in immunologic and nonimmunologically induced bronchospasm, being particularly suited for conditions amenable to long-term prophylactic therapy. The risk-to-benefit ratio of cromolyn sodium therapy is excellent. Cromolyn sodium is an important adjunct in the treatment of asthma. By topical administration the drug has been effective in seasonal and perennial rhinoconjunctivitis and in selected cases of gastrointestinal allergy to foods.",
+    "authors": [
+      "Bernstein IL",
+      "Johnson CL"
+    ],
+    "journal": "Annals of internal medicine",
+    "year": 1978,
+    "mesh_terms": [
+      "Adolescent",
+      "Adult",
+      "Asthma",
+      "Child",
+      "Clinical Trials as Topic",
+      "Conjunctivitis",
+      "Cromolyn Sodium",
+      "Double-Blind Method",
+      "Food Hypersensitivity",
+      "Humans",
+      "Infant",
+      "Middle Aged",
+      "Placebos",
+      "Rhinitis, Allergic, Seasonal"
+    ],
+    "doi": "10.7326/0003-4819-89-2-228"
+  },
+  {
+    "pmid": "5005719",
+    "title": "A double-blind trial of disodium cromoglycate (Intal) in the treatment of bronchial asthma.",
+    "abstract": "The result of a double-blind crossover trial with disodium cromoglycate (Intal) in 22 patients, nine with extrinsic asthma and 13 with intrinsic asthma, is reported. While eight extrinsic asthmatics showed considerable symptomatic improvement, only five of the intrinsic group improved while on disodium cromoglycate. Twelve out of 13 patients with symptomatic improvement had associated decrease in airway obstruction as measured by the FEV(1).It is concluded that disodium cromoglycate is useful in the treatment of asthma, particularly of the extrinsic type.",
+    "authors": [
+      "Chan-Yeung M",
+      "Morton J",
+      "Grzybowski S"
+    ],
+    "journal": "Canadian Medical Association journal",
+    "year": 1971,
+    "mesh_terms": [
+      "Adult",
+      "Asthma",
+      "Bronchodilator Agents",
+      "Child",
+      "Clinical Trials as Topic",
+      "Cough",
+      "Cromolyn Sodium",
+      "Eczema",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Placebos",
+      "Prednisone",
+      "Respiratory Therapy",
+      "Rhinitis",
+      "Rhinitis, Allergic, Seasonal",
+      "Smoking",
+      "Sputum"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "4880259",
+    "title": "Hypnosis for asthma--a controlled trial. A report to the Research Committee of the British Tuberculosis Association.",
+    "abstract": "An investigation of hypnosis in asthma was made among patients aged 10 to 60 years with paroxysmal attacks of wheezing or tight chest capable of relief by bronchodilators. One group of patients was given hypnosis monthly and used autohypnosis daily for one year. Comparisons were made with a control group prescribed a specially devised set of breathing exercises aimed at progressive relaxation. Treatment was randomly allocated and patients were treated by physicians in nine centres. Results were assessed by daily diary recordings of wheezing and the use of bronchodilators, and by monthly recordings of F.E.V.(1) and vital capacity. At the end of the year independent clinical assessments were made by physicians unaware of the patients' treatment.There were 252 patients (127 hypnosis and 125 controls) accepted for analysis, but a number of them did not continue the prescribed treatment for the whole year: 28 hypnosis and 22 control patients failed to co-operate, left the district, or had family problems; one hypnosis and one control patient died. Seven hypnosis and 17 control patients were withdrawn as treatment failures, the difference between the two groups being statistically significant.As judged by analyses based on the daily \"score\" of wheezing recorded in patients' diaries, by the number of times bronchodilators were used, and by independent clinical assessors, both treatment groups showed some improvement Among men the assessments of wheezing score and use of bronchodilators showed similar improvement in the two treatment groups; among women, however, those treated by hypnosis showed improvement similar to that observed in the men, but those given breathing exercises made much less progress, the difference between the two treatment groups reaching statistical significance. Changes in F.E.V.(1) and V.C. between the control and hypnosis groups were closely similar.Independent clinical assessors considered the asthma to be \"much better\" in 59% of the hypnosis group and in 43% of the control group, the difference being significant There was little difference between the sexes. Physicians with previous experience of hypnosis obtained significantly better results than did those without such experience.",
+    "authors": [],
+    "journal": "British medical journal",
+    "year": 1968,
+    "mesh_terms": [
+      "Adolescent",
+      "Adult",
+      "Asthma",
+      "Breathing Exercises",
+      "Bronchodilator Agents",
+      "Child",
+      "Clinical Trials as Topic",
+      "Female",
+      "Humans",
+      "Hypnosis",
+      "Male",
+      "Middle Aged",
+      "Relaxation",
+      "Respiratory Function Tests",
+      "Sex Factors"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "2662837",
+    "title": "Controlled trial of oral fenoterol in the treatment of childhood asthma.",
+    "abstract": "We evaluated the effect of oral fenoterol at a daily dosage of 0.25 mg/kg in 17 children with mild bronchial asthma following a double-blind, crossover design. Treatment with fenoterol syrup and matched placebo was given for 4 weeks each and doses administered every six hours. Daily variability of peak expiratory flow rate during fenoterol treatment was not different from that measured during placebo. Fenoterol syrup was associated with a statistically significant improvement in daytime symptom scores, whereas nighttime symptoms were not significantly reduced. Fenoterol significantly reduced the need for supplemental therapy. Adverse effects remained trivial and minimal for all children. This study indicates that fenoterol syrup alone or in combination with inhaled fenoterol may have a role in the maintenance therapy of mild to moderate childhood asthma.",
+    "authors": [
+      "Foresi A",
+      "Corbo GM",
+      "Del Vita M",
+      "Agabiti N",
+      "Mugnano A"
+    ],
+    "journal": "Annals of allergy",
+    "year": 1989,
+    "mesh_terms": [
+      "Administration, Oral",
+      "Adolescent",
+      "Asthma",
+      "Child",
+      "Clinical Trials as Topic",
+      "Double-Blind Method",
+      "Drug Administration Schedule",
+      "Female",
+      "Fenoterol",
+      "Forced Expiratory Volume",
+      "Humans",
+      "Male",
+      "Peak Expiratory Flow Rate",
+      "Placebos"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "3315269",
+    "title": "Treatment of asthma by a controlled-release theophylline tablet formulation: a review of the North American experience with nocturnal dosing.",
+    "abstract": "As many as 80 percent of asthmatics experience nighttime or early-morning episodes, which are difficult to treat and potentially fatal. The greater-than-normal amplitude of circadian airflow variation in many asthmatics contributes heavily to the genesis of the early 'morning dip'. Beta-agonists and corticosteroids are of limited usefulness in nocturnal asthma, and slow-release theophylline drugs, while potentially effective, vary in 24-hr blood profile and hence their influence on nocturnal episodes. Traditional 12-hr 'symmetric' theophylline regimens, instead of meeting increased nocturnal demands, may actually produce lower night- than daytime blood levels. On the other hand, appropriately timed administration of a once-daily theophylline drug might provide maximum blood levels when needed and help stabilize 24-hr airflow. Accumulated data, summarized in this review, demonstrate the chronotherapeutic potential of single-daily evening doses of a controlled-release theophylline preparation (Uniphyl 400-mg tablets) in nocturnal and early morning asthma. Nighttime blood concentrations with this regimen were higher than were those with Theo-Dur tablets, B.I.D., in the same total daily doses, or with once-daily morning Uniphyl administration. In fed and fasted subjects, evening administration of Uniphyl 400-mg tablets was well tolerated and did not lead to 'dose dumping.' Clinically, this treatment demonstrated advantages over B.I.D. theophylline, over single-daily morning regimens, and over prior theophylline therapy. Advantages of the evening regimen included better early-morning airflow (without significant decline later in the day), more effective symptom control, better patient acceptance, fewer night awakenings, and the obvious convenience of once-daily dosing. In addition, lung function showed greater stability, throughout the day, with once-daily evening therapy than with traditional 12 hr dosing. Uniphyl 400-mg tablets may be administered once daily to provide maximum blood levels at the time of peak bronchoconstriction, whether at night or during the day.",
+    "authors": [
+      "Goldenheim PD",
+      "Conrad EA",
+      "Schein LK"
+    ],
+    "journal": "Chronobiology international",
+    "year": 1987,
+    "mesh_terms": [
+      "Asthma",
+      "Circadian Rhythm",
+      "Clinical Trials as Topic",
+      "Delayed-Action Preparations",
+      "Drug Administration Schedule",
+      "Humans",
+      "North America",
+      "Theophylline"
+    ],
+    "doi": "10.3109/07420528709083529"
+  },
+  {
+    "pmid": "33148308",
+    "title": "The rescue intervention strategy for asthma patients under severe air pollution: a protocol for a single-centre prospective randomized controlled trial.",
+    "abstract": "BACKGROUND: Asthma is a common chronic airway inflammatory disease. Exacerbations of asthma not only accelerate the progression of the disease but also increase the incidence of hospitalization and death. Studies have shown that air pollution is a high-risk factor for asthma exacerbations. However, few treatment strategies have been recommended to reduce the risk of severe air pollution-related asthma exacerbations. METHODS/DESIGN: This is a single-centre, prospective, randomized and standard treatment parallel control clinical trial. Seventy-two asthma patients in the nonexacerbation stage according to GINA guidelines 2017 will be recruited and randomized into the rescue intervention strategy (RIS) group and control group. Original treatments for the participants will include no use of inhaled medicine, the use of short-acting β-agonists (SABA) on demand or the use of budesonide/formoterol (160 μg/4.5 μg/dose, 1-2 dose/time, b.i.d.). The rescue intervention strategy for the RIS group will be budesonide/formoterol plus the original treatment until the severe pollution ends (air quality index, AQI < 200). The control group will maintain the original treatment. The follow-up observation period will last 1 year. The primary outcome is the frequency of asthma exacerbations per year. Secondary outcomes include the mean number of unplanned outpatient visits, emergency visits, hospitalizations, medical costs and mortality caused by asthma exacerbations per patient per year. DISCUSSION: The results of this trial will provide a novel strategy to guide clinical practice in decreasing the risk of asthma exacerbations under severe air pollution. TRIAL REGISTRATION: ChiCTR ChiCTR1900026757 . Registered on 20 October 2019-retrospectively registered.",
+    "authors": [
+      "Yang X",
+      "Huang J",
+      "Hu Y",
+      "Guo C",
+      "Wang X",
+      "Yang Z",
+      "Zhou T",
+      "Wang G"
+    ],
+    "journal": "Trials",
+    "year": 2020,
+    "mesh_terms": [
+      "Administration, Inhalation",
+      "Air Pollution",
+      "Asthma",
+      "Bronchodilator Agents",
+      "Budesonide",
+      "Drug Combinations",
+      "Ethanolamines",
+      "Formoterol Fumarate",
+      "Humans",
+      "Prospective Studies",
+      "Randomized Controlled Trials as Topic"
+    ],
+    "doi": "10.1016/S0140-6736(07)61382-8"
+  },
+  {
+    "pmid": "327424",
+    "title": "Treatment of chronic childhood asthma with beclomethasone dipropionate aerosol: I. A double-blind crossover trial in nonsteroid-dependent patients.",
+    "abstract": "",
+    "authors": [
+      "Klein R",
+      "Waldman D",
+      "Kershnar H",
+      "Berger W",
+      "Coulson A",
+      "Katz RM",
+      "Rachelefsky GS",
+      "Siegel SC"
+    ],
+    "journal": "Pediatrics",
+    "year": 1977,
+    "mesh_terms": [
+      "Adolescent",
+      "Aerosols",
+      "Asthma",
+      "Beclomethasone",
+      "Candida",
+      "Child",
+      "Clinical Trials as Topic",
+      "Double-Blind Method",
+      "Drug Evaluation",
+      "Female",
+      "Humans",
+      "Male",
+      "Pharynx",
+      "Pituitary-Adrenal Function Tests",
+      "Placebos"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "2189367",
+    "title": "Treatment of acute, episodic asthma in preschool children using intermittent high dose inhaled steroids at home.",
+    "abstract": "In a double blind, controlled trial, the effect of high dose beclomethasone dipropionate (750 micrograms three times daily for five days) administered by metered dose inhaler and valved spacer, was compared with placebo, during 70 paired episodes of acute asthma in 24 preschool children. Treatment commenced at home at the first sign of an attack. Parents' blind preference for active treatment was significant. Data from 17 pairs of treatment, however, were affected by interventions such as hospital admission or oral corticosteroid treatment. These events occurred similarly in active and control periods. An intrasubject comparison was made of diary scores from the 18 pairs of episodes in which no intervention occurred in either the active or placebo treatment. Both daytime and night symptoms over the first week of the attack were significantly reduced by active treatment. Intermittent high dose inhaled beclomethasone dipropionate is beneficial in modifying the severity of acute episodic asthma in preschool children able to use a spacer device.",
+    "authors": [
+      "Wilson NM",
+      "Silverman M"
+    ],
+    "journal": "Archives of disease in childhood",
+    "year": 1990,
+    "mesh_terms": [
+      "Acute Disease",
+      "Administration, Inhalation",
+      "Asthma",
+      "Beclomethasone",
+      "Child, Preschool",
+      "Clinical Trials as Topic",
+      "Double-Blind Method",
+      "Home Nursing",
+      "Humans",
+      "Infant"
+    ],
+    "doi": "10.1136/adc.65.4.407"
+  },
+  {
+    "pmid": "4629183",
+    "title": "Long-term study of disodium cromoglycate in treatment of severe extrinsic or intrinsic bronchial asthma in adults. Brompton Hospital-Medical Research Council collaborative trial.",
+    "abstract": "The results are reported here of a long-term double-blind controlled clinical trial of disodium cromoglycate (D.S.C.G.) and isoprenaline, D.S.C.G. alone, isoprenaline alone, and a placebo given as a powder for inhalation in the treatment of severe bronchial asthma.At the end of one year 16 out of 20 patients on D.S.C.G.-isoprenaline remained on the allocated capsules, compared with 10 out of 15 on D.S.C.G., 5 out of 20 on isoprenaline, and 3 out of 19 taking the placebo. The differences between each of the D.S.C.G.-isoprenaline and D.S.C.G. regimens compared with the isoprenaline and placebo regimens were statistically significant. After eight weeks on four capsules a day the patients in each group were allocated at random so that half continued on full dosage and half on a reducing regimen. At the end of the year there was no significant difference in the failure rate between patients allocated the full dosage and the patients on the reducing dosage. The capsules were well tolerated and toxicity to D.S.C.G. was not observed.",
+    "authors": [],
+    "journal": "British medical journal",
+    "year": 1972,
+    "mesh_terms": [
+      "Adolescent",
+      "Adult",
+      "Asthma",
+      "Clinical Trials as Topic",
+      "Cromolyn Sodium",
+      "Evaluation Studies as Topic",
+      "Female",
+      "Humans",
+      "Isoproterenol",
+      "Male",
+      "Placebos",
+      "Prognosis",
+      "Skin Tests",
+      "Spirometry"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "5004629",
+    "title": "Treatment of children in an asthma centre with disodium cromoqlycate. Double-blind crossover trial.",
+    "abstract": "",
+    "authors": [
+      "Limburg M"
+    ],
+    "journal": "Acta allergologica",
+    "year": 1971,
+    "mesh_terms": [
+      "Adolescent",
+      "Asthma",
+      "Child",
+      "Chromones",
+      "Clinical Trials as Topic",
+      "Cromolyn Sodium",
+      "Female",
+      "Humans",
+      "Male",
+      "Placebos",
+      "Pulmonary Ventilation",
+      "Respiratory Therapy",
+      "Time Factors"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "19260871",
+    "title": "Using fractional exhaled nitric oxide to guide asthma therapy: design and methodological issues for ASthma TReatment ALgorithm studies.",
+    "abstract": "BACKGROUND: Current asthma guidelines recommend treatment based on the assessment of asthma control using symptoms and lung function. Noninvasive markers are an attractive way to modify therapy since they offer improved selection of active treatment(s) based on individual response, and improved titration of treatment using markers that are better related to treatment outcomes. AIMS: To review the methodological and design features of noninvasive marker studies in asthma. METHODS: Systematic assessment of published randomized trials of asthma therapy guided by fraction of exhaled nitric oxide(FENO). RESULTS: FENO has appeal as a marker to adjust asthma therapy since it is readily measured, gives reproducible results, and is responsive to changes in inhaled corticosteroid doses. However, the five randomised trials of FENO guided therapy have had mixed results. This may be because there are specific design and methodological issues that need to be addressed in the conduct of ASthma TReatment ALgorithm(ASTRAL) studies. There needs to be a clear dose response relationship for the active drugs used and the outcomes measured. The algorithm decision points should be based on outcomes in the population of interest rather than the range of values in healthy people, and the algorithm used needs to provide a sufficiently different result to clinical decision making in order for there to be any discernible benefit. A new metric is required to assess the algorithm performance, and the discordance:concordance(DC) ratio can assist with this. CONCLUSION: Incorporating these design features into future FENO studies should improve the study performance and aid in obtaining a better estimate of the value of FENO guided asthma therapy.",
+    "authors": [
+      "Gibson PG"
+    ],
+    "journal": "Clinical and experimental allergy : journal of the British Society for Allergy and Clinical Immunology",
+    "year": 2009,
+    "mesh_terms": [
+      "Administration, Inhalation",
+      "Adrenal Cortex Hormones",
+      "Algorithms",
+      "Asthma",
+      "Biomarkers",
+      "Drug Monitoring",
+      "Exhalation",
+      "Humans",
+      "Nitric Oxide",
+      "Randomized Controlled Trials as Topic",
+      "Treatment Outcome"
+    ],
+    "doi": "10.1111/j.1365-2222.2009.03226.x"
+  },
+  {
+    "pmid": "3094804",
+    "title": "Improvement in bronchial hyper-responsiveness in patients with moderate asthma after treatment with a hypnotic technique: a randomised controlled trial.",
+    "abstract": "A prospective, randomised, single blind, and controlled trial of a hypnotic technique was undertaken in 39 adults with mild to moderate asthma graded for low and high susceptibility to hypnosis. After a six week course of hypnotherapy 12 patients with a high susceptibility score showed a 74.9% improvement (p less than 0.01) in the degree of bronchial hyper-responsiveness to a standardised methacholine challenge test. Daily home recordings of symptoms improved by 41% (p less than 0.01), peak expiratory flow rates improved by 5.5% (p less than 0.01), and use of bronchodilators decreased by 26.2% (p less than 0.05). The improvement in bronchial hyper-reactivity occurred without a change in subjective appreciation of the degree of bronchoconstriction. A control group 17 patients and 10 patients undergoing treatment with low susceptibility to hypnosis had no change in either bronchial hyper-responsiveness or any of the symptoms recorded at home. This study shows the efficacy of a hypnotic technique in adult asthmatics who are moderately to highly susceptible to hypnosis.",
+    "authors": [
+      "Ewer TC",
+      "Stewart DE"
+    ],
+    "journal": "British medical journal (Clinical research ed.)",
+    "year": 1986,
+    "mesh_terms": [
+      "Adult",
+      "Asthma",
+      "Bronchi",
+      "Clinical Trials as Topic",
+      "Humans",
+      "Hypnosis",
+      "Prospective Studies",
+      "Random Allocation"
+    ],
+    "doi": "10.1136/bmj.293.6555.1129"
+  },
+  {
+    "pmid": "3295235",
+    "title": "Clinical assessment of acupuncture in asthma therapy: discussion paper.",
+    "abstract": "",
+    "authors": [
+      "Aldridge D",
+      "Pietroni PC"
+    ],
+    "journal": "Journal of the Royal Society of Medicine",
+    "year": 1987,
+    "mesh_terms": [
+      "Acupuncture Therapy",
+      "Asthma",
+      "Clinical Trials as Topic"
+    ],
+    "doi": "10.1177/014107688708000411"
+  },
+  {
+    "pmid": "3024864",
+    "title": "A trial comparing nedocromil sodium (Tilade) and placebo in the management of bronchial asthma.",
+    "abstract": "In a double-blind group comparative trial nedocromil sodium (Tilade) at a dose of 4 mg four times daily was compared with placebo in the management of out-patients with bronchial asthma. Treatments were delivered by pressurized aerosol over a period of 28 days following a 2-week base-line during which patients continued on their usual therapy. Twenty-one patients entered the nedocromil sodium group and twenty entered the placebo group. All were using beclomethasone dipropionate aerosol as maintenance steroid therapy plus intermittent use of a bronchodilator taken by inhalation. The dose of steroid was reduced for all patients after 2 weeks of treatment and again for approximately half the patients after 3 weeks trial treatment. Patients in the nedocromil sodium treatment group improved in respect of Diary Card symptom scores and peak expiratory flow rate (PEFR), and in their requirements for inhaled bronchodilators. Patients in the placebo group were worse, particularly in respect of daytime asthma symptoms (P less than 0.01), bronchodilator use (P less than 0.05) and morning PEFR during the third week of trial treatment (P less than 0.05). More patients in the nedocromil sodium group than in the placebo group thought their treatment had been effective (P less than 0.05). Nedocromil was well tolerated. Despite the short duration of treatment imposed at this stage in the clinical evaluation of a new compound, our results were sufficiently encouraging to prompt further evaluation of nedocromil sodium over the longer period required (3-12 months) for the clinical assessment of a new treatment for chronic asthma.",
+    "authors": [
+      "Fyans PG",
+      "Chatterjee PC",
+      "Chatterjee SS"
+    ],
+    "journal": "Clinical allergy",
+    "year": 1986,
+    "mesh_terms": [
+      "Administration, Inhalation",
+      "Adolescent",
+      "Adult",
+      "Aged",
+      "Asthma",
+      "Clinical Trials as Topic",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Nedocromil",
+      "Placebos",
+      "Quinolines"
+    ],
+    "doi": "10.1111/j.1365-2222.1986.tb01988.x"
+  },
+  {
+    "pmid": "4136046",
+    "title": "Double-blind trial comparing two dosage schedules of beclomethasone dipropionate aerosol in the treatment of chronic bronchial asthma. Preliminary report of the Brompton Hospital-Medical Research Council Collaborative Trial.",
+    "abstract": "",
+    "authors": [],
+    "journal": "Lancet (London, England)",
+    "year": 1974,
+    "mesh_terms": [
+      "Administration, Oral",
+      "Administration, Topical",
+      "Aerosols",
+      "Anti-Inflammatory Agents",
+      "Asthma",
+      "Beclomethasone",
+      "Candidiasis",
+      "Chronic Disease",
+      "Clinical Trials as Topic",
+      "Drug Therapy, Combination",
+      "Glucocorticoids",
+      "Humans",
+      "Methylprednisolone",
+      "Mouth Diseases",
+      "Mouth Mucosa",
+      "Nystatin",
+      "Pharyngeal Diseases",
+      "Placebos",
+      "Prednisone",
+      "Propionates"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "3510540",
+    "title": "Treatment of acute asthma. Is combination therapy with sympathomimetics and methylxanthines indicated?",
+    "abstract": "The role of bronchodilator regimens combining a sympathomimetic and a methylxanthine in the treatment of acute exacerbations of asthma remains controversial. This report describes the outcome of 157 emergency room visits for asthma in which patients were randomly assigned to single-drug therapy with intravenous aminophylline, subcutaneous epinephrine, or inhaled isoproterenol or to one of three regimens combining a sympathomimetic and a methylxanthine. The increase in one-second forced expiratory volume after one hour of treatment with the two-drug combinations (0.79 +/- 0.07 liter) was significantly greater than for epinephrine alone (0.57 +/- 0.08 liter; p less than 0.05) but did not differ significantly from that occurring with therapy with isoproterenol alone (0.72 +/- 0.09 liter; p = NS). This disparity reflects the greater bronchodilation effected by isoproterenol as a single agent than by epinephrine, in the dosing schedules and routes of administration chosen. Among patients presenting with severe airflow obstruction (one-second forced expiratory volume 35 percent or less of normal), the bronchodilator response to isoproterenol alone was 0.88 +/- 0.14 liter versus 0.51 +/- 0.11 for epinephrine alone (p less than 0.05). It is concluded that the observed benefit derived from use of combination therapy depends on the dosage and potency of the particular sympathomimetic to which a methylxanthine is added, and on the severity of the airflow obstruction at presentation.",
+    "authors": [
+      "Fanta CH",
+      "Rossing TH",
+      "McFadden ER"
+    ],
+    "journal": "The American journal of medicine",
+    "year": 1986,
+    "mesh_terms": [
+      "Acute Disease",
+      "Adolescent",
+      "Adult",
+      "Aminophylline",
+      "Asthma",
+      "Clinical Trials as Topic",
+      "Drug Therapy, Combination",
+      "Emergencies",
+      "Epinephrine",
+      "Female",
+      "Forced Expiratory Volume",
+      "Humans",
+      "Isoproterenol",
+      "Male",
+      "Prospective Studies",
+      "Random Allocation",
+      "Theophylline",
+      "Time Factors"
+    ],
+    "doi": "10.1016/0002-9343(86)90041-0"
+  },
+  {
+    "pmid": "4906756",
+    "title": "A controlled trial of disodium cromoglycate (Intal) in the treatment of asthma.",
+    "abstract": "",
+    "authors": [
+      "Gianoutsos P",
+      "O'Donnell TV"
+    ],
+    "journal": "The New Zealand medical journal",
+    "year": 1969,
+    "mesh_terms": [
+      "Adult",
+      "Airway Resistance",
+      "Asthma",
+      "Chromones",
+      "Clinical Trials as Topic",
+      "Eosinophilia",
+      "Female",
+      "Humans",
+      "Male",
+      "Placebos",
+      "Spirometry"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "2114669",
+    "title": "[Asthma of effort in children and adolescents: the clinical picture, prevention and treatment].",
+    "abstract": "",
+    "authors": [
+      "Debelich M"
+    ],
+    "journal": "Terapevticheskii arkhiv",
+    "year": 1990,
+    "mesh_terms": [
+      "Adolescent",
+      "Asthma",
+      "Asthma, Exercise-Induced",
+      "Child",
+      "Cromolyn Sodium",
+      "Double-Blind Method",
+      "Drug Therapy, Combination",
+      "Exercise Test",
+      "Fenoterol",
+      "Humans",
+      "Randomized Controlled Trials as Topic",
+      "Respiration"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "26618001",
+    "title": "Statins in Asthma: Potential Beneficial Effects and Limitations.",
+    "abstract": "Asthma's sustenance as a global pandemic, across centuries, can be attributed to the lack of an understanding of its workings and the inability of the existing treatment modalities to provide a long lasting cure without major adverse effects. The discovery of statins boosted by a better comprehension of the pathophysiology of asthma in the past few decades has opened up a potentially alternative line of treatment that promises to be a big boon for the asthmatics globally. However, the initial excellent results from the preclinical and animal studies have not borne the results in clinical trials that the scientific world was hoping for. In light of this, this review analyzes the ways by which statins could benefit in asthma via their pleiotropic anti-inflammatory properties and explain some of the queries raised in the previous studies and provide recommendations for future studies in this field.",
+    "authors": [
+      "Bhattacharjee D",
+      "Chogtu B",
+      "Magazine R"
+    ],
+    "journal": "Pulmonary medicine",
+    "year": 2015,
+    "mesh_terms": [
+      "Animals",
+      "Asthma",
+      "Clinical Trials as Topic",
+      "Humans",
+      "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+      "Respiratory System"
+    ],
+    "doi": "10.1111/cea.12067"
+  },
+  {
+    "pmid": "6384911",
+    "title": "A randomized trial of A.C.T. (asthma care training) for kids.",
+    "abstract": "A randomized control trial of a curriculum, A.C.T. (Asthma Care Training) for Kids, was conducted. Seventy-six children between the ages of 8 and 12 years, whose asthma required treatment with medications at least 25% of the days per month, were randomly assigned to control and experimental groups. The control group received 4 1/2 hours of lecture presentations on asthma and its management. The experimental groups (consisting of four to seven children and their parents) received five 1-hour sessions comprising \"the treatment.\" Children and their parents were interviewed before the sessions and 3, 6, and 12 months after the completion of the experimental treatment. Use of emergency rooms and hospitals was determined by reviewing the records of these patients (all members of the Los Angeles Kaiser Permanente health care system) for the period of 1 year before and 1 year after the treatment. Results include (1) equivalent increases in knowledge and changes in beliefs in both groups, (2) significant changes in the self-reported compliance behaviors of the experimental group only, and (3) significant reductions in emergency room visits and days of hospitalization among those receiving the experimental treatment, compared with the control group. These changes represent an estimated savings of approximately $180 per child per year for those in the experimental group.",
+    "authors": [
+      "Lewis CE",
+      "Rachelefsky G",
+      "Lewis MA",
+      "de la Sota A",
+      "Kaplan M"
+    ],
+    "journal": "Pediatrics",
+    "year": 1984,
+    "mesh_terms": [
+      "Asthma",
+      "Child",
+      "Clinical Trials as Topic",
+      "Costs and Cost Analysis",
+      "Curriculum",
+      "Emergency Service, Hospital",
+      "Family",
+      "Female",
+      "Hospitalization",
+      "Humans",
+      "Length of Stay",
+      "Male",
+      "Patient Compliance",
+      "Patient Education as Topic",
+      "Random Allocation",
+      "Self Care"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "5331423",
+    "title": "Corticosteroids in treatment of chronic asthma.",
+    "abstract": "",
+    "authors": [
+      "Walsh SD",
+      "Grant IW"
+    ],
+    "journal": "British medical journal",
+    "year": 1966,
+    "mesh_terms": [
+      "Adolescent",
+      "Adult",
+      "Aged",
+      "Asthma",
+      "Child",
+      "Child, Preschool",
+      "Clinical Trials as Topic",
+      "Female",
+      "Follow-Up Studies",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Placebos",
+      "Prednisolone",
+      "Spirometry"
+    ],
+    "doi": "10.1136/bmj.2.5517.796"
+  },
+  {
+    "pmid": "4145412",
+    "title": "[Trial of Terbutaline administered orally in the treatment of asthma].",
+    "abstract": "",
+    "authors": [
+      "Charpin J",
+      "Aubert J",
+      "Gayrard P",
+      "Rocca-Serra JP",
+      "Leonardelli M",
+      "Razzouk H"
+    ],
+    "journal": "Marseille medical",
+    "year": 1972,
+    "mesh_terms": [
+      "Administration, Oral",
+      "Adrenergic beta-Agonists",
+      "Asthma",
+      "Bronchodilator Agents",
+      "Butylamines",
+      "Clinical Trials as Topic",
+      "Ethanolamines",
+      "Humans",
+      "Placebos",
+      "Resorcinols"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "2576327",
+    "title": "[Combination of theophylline and beta-adrenergic agonists in the treatment of asthma: efficacy and tolerance. Review of the literature].",
+    "abstract": "Theophylline and beta 2-mimetic agents have long been used concomitantly in the treatment of asthma, but divergent opinions are lingering on concerning the safety and effectiveness of this combination in both chronic and acute asthma. In this article, the effectiveness and safety of the combined treatment are reviewed on the basis of published experimental studies and controlled clinical trials. Altogether, these publications demonstrate that the combination is more effective in chronic asthma than either of the two drugs taken separately, but the results obtained are more discordant in acute asthma. Concerning the cardiovascular system, some experimental and epidemiological data have probably led to overestimate the cardiotoxicity of the combined treatment. In clinical studies the incidence of severe arrhythmia is low and certainly not higher than with a single drug therapy in both chronic and acute asthma. Owing to its safety, the theophylline-beta 2-mimetic combination can be prescribed widely in order to improve the treatment of the different forms of asthma.",
+    "authors": [
+      "Iung B",
+      "Laaban JP",
+      "Rochemaure J"
+    ],
+    "journal": "Revue de pneumologie clinique",
+    "year": 1989,
+    "mesh_terms": [
+      "Acute Disease",
+      "Adrenergic beta-Agonists",
+      "Arrhythmias, Cardiac",
+      "Asthma",
+      "Bronchi",
+      "Drug Therapy, Combination",
+      "Humans",
+      "Pulmonary Ventilation",
+      "Randomized Controlled Trials as Topic",
+      "Theophylline"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "7039400",
+    "title": "Terbutaline depot tablets in asthma. A clinical evaluation.",
+    "abstract": "A sustained release preparation of terbutaline sulphate has been formulated (Bricanyl depot tablets) in order to extend the duration and accordingly change the dosage regimen to twice a day. This presentation gives a summary of a clinical trial performed in order to study effect and side effects of terbutaline depot tablets 7.5 mg twice a day compared to terbutaline tablets 5 mg three times a day. Patients suffering from perennial asthma and with daily requirement of asthma medicine were accepted for the study. The trial was a double-blind cross-over, double dummy and randomized. The tablets were given in two consecutive periods of 7 day's duration each. The effect of terbutaline depot tablets was equal to the effect of the ordinary terbutaline tablets. The indication for using depot tablets in the basic treatment of bronchial asthma is a better patient compliance due to medication twice a day. Furthermore in patients with unstable bronchial asthma and in patients with morning dips in PEF the more stable plasma concentration may perhaps keep the patients in a more steady state.",
+    "authors": [
+      "Taudorf E",
+      "Bundgaard A",
+      "Fagerström PO",
+      "Weeke E",
+      "Weeke B"
+    ],
+    "journal": "Allergy",
+    "year": 1981,
+    "mesh_terms": [
+      "Adolescent",
+      "Adult",
+      "Asthma",
+      "Bronchodilator Agents",
+      "Clinical Trials as Topic",
+      "Delayed-Action Preparations",
+      "Female",
+      "Forced Expiratory Volume",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Peak Expiratory Flow Rate",
+      "Tablets",
+      "Terbutaline",
+      "Vital Capacity"
+    ],
+    "doi": "10.1111/j.1398-9995.1981.tb01861.x"
+  },
+  {
+    "pmid": "4581656",
+    "title": "[Clinical evaluation of Intal in the treatment of atopic bronchial asthma (double-blind study)].",
+    "abstract": "",
+    "authors": [
+      "Droszcz W",
+      "Madalińska M"
+    ],
+    "journal": "Polskie Archiwum Medycyny Wewnetrznej",
+    "year": 1973,
+    "mesh_terms": [
+      "Adolescent",
+      "Adult",
+      "Asthma",
+      "Chromones",
+      "Chromosomes",
+      "Clinical Trials as Topic",
+      "Evaluation Studies as Topic",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Placebos",
+      "Respiratory Therapy"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "4175489",
+    "title": "Disodium cromoglycate in the treatment of bronchial asthma.",
+    "abstract": "",
+    "authors": [
+      "Kidner PH",
+      "Meisner P",
+      "Pride NB",
+      "Pearson RS"
+    ],
+    "journal": "Lancet (London, England)",
+    "year": 1968,
+    "mesh_terms": [
+      "Adolescent",
+      "Adult",
+      "Asthma",
+      "Benzopyrans",
+      "Clinical Trials as Topic",
+      "Female",
+      "Humans",
+      "Isoproterenol",
+      "Male",
+      "Middle Aged",
+      "Placebos",
+      "Respiratory Therapy",
+      "Spirometry",
+      "Steroids"
+    ],
+    "doi": "10.1016/s0140-6736(68)92506-3"
+  },
+  {
+    "pmid": "6347749",
+    "title": "The prophylactic treatment of bronchial asthma in children with ketotifen: a double-blind comparison with placebo.",
+    "abstract": "Report on a double-blind parallel group comparison of ketotifen and placebo in two groups of twenty-five children with extrinsic bronchial asthma. Duration of treatment: 12 weeks, dosage adapted to body-weight, 0.5-1 mg b.i.d. Main parameters: Overall assessment of efficacy by the treating physician, total duration and frequency of asthmatic episodes per observation period. In all parameters ketotifen was far superior to placebo in spite of decreased concomitant bronchodilator therapy. The tolerance and acceptability of the compound was good.",
+    "authors": [
+      "Spicak V"
+    ],
+    "journal": "The Journal of international medical research",
+    "year": 1983,
+    "mesh_terms": [
+      "Asthma",
+      "Child",
+      "Child, Preschool",
+      "Clinical Trials as Topic",
+      "Double-Blind Method",
+      "Female",
+      "Humans",
+      "Ketotifen",
+      "Male",
+      "Placebos"
+    ],
+    "doi": "10.1177/030006058301100308"
+  },
+  {
+    "pmid": "4891861",
+    "title": "[Clinical-experimental trial of a bisolvon-ephedrine-theophylline-combination preparation for treatment of asthmatic dyspnea].",
+    "abstract": "",
+    "authors": [
+      "Günthner W",
+      "Haslreiter E",
+      "Krieger E"
+    ],
+    "journal": "Therapie der Gegenwart",
+    "year": 1968,
+    "mesh_terms": [
+      "Adult",
+      "Aged",
+      "Asthma",
+      "Clinical Trials as Topic",
+      "Dyspnea",
+      "Ephedrine",
+      "Expectorants",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Placebos",
+      "Theophylline"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "2689855",
+    "title": "[Clinical trial in a child population with bronchial asthma].",
+    "abstract": "A review of 104 children affected with respiratory tract allergies and or rhinoconjunctivitis in hyposensitizing therapy against gramineae pollens or moulds or house dust or Mix dermatophagoides is presented. Clinical evaluations were carried out in order to evaluate the clinical improvement after 1 year and after 4 years therapy (TIS). The best results were detected after 4 years obviously and in some allergic diseases more improvement were found from the authors. The most important results were obtained in bronchial asthma; the worse benefits were detected in allergic conjunctivitis.",
+    "authors": [
+      "Mancini S",
+      "Wietrzykowska R",
+      "Viviano G",
+      "Pastori A",
+      "Giampaolo R"
+    ],
+    "journal": "Minerva pediatrica",
+    "year": 1989,
+    "mesh_terms": [
+      "Adolescent",
+      "Asthma",
+      "Child",
+      "Child, Preschool",
+      "Clinical Trials as Topic",
+      "Desensitization, Immunologic",
+      "Female",
+      "Follow-Up Studies",
+      "Humans",
+      "Longitudinal Studies",
+      "Male",
+      "Remission Induction",
+      "Respiratory Hypersensitivity"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "390511",
+    "title": "[Multicenter controlled trial of desensitization treatment of pollen-induced hay fever and asthma with pollinex vaccine].",
+    "abstract": "",
+    "authors": [
+      "Adamek-Guzik T",
+      "Szczeklik A",
+      "Wołoszyński J"
+    ],
+    "journal": "Polski tygodnik lekarski (Warsaw, Poland : 1960)",
+    "year": 1979,
+    "mesh_terms": [
+      "Adolescent",
+      "Adult",
+      "Asthma",
+      "Child",
+      "Clinical Trials as Topic",
+      "Desensitization, Immunologic",
+      "Female",
+      "Humans",
+      "Immunotherapy",
+      "Male",
+      "Middle Aged",
+      "Poland",
+      "Pollen",
+      "Rhinitis, Allergic, Seasonal"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "2660783",
+    "title": "Ketotifen in asthma.",
+    "abstract": "Sixty children aged 5-13 years with moderately severe asthma took part in a double-blind, placebo-controlled trial of ketotifen. The design incorporated a 22 week study period, the addition of ketotifen or placebo to the current medication, and a controlled withdrawal of the regular therapy. Children receiving ketotifen showed significantly lower mean numbers of asthma attacks and less absence from school. The addition of ketotifen to existing treatment was associated with marginally significant changes in rates of day and night wheezing. In the second phase of study, additional therapy was withdrawn from both the ketotifen and placebo groups which resulted in a high (percentage) withdrawal. Children receiving ketotifen did not have a significantly lower failure rate than those given placebo.",
+    "authors": [
+      "Dawson KP",
+      "Fergusson DM",
+      "Horwood LJ",
+      "Mogridge N"
+    ],
+    "journal": "Australian paediatric journal",
+    "year": 1989,
+    "mesh_terms": [
+      "Asthma",
+      "Child",
+      "Clinical Trials as Topic",
+      "Double-Blind Method",
+      "Drug Therapy, Combination",
+      "Female",
+      "Humans",
+      "Ketotifen",
+      "Male",
+      "Placebos",
+      "Random Allocation",
+      "Time Factors"
+    ],
+    "doi": "10.1111/j.1440-1754.1989.tb01423.x"
+  },
+  {
+    "pmid": "51576",
+    "title": "Menaquinone (vitamin K2) therapy for bronchial asthma. II. Clinical effect of menaquinone on bronchial asthma.",
+    "abstract": "A series of 191 patients with bronchial asthma were treated with menaquinone for not less than one year to investigate the clinical effects of the drug. The clinical effect may be summarized as follows: 1) The therapy with menaquinone only gave an effective rate oo 90.9% (a markedly effective rate of 42.4%) in mild patients, an effective rate of 86.7% (a markedly effective rate of 30.0%) in moderate patients, and effective rate of 72.7% (a markedly effective rate of 27.3%) in severe patients; namely, considerably a high effective rate was attained by the therapy in the respective patients. 2) The therapy with menaquinone, in conjunction with hyposensitization therapy, gave an effective rate of 100% (a markedly effective rate of 33.3%). 3) The double blind study of the clinical effects of menaquinone revealed that placebo used in the study was effective on only 16.7% of the patients treated with it, and that the incidence of recurrence due to withdrawal of meaquinone therapy tended to be low in the patients treated with the drug for a long period of time.",
+    "authors": [
+      "Kimur I",
+      "Tanizaki Y",
+      "Sato S",
+      "Saito K",
+      "Takahashi K"
+    ],
+    "journal": "Acta medica Okayama",
+    "year": 1975,
+    "mesh_terms": [
+      "Asthma",
+      "Azathioprine",
+      "Clinical Trials as Topic",
+      "Desensitization, Immunologic",
+      "Drug Combinations",
+      "Gold",
+      "Histamine",
+      "Humans",
+      "Mercaptopurine",
+      "Placebos",
+      "Vitamin K",
+      "gamma-Globulins"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "1088915",
+    "title": "Letter: Aerosol propellants.",
+    "abstract": "",
+    "authors": [
+      "Silverglade A"
+    ],
+    "journal": "JAMA",
+    "year": 1975,
+    "mesh_terms": [
+      "Aerosol Propellants",
+      "Aerosols",
+      "Arteries",
+      "Asthma",
+      "Clinical Trials as Topic",
+      "Half-Life",
+      "Humans",
+      "Placebos",
+      "Time Factors",
+      "Veins"
+    ],
+    "doi": "10.1001/jama.231.2.136b"
+  },
+  {
+    "pmid": "4890057",
+    "title": "\"Intal\" in the treatment of asthma.",
+    "abstract": "",
+    "authors": [
+      "Ford RM"
+    ],
+    "journal": "The Medical journal of Australia",
+    "year": 1969,
+    "mesh_terms": [
+      "Asthma",
+      "Chromones",
+      "Clinical Trials as Topic",
+      "Humans",
+      "Pollen",
+      "Respiratory Therapy",
+      "Seasons"
+    ],
+    "doi": "10.5694/j.1326-5377.1969.tb105463.x"
+  },
+  {
+    "pmid": "6169751",
+    "title": "Postgraduate course presentation. Cromolyn sodium in the treatment of asthma: changing concepts.",
+    "abstract": "",
+    "authors": [
+      "Bernstein IL"
+    ],
+    "journal": "The Journal of allergy and clinical immunology",
+    "year": 1981,
+    "mesh_terms": [
+      "Administration, Intranasal",
+      "Airway Obstruction",
+      "Animals",
+      "Asthma",
+      "Bronchial Spasm",
+      "Chemotactic Factors",
+      "Clinical Trials as Topic",
+      "Cromolyn Sodium",
+      "Double-Blind Method",
+      "Guinea Pigs",
+      "Haplorhini",
+      "Histamine Release",
+      "Humans",
+      "Interleukin-8",
+      "Long-Term Care",
+      "Mast Cells",
+      "Sulfur Dioxide",
+      "Theophylline"
+    ],
+    "doi": "10.1016/0091-6749(81)90147-0"
+  },
+  {
+    "pmid": "4947600",
+    "title": "[Clinical trial of disodium cromoglycate in bronchial asthma--evaluation by double-blind crossover test].",
+    "abstract": "",
+    "authors": [
+      "Ito K",
+      "Hattori J",
+      "Mizutani N",
+      "Iwakura M",
+      "Ito K"
+    ],
+    "journal": "Arerugi = [Allergy]",
+    "year": 1971,
+    "mesh_terms": [
+      "Adolescent",
+      "Adult",
+      "Asthma",
+      "Chromones",
+      "Clinical Trials as Topic",
+      "Evaluation Studies as Topic",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Placebos"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "6225672",
+    "title": "Protective effect of fenoterol spray, ipratropium bromide plus fenoterol spray, and oral clenbuterol, on exercise-induced asthma in children. Double blind controlled and randomized clinical trial.",
+    "abstract": "",
+    "authors": [
+      "Agostini M",
+      "Barlocco G",
+      "Mastella G"
+    ],
+    "journal": "European journal of respiratory diseases. Supplement",
+    "year": 1983,
+    "mesh_terms": [
+      "Administration, Intranasal",
+      "Administration, Oral",
+      "Adolescent",
+      "Aerosols",
+      "Asthma",
+      "Asthma, Exercise-Induced",
+      "Atropine Derivatives",
+      "Child",
+      "Clenbuterol",
+      "Clinical Trials as Topic",
+      "Double-Blind Method",
+      "Drug Combinations",
+      "Ethanolamines",
+      "Fenoterol",
+      "Humans",
+      "Ipratropium"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "3315268",
+    "title": "Treatment of nocturnal asthma: the role of sustained-release theophylline and oral beta-2-mimetics.",
+    "abstract": "In two double-blind, multiple-dose cross-over studies the therapeutic effects of SR theophylline preparations given once each night (mean 11.2 mg/kg per day) versus twice daily in equal doses (mean 10.3 mg/kg per day) (study I) and SR-terbutaline in equal doses (mean 0.25 mg/kg per day) versus SR theophylline in unequally divided daily doses (mean 5.3 mg/kg morning dose, 10.6 mg/kg evening dose) study II) were compared in 19 patients with nocturnal asthma. At the end of each treatment period drug serum concentrations and PEFR were measured every 2 hr over a 24-hr period. With the twice-daily, equally divided regimen, serum theophylline concentrations were lower at night than during the day (mean 9.4 +/- 0.9 versus 11.3 +/- 1.0 mg/l). With the single evening administration, serum theophylline concentrations were considerably higher at night (Cmax 16.3 +/- 1.4 mg/l) and the circadian variation of PEFR was significantly reduced. PEFR was higher during night and early morning (283 +/- 14 versus 217 +/- 11 l/min, P less than 0.005). During daytime in study II, PEFR values were slightly higher with theophylline than terbutaline. There was no significant difference in peak flow between either treatment during the night and early morning. However, additional use of inhaled beta-2-mimetics because of asthmatic attacks occurred more often during terbutaline (79 times in 8/10 patients) than theophylline treatment (29 times in 5/10 patients). Symptom scores, number of attacks and side-effects clearly favor the theophylline regimen. We conclude that for patients with nocturnal asthma a once-nightly dose of SR theophylline can be sufficient for stabilization of the airways.",
+    "authors": [
+      "Wilkens JH",
+      "Wilkens H",
+      "Heins M",
+      "Kurtin L",
+      "Oellerich M",
+      "Sybrecht GW"
+    ],
+    "journal": "Chronobiology international",
+    "year": 1987,
+    "mesh_terms": [
+      "Adult",
+      "Asthma",
+      "Circadian Rhythm",
+      "Clinical Trials as Topic",
+      "Delayed-Action Preparations",
+      "Double-Blind Method",
+      "Drug Administration Schedule",
+      "Humans",
+      "Middle Aged",
+      "Peak Expiratory Flow Rate",
+      "Terbutaline",
+      "Theophylline"
+    ],
+    "doi": "10.3109/07420528709083528"
+  },
+  {
+    "pmid": "1096686",
+    "title": "Pyridoxine treatment of childhood bronchial asthma.",
+    "abstract": "Urinary xanthurenic and kynurenic acid levels were measured in five patients while they were receiving 50 mg and 100 mg of pyridoxine. The levels of tryptophane metabolite decreased progressively as the dose was increased but remained above basal levels. There was marked clinical improvement in these patients while receiving the higher dose only. The double-blind study with 76 asthmatic children followed for five months indicated significant improvement in asthma following pyridoxine therapy (200 mg daily) and reduction in dosage of bronchodilators and cortisone. The data suggest that these children with severe bronchial asthma had a metabolic block in tryptophane metabolism, which was benefitted by long-term treatment with large doses of pyridoxine.",
+    "authors": [
+      "Collipp PJ",
+      "Goldzier S",
+      "Weiss N",
+      "Soleymani Y",
+      "Snyder R"
+    ],
+    "journal": "Annals of allergy",
+    "year": 1975,
+    "mesh_terms": [
+      "Adolescent",
+      "Asthma",
+      "Child",
+      "Child, Preschool",
+      "Clinical Trials as Topic",
+      "Dose-Response Relationship, Drug",
+      "Humans",
+      "Kynurenic Acid",
+      "Placebos",
+      "Pyridoxine",
+      "Tryptophan",
+      "Xanthurenates"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "346628",
+    "title": "Immunotherapy in cat-induced asthma. Double-blind trial with evaluation of bronchial responses to cat allergen and histamine.",
+    "abstract": "Ten asymptomatic patients with normal pulmonary function were selected for a double-blind trial of immunotherapy in cat-induced asthma. Each patient had a positive prick test to cat pelt extract and also a positive bronchial challenge response to the same extract. Patients were randomly assigned to active treatment or placebo groups and received weekly or biweekly injections over a 3 to 4-month period. The 5 patients who received the active treatment received a cumulative dose of cat pelt extract that ranged from 16.4 to 44.8 mg of total solid containing 1.7 to 4.7 mg of cat allergen 1. Apparent systemic reactions were observed in 3 patients who received the placebo and 3 patients who received the active treatment. The 5 patients who received the active treatment showed a reduction in skin reactivity to cat pelt extract as well as a significant mean reduction in bronchial sensitivity to the same extract. The 5 patients who received the placebo showed no significant changes in skin reactivity or bronchial sensitivity to cat pelt extract. Bronchial response to histamine did not change significantly in either the active treatment of the placebo group.",
+    "authors": [
+      "Taylor WW",
+      "Ohman JL",
+      "Lowell FC"
+    ],
+    "journal": "The Journal of allergy and clinical immunology",
+    "year": 1978,
+    "mesh_terms": [
+      "Allergens",
+      "Animals",
+      "Asthma",
+      "Bronchi",
+      "Cats",
+      "Clinical Trials as Topic",
+      "Double-Blind Method",
+      "Hair",
+      "Histamine",
+      "Humans",
+      "Immunotherapy",
+      "Skin Tests"
+    ],
+    "doi": "10.1016/0091-6749(78)90048-9"
+  },
+  {
+    "pmid": "4386112",
+    "title": "[On the treatment of bronchial asthma with antihistaminics. Clinical and experimental results with 1-dimethylaminoethyl-2-alpha-pyridyl-4-oxo-1,2,3,4-tetrahydroquinazoline].",
+    "abstract": "",
+    "authors": [
+      "Bottke H",
+      "Günthner W"
+    ],
+    "journal": "Arzneimittel-Forschung",
+    "year": 1966,
+    "mesh_terms": [
+      "Asthma",
+      "Bronchial Diseases",
+      "Bronchial Spasm",
+      "Clinical Trials as Topic",
+      "Histamine H1 Antagonists",
+      "Humans",
+      "Placebos",
+      "Quinazolines",
+      "Spirometry"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "8801107",
+    "title": "Efficacy and safety of salmeterol in childhood asthma.",
+    "abstract": "UNLABELLED: In children with asthma, twice daily administration of salmeterol 25 micrograms, salmeterol 50 micrograms and salbutamol 200 micrograms were compared in two, 3-month, double-blind, parallel group studies, one using metered dose inhalers (MDIs), the other using dry powder inhalers (Diskhaler, DPIs). Both studies were continued for a further 9 months during which time exacerbation rates, lung function at the clinic and adverse events were monitored. Similarities in design and methodology of the two studies justified a combined analysis. Eight hundred and forty-seven asthmatic children aged between 4 and 16 (mean 10.1) years, requiring inhaled beta 2-agonist treatment were randomised to treatment. After a 2 week run-in when all bronchodilator therapy was withdrawn, 279 patients received salmeterol 25 micrograms bd, 290 patients salmeterol 50 micrograms bd and 278 patients salbutamol 200 micrograms bd. After 3 months' treatment the change from baseline in daily morning and evening peak expiratory flow (PEF) was significantly greater with salmeterol 50 micrograms bd than with salbutamol 200 micrograms bd (P < 0.001). Salmeterol 50 micrograms bd was also significantly better than salmeterol 25 micrograms bd at improving mean morning PEF (P = 0.017) but both treatments had a similar effect on evening PEF. Analysis of variance showed an interaction between baseline PEF less than 100% predicted normal value and treatment outcome. Analysis of this sub-set of patients with lower lung function revealed similar results to the total population although the improvements in PEF from baseline were greater. Data from both studies, showed that the improvement in lung function was maintained throughout 12 months' treatment. Patients receiving salmeterol 50 micrograms bd had significantly more symptom-free nights (P < 0.01) and a higher percentage of rescue bronchodilator-free days (P = 0.01). The incidence of asthma exacerbations was evenly distributed between the three treatment groups and there was no evidence of any change in the rate of occurrence of exacerbations over the 12 month period. Adverse events were no different across treatment groups or across age groups and were primarily related to the patients' disease state. CONCLUSION: Salmeterol 50 micrograms bd is the appropriate dose for the treatment of children with mild to moderate asthma.",
+    "authors": [
+      "Lenney W",
+      "Pedersen S",
+      "Boner AL",
+      "Ebbutt A",
+      "Jenkins MM"
+    ],
+    "journal": "European journal of pediatrics",
+    "year": 1995,
+    "mesh_terms": [
+      "Administration, Inhalation",
+      "Adolescent",
+      "Adrenergic beta-Agonists",
+      "Albuterol",
+      "Analysis of Variance",
+      "Asthma",
+      "Child",
+      "Child, Preschool",
+      "Dose-Response Relationship, Drug",
+      "Double-Blind Method",
+      "Female",
+      "Humans",
+      "Male",
+      "Medical Records",
+      "Multicenter Studies as Topic",
+      "Peak Expiratory Flow Rate",
+      "Randomized Controlled Trials as Topic",
+      "Recurrence",
+      "Salmeterol Xinafoate",
+      "Time Factors"
+    ],
+    "doi": "10.1007/BF01958642"
+  },
+  {
+    "pmid": "396687",
+    "title": "Effect of an inhaled antihistamine (clemastine) as a bronchodilator and as a maintenance treatment in asthma.",
+    "abstract": "Although intravenous chlorpheniramine can cause bronchodilatation, oral and parenteral antihistamines have not proved useful in treating asthma. Inhaled antihistamines may cause throat irritation, but a recent study of the antihistamine, clemastine, showed it to be an effective bronchodilator without irritant effects. We have extended these studies to determine the site of action of inhaled clemastine and to assess its potential usefulness both as a bronchodilator and as a maintenance treatment. Eleven stable asthmatic patients received inhaled clemastine and placebo and the effect was assessed by serial maximum expiratory flow volume (MEFV) curves breathing air and a helium/oxygen (He/O2) mixture. There was no significant improvement in peak flow rates during air breathing after clemastine and no significant difference between the responses to drug and placebo. Minor but significant changes were seen in some flow measurements on the downslope of the MEFV curve during air and He/O2 breathing, and these are tentatively ascribed to a dilating effect of clemastine on peripheral airways where flow is laminar. Subsequent administration of inhaled isoprenaline showed the patients to be still capable of significant bronchodilatation. The addition of clemastine, from a pressurised aerosol, to the patients' therapeutic regimen for two weeks was no more effective than placebo in controlling airflow obstruction, and did not reduce the need for standard bronchodilators. In our patients clemastine was not a clinically useful bronchodilator either acutely or as a maintenance treatment for asthma.",
+    "authors": [
+      "Partridge MR",
+      "Saunders KB"
+    ],
+    "journal": "Thorax",
+    "year": 1979,
+    "mesh_terms": [
+      "Adult",
+      "Aerosols",
+      "Aged",
+      "Asthma",
+      "Bronchodilator Agents",
+      "Clemastine",
+      "Clinical Trials as Topic",
+      "Drug Evaluation",
+      "Female",
+      "Humans",
+      "Male",
+      "Maximal Expiratory Flow Rate",
+      "Middle Aged",
+      "Placebos",
+      "Pyrrolidines"
+    ],
+    "doi": "10.1136/thx.34.6.771"
+  },
+  {
+    "pmid": "367414",
+    "title": "Cinnarizine in the treatment of chronic asthma.",
+    "abstract": "1 Cinnarizine, an inhibitor of calcium ion transport across smooth muscle cell membrane, has been shown to exert an anti-asthmatic effect in patients with chronic asthma. 2 It is postulated that antagonism to calcium ion transport across the mast cell membrane may cause the compound to have a pharmacological effect similar to sodium cromoglycate. 3 Cinnarizine is orally active and its therapeutic effect is demonstrated in a double-blind, cross-over, placebo controlled study. 4 Patient benefit was shown by a significant improvement in peak flow rate. A non-significant trend towards a reduction in symptomatic bronchodilator usage and a decrease in asthma symptom score was also shown. 5 It is concluded that cinnarizine could well prove to be the first of a new family of anti-asthmatic drugs offering a protective effect when taken systemically.",
+    "authors": [
+      "Emanuel MB",
+      "Chamberlain JA",
+      "Whiting S",
+      "Rigden BG",
+      "Craven AH"
+    ],
+    "journal": "British journal of clinical pharmacology",
+    "year": 1979,
+    "mesh_terms": [
+      "Adult",
+      "Asthma",
+      "Cinnarizine",
+      "Clinical Trials as Topic",
+      "Double-Blind Method",
+      "Drug Evaluation",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Piperazines",
+      "Placebos"
+    ],
+    "doi": "10.1111/j.1365-2125.1979.tb00920.x"
+  },
+  {
+    "pmid": "5328630",
+    "title": "A study of long acting ephedrine-resinate preparation in the treatment of bronchial asthma. (A double blind trial).",
+    "abstract": "",
+    "authors": [
+      "Shivpuri DN",
+      "Jain SK"
+    ],
+    "journal": "The Journal of the Association of Physicians of India",
+    "year": 1966,
+    "mesh_terms": [
+      "Asthma",
+      "Clinical Trials as Topic",
+      "Delayed-Action Preparations",
+      "Ephedrine",
+      "Humans",
+      "Respiratory Function Tests"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "2971515",
+    "title": "Should ipratropium bromide be added to beta-agonists in treatment of acute severe asthma?",
+    "abstract": "In a double-blind randomized trial, 40 patients with acute severe asthma were given either nebulized salbutamol, 5 mg, or salbutamol, 5 mg mixed with ipratropium bromide 500 micrograms, on admission to hospital and again two hours later. There was no significant difference between the mean peak flows of the two treatment groups at any time. However, two hours after each treatment, there were fewer subjects in the ipratropium and salbutamol group whose peak flow rates had fallen back toward baseline levels than in the salbutamol only treatment group. Thus, although ipratropium did not improve the overall maximal bronchodilator response, it may have prolonged the duration of the response, which would be a clinically useful effect.",
+    "authors": [
+      "Higgins RM",
+      "Stradling JR",
+      "Lane DJ"
+    ],
+    "journal": "Chest",
+    "year": 1988,
+    "mesh_terms": [
+      "Acute Disease",
+      "Adult",
+      "Albuterol",
+      "Asthma",
+      "Atropine Derivatives",
+      "Clinical Trials as Topic",
+      "Double-Blind Method",
+      "Drug Therapy, Combination",
+      "Female",
+      "Humans",
+      "Ipratropium",
+      "Male",
+      "Middle Aged",
+      "Peak Expiratory Flow Rate",
+      "Random Allocation"
+    ],
+    "doi": "10.1378/chest.94.4.718"
+  },
+  {
+    "pmid": "6380332",
+    "title": "Acupuncture and bronchial asthma.",
+    "abstract": "Seventeen patients with stable bronchial asthma were randomly assigned to receive either correct acupuncture or placebo acupuncture. The study lasted 11 weeks and consisted of a pre-therapy, therapy, and post-therapy period. The patients received 10 treatments during a 5-week period. The effect of therapy on pulmonary function was assessed daily by the patients at home. Morning and evening peak expiratory flow rate, number of puffs beta 2-agonist aerosol needed, as well as subjective symptoms of asthma were recorded in a diary. The correctly treated group improved significantly throughout the study. Also, compared with the placebo group, a significant improvement was found in all assessed parameters 2 weeks after beginning therapy. Hereafter, no differences could be shown.",
+    "authors": [
+      "Christensen PA",
+      "Laursen LC",
+      "Taudorf E",
+      "Sørensen SC",
+      "Weeke B"
+    ],
+    "journal": "Allergy",
+    "year": 1984,
+    "mesh_terms": [
+      "Acupuncture Therapy",
+      "Asthma",
+      "Clinical Trials as Topic",
+      "Double-Blind Method",
+      "Forced Expiratory Volume",
+      "Humans",
+      "Peak Expiratory Flow Rate",
+      "Statistics as Topic",
+      "Time Factors"
+    ],
+    "doi": "10.1111/j.1398-9995.1984.tb01956.x"
+  },
+  {
+    "pmid": "3884180",
+    "title": "Treatment of nocturnal asthma in children with a single dose of sustained-release theophylline taken after supper.",
+    "abstract": "In a placebo-controlled, double-blind cross-over study of 2 X 3 weeks' duration, twenty-four children with stable asthma who were wheezing during the night, were treated with a single dose of sustained-release theophylline (SRT) taken after supper. The mean serum theophylline levels 4 and 12 hr after dosing were 7.7 and 11.2 mg/l, respectively. Few side-effects were seen. The mean morning peak expiratory flow (PEF) was significantly higher during SRT treatment (244 +/- 11 1/min) than during placebo treatment (207 +/- 121/min) (P less than 0.001). The mean difference between morning and evening PEF was reduced from 20.7 to 8.6% by treatment with SRT (P less than 0.001). Theophylline significantly reduced the severity of attacks of bronchoconstriction during the night as judged by PEF measurement and use of extra bronchodilator treatment per attack. The response to inhaled terbutaline was increased during SRT treatment compared with that in the placebo period, however pre-treatment PEF did differ significantly between the two periods. The number of acute asthma attacks during the night, the number of symptom-free nights and the use of extra bronchodilators during the night were all significantly improved by SRT treatment (P less than 0.001). Seventeen children correctly identified the SRT period whilst six children showed no preference for either period. A single dose of SRT taken after supper is an effective treatment for nocturnal asthma in children.",
+    "authors": [
+      "Pedersen S"
+    ],
+    "journal": "Clinical allergy",
+    "year": 1985,
+    "mesh_terms": [
+      "Adolescent",
+      "Asthma",
+      "Child",
+      "Clinical Trials as Topic",
+      "Delayed-Action Preparations",
+      "Double-Blind Method",
+      "Female",
+      "Humans",
+      "Male",
+      "Peak Expiratory Flow Rate",
+      "Theophylline"
+    ],
+    "doi": "10.1111/j.1365-2222.1985.tb02259.x"
+  },
+  {
+    "pmid": "12854625",
+    "title": "Spacers and nebulisers for the delivery of beta-agonists in non-life-threatening acute asthma.",
+    "abstract": "BACKGROUND: In asthma exacerbations, higher doses of inhaled beta-agonists are used to overcome acute bronchoconstriction. Traditionally, wet nebulisation has been used, but metered-dose inhaler with a spacer device is an alternative delivery method. OBJECTIVE: To compare the clinical outcomes in adults and children with acute asthma, presenting in emergency departments or in the community, who have been randomised to beta-agonists given by two different delivery. METHODS: a metered-dose inhaler with spacer or a nebuliser. RESULTS: A Cochrane review has found no important differences between the two delivery methods in adults. Children may suffer fewer side effects with spacer delivery. CONCLUSIONS: Individual response to treatment cannot be predicted, but many studies overcame this problem by using frequent repeated doses of beta-agonists (one respule via nebuliser or four separate actuations of a metered-dose inhaler through a spacer) every 10-15 min, titrated against the clinical response of the patients. This approach is advocated in clinical practice.",
+    "authors": [
+      "Cates C"
+    ],
+    "journal": "Respiratory medicine",
+    "year": 2003,
+    "mesh_terms": [
+      "Acute Disease",
+      "Administration, Inhalation",
+      "Adrenergic beta-Agonists",
+      "Adult",
+      "Asthma",
+      "Child",
+      "Emergencies",
+      "Hospitalization",
+      "Humans",
+      "Inhalation Spacers",
+      "Nebulizers and Vaporizers",
+      "Randomized Controlled Trials as Topic"
+    ],
+    "doi": "10.1016/s0954-6111(03)00021-0"
+  },
+  {
+    "pmid": "6756319",
+    "title": "Asthma treatment with a new corticosteroid aerosol, budesonide, administered twice daily by spacer inhaler.",
+    "abstract": "In a double-blind crossover trial a new corticosteroid aerosol, budesonide, delivered by spacer inhaler twice daily, was found to be at least as effective in controlling childhood asthma as beclomethasone dipropionate administration four times a day. The twice daily dosage schedule of the new preparation offers considerable advantages for compliance with therapy in schoolchildren. Previous studies have shown that lung deposition of aerosol is increased by the use of a tube spacer between the pressurised aerosol inhaler and the mouth. This technique of administration may improve the efficacy of corticosteroids in the treatment of asthma.",
+    "authors": [
+      "Field HV",
+      "Jenkinson PM",
+      "Frame MH",
+      "Warner JO"
+    ],
+    "journal": "Archives of disease in childhood",
+    "year": 1982,
+    "mesh_terms": [
+      "Administration, Topical",
+      "Adolescent",
+      "Aerosols",
+      "Anti-Inflammatory Agents",
+      "Asthma",
+      "Beclomethasone",
+      "Budesonide",
+      "Child",
+      "Clinical Trials as Topic",
+      "Double-Blind Method",
+      "Drug Administration Schedule",
+      "Female",
+      "Glucocorticoids",
+      "Humans",
+      "Male",
+      "Pregnenediones",
+      "Respiratory Function Tests"
+    ],
+    "doi": "10.1136/adc.57.11.864"
+  },
+  {
+    "pmid": "4909194",
+    "title": "[Single-blind trial of disodium cromoglicate (Intal) for the treatment of bronchial asthma].",
+    "abstract": "",
+    "authors": [
+      "Kurokawa D"
+    ],
+    "journal": "Arerugi = [Allergy]",
+    "year": 1970,
+    "mesh_terms": [
+      "1-Propanol",
+      "Adolescent",
+      "Adult",
+      "Aerosols",
+      "Asthma",
+      "Chromones",
+      "Clinical Trials as Topic",
+      "Eosinophils",
+      "Ethers",
+      "Female",
+      "Humans",
+      "Leukocyte Count",
+      "Male",
+      "Middle Aged",
+      "Placebos",
+      "Steroids"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "6986249",
+    "title": "Ketotifen for asthma.",
+    "abstract": "",
+    "authors": [],
+    "journal": "Drug and therapeutics bulletin",
+    "year": 1980,
+    "mesh_terms": [
+      "Administration, Oral",
+      "Asthma",
+      "Child",
+      "Clinical Trials as Topic",
+      "Humans",
+      "Piperidines",
+      "Thiophenes"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "3883857",
+    "title": "Comparison of nebulized terbutaline and subcutaneous epinephrine in the treatment of acute asthma.",
+    "abstract": "Nineteen children who presented for treatment of acute asthma symptoms were studied. They were randomized to receive either subcutaneous epinephrine 0.01 mg/kg (0.3 mg maximum) or nebulized terbutaline 1 mg in 2 mL normal saline. The drugs were administered using the double-blind method. Each patient received either subcutaneous epinephrine with concurrent nebulized normal saline or nebulized terbutaline with a concurrent subcutaneous injection of normal saline. Depending on the patient's clinical status, up to three doses of the same drug and placebo were administered. Pulmonary functions (FEV1, FVC, FEF25-75), heart rate, respiratory rate, and pulmonary index were obtained before treatment, at 20 minutes, and at one hour after the final treatment. Except for the baseline respiratory rate, the mean number of treatments, pulmonary index, heart rate, and respiratory rate (at 20 minutes and one hour) were not statistically different. Pulmonary functions were not significantly different at any time. The one-hour post-treatment pulmonary functions (percentage of predicted normal) for terbutaline and epinephrine were FEV1, 49.2 +/- 18.4% and 49.4 +/- 16.9%; FVC, 72.7 +/- 23.4% and 62.7 +/- 21.6%; and FEF25-75, 31.8 +/- 18.6% and 39.0 +/- 12.2%, respectively. The data presented support our hypothesis that terbutaline by nebulization is at least as effective as epinephrine in the management of children with similar degrees of pulmonary obstruction.",
+    "authors": [
+      "Uden DL",
+      "Goetz DR",
+      "Kohen DP",
+      "Fifield GC"
+    ],
+    "journal": "Annals of emergency medicine",
+    "year": 1985,
+    "mesh_terms": [
+      "Acute Disease",
+      "Adolescent",
+      "Aerosols",
+      "Asthma",
+      "Child",
+      "Clinical Trials as Topic",
+      "Double-Blind Method",
+      "Epinephrine",
+      "Female",
+      "Heart Rate",
+      "Humans",
+      "Injections, Subcutaneous",
+      "Male",
+      "Random Allocation",
+      "Respiratory Function Tests",
+      "Terbutaline"
+    ],
+    "doi": "10.1016/s0196-0644(85)80445-5"
+  },
+  {
+    "pmid": "2692022",
+    "title": "[Treatment of nocturnal bronchial asthma].",
+    "abstract": "To date, the pathogenesis of nocturnal bronchiale asthma has not been completely clarified. For the treatment of nocturnal asthma that fails to respond to beta-2-sympathomimetics or inhalative glucocorticosteroids, theophylline in a delayed release form or delayed-release oral beta-2-sympathomimetics are available. In a double-blind crossover study, 10 patients with nocturnal or early-morning bronchial asthma were treated for one week with theophylline 390-900 mg daily (1/3 of the total dose being given in the morning, 2/3 in the evening) and one week with terbutaline 15 mg daily (7.5 mg in the morning and 7.5 mg in the evening). No significant differences were observed with respect to the measured peak flow values in the night and early morning. However, those receiving terbutaline more frequently required the additional application of inhalative beta-2-sympathomimetics for respiratory distress. Thus, the sustained-release form of theophylline is the more suitable drug for the treatment of nocturnal bronchial asthma. As a further study revealed, the sole administration of a sustained-release form of theophylline in the evening suffices. In the future, apart from theophylline in a delayed-release form, inhalative beta-2-sympathomimetics with a long-term effect will play an important role in the treatment of nocturnal breathing disorders.",
+    "authors": [
+      "Schnabel D",
+      "Sybrecht GW"
+    ],
+    "journal": "Pneumologie (Stuttgart, Germany)",
+    "year": 1989,
+    "mesh_terms": [
+      "Adolescent",
+      "Adult",
+      "Asthma",
+      "Clinical Trials as Topic",
+      "Delayed-Action Preparations",
+      "Double-Blind Method",
+      "Drug Administration Schedule",
+      "Humans",
+      "Middle Aged",
+      "Sleep Apnea Syndromes",
+      "Terbutaline",
+      "Theophylline"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "4264310",
+    "title": "A clinical trial of bromhexine.",
+    "abstract": "",
+    "authors": [
+      "Thompson KJ",
+      "Reeve J"
+    ],
+    "journal": "The New Zealand medical journal",
+    "year": 1972,
+    "mesh_terms": [
+      "Aniline Compounds",
+      "Asthma",
+      "Bronchial Diseases",
+      "Bronchitis",
+      "Chronic Disease",
+      "Clinical Trials as Topic",
+      "Cough",
+      "Expectorants",
+      "Female",
+      "Glycosaminoglycans",
+      "Humans",
+      "Male",
+      "Nitrogen",
+      "Physical Exertion",
+      "Placebos",
+      "Pulmonary Emphysema",
+      "Respiratory Function Tests",
+      "Spirometry",
+      "Sputum",
+      "Toluene"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "3518526",
+    "title": "A double-blind, multicenter immunotherapy trial in children, using a purified and standardized Cladosporium herbarum preparation. I. Clinical results.",
+    "abstract": "A double-blind histamine placebo controlled immunotherapy trial was performed to investigate the clinical effect of a purified and standardized Cladosporium herbarum allergen preparation. Thirty children with a clinical history suggesting mould-induced asthma and/or rhinoconjunctivitis were included. The diagnosis was confirmed by positive skin prick test and Phadebas RAST as well as positive bronchial and/or conjunctival provocation test to Cladosporium herbarum. Immunotherapy was given for 10 months in a double-blind manner to randomized groups with either Pharmalgen/Cladosporium herbarum preparation or histamine placebo. Allergic side effects to injections were common, especially during the peak of the mould season (July-September in Scandinavia). In the active group, 13/16 patients experienced general reactions during the first 10 months of treatment. After 6 months of treatment, eye, nose and bronchial symptom scores and peak expiratory flow rates were similar for the groups, maybe because most of the children were also sensitive to many other allergens, including Alternaria alternata. However, medication scores were significantly lower in the treated group (P less than 0.01). Bronchial (P less than 0.01) and conjunctival sensitivity (P = 0.01) were significantly reduced in the Cladosporium-treated group but not in the placebo group after 10 months of treatment. This is the first double-blind clinical trial showing the clinical efficacy of immunotherapy in children with mould-induced asthma.",
+    "authors": [
+      "Dreborg S",
+      "Agrell B",
+      "Foucard T",
+      "Kjellman NI",
+      "Koivikko A",
+      "Nilsson S"
+    ],
+    "journal": "Allergy",
+    "year": 1986,
+    "mesh_terms": [
+      "Adolescent",
+      "Asthma",
+      "Bronchial Provocation Tests",
+      "Child",
+      "Child, Preschool",
+      "Cladosporium",
+      "Clinical Trials as Topic",
+      "Conjunctivitis, Allergic",
+      "Double-Blind Method",
+      "Female",
+      "Histamine",
+      "Humans",
+      "Immunotherapy",
+      "Male",
+      "Mitosporic Fungi",
+      "Skin Tests",
+      "Spores, Fungal"
+    ],
+    "doi": "10.1111/j.1398-9995.1986.tb00289.x"
+  },
+  {
+    "pmid": "4595942",
+    "title": "Treatment of asthma with triamcinolone acetonide delivered by aerosol.",
+    "abstract": "",
+    "authors": [
+      "Williams MH",
+      "Kane C",
+      "Shim CS"
+    ],
+    "journal": "The American review of respiratory disease",
+    "year": 1974,
+    "mesh_terms": [
+      "Aerosols",
+      "Asthma",
+      "Clinical Trials as Topic",
+      "Humans",
+      "Isoproterenol",
+      "Placebos",
+      "Prednisone",
+      "Respiratory Function Tests",
+      "Triamcinolone Acetonide"
+    ],
+    "doi": "10.1164/arrd.1974.109.5.538"
+  },
+  {
+    "pmid": "320919",
+    "title": "Treatment of steroid-dependent asthma with triamcinolone acetonide aerosol.",
+    "abstract": "Corticosteroids, originally developed as topical agents, have proved effective in aerosol form in the treatment of asthma. Of 33 chronic bronchial asthmatic patients dependent on oral corticosteroids, 16 were randomly selected for treatment with triamcinolone acetonide aerosol and 17 for treatment with triamcinolone acetonide aerosol and 17 for treatment with placebo to determine the effectiveness of the active drug and the feasibility of eliminating or reducing oral steroids. Aerosol dosages of 800 g daily continued for 12 weeks. The patients improved about 30, 50 and 60% in mean FVC, FEV1, and FEF25 75, respectively. Their mean oral steroid dose dropped 77%, with 13 of the 16 discontinuing oral steroids entirely, and their asthma symptoms decreased about 30%. Placebo patients showed minimal or no improvement in these areas. The clinical results indicated that 14 of 16 active aerosol and 4 of 17 placebo aerosol patients improved over baseline. No side effects or fungal infections appeared and only two patients experienced oral-steroid withdrawal symptoms.",
+    "authors": [
+      "Chervinsky P"
+    ],
+    "journal": "Annals of allergy",
+    "year": 1977,
+    "mesh_terms": [
+      "Administration, Oral",
+      "Adult",
+      "Aerosols",
+      "Aged",
+      "Asthma",
+      "Clinical Trials as Topic",
+      "Female",
+      "Forced Expiratory Volume",
+      "Glucocorticoids",
+      "Humans",
+      "Male",
+      "Maximal Midexpiratory Flow Rate",
+      "Middle Aged",
+      "Substance Withdrawal Syndrome",
+      "Time Factors",
+      "Triamcinolone Acetonide",
+      "Vital Capacity"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "2188543",
+    "title": "Early administration of corticosteroids in emergency room treatment of acute asthma.",
+    "abstract": "STUDY OBJECTIVE: To determine the effect of early administration of high-dose intravenous corticosteroids on duration of emergency room treatment and hospital admission rate in patients with acute asthma. DESIGN: Randomized, double-blind, placebo-controlled trial. SETTING: The emergency room of a large, urban hospital with primary and referral care responsibilities. PATIENTS: Eighty-one patients from 18 to 45 years of age with acute bronchial asthma and without pneumonitis or other serious underlying illnesses were studied on 91 occasions and were randomly assigned to control or experimental groups. INTERVENTIONS: The steroid group received 125 mg of intravenous methylprednisolone whereas the control group received intravenous normal saline 30 minutes after initial treatment. Additional treatment included aerosolized metaproterenol and oral theophylline therapy. Six hours after study entry, remaining patients were treated with 40 mg of intravenous methylprednisolone. Hospitalization was mandatory if total treatment time was greater than 12 hours. MEASUREMENTS AND MAIN RESULTS: Age, sex, peak expiratory flow at entry, and prevalence of recent corticosteroids use were similar in both groups. Duration of emergency room treatment was 6.7 +/- 4.2 (SD) hours in the steroid group and 6.3 +/- 4.1 hours in the control group (P = 0.66). Hospitalization was necessary in 18% (95% CI, 7% to 30%) of the steroid group and in 13% (CI, 3% to 22%) of the control group. Frequency of return visits for acute asthma 2 days after emergency room discharge was 11% (CI, -1% to 22%) in the steroid group and 13% (CI, 2% to 23%) in the control group. CONCLUSIONS: These results fail to show any benefit for early administration of corticosteroids in patients with acute asthma. Routine administration of corticosteroids on initial presentation in such patients may not be warranted.",
+    "authors": [
+      "Stein LM",
+      "Cole RP"
+    ],
+    "journal": "Annals of internal medicine",
+    "year": 1990,
+    "mesh_terms": [
+      "Acute Disease",
+      "Adolescent",
+      "Adult",
+      "Asthma",
+      "Double-Blind Method",
+      "Drug Therapy, Combination",
+      "Emergency Service, Hospital",
+      "Female",
+      "Follow-Up Studies",
+      "Hospitalization",
+      "Humans",
+      "Injections, Intravenous",
+      "Male",
+      "Methylprednisolone",
+      "Middle Aged",
+      "Peak Expiratory Flow Rate",
+      "Randomized Controlled Trials as Topic",
+      "Statistics as Topic",
+      "Time Factors"
+    ],
+    "doi": "10.7326/0003-4819-112-11-822"
+  },
+  {
+    "pmid": "2936958",
+    "title": "Determining optimal therapy--randomized trials in individual patients.",
+    "abstract": "Although the treatment of an individual patient in routine clinical practice has been likened to an experiment, the method is so susceptible to bias that we have come to demand multi-patient, double-blind, randomized controlled trials on matters of efficacy. Unfortunately, such trials have not or cannot be carried out for many clinical disorders; even when they have been executed their results may be difficult to extrapolate to individual patients. To resolve this problem, we have begun to use double-blind randomized trials in which a single patient undergoes a series of pairs of treatments, consisting of one active and one placebo or alternative treatment per pair, with the order determined by random allocation. Appropriate treatment targets (signs, symptoms, or laboratory tests) are used as the measure of efficacy, and the trial is continued until efficacy is established or disproved. We describe such a trial, which resulted in a dramatically beneficial modification of treatment in a patient with partially reversible airflow limitation. We have established a clinical service that facilitates the widespread use of the method in our community.",
+    "authors": [
+      "Guyatt G",
+      "Sackett D",
+      "Taylor DW",
+      "Chong J",
+      "Roberts R",
+      "Pugsley S"
+    ],
+    "journal": "The New England journal of medicine",
+    "year": 1986,
+    "mesh_terms": [
+      "Aged",
+      "Asthma",
+      "Clinical Trials as Topic",
+      "Double-Blind Method",
+      "Ethics, Medical",
+      "Humans",
+      "Ipratropium",
+      "Male",
+      "Random Allocation",
+      "Research Design",
+      "Theophylline",
+      "Therapeutics"
+    ],
+    "doi": "10.1056/NEJM198604033141406"
+  },
+  {
+    "pmid": "17654125",
+    "title": "Tolerability profiles of leukotriene receptor antagonists and long-acting beta2-adrenoceptor agonists in combination with inhaled corticosteroids for treatment of asthma: a review.",
+    "abstract": "Inhaled corticosteroids, long-acting beta2-adrenoceptor agonists, and leukotriene receptor antagonists are widely used for treatment of asthma. Inhaled corticosteroids are recommended as first-line therapy, whereas long-acting beta2-adrenoceptor agonists and leukotriene receptor antagonists are indicated as add-on therapy in patients not adequately controlled with corticosteroids alone. A number of studies have investigated the efficacy of combinations of these drugs in asthma, but several issues concerning the safety of these treatments are highly debated. This review provides a critical appraisal of the tolerability profiles of long-acting beta2-agonists and leukotriene receptor antagonists used in combination with inhaled corticosteroids for the treatment of asthma.",
+    "authors": [
+      "Colucci R",
+      "Fornai M",
+      "Tuccori M",
+      "Antonioli L",
+      "Pasqualetti G",
+      "Blandizzi C",
+      "Del Tacca M"
+    ],
+    "journal": "The Journal of asthma : official journal of the Association for the Care of Asthma",
+    "year": 2007,
+    "mesh_terms": [
+      "Administration, Inhalation",
+      "Adrenal Cortex Hormones",
+      "Adrenergic beta-2 Receptor Agonists",
+      "Adrenergic beta-Agonists",
+      "Asthma",
+      "Clinical Trials as Topic",
+      "Drug Therapy, Combination",
+      "Humans",
+      "Leukotriene Antagonists",
+      "Treatment Outcome"
+    ],
+    "doi": "10.1080/02770900701247178"
+  },
+  {
+    "pmid": "2978461",
+    "title": "Nebulization versus injection in ambulatory treatment of acute asthma: a comparative study.",
+    "abstract": "Nebulization treatment of acute asthma with terbutaline and ipratropium bromide, given either separately with a 30-minute interval or combined as single inhalation, was compared with injection treatment with a combination of terbutaline given subcutaneously and theophylline given intravenously. Seventy-seven episodes of acute asthma were studied. Nebulization treatment gave the same degree of bronchodilation as the injections, both immediately after treatment [measured as increase in forced expiratory volume in 1 second (FEV1) in peak expiratory flow rate (PEFR) and improvement of dyspnoea] and during the following 6 days (measured by PEFR recordings at home). The injection treatment caused a moderate increase in heart rate, whereas no circulatory side-effects were noted during nebulization treatment. Administration of ipratropium bromide 30 minutes after terbutaline was not more effective than the combination of both substances as a single nebulization.",
+    "authors": [
+      "Janson C",
+      "Herala M",
+      "Sjögren I"
+    ],
+    "journal": "British journal of diseases of the chest",
+    "year": 1988,
+    "mesh_terms": [
+      "Acute Disease",
+      "Aerosols",
+      "Asthma",
+      "Atropine Derivatives",
+      "Clinical Trials as Topic",
+      "Drug Therapy, Combination",
+      "Female",
+      "Heart Rate",
+      "Humans",
+      "Injections, Intravenous",
+      "Injections, Subcutaneous",
+      "Ipratropium",
+      "Male",
+      "Nebulizers and Vaporizers",
+      "Terbutaline"
+    ],
+    "doi": "10.1016/0007-0971(88)90087-3"
+  },
+  {
+    "pmid": "6362255",
+    "title": "[Asthma therapy. Clinical trial of 2 proxyphylline/ephedrine combinations with immediate and long-term effect].",
+    "abstract": "",
+    "authors": [
+      "Mirsching G"
+    ],
+    "journal": "ZFA. Zeitschrift fur Allgemeinmedizin",
+    "year": 1983,
+    "mesh_terms": [
+      "Adult",
+      "Aminophylline",
+      "Asthma",
+      "Clinical Trials as Topic",
+      "Delayed-Action Preparations",
+      "Drug Combinations",
+      "Ephedrine",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Theophylline"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "51284",
+    "title": "Inhaled corticosteroids compared with oral prednisone in patients starting long-term corticosteroid therapy for asthma. A controlled trial by the British Thoracic and Tuberculosis Association.",
+    "abstract": "Inhaled beclomethasone dipropionate and inhaled betamethasone valerate have been compared with oral prednisone in the treatment of 75 patients with asthma who were starting long-term corticosteroids for the first time. Both of the inhaled corticosteroids controlled asthma as well as did oral prednisone in those who had responded to therapy in the initial period of the trial. A daily dose of 400 mug of inhaled drug was approximately equivalent to 7-5 mg daily of prednisone. Prednisone suppressed the adrenal response to tetracosactrin, whereas the mean responses in the groups receiving inhaled corticosteroids did not change significantly from pre-trial values. The 30% incidence of other systemic unwanted effects of prednisone contrasted sharply with the low incidence (5%) of symptomatic oropharyngeal candidiasis in the patients receiving inhaled corticosteroids. In a sample of 19 patients no change in exfoliative cytology was detected over the period of the trial nor was there any evidence of fungal colonisation of the bronchial tree. There was no difference between the three treatment groups in the number of antibiotic courses prescribed. The persistent production of sputum made no difference to the response to inhaled corticosteroids. Patients not on sodium cromoglycate did as well in the trial as those receiving sodium cromoglycate. Both inhaled beclomethasone dipropionate and inhaled betamethasone valerate have advantages over oral prednisone in the maintenance treatment of patients with asthma, but in the management of exacerbations systemic corticosteroids will usually be needed as a supplement to inhaled therapy.",
+    "authors": [],
+    "journal": "Lancet (London, England)",
+    "year": 1975,
+    "mesh_terms": [
+      "Administration, Intranasal",
+      "Administration, Oral",
+      "Adolescent",
+      "Adrenal Cortex Function Tests",
+      "Adrenal Glands",
+      "Aerosols",
+      "Asthma",
+      "Beclomethasone",
+      "Betamethasone",
+      "Clinical Trials as Topic",
+      "Cosyntropin",
+      "Cromolyn Sodium",
+      "Female",
+      "Humans",
+      "Hydrocortisone",
+      "Male",
+      "Methylprednisolone",
+      "Placebos",
+      "Prednisone"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "2512747",
+    "title": "[A clinical trial of the Bulgarian preparation Bicromat-spray in patients with bronchial asthma].",
+    "abstract": "",
+    "authors": [
+      "Kosturkov G",
+      "Mileva Zh",
+      "Slavov S",
+      "Khristova S",
+      "Vŭlcheva T"
+    ],
+    "journal": "Vutreshni bolesti",
+    "year": 1989,
+    "mesh_terms": [
+      "Administration, Inhalation",
+      "Asthma",
+      "Chronic Disease",
+      "Clinical Trials as Topic",
+      "Cromolyn Sodium",
+      "Female",
+      "Humans",
+      "Male"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "4885561",
+    "title": "A crossover double-blind study on Tylophora indica in the treatment of asthma and allergic rhinitis.",
+    "abstract": "",
+    "authors": [
+      "Shivpuri DN",
+      "Menon MP",
+      "Prakash D"
+    ],
+    "journal": "The Journal of allergy",
+    "year": 1969,
+    "mesh_terms": [
+      "Adolescent",
+      "Adult",
+      "Asthma",
+      "Child",
+      "Clinical Trials as Topic",
+      "Female",
+      "Gastric Mucosa",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Mouth Mucosa",
+      "Placebos",
+      "Plant Extracts",
+      "Plants, Edible",
+      "Plants, Medicinal",
+      "Rhinitis, Allergic, Seasonal",
+      "Tongue"
+    ],
+    "doi": "10.1016/s0021-8707(69)80005-5"
+  },
+  {
+    "pmid": "2137076",
+    "title": "Nebulized ipratropium in the treatment of acute asthma.",
+    "abstract": "The efficacy of ipratropium and salbutamol was determined in 117 patients with acute asthma who presented to an emergency department to determine whether the order of administration of the two agents affects the improvement in peak flow rates. Patients were given two nebulized treatments at an interval of one hour in a randomized, double-blind design. They received either 5 mg nebulized salbutamol followed by 0.5 mg ipratropium, ipratropium followed by salbutamol, or both drugs administered together followed by nebulized saline. Ipratropium was an effective bronchodilator when given as the first agent. Simultaneous administration with salbutamol was as effective as sequential administration. At one hour after treatment, there was no difference in peak flow between the combination of drugs and either drug given alone. Ipratropium given after salbutamol was not superior to saline solution given after the combination of drugs. Our data do not suggest a substantial therapeutic effect from addition of ipratropium to salbutamol in the immediate treatment of acute asthma.",
+    "authors": [
+      "Summers QA",
+      "Tarala RA"
+    ],
+    "journal": "Chest",
+    "year": 1990,
+    "mesh_terms": [
+      "Administration, Inhalation",
+      "Adult",
+      "Aerosols",
+      "Albuterol",
+      "Asthma",
+      "Atropine Derivatives",
+      "Bronchodilator Agents",
+      "Double-Blind Method",
+      "Drug Therapy, Combination",
+      "Female",
+      "Humans",
+      "Ipratropium",
+      "Male",
+      "Randomized Controlled Trials as Topic"
+    ],
+    "doi": "10.1378/chest.97.2.425"
+  },
+  {
+    "pmid": "4371672",
+    "title": "Treatment of childhood asthma for 13 months and longer with beclomethasone dipropionate aerosol.",
+    "abstract": "Twenty-six children with asthma were treated with beclomethasone dipropionate aerosol in a dose adjusted to their symptoms for 13 to 20 months. 18 children in the group had been taking systemic steroids at the start of the trial and all were successfully weaned off them, mostly within 2 months. All but 1 of the children were satisfactorily controlled by beclomethasone, but 15 children needed short courses of oral steroids at times of severe exacerbations. There was no evidence of either suppression or acceleration of growth, nor was there any adrenal suppression as assessed at intervals by the estimation of the resting level of plasma cortisol and the response to tetracosactrin. No other side effects were encountered apart from exacerbations of eczema or rhinitis in some children previously on systemic steroids.",
+    "authors": [
+      "Godfrey S",
+      "König P"
+    ],
+    "journal": "Archives of disease in childhood",
+    "year": 1974,
+    "mesh_terms": [
+      "Administration, Topical",
+      "Adolescent",
+      "Adrenal Glands",
+      "Adrenocorticotropic Hormone",
+      "Aerosols",
+      "Anti-Inflammatory Agents",
+      "Asthma",
+      "Beclomethasone",
+      "Body Height",
+      "Child",
+      "Child, Preschool",
+      "Clinical Trials as Topic",
+      "Eczema",
+      "Female",
+      "Growth",
+      "Humans",
+      "Hydrocortisone",
+      "Male",
+      "Prednisone",
+      "Rhinitis",
+      "Rhinitis, Allergic, Seasonal",
+      "Time Factors"
+    ],
+    "doi": "10.1136/adc.49.8.591"
+  },
+  {
+    "pmid": "3523664",
+    "title": "Enprofylline and theophylline slow-eroding tablets in the treatment of asthma: a comparison.",
+    "abstract": "Fifteen asthmatic outpatients were randomly treated during two periods of 14 days each with sustained-release preparations of either enprofylline (3-propyl-xanthine) or theophylline (Theo-Dur) in a double-blind crossover study. After 4 days of treatment the mean daily doses of enprofylline and theophylline, which were 14.1 and 16.2 mg/kg/day, produced mean plasma concentrations of 4.9 and 12.7 micrograms/ml, respectively. Taking into account all the parameters used to evaluate the antiasthmatic effects, the peak expiratory flow, the number of puffs used from a beta-agonist aerosol, the asthma symptom score and the patients' preferred period, enprofylline was found to be better than theophylline. Enprofylline produced more headaches during the 1st week than theophylline did. However, during the 2nd week the score for headaches decreased to the same level as in the theophylline treatment group. Thus, enprofylline and theophylline seem to have comparable bronchodilator properties and side-effects in the long-term treatment of asthma.",
+    "authors": [
+      "Laursen LC",
+      "Eriksson G",
+      "Weeke B"
+    ],
+    "journal": "Respiration; international review of thoracic diseases",
+    "year": 1986,
+    "mesh_terms": [
+      "Adult",
+      "Asthma",
+      "Clinical Trials as Topic",
+      "Delayed-Action Preparations",
+      "Double-Blind Method",
+      "Headache",
+      "Humans",
+      "Middle Aged",
+      "Peak Expiratory Flow Rate",
+      "Theophylline",
+      "Xanthines"
+    ],
+    "doi": "10.1159/000194907"
+  }
+]

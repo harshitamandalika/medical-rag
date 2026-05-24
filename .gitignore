@@ -1,0 +1,39 @@
+# ChromaDB persistent storage
+chroma_db/
+
+# MLflow local tracking store
+mlflow_runs/
+
+# Environment variables
+.env
+
+# PubMed raw XML dumps
+data/raw/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# sentence-transformers model cache
+# ~/.cache/huggingface/
+
+# Pipeline result cache
+data/pipeline_results_cache.pkl
+
+# Debug and diagnostic scripts
+debug_quota.py
+find_working_model.py
+check_mlflow.py
+check_models.py

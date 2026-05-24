@@ -1,0 +1,2798 @@
+[
+  {
+    "pmid": "37149344",
+    "title": "Pharmacotherapy for Treatment-Resistant Depression: Antidepressants and Atypical Antipsychotics.",
+    "abstract": "Treatment-resistant depression (TRD) affects one in three patients with major depressive disorder and is associated with increased risk of all-cause mortality. Studies of real-world practices suggest that antidepressant monotherapy continues to be the most widely used treatment after inadequate response to a first-line treatment. However, rates of remission with antidepressants in TRD are suboptimal. Atypical antipsychotics are the most widely studied augmentation agent and aripiprazole, brexpiprazole, cariprazine, quetiapine extended-release, and olanzapine-fluoxetine combination are approved for depression. Benefits of using atypical antipsychotics for TRD has to be weighted against their potential adverse events, such as weight gain, akathisia, and tardive dyskinesia.",
+    "authors": [
+      "Vas C",
+      "Jain A",
+      "Trivedi M",
+      "Jha MK",
+      "Mathew SJ"
+    ],
+    "journal": "The Psychiatric clinics of North America",
+    "year": 2023,
+    "mesh_terms": [
+      "Humans",
+      "Antipsychotic Agents",
+      "Major Depressive Disorder",
+      "Depression",
+      "Antidepressive Agents",
+      "Quetiapine Fumarate",
+      "Drug Therapy, Combination"
+    ],
+    "doi": "10.1016/j.psc.2023.02.012"
+  },
+  {
+    "pmid": "34459676",
+    "title": "Treatment-Resistant Depression: Approaches to Treatment.",
+    "abstract": "Approximately 30% of people treated for a major depressive episode will not achieve remission after two or more treatment trials of first-line antidepressants and are considered to have treatment-resistant depression (TRD). Because the odds of remission decrease with every subsequent medication trial, it is important for clinicians to understand the characteristics and risk factors for TRD, subtypes of major depressive disorder that are more likely to be less responsive to first-line anti-depressants, and the available treatment options. In the current article, we review the approved treatments for TRD, including esketamine, and the evidence for psilocybin and pramipexole. Although limited in specificity, guidelines to help prescribers identify person-centered treatments for TRD are available. [Journal of Psychosocial Nursing and Mental Health Services, 59(9), 7-11.].",
+    "authors": [
+      "Kverno KS",
+      "Mangano E"
+    ],
+    "journal": "Journal of psychosocial nursing and mental health services",
+    "year": 2021,
+    "mesh_terms": [
+      "Antidepressive Agents",
+      "Depression",
+      "Major Depressive Disorder",
+      "Depressive Disorder, Treatment-Resistant",
+      "Drug Therapy, Combination",
+      "Humans"
+    ],
+    "doi": "10.3928/02793695-20210816-01"
+  },
+  {
+    "pmid": "38916052",
+    "title": "Chronic Neuropathic Pain and Comorbid Depression Syndrome: From Neural Circuit Mechanisms to Treatment.",
+    "abstract": "Chronic neuropathic pain and comorbid depression syndrome (CDS) is a major worldwide health problem that affects the quality of life of patients and imposes a tremendous socioeconomic burden. More than half of patients with chronic neuropathic pain also suffer from moderate or severe depression. Due to the complex pathogenesis of CDS, there are no effective therapeutic drugs available. The lack of research on the neural circuit mechanisms of CDS limits the development of treatments. The purpose of this article is to provide an overview of the various circuits involved in CDS. Notably, activating some neural circuits can alleviate pain and/or depression, while activating other circuits can exacerbate these conditions. Moreover, we discuss current and emerging pharmacotherapies for CDS, such as ketamine. Understanding the circuit mechanisms of CDS may provide clues for the development of novel drug treatments for improved CDS management.",
+    "authors": [
+      "Zhang Y",
+      "Ma H",
+      "Bai Y",
+      "Hou X",
+      "Yang Y",
+      "Wang G",
+      "Li Y"
+    ],
+    "journal": "ACS chemical neuroscience",
+    "year": 2024,
+    "mesh_terms": [
+      "Humans",
+      "Neuralgia",
+      "Animals",
+      "Chronic Pain",
+      "Ketamine",
+      "Depression",
+      "Comorbidity",
+      "Depressive Disorder"
+    ],
+    "doi": "10.1021/acschemneuro.4c00125"
+  },
+  {
+    "pmid": "30179986",
+    "title": "Guidelines for the evaluation and treatment of perimenopausal depression: summary and recommendations.",
+    "abstract": "There is a new appreciation of the perimenopause - defined as the early and late menopause transition stages as well as the early postmenopause - as a window of vulnerability for the development of both depressive symptoms and major depressive episodes. However, clinical recommendations on how to identify, characterize and treat clinical depression are lacking. To address this gap, an expert panel was convened to systematically review the published literature and develop guidelines on the evaluation and management of perimenopausal depression. The areas addressed included: 1) epidemiology; 2) clinical presentation; 3) therapeutic effects of antidepressants; 4) effects of hormone therapy; and 5) efficacy of other therapies (eg, psychotherapy, exercise, and natural health products). Overall, evidence generally suggests that most midlife women who experience a major depressive episode during the perimenopause have experienced a prior episode of depression. Midlife depression presents with classic depressive symptoms commonly in combination with menopause symptoms (ie, vasomotor symptoms, sleep disturbance), and psychosocial challenges. Menopause symptoms complicate, co-occur, and overlap with the presentation of depression. Diagnosis involves identification of menopausal stage, assessment of co-occurring psychiatric and menopause symptoms, appreciation of the psychosocial factors common in midlife, differential diagnoses, and the use of validated screening instruments. Proven therapeutic options for depression (ie, antidepressants, psychotherapy) are the front-line treatments for perimenopausal depression. Although estrogen therapy is not approved to treat perimenopausal depression, there is evidence that it has antidepressant effects in perimenopausal women, particularly those with concomitant vasomotor symptoms. Data on estrogen plus progestin are sparse and inconclusive.",
+    "authors": [
+      "Maki PM",
+      "Kornstein SG",
+      "Joffe H",
+      "Bromberger JT",
+      "Freeman EW",
+      "Athappilly G",
+      "Bobo WV",
+      "Rubin LH",
+      "Koleva HK",
+      "Cohen LS",
+      "Soares CN"
+    ],
+    "journal": "Menopause (New York, N.Y.)",
+    "year": 2018,
+    "mesh_terms": [
+      "Adult",
+      "Antidepressive Agents",
+      "Cognitive Behavioral Therapy",
+      "Consensus",
+      "Depression",
+      "Depressive Disorder",
+      "Estrogen Replacement Therapy",
+      "Female",
+      "Hot Flashes",
+      "Humans",
+      "Hysterectomy",
+      "Middle Aged",
+      "Ovariectomy",
+      "Perimenopause",
+      "Primary Ovarian Insufficiency",
+      "Risk Factors",
+      "Sleep Wake Disorders",
+      "Treatment Outcome"
+    ],
+    "doi": "10.1097/GME.0000000000001174"
+  },
+  {
+    "pmid": "17128674",
+    "title": "Pharmacotherapy strategies for treatment-resistant depression.",
+    "abstract": "",
+    "authors": [
+      "Howland RH"
+    ],
+    "journal": "Journal of psychosocial nursing and mental health services",
+    "year": 2006,
+    "mesh_terms": [
+      "Antidepressive Agents",
+      "Community Mental Health Services",
+      "Depression",
+      "Depressive Disorder",
+      "Drug Resistance",
+      "Drug Therapy, Combination",
+      "Humans"
+    ],
+    "doi": "10.3928/02793695-20061101-02"
+  },
+  {
+    "pmid": "26599597",
+    "title": "Influence of Pharmacotherapy on Cognitive Functions in Depression: A Review of the Literature.",
+    "abstract": "In addition to irregularities relating to the emotional sphere, the cognitive impairment in depression is a part of the clinical picture of this affective disorder. Some of the cognitive deficits may be associated with the severity of psychopathological symptoms of depression, while others are more established and can also occur during periods of remission. The participation in cognitive functioning of people with depression have a number of factors: the severity of symptoms, concurrent anxiety disorders, gender, age, education, duration of the disease, and number of previous episodes, as well as general somatic health or medication used. The pharmacological treatment may have varying impact on the different areas of cognition. Research on pharmacotherapy for depression and its impact on cognitive functioning continue and are very popular among clinicians and researchers. The relationship between antidepressants and cognitive abilities is always modulated by the type of depressive disorder, neurobiological factors, and demographic variables. This article presents a review of the studies relating to assessment of the effects of various antidepressants on cognitive abilities among patients with depression.",
+    "authors": [
+      "Orzechowska A",
+      "Filip M",
+      "Gałecki P"
+    ],
+    "journal": "Medical science monitor : international medical journal of experimental and clinical research",
+    "year": 2015,
+    "mesh_terms": [
+      "Antidepressive Agents",
+      "Cognition",
+      "Depression",
+      "Depressive Disorder",
+      "Drug Therapy",
+      "Humans",
+      "Randomized Controlled Trials as Topic"
+    ],
+    "doi": "10.12659/msm.895156"
+  },
+  {
+    "pmid": "33612048",
+    "title": "The use of sequential pharmacotherapy for the treatment of acute major depression: a scoping review.",
+    "abstract": "INTRODUCTION: Major Depressive Disorder (MDD) is a chronic, relapsing, and remitting disorder affecting over 250 million persons each year worldwide. More than 50% of the patients do not respond to their initial antidepressant treatment and may benefit from sequential pharmacotherapy for the acute treatment of their MDD. Although guidelines outline options for next-step treatments, there is a paucity of evidence to select specific second- or third-step treatments. AREAS COVERED: This scoping review synthesizes and discusses available evidence for sequential pharmacotherapy for MDD. MEDLINE was searched from inception to 7 July 2020; 4490 studies were identified. We selected meta-analyses and reports on clinical trials that were judged to inform the sequential selection of pharmacotherapy for MDD. EXPERT OPINION: Most relevant published trials are focused on, and support, the use of augmentation pharmacotherapy. There is also some support for other strategies such as combining or switching antidepressants. In the future, more studies need to directly compare these sequential options. To provide more personalized treatment within the framework of precision psychiatry, these studies should include an assessment of moderators and mediators ('mechanism') of antidepressant response.",
+    "authors": [
+      "Jones BDM",
+      "Husain MI",
+      "Mulsant BH"
+    ],
+    "journal": "Expert opinion on pharmacotherapy",
+    "year": 2021,
+    "mesh_terms": [
+      "Antidepressive Agents",
+      "Depression",
+      "Major Depressive Disorder",
+      "Drug Therapy, Combination",
+      "Humans",
+      "Recurrence"
+    ],
+    "doi": "10.1080/14656566.2021.1878144"
+  },
+  {
+    "pmid": "12800545",
+    "title": "[Depression and schizophrenia].",
+    "abstract": "Affective disorders in schizophrenia overlap with positive symptoms and are co-morbid with negative changes. At schizophrenia onset, depression may emerge in the form of psychogenic disorders (posttraumatic stress disorder, juvenile asthenic failure, etc.). Depression, developing during the disease, determines clinical picture of attacks provoked psychogenically (hysterical depression, anxious depression)--reactive schizophrenia. In post-attack stages of schizophrenia, two types may be singled out--post-psychotic depression and post-schizophrenic one. The post-psychotic depressions us includes neuroleptic depression with features of anesthetic melancholia, persevering depression, akinetic depression, neuroleptic dysphoria. Its induced by antipsychotics and combine with extrapyramidal disorders.",
+    "authors": [
+      "Smulevich AV"
+    ],
+    "journal": "Zhurnal nevrologii i psikhiatrii imeni S.S. Korsakova",
+    "year": 2003,
+    "mesh_terms": [
+      "Affective Disorders, Psychotic",
+      "Antipsychotic Agents",
+      "Depression",
+      "Depressive Disorder",
+      "Humans",
+      "Psychoses, Substance-Induced",
+      "Schizophrenia",
+      "Schizophrenic Psychology"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "31808709",
+    "title": "Putative Antidepressant Effect of Chamomile (Matricaria chamomilla L.) Oral Extract in Subjects with Comorbid Generalized Anxiety Disorder and Depression.",
+    "abstract": "Objectives: This exploratory analysis examined the putative antidepressant effect of Matricaria chamomilla L. (chamomile) extract in subjects with generalized anxiety disorder (GAD) with or without comorbid depression. It was hypothesized that chamomile extract would demonstrate similar anxiolytic activity in both subgroups, but superior antidepressant activity in GAD subjects with comorbid depression. Design: As part of a randomized double-blind placebo-controlled trial of chamomile extract for relapse prevention of GAD, 179 subjects received initial therapy with open-label chamomile extract 1500 mg daily for 8 weeks. Linear mixed-effect models were used to identify clinically meaningful changes in anxiety and depression symptoms between diagnostic subgroups. Settings/Location: The study took place at the University of Pennsylvania in Philadelphia, PA. Subjects: Subjects were ≥18 years old with a primary DSM IV-TR diagnosis of GAD. They were subcategorized into two diagnostic groups: GAD without comorbid depression (n = 100) and GAD with comorbid depression (n = 79). Interventions: Open-label chamomile extract 1500 mg was given daily for 8 weeks. Outcome measures: Generalized anxiety disorder (GAD-7), Hamilton rating scale for anxiety, Beck anxiety inventory, Hamilton rating scale for depression (HRSD), the six-item core HRSD (items 1, 2, 3, 7, 8, and 13), and the Beck depression inventory (BDI). Results: The authors observed similar anxiolytic effects over time in both diagnostic subgroups. However, there was a greater reduction in HRSD core symptom scores (p < 0.023), and a trend level reduction in HRSD total scores (p = 0.14) and in BPI total scores (p = 0.060) in subjects with comorbid depression. Conclusions: M. chamomilla L. may produce clinically meaningful antidepressant effects in addition to its anxiolytic activity in subjects with GAD and comorbid depression. Future controlled trials in subjects with primary major depressive disorder are needed to validate this preliminary observation.",
+    "authors": [
+      "Amsterdam JD",
+      "Li QS",
+      "Xie SX",
+      "Mao JJ"
+    ],
+    "journal": "Journal of alternative and complementary medicine (New York, N.Y.)",
+    "year": 2020,
+    "mesh_terms": [
+      "Administration, Oral",
+      "Adult",
+      "Anti-Anxiety Agents",
+      "Antidepressive Agents",
+      "Anxiety",
+      "Anxiety Disorders",
+      "Chamomile",
+      "Depression",
+      "Major Depressive Disorder",
+      "Double-Blind Method",
+      "Female",
+      "Humans",
+      "Male",
+      "Matricaria",
+      "Middle Aged",
+      "Phytotherapy",
+      "Plant Extracts",
+      "Psychiatric Status Rating Scales",
+      "Treatment Outcome"
+    ],
+    "doi": "10.1089/acm.2019.0252"
+  },
+  {
+    "pmid": "14272501",
+    "title": "THE PHARMACOTHERAPY OF THE DEPRESSIVE SYNDROME.",
+    "abstract": "THREE THERAPEUTIC MODALITIES HAVE PROVED EFFECTIVE IN THE TREATMENT OF DEPRESSIVE SYNDROMES: electroconvulsive therapy (ECT), pharmacotherapy and psychotherapy. ECT gives the most reliable and most rapid results but may be contraindicated in certain cases. Psychotherapy is limited in its application to the reactive aspects of a depression. Pharmacotherapy is currently the most widely applied treatment of depression. Two classes of drugs are available which are effective in about 60% of depressed patients: the monoamine oxidase inhibitors and tricyclic compounds. Their mechanism of action is probably related to the regulation of the biogenic amine balance in the brain. The distinction between antipsychotic and antidepressant drugs is not as sharp as was formerly assumed. Maintenance pharmacotherapy has been shown to have prophylactic value in preventing relapses.",
+    "authors": [
+      "LEHMANN HE"
+    ],
+    "journal": "Canadian Medical Association journal",
+    "year": 1965,
+    "mesh_terms": [
+      "Amitriptyline",
+      "Antidepressive Agents",
+      "Convulsive Therapy",
+      "Depression",
+      "Depressive Disorder",
+      "Desipramine",
+      "Drug Therapy",
+      "Electroconvulsive Therapy",
+      "Imipramine",
+      "Mental Disorders",
+      "Monoamine Oxidase Inhibitors",
+      "Psychopharmacology",
+      "Psychotherapy",
+      "Toxicology",
+      "Tranquilizing Agents"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "28189963",
+    "title": "Ceramides and depression: A systematic review.",
+    "abstract": "BACKGROUND: Major depressive disorder is a significant contributor to global disability and mortality. The mechanisms of depression are vast and not fully understood, and as a result current treatment of depression is suboptimal. Aberrant sphingolipid metabolism has been observed in some cases of depression, specifically alterations in ceramide concentrations. The role of ceramides and other sphingolipids in depression is a novel concept. This review summarizes and evaluates the current state of evidence for a role of ceramides in depression pathophysiology and the potential for novel depression pharmacotherapies targeting ceramide metabolism. METHODS: Medline, Embase, and PsycINFO databases were searched through October 2016 for English-language studies using combinations of the search terms: ceramide, depression, sphingolipid, and depressive symptoms. RESULTS: Of the 489 articles screened, 14 were included in the qualitative synthesis of this review article. Pre-clinical and clinical evidence suggest that ceramide species may contribute to depression pathophysiology. In human studies, ceramides C18:0 and C20:0 are the species most strongly linked to depression. Evidence for altered ceramide metabolism in depression is present, but data for a causal role of ceramides in depression are lacking. LIMITATIONS: This review was limited by potential reporting bias. Furthermore, a lack of specificity of which ceramides were altered in depression was common. CONCLUSIONS: Pharmacotherapy targeting ceramide metabolism may be a novel treatment option for depression. A number of pharmacological targets exists for ceramide reduction and a number of currently approved medications inhibit ceramide production. More evidence, pre-clinical and clinical, is warranted to determine the extent and consistency of the role of ceramides in depression.",
+    "authors": [
+      "Dinoff A",
+      "Herrmann N",
+      "Lanctôt KL"
+    ],
+    "journal": "Journal of affective disorders",
+    "year": 2017,
+    "mesh_terms": [
+      "Ceramides",
+      "Depression",
+      "Depressive Disorder",
+      "Humans"
+    ],
+    "doi": "10.1016/j.jad.2017.02.008"
+  },
+  {
+    "pmid": "26906078",
+    "title": "Stimulants for depression: On the up and up?",
+    "abstract": "The use of traditional psychostimulants (methylphenidate and dexamphetamine) and stimulant-like drugs (modafinil and armodafinil) for the treatment of depression is a growing concern given the lack of research evidence supporting their effectiveness. The current article describes the role of stimulants in treating depression--specifically their risks and benefits and their potential use alongside antidepressants. Clinically, the rapid amelioration of depressive symptoms with traditional psychostimulants is often dramatic but short-lived, and this suggests that they likely operate via different mechanisms to conventional antidepressants. More importantly, there is little evidence from randomised controlled trials supporting their efficacy in treating depression, although modafinil has been shown to be effective in reducing prominent depressive symptoms, such as fatigue. Research is urgently required to clarify psychostimulants' mechanisms of action and to evaluate their long-term benefits and risks in the treatment of major and bipolar depression. Ultimately, specificity of action needs to be determined to inform the sophisticated clinical use of psychostimulants in the management of depression. Until then they should only be prescribed if absolutely necessary, and even then their prescription should be facilitatory and time limited unless it is for investigational purposes.",
+    "authors": [
+      "Malhi GS",
+      "Byrow Y",
+      "Bassett D",
+      "Boyce P",
+      "Hopwood M",
+      "Lyndon W",
+      "Mulder R",
+      "Porter R",
+      "Singh A",
+      "Murray G"
+    ],
+    "journal": "The Australian and New Zealand journal of psychiatry",
+    "year": 2016,
+    "mesh_terms": [
+      "Amphetamine",
+      "Antidepressive Agents",
+      "Benzhydryl Compounds",
+      "Bipolar Disorder",
+      "Central Nervous System Stimulants",
+      "Depression",
+      "Major Depressive Disorder",
+      "Dextroamphetamine",
+      "Drug Therapy, Combination",
+      "Humans",
+      "Methylphenidate",
+      "Modafinil",
+      "Randomized Controlled Trials as Topic"
+    ],
+    "doi": "10.1177/0004867416634208"
+  },
+  {
+    "pmid": "35502638",
+    "title": "Major depression is a serious and potentially fatal brain syndrome requiring pharmacotherapy or neuromodulation, and psychotherapy.",
+    "abstract": "",
+    "authors": [
+      "Goldberg JF",
+      "Nasrallah HA"
+    ],
+    "journal": "Psychological medicine",
+    "year": 2022,
+    "mesh_terms": [
+      "Humans",
+      "Major Depressive Disorder",
+      "Depression",
+      "Psychotherapy",
+      "Brain",
+      "Combined Modality Therapy",
+      "Electroconvulsive Therapy"
+    ],
+    "doi": "10.1017/S0033291722001179"
+  },
+  {
+    "pmid": "40855800",
+    "title": "Circadian rhythms and their roles in the pathogenesis and treatment of depression.",
+    "abstract": "Major depressive disorder (MDD) affects people all over the world, and yet, its etiology is complex and remains incompletely understood. In this review, we aim to assess recent advances in understanding depression and its regulation, as well as its interaction with circadian rhythms. Circadian rhythms are internalized representations of the periodic daily light and dark cycles. Accumulating evidence has shown that MDD and the related mental disorders are associated with disrupted circadian rhythms. In particular, depression has often been linked to abnormalities in circadian rhythms because dysregulation of the circadian system increases susceptibility to MDD. The fact that several rhythms are disrupted in depressed patients suggests that these disruptions are not restricted to any one rhythm but rather involve the molecular circadian clock core machinery. The sleep-wake cycle is one rhythm that is often disrupted in depression, which often leads to disturbances in other rhythms. The circadian disruptions manifested in depressed patients and the effectiveness and fast action of chronobiologically based treatments highlight the circadian system as a key therapeutic target in the treatment of depression. This review assesses the evidence on rising depression rates and examines their contributing factors, including circadian misalignment. We discuss key hypotheses underlying depression pathogenesis, potential etiology, and relevant animal models, and underscore potential mechanisms driving depression's growing burden and how understanding these factors is critical for improving prevention and treatment strategies.",
+    "authors": [
+      "Smith WK",
+      "Zhong ZM",
+      "Wang WT",
+      "Hassan NU",
+      "Khan M",
+      "Wang H"
+    ],
+    "journal": "Sheng li xue bao : [Acta physiologica Sinica]",
+    "year": 2025,
+    "mesh_terms": [
+      "Humans",
+      "Circadian Rhythm",
+      "Major Depressive Disorder",
+      "Animals",
+      "Sleep",
+      "Depression"
+    ],
+    "doi": "10.13294/j.aps.2025.0067"
+  },
+  {
+    "pmid": "36855877",
+    "title": "Insights and Advances Into Treatments for Major Depression.",
+    "abstract": "",
+    "authors": [
+      "Kalin NH"
+    ],
+    "journal": "The American journal of psychiatry",
+    "year": 2023,
+    "mesh_terms": [
+      "Humans",
+      "Major Depressive Disorder",
+      "Depression"
+    ],
+    "doi": "10.1176/appi.ajp.20230041"
+  },
+  {
+    "pmid": "36867178",
+    "title": "Aripiprazole Augmentation in Older Persons with Treatment-Resistant Depression.",
+    "abstract": "",
+    "authors": [
+      "Lewis G",
+      "Lewis G"
+    ],
+    "journal": "The New England journal of medicine",
+    "year": 2023,
+    "mesh_terms": [
+      "Aged",
+      "Aged, 80 and over",
+      "Humans",
+      "Aripiprazole",
+      "Depression",
+      "Depressive Disorder, Treatment-Resistant",
+      "Drug Therapy, Combination",
+      "Treatment Outcome",
+      "Antidepressive Agents"
+    ],
+    "doi": "10.1056/NEJMe2301045"
+  },
+  {
+    "pmid": "39240731",
+    "title": "Deprescribing antidepressants for depression - what is the evidence for and against?",
+    "abstract": "OBJECTIVE: Recent guidelines suggest that the overall quantity and duration of antidepressant prescriptions should be reduced. In this paper, we comment on the evidence both for and against this view. METHODS: We critically review the arguments proposed by proponents of antidepressant deprescribing in the context of the evidence-base for the treatment of depression. RESULTS: Proponents of deprescribing do not address the substantive issues of whether inappropriate prescribing has been demonstrated, and when prescribing is needed. Their arguments for deprescribing are rebutted in this context. CONCLUSIONS: Whether or not to deprescribe antidepressant medication needs to take into consideration the risk-benefit profile of the decision, the responsibility for which needs to be shared and based on the context of the patient's depression, their preferences, experiences and perspectives.",
+    "authors": [
+      "Looi JC",
+      "Allison S",
+      "Bastiampillai T",
+      "Kisely S",
+      "Maguire PA",
+      "Woon LS",
+      "Anderson K",
+      "Malhi GS"
+    ],
+    "journal": "Australasian psychiatry : bulletin of Royal Australian and New Zealand College of Psychiatrists",
+    "year": 2025,
+    "mesh_terms": [
+      "Humans",
+      "Antidepressive Agents",
+      "Deprescriptions",
+      "Depression",
+      "Depressive Disorder",
+      "Inappropriate Prescribing"
+    ],
+    "doi": "10.1177/10398562241282377"
+  },
+  {
+    "pmid": "37172545",
+    "title": "Psychopharmaphobia: Elevated fear of antidepressant medication among patients with major depression and breast cancer.",
+    "abstract": "",
+    "authors": [
+      "Markowitz JC",
+      "Hellerstein DJ",
+      "Falabella G",
+      "Lan M",
+      "Levenson J",
+      "Crew KD",
+      "Hershman DL"
+    ],
+    "journal": "General hospital psychiatry",
+    "year": 2023,
+    "mesh_terms": [
+      "Humans",
+      "Female",
+      "Major Depressive Disorder",
+      "Depression",
+      "Breast Neoplasms",
+      "Antidepressive Agents",
+      "Psychotherapy"
+    ],
+    "doi": "10.1016/j.genhosppsych.2023.05.005"
+  },
+  {
+    "pmid": "19712015",
+    "title": "Emerging pharmacotherapy of tinnitus.",
+    "abstract": "Tinnitus, the perception of sound in the absence of an auditory stimulus, is perceived by about 1 in 10 adults, and for at least 1 in 100, tinnitus severely affects their quality of life. Because tinnitus is frequently associated with irritability, agitation, stress, insomnia, anxiety and depression, the social and economic burdens of tinnitus can be enormous. No curative treatments are available. However, tinnitus symptoms can be alleviated to some extent. The most widespread management therapies consist of auditory stimulation and cognitive behavioral treatment, aiming at improving habituation and coping strategies. Available clinical trials vary in methodological rigor and have been performed for a considerable number of different drugs. None of the investigated drugs have demonstrated providing replicable long-term reduction of tinnitus impact in the majority of patients in excess of placebo effects. Accordingly, there are no FDA or European Medicines Agency approved drugs for the treatment of tinnitus. However, in spite of the lack of evidence, a large variety of different compounds are prescribed off-label. Therefore, more effective pharmacotherapies for this huge and still growing market are desperately needed and even a drug that produces only a small but significant effect would have an enormous therapeutic impact. This review describes current and emerging pharmacotherapies with current difficulties and limitations. In addition, it provides an estimate of the tinnitus market. Finally, it describes recent advances in the tinnitus field which may help overcome obstacles faced in the pharmacological treatment of tinnitus. These include incomplete knowledge of tinnitus pathophysiology, lack of well-established animal models, heterogeneity of different forms of tinnitus, difficulties in tinnitus assessment and outcome measurement and variability in clinical trial methodology.",
+    "authors": [
+      "Langguth B",
+      "Salvi R",
+      "Elgoyhen AB"
+    ],
+    "journal": "Expert opinion on emerging drugs",
+    "year": 2009,
+    "mesh_terms": [
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Anxiety",
+      "Body Mass Index",
+      "Cannabinoid Receptor Antagonists",
+      "Cognition Disorders",
+      "Cognitive Behavioral Therapy",
+      "Depression",
+      "Depressive Disorder",
+      "Health Status",
+      "Humans",
+      "Irritable Mood",
+      "Lung Neoplasms",
+      "Quality of Life",
+      "Radiography",
+      "Randomized Controlled Trials as Topic",
+      "Risk Factors",
+      "Sleep Initiation and Maintenance Disorders",
+      "Stress Disorders, Post-Traumatic",
+      "Surveys and Questionnaires",
+      "Time Factors",
+      "Tinnitus",
+      "United States",
+      "United States Food and Drug Administration"
+    ],
+    "doi": "10.1517/14728210903206975"
+  },
+  {
+    "pmid": "39254274",
+    "title": "Intranasal Delivery of circATF7IP siRNA via Lipid Nanoparticles Alleviates LPS-induced Depressive-Like Behaviors.",
+    "abstract": "Major depressive disorder (MDD) is a prevalent mental disorder that significantly impacts social and psychological function, but no effective medication is currently available. Circular RNAs (circRNAs) have been reported to participate in the pathogenesis of MDD which are envisioned as promising therapeutic targets. However, nonviral-based delivery strategies targeting circRNA against MDD are not thoroughly investigated. Here, it is identified that circATF7IP is significantly upregulated in plasma samples and positively correlated with 24-Hamilton Depression Scale (HAMD-24) scores of MDD patients. Synergistic amine lipid nanoparticles (SALNPs) are designed to deliver siRNA targeting circATF7IP (si-circATF7IP) into the hippocampus brain region by intranasal administration. Intranasal delivery of SALNP-si-circATF7IP successfully alleviated the depressive-like behaviors in the LPS-induced mouse depression model via decreasing CD11b+CD45dim microglia population and pro-inflammatory cytokine productions (TNF-α and IL-6). These results indicate that the level of circATF7IP positively correlates with MDD pathogenesis, and SALNP delivery of si-circATF7IP via intranasal administration is an effective strategy to ameliorate LPS-induced depressive-like behaviors.",
+    "authors": [
+      "Ju M",
+      "Zhang Z",
+      "Gao F",
+      "Chen G",
+      "Zhao S",
+      "Wang D",
+      "Wang H",
+      "Jia Y",
+      "Shen L",
+      "Yuan Y",
+      "Yao H"
+    ],
+    "journal": "Advanced healthcare materials",
+    "year": 2024,
+    "mesh_terms": [
+      "Animals",
+      "Administration, Intranasal",
+      "RNA, Small Interfering",
+      "RNA, Circular",
+      "Nanoparticles",
+      "Humans",
+      "Mice",
+      "Lipopolysaccharides",
+      "Male",
+      "Major Depressive Disorder",
+      "Mice, Inbred C57BL",
+      "Female",
+      "Depression",
+      "Microglia",
+      "Lipids",
+      "Hippocampus",
+      "Liposomes",
+      "Adult",
+      "Disease Models, Animal"
+    ],
+    "doi": "10.1002/adhm.202402219"
+  },
+  {
+    "pmid": "38523183",
+    "title": "Oral esketamine in patients with treatment-resistant depression: a double-blind, randomized, placebo-controlled trial with open-label extension.",
+    "abstract": "About one-third of patients with depression do not achieve adequate response to current treatment options. Although intravenous and intranasal administrations of (es)ketamine have shown antidepressant properties, their accessibility and scalability are limited. We investigated the efficacy, safety, and tolerability of generic oral esketamine in patients with treatment-resistant depression (TRD) in a randomized placebo-controlled trial with open-label extension. This study consisted of 1) a six-week fixed low-dose treatment phase during which 111 participants received oral esketamine 30 mg or placebo three times a day; 2) a four-week wash-out phase; and 3) an optional six-week open-label individually titrated treatment phase during which participants received 0.5 to 3.0 mg/kg oral esketamine two times a week. The primary outcome measure was change in depressive symptom severity, assessed with the Hamilton Depression Rating Scale (HDRS17), from baseline to 6 weeks. Fixed low-dose oral esketamine when compared to placebo had no benefit on the HDRS17 total score (p = 0.626). Except for dizziness and sleep hallucinations scores, which were higher in the esketamine arm, we found no significant difference in safety and tolerability aspects. During the open-label individually titrated treatment phase, the mean HDRS17 score decreased from 21.0 (SD 5.09) to 15.1 (SD 7.27) (mean difference -6.0, 95% CI -7.71 to -4.29, p < 0.001). Our results suggest that fixed low-dose esketamine is not effective in TRD. In contrast, individually titrated higher doses of oral esketamine might have antidepressant properties.",
+    "authors": [
+      "Smith-Apeldoorn SY",
+      "Veraart JKE",
+      "Kamphuis J",
+      "Spijker J",
+      "van der Meij A",
+      "van Asselt ADI",
+      "Aan Het Rot M",
+      "Schoevers RA"
+    ],
+    "journal": "Molecular psychiatry",
+    "year": 2024,
+    "mesh_terms": [
+      "Adult",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Administration, Oral",
+      "Antidepressive Agents",
+      "Depression",
+      "Depressive Disorder, Treatment-Resistant",
+      "Double-Blind Method",
+      "Ketamine",
+      "Psychiatric Status Rating Scales",
+      "Treatment Outcome"
+    ],
+    "doi": "10.1016/S2215-0366(17)30102-5"
+  },
+  {
+    "pmid": "29101095",
+    "title": "Smartphone Cognitive Behavioral Therapy as an Adjunct to Pharmacotherapy for Refractory Depression: Randomized Controlled Trial.",
+    "abstract": "BACKGROUND: In the treatment of major depression, antidepressants are effective but not curative. Cognitive behavioral therapy (CBT) is also effective, alone or in combination with pharmacotherapy, but accessibility is a problem. OBJECTIVE: The aim is to evaluate the effectiveness of a smartphone CBT app as adjunctive therapy among patients with antidepressant-resistant major depression. METHODS: A multisite, assessor-masked, parallel-group randomized controlled trial was conducted in 20 psychiatric clinics and hospitals in Japan. Participants were eligible if they had a primary diagnosis of major depression and were antidepressant-refractory after taking one or more antidepressants at an adequate dosage for four or more weeks. After a 1-week run-in in which participants started the medication switch and had access to the welcome session of the app, patients were randomized to medication switch alone or to medication switch plus smartphone CBT app via the centralized Web system. The smartphone app, called Kokoro-app (\"kokoro\" means \"mind\" in Japanese), included sessions on self-monitoring, behavioral activation, and cognitive restructuring presented by cartoon characters. The primary outcome was depression severity as assessed by masked telephone assessors with the Patient Health Questionnaire-9 (PHQ-9) at week 9. The secondary outcomes included the Beck Depression Inventory-II (BDI-II) and Frequency, Intensity, and Burden of Side Effects Ratings (FIBSER). RESULTS: In the total sample (N=164), 81 participants were allocated to the smartphone CBT in addition to medication change and 83 to medication change alone. In the former group, all but one participant (80/81, 99%) completed at least half, and 71 (88%) completed at least six of eight sessions. In the intention-to-treat analysis, patients allocated the CBT app scored 2.48 points (95% CI 1.23-3.72, P<.001; standardized mean difference 0.40) lower on PHQ-9 than the control at week 9. The former group also scored 4.1 points (95% CI 1.5-6.6, P=.002) lower on BDI-II and 0.76 points (95% CI -0.05 to 1.58, P=.07) lower on FIBSER. In the per-protocol sample (comfortable with the smartphone app, still symptomatic, and adherent to medication with mild or less side effects after run-in), the intervention group (n=60) scored 1.72 points (95% CI 0.25-3.18, P=.02) lower on PHQ-9, 3.2 points (95% CI -0.01 to 6.3, P=.05) lower on BDI-II, and 0.75 points (95% CI 0.03-1.47, P=.04) lower on FIBSER than the control (n=57). The treatment benefits were maintained up to week 17. CONCLUSIONS: This is the first study to demonstrate the effectiveness of a smartphone CBT in the treatment of clinically diagnosed depression. Given the merits of the mobile mental health intervention, including accessibility, affordability, quality control, and effectiveness, it is clinically worthwhile to consider adjunctive use of a smartphone CBT app when treating patients with antidepressant-resistant depression. Research into its effectiveness in wider clinical contexts is warranted. TRIAL REGISTRATION: Japanese Clinical Trials Registry UMIN CTR 000013693; https://upload.umin.ac.jp/cgi-open-bin/ctr_e/ ctr_view.cgi?recptno=R000015984 (Archived by WebCite at http://www.webcitation.org/6u6pxVwik).",
+    "authors": [
+      "Mantani A",
+      "Kato T",
+      "Furukawa TA",
+      "Horikoshi M",
+      "Imai H",
+      "Hiroe T",
+      "Chino B",
+      "Funayama T",
+      "Yonemoto N",
+      "Zhou Q",
+      "Kawanishi N"
+    ],
+    "journal": "Journal of medical Internet research",
+    "year": 2017,
+    "mesh_terms": [
+      "Adult",
+      "Cognitive Behavioral Therapy",
+      "Depression",
+      "Major Depressive Disorder",
+      "Drug Therapy",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Smartphone",
+      "Telemedicine"
+    ],
+    "doi": "10.1111/acps.12275"
+  },
+  {
+    "pmid": "35188015",
+    "title": "Can ketamine be a safe option for treatment-resistant bipolar depression?",
+    "abstract": "",
+    "authors": [
+      "Singh B",
+      "Vande Voort JL",
+      "Frye MA",
+      "Kung S"
+    ],
+    "journal": "Expert opinion on drug safety",
+    "year": 2022,
+    "mesh_terms": [
+      "Antidepressive Agents",
+      "Bipolar Disorder",
+      "Depression",
+      "Depressive Disorder, Treatment-Resistant",
+      "Humans",
+      "Infusions, Intravenous",
+      "Ketamine"
+    ],
+    "doi": "10.1080/14740338.2022.2045272"
+  },
+  {
+    "pmid": "27348144",
+    "title": "Drugs for depression.",
+    "abstract": "",
+    "authors": [],
+    "journal": "The Medical letter on drugs and therapeutics",
+    "year": 2016,
+    "mesh_terms": [
+      "Antidepressive Agents",
+      "Antidepressive Agents, Tricyclic",
+      "Cognitive Behavioral Therapy",
+      "Depression",
+      "Depressive Disorder, Treatment-Resistant",
+      "Drug Administration Schedule",
+      "Electric Stimulation Therapy",
+      "Electroconvulsive Therapy",
+      "Humans",
+      "Monoamine Oxidase Inhibitors",
+      "Recurrence",
+      "Remission Induction",
+      "Selective Serotonin Reuptake Inhibitors",
+      "Serotonin and Noradrenaline Reuptake Inhibitors",
+      "Transcranial Magnetic Stimulation",
+      "Treatment Outcome"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "30093269",
+    "title": "P2X7 Receptor: A Potential Therapeutic Target for Depression?",
+    "abstract": "Depression is a prime contributor to global disease burden with 300 million affected patients worldwide. The persistent lack of progress with regards to pharmacotherapy stands in stark contrast to the pandemic magnitude of the disease. Alterations of inflammatory pathways in depressed patients, including altered circulating pro-inflammatory cytokines, have been put forward as a potential pathophysiological mechanism. The P2X7 receptor (P2X7R) plays an important role regulating the release of interleukin-1β and other cytokines. Comprehensive investigation of the P2X7R Gln460Arg missense mutation (rs2230912), which has been associated with major depression and bipolar disorder, has substantially contributed to validate P2X7R as a potential genetic risk factor. We propose that P2X7R is a putative target with good prospects for therapeutic intervention in depressive disorders.",
+    "authors": [
+      "Deussing JM",
+      "Arzt E"
+    ],
+    "journal": "Trends in molecular medicine",
+    "year": 2018,
+    "mesh_terms": [
+      "Animals",
+      "Cytokines",
+      "Depression",
+      "Depressive Disorder",
+      "Drug Discovery",
+      "Humans",
+      "Inflammation",
+      "Molecular Targeted Therapy",
+      "Mutation, Missense",
+      "Polymorphism, Single Nucleotide",
+      "Receptors, Purinergic P2X7"
+    ],
+    "doi": "10.1016/j.molmed.2018.07.005"
+  },
+  {
+    "pmid": "38557430",
+    "title": "Effects of esketamine nasal spray on depressive symptom severity in adults with treatment-resistant depression and associations between the Montgomery-Åsberg Depression Rating Scale and the 9-item Patient Health Questionnaire.",
+    "abstract": "OBJECTIVE: To examine the effect of esketamine nasal spray (ESK) plus newly initiated oral antidepressant (OAD) versus OAD plus placebo nasal spray (PBO) on the association between Montgomery-Åsberg Depression Rating Scale (MADRS) and 9-item Patient Health Questionnaire (PHQ-9) scores in adults with treatment-resistant depression (TRD). METHODS: Data from TRANSFORM-1 and TRANSFORM-2 (two similarly designed, randomized, active-controlled TRD studies) and SUSTAIN-1 (relapse prevention study) were analyzed. Group differences for mean changes in PHQ-9 total score from baseline were compared using analysis of covariance. Associations between MADRS and PHQ-9 total scores from TRANSFORM-1/TRANSFORM-2 were assessed using simple parametric, nonparametric, and multiple regression models. RESULTS: In TRANSFORM-1/TRANSFORM-2 (ESK + OAD, n = 343; OAD + PBO, n = 222), baseline PHQ-9 mean scores were 20.4 for ESK + OAD and 20.6 for OAD + PBO (severe depression). At day 28, significant group differences were observed in least squares mean change (SE) in PHQ-9 scores from baseline (-12.8 [0.46] vs -10.3 [0.53], P < .001) and in clinically substantial change in PHQ-9 scores (≥6 points; 77.1% vs 64%, P < .001) in ESK + OAD and OAD + PBO groups, respectively. A nonlinear relationship between MADRS and PHQ-9 was observed; total scores demonstrated increased correlation over time. In SUSTAIN-1, 57.3% of patients receiving ESK + OAD (n = 89) versus 44.2% receiving OAD + PBO (n = 86) retained remission status (PHQ-9 score ≤4) at maintenance treatment end point (P = .044). CONCLUSIONS: In adults with TRD, ESK + OAD significantly improved severity of depressive symptoms, and more patients achieved clinically meaningful changes in depressive symptoms based on PHQ-9, versus OAD + PBO. PHQ-9 outcomes were consistent with those of clinician-rated MADRS. TRIAL REGISTRATION: ClinicalTrials.gov: NCT02417064, NCT02418585, NCT02493868.",
+    "authors": [
+      "Kern Sliwa J",
+      "Naranjo RR",
+      "Turkoz I",
+      "Petrillo MP",
+      "Cabrera P",
+      "Trivedi M"
+    ],
+    "journal": "CNS spectrums",
+    "year": 2024,
+    "mesh_terms": [
+      "Humans",
+      "Male",
+      "Ketamine",
+      "Female",
+      "Nasal Sprays",
+      "Adult",
+      "Depressive Disorder, Treatment-Resistant",
+      "Middle Aged",
+      "Antidepressive Agents",
+      "Patient Health Questionnaire",
+      "Administration, Intranasal",
+      "Psychiatric Status Rating Scales",
+      "Depression"
+    ],
+    "doi": "10.1017/S1092852924000105"
+  },
+  {
+    "pmid": "21770842",
+    "title": "Psychological treatment of depression: results of a series of meta-analyses.",
+    "abstract": "BACKGROUND: In the past few decades, a considerable number of studies have examined the effects of psychotherapies for adult depression. AIM: We described the results of a series of meta-analyses examining what this large body of research has contributed to our knowledge of these treatments of depression. RESULTS: We found that different types of psychotherapy are efficacious in the treatment of adult depression, including cognitive behavior therapy, interpersonal psychotherapy, problem-solving therapy, non-directive supportive therapy and behavioral activation therapy. Differences between types of psychotherapy are small. The efficacy of psychotherapy for mild to moderate depression is about the same as the efficacy of pharmacotherapy, and that combined treatment is more effective than psychotherapy alone and pharmacotherapy alone. Psychotherapy is not only effective in depressed adults in general, but also in older adults, women with postpartum depression, patients with general medical disorders, in inpatients, in primary care patients, patients with chronic depression and in subthreshold depression. CONCLUSIONS: We found no evidence showing that psychotherapy is less efficacious in severe depression (with mean baseline Hamilton Depression Rating Scale scores up to 31, mean Beck Depression Inventory scores up to 35.85 and mean Beck Depression Inventory-II scores up to 36.50), but effects are smaller in chronic depression. We also found that the effects of psychotherapy are probably overestimated because of publication bias and the relatively low quality of many studies in the field.",
+    "authors": [
+      "Cuijpers P",
+      "Andersson G",
+      "Donker T",
+      "van Straten A"
+    ],
+    "journal": "Nordic journal of psychiatry",
+    "year": 2011,
+    "mesh_terms": [
+      "Adult",
+      "Combined Modality Therapy",
+      "Depression",
+      "Depressive Disorder",
+      "Female",
+      "Humans",
+      "Psychotherapy",
+      "Randomized Controlled Trials as Topic"
+    ],
+    "doi": "10.3109/08039488.2011.596570"
+  },
+  {
+    "pmid": "36453033",
+    "title": "An Innovative Approach to Extending the Antidepressant Effects of Intravenous Ketamine in Major Depression.",
+    "abstract": "",
+    "authors": [
+      "Schatzberg AF"
+    ],
+    "journal": "The American journal of psychiatry",
+    "year": 2022,
+    "mesh_terms": [
+      "Humans",
+      "Ketamine",
+      "Major Depressive Disorder",
+      "Depression",
+      "Antidepressive Agents",
+      "Administration, Intravenous"
+    ],
+    "doi": "10.1176/appi.ajp.20220812"
+  },
+  {
+    "pmid": "7992826",
+    "title": "Treatment of depression in late life.",
+    "abstract": "Depression is a common, but treatable, source of suffering, excess disability, and caregiver strain in late life. It is important to take a long-term view of the treatment of late-life depression because of the high risk for relapse, recurrence, and chronic illness. Elderly patients with medical and neurological illness or bereavement-related depressions also merit greater attention. Recent data highlight several important caveats: (a) the role of medical and psychosocial factors in the course of major depression; (b) variability in etiology, clinical presentation, and treatment response; (c) need for additional studies of syndromal and subsyndromal depression in primary and long-term care facilities, particularly in patients > 75 years of age; and (d) importance of continuation and maintenance treatment to maintain quality of life and to lower the risk for chronic illness. Nortriptyline, desipramine, and the newer selective serotonin reuptake inhibitors (SSRIs), paroxetine and sertraline, are preferred pharmacotherapy for short-term and long-term treatment. The newer SSRIs should be further studied in controlled trials of elderly depressed patients, including those > 75 years and those with medical or neurological illness. Psychotherapy also appears to be of major importance in successful outcome but, as does pharmacotherapy, merits further controlled investigation in both short- and long-term clinical trials.",
+    "authors": [
+      "Reynolds CF"
+    ],
+    "journal": "The American journal of medicine",
+    "year": 1994,
+    "mesh_terms": [
+      "Age Factors",
+      "Aged",
+      "Antidepressive Agents",
+      "Depression",
+      "Depressive Disorder",
+      "Humans",
+      "Psychology",
+      "Psychotherapy"
+    ],
+    "doi": "10.1016/0002-9343(94)90362-x"
+  },
+  {
+    "pmid": "28395988",
+    "title": "Ketamine treatment for depression: opportunities for clinical innovation and ethical foresight.",
+    "abstract": "We present a review and analysis of the ethical considerations in off-label ketamine use for severe, treatment-resistant depression. The analysis of ethical considerations is contextualised in an overview of the evidence for ketamine use in depression, and a review of the drug's safety profile. We find that, based on current evidence, ketamine use for severe, treatment-resistant depression does not violate ethical principles; however, clinicians and professional bodies must take steps to ensure that guidelines for good practice are enacted, that all experimental and trial data are made available through national registries, and that the risk potential of ketamine treatment continues to be monitored and modelled. We conclude with a set of key recommendations for oversight bodies that would support safe, effective, and ethical use of ketamine in depression.",
+    "authors": [
+      "Singh I",
+      "Morgan C",
+      "Curran V",
+      "Nutt D",
+      "Schlag A",
+      "McShane R"
+    ],
+    "journal": "The lancet. Psychiatry",
+    "year": 2017,
+    "mesh_terms": [
+      "Antidepressive Agents",
+      "Depression",
+      "Depressive Disorder, Treatment-Resistant",
+      "Humans",
+      "Ketamine",
+      "Off-Label Use",
+      "Patient Safety",
+      "Practice Guidelines as Topic",
+      "Randomized Controlled Trials as Topic"
+    ],
+    "doi": "10.1016/S2215-0366(17)30102-5"
+  },
+  {
+    "pmid": "25391955",
+    "title": "Depression: the best way forward.",
+    "abstract": "",
+    "authors": [
+      "Monteggia LM",
+      "Malenka RC",
+      "Deisseroth K"
+    ],
+    "journal": "Nature",
+    "year": 2014,
+    "mesh_terms": [
+      "Animals",
+      "Biomedical Research",
+      "Depression",
+      "Depressive Disorder",
+      "Disease Models, Animal",
+      "Drug Discovery",
+      "Humans",
+      "Mice",
+      "Molecular Targeted Therapy"
+    ],
+    "doi": "10.1038/515200a"
+  },
+  {
+    "pmid": "24953481",
+    "title": "Do depression treatments reduce suicidal ideation? The effects of CBT, IPT, pharmacotherapy, and placebo on suicidality.",
+    "abstract": "BACKGROUND: Many well-researched treatments for depression exist. However, there is not yet enough evidence on whether these therapies, designed for the treatment of depression, are also effective for reducing suicidal ideation. This research provides valuable information for researchers, clinicians, and suicide prevention policy makers. METHODS: Analysis was conducted on the Treatment for Depression Research Collaborative (TDCRP) sample, which included CBT, IPT, medication, and placebo treatment groups. Participants were included in the analysis if they reported suicidal ideation on the HRSD or BDI (score of ≥1). RESULTS: Multivariate linear regression indicated that both IPT (b=.41, p<.05) and medication (b =.47, p<.05) yielded a significant reduction in suicide symptoms compared to placebo on the HRSD. Multivariate linear regression indicated that after adjustment for change in depression these treatment effects were no longer significant. Moderate Cohen׳s d effect sizes from baseline to post-test differences in suicide score by treatment group are reported. LIMITATIONS: These analyses were completed on a single suicide item from each of the measures. Moreover, the TDCRP excluded participants with moderate to severe suicidal ideation. CONCLUSIONS: This study demonstrates the specific effectiveness of IPT and medications in reducing suicidal ideation (relative to placebo), albeit largely as a consequence of their more general effects on depression. This adds to the growing body of evidence that depression treatments, specifically IPT and medication, can also reduce suicidal ideation and serves to further our understanding of the complex relationship between depression and suicide.",
+    "authors": [
+      "Weitz E",
+      "Hollon SD",
+      "Kerkhof A",
+      "Cuijpers P"
+    ],
+    "journal": "Journal of affective disorders",
+    "year": 2014,
+    "mesh_terms": [
+      "Adult",
+      "Antidepressive Agents",
+      "Cognitive Behavioral Therapy",
+      "Depression",
+      "Depressive Disorder",
+      "Drug Administration Schedule",
+      "Female",
+      "Follow-Up Studies",
+      "Humans",
+      "Interpersonal Relations",
+      "Linear Models",
+      "Male",
+      "Suicidal Ideation",
+      "Suicide, Attempted",
+      "Treatment Outcome"
+    ],
+    "doi": "10.1016/j.jad.2014.05.036"
+  },
+  {
+    "pmid": "19454086",
+    "title": "Depression in adults: drug and physical treatments.",
+    "abstract": "INTRODUCTION: Depression may affect up to 10% of the population, with half of affected people having recurrence of their symptoms. In mild to moderate depression, there is no reliable evidence that any one treatment is superior in improving symptoms of depression, but the strength of evidence supporting different treatments varies. In severe depression, only prescription antidepressants and electroconvulsive therapy are known to improve symptoms. METHODS AND OBJECTIVES: We conducted a systematic review and aimed to answer the following clinical questions: What are the effects of treatments in mild to moderate and severe depression, and in treatment-resistant depression? Which interventions reduce relapse rates? We searched: Medline, Embase, The Cochrane Library and other important databases up to April 2006 (Clinical Evidence reviews are updated periodically, please check our website for the most up-to-date version of this review). We included harms alerts from relevant organisations such as the US Food and Drug Administration (FDA) and the UK Medicines and Healthcare products Regulatory Agency (MHRA). RESULTS: We found 87 systematic reviews, RCTs, or observational studies that met our inclusion criteria. We performed a GRADE evaluation of the quality of evidence for interventions. CONCLUSIONS: In this systematic review we present information relating to the effectiveness and safety of the following interventions: antidepressant drugs (tricyclic antidepressants [including low-dose tricyclic antidepressants], selective serotonin reuptake inhibitors, monoamine oxidase inhibitors, reboxetine, or venlafaxine), continuing prescription antidepressant drugs, electroconvulsive therapy, exercise, lithium augmentation, pindolol augmentation, St John's Wort.",
+    "authors": [
+      "Barbui C",
+      "Butler R",
+      "Cipriani A",
+      "Geddes J",
+      "Hatcher S"
+    ],
+    "journal": "BMJ clinical evidence",
+    "year": 2007,
+    "mesh_terms": [
+      "Administration, Oral",
+      "Adult",
+      "Antidepressive Agents",
+      "Antidepressive Agents, Tricyclic",
+      "Depression",
+      "Depressive Disorder",
+      "Major Depressive Disorder",
+      "Humans",
+      "Selective Serotonin Reuptake Inhibitors"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "33647726",
+    "title": "Intranasal esketamine: From origins to future implications in treatment-resistant depression.",
+    "abstract": "The approval of intranasal esketamine for treatment-resistant depression marks the next step in our understanding of and ability to treat treatment-resistant depression. The origin of ketamine is rooted in the search for a phencyclidine analog that could be used as a pre-surgical anesthetic with less emergence delirium. Following its inception, ketamine has been used in a variety of contexts. However, it was the seminal Berman et al., 2000 study, which published positive findings from the first human trial using subanesthetic intravenous ketamine for depression. Since then, a large body of research has investigated ketamine's various proposed antidepressant mechanisms of action, and the role its pharmacokinetic properties and route of administration play in producing its antidepressant effects. The results of this research were the eventual approval of intranasal esketamine for treatment-resistant depression by the U.S. Food and Drug Administration (FDA) in March 2019. By identifying and utilizing predictors of response, we can continue to refine our approach to treating treatment-resistant depression and optimize patient response to intranasal esketamine. In this article, we look at the history, pharmacology, landmark studies, and future implications of intranasal esketamine for treatment-resistant depression.",
+    "authors": [
+      "Sanders B",
+      "Brula AQ"
+    ],
+    "journal": "Journal of psychiatric research",
+    "year": 2021,
+    "mesh_terms": [
+      "Administration, Intranasal",
+      "Depression",
+      "Major Depressive Disorder",
+      "Depressive Disorder, Treatment-Resistant",
+      "Humans",
+      "Ketamine"
+    ],
+    "doi": "10.1016/j.jpsychires.2021.02.020"
+  },
+  {
+    "pmid": "31512733",
+    "title": "[Off-label ketamine treatment for treatment-resistant depression: win-win?].",
+    "abstract": "",
+    "authors": [
+      "Smith-Apeldoorn SY",
+      "Veraart JKE",
+      "Schoevers RA"
+    ],
+    "journal": "Tijdschrift voor psychiatrie",
+    "year": 2019,
+    "mesh_terms": [
+      "Antidepressive Agents",
+      "Depression",
+      "Depressive Disorder, Treatment-Resistant",
+      "Humans",
+      "Ketamine",
+      "Off-Label Use"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "32003691",
+    "title": "An Update on Glutamatergic System in Suicidal Depression and on the Role of Esketamine.",
+    "abstract": "BACKGROUND: A research on mood disorder pathophysiology has hypothesized abnormalities in glutamatergic neurotransmission, by suggesting further investigation on glutamatergic N-methyl-Daspartate (NMDA) receptor modulators in treating Major Depressive Disorder (MDD). Esketamine (ESK), an NMDA receptor antagonist able to modulate glutamatergic neurotransmission has been recently developed as an intranasal formulation for treatment-resistant depression (TRD) and for rapid reduction of depressive symptomatology, including suicidal ideation in MDD patients at imminent risk for suicide. OBJECTIVE: The present study aims at investigating recent clinical findings on research on the role of the glutamatergic system and ESK in treating suicidal depression in MDD and TRD. METHODS: A systematic review was here carried out on PubMed/Medline, Scopus and the database on U.S. N.I.H. Clinical Trials (https://clinicaltrials.gov) and the European Medical Agency (EMA) (https://clinicaltrialsregister.eu) from inception until October 2019. RESULTS: Intravenous infusion of ESK is reported to elicit rapid-acting and sustained antidepressant activity in refractory patients with MDD and TRD. In phase II studies, intranasal ESK demonstrated a rapid onset and a persistent efficacy in patients with TRD as well as in MDD patients at imminent risk for suicide. However, some data discrepancies have emerged in phase III studies. CONCLUSION: The U.S. Food and Drug Administration (FDA) granted fast track and Breakthrough Therapy Designation to Janssen Pharmaceuticals®, Inc. for intranasal ESK in 2013 for treatment-resistant depression (TRD) and in 2016 for the treatment of MDD with an imminent risk of suicide. However, further studies should be implemented to investigate the long-term efficacy and safety of intranasal ESK.",
+    "authors": [
+      "De Berardis D",
+      "Tomasetti C",
+      "Pompili M",
+      "Serafini G",
+      "Vellante F",
+      "Fornaro M",
+      "Valchera A",
+      "Perna G",
+      "Volpe U",
+      "Martinotti G",
+      "Fraticelli S",
+      "Di Giannantonio M",
+      "Kim YK",
+      "Orsolini L"
+    ],
+    "journal": "Current topics in medicinal chemistry",
+    "year": 2020,
+    "mesh_terms": [
+      "Administration, Intranasal",
+      "Antidepressive Agents",
+      "Clinical Trials as Topic",
+      "Databases, Factual",
+      "Depression",
+      "Major Depressive Disorder",
+      "Drug Compounding",
+      "Glutamic Acid",
+      "Humans",
+      "Ketamine",
+      "Receptors, N-Methyl-D-Aspartate",
+      "Synaptic Transmission",
+      "Time Factors",
+      "Treatment Outcome",
+      "United States",
+      "United States Food and Drug Administration",
+      "Suicide Prevention"
+    ],
+    "doi": "10.2174/1568026620666200131100316"
+  },
+  {
+    "pmid": "40499826",
+    "title": "Exploring causal plasma protein level ratios and potential drug targets for depression: A proteomics Mendelian randomization study.",
+    "abstract": "BACKGROUND: The rising prevalence of depression imposes a heavy burden on individuals and society. Due to the complex pathogenesis of depression, there is a need to explore new diagnostic and prognostic biomarkers, as well as drug targets. METHODS: This study selected single nucleotide polymorphisms (SNPs) associated with depression and 2821 plasma protein level ratios to serve as instrumental variables (IVs). We employed a two-sample Mendelian randomization (MR) analysis and supplemented the sensitivity analysis with bidirectional MR analysis and Bayesian co-localization. Additionally, we utilized DrugBank to identify the targets and conducted a protein-protein interaction network analysis. RESULTS: Mendelian randomization analysis revealed that increased ADH4/GSTA1 (OR = 0.95; 95 % CI, 0.92-0.98; P = 0.0027), ADH4/KYNU (OR = 0.94; 95 % CI, 0.89-0.99; P = 0.0364), and ROBO2/SCARF2 (OR = 0.95; 95 % CI, 0.90-0.99; P = 0.0268) were associated with a decreased risk of depression, while elevated CD40/CD40LG (OR = 1.06; 95 % CI, 1.01-1.10; P = 0.0046), CD40/F11R (OR = 1.05; 95 % CI, 1.02-1.09; P = 0.0003), PLA2G15/PRCP (OR = 1.05; 95 % CI, 1.01-1.09; P = 0.0143), and PPP1R2/USP8 (OR = 1.04; 95 % CI, 1.00-1.08; P = 0.0385) were associated with an increased risk of depression. ADH4, GSTA1, CD40, CD40LG, F11R, PLA2G15, PPP1R2, USP8, and SCARF2 were identified as associated with therapeutic targets of existing depression medications, warranting further exploration. CONCLUSION: This study is the first to identify a causal relationship between the plasma protein level ratios and depression using MR analysis. These discoveries offer new perspectives for exploring the diagnosis, prognosis, and therapeutic targets of depression.",
+    "authors": [
+      "Zhang G",
+      "Hao J",
+      "Ren Q",
+      "Guan J",
+      "Qi L",
+      "Bai T",
+      "Wang K"
+    ],
+    "journal": "Journal of affective disorders",
+    "year": 2025,
+    "mesh_terms": [
+      "Adult",
+      "Aged",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Blood Proteins",
+      "Case-Control Studies",
+      "Depression",
+      "Genome-Wide Association Study",
+      "Mendelian Randomization Analysis",
+      "Molecular Targeted Therapy",
+      "Proteomics",
+      "Quantitative Trait Loci",
+      "Biomarkers",
+      "Depressive Disorder"
+    ],
+    "doi": "10.1016/j.jad.2025.119647"
+  },
+  {
+    "pmid": "30616255",
+    "title": "[\"Lithium in the treatment of old age depression. What are the pros and cons?\"].",
+    "abstract": "OBJECTIVE: Augmentation with lithium is one of the treatment options in therapy-resistant depression. This review presents the current data concerning the use of lithium in elderly patients with unipolar depression. METHOD: Through a selective literature search in the database PubMed, 15 relevant articles were identified and included. RESULTS: Both the clinical trials and reviews report in favor of lithium augmentation in elderly patients. Remission rates and response rates are high. Kidney damage, a feared side effect, is rarely seen. Even over longer periods of use, lithium is effective; however, close monitoring under laboratory tests must be carried out. CONCLUSION: Lithium represents an effective drug in the treatment of unipolar old age depression. Its use in daily clinical practice is therefore highly recommended. ANLIEGEN: Die Lithiumaugmentation ist eine der Behandlungsoptionen bei therapieresistenter Depression. In diesem Review soll die Studienlage zu der Anwendung von Lithium im höheren Lebensalter bei unipolarer Depression zusammengefasst werden. METHODE: Es wurde eine selektive Literaturrecherche in PubMed durchgeführt. Es konnten insgesamt 15 relevante Artikel (Plazebokontrollierte Studien und Übersichtsarbeiten) miteinbezogen werden. Ergebnisse: Sowohl die klinischen Studien als auch die Reviews sprechen sich positiv für die Lithiumaugmentation im Alter aus. Die Remissionsraten und das Ansprechen auf das Lithium allgemein sind sehr hoch. Nierenschäden als gefürchtete Nebenwirkungen treten nur selten auf. Auch über längere Anwendung hinaus zeigt sich das Lithium als wirksam und verträglich, wobei Laborkontrollen engmaschiger durchgeführt werden sollten. SCHLUSSFOLGERUNG: Lithium präsentiert sich als wirksames Medikament bei therapieresistenter unipolaren Altersdepression. Im klinischen Alltag ist der Einsatz bei fehlender Kontraindikation zu empfehlen.",
+    "authors": [
+      "Stühler S",
+      "Quante A"
+    ],
+    "journal": "Fortschritte der Neurologie-Psychiatrie",
+    "year": 2018,
+    "mesh_terms": [
+      "Aged",
+      "Antidepressive Agents",
+      "Depression",
+      "Depressive Disorder",
+      "Drug Therapy, Combination",
+      "Humans",
+      "Lithium Compounds"
+    ],
+    "doi": "10.1055/a-0644-2578"
+  },
+  {
+    "pmid": "28126705",
+    "title": "We Need to Talk about Depression and Dialysis: but What Questions Should We Ask, and Does Anyone Know the Answers?",
+    "abstract": "",
+    "authors": [
+      "Hackett ML",
+      "Jardine MJ"
+    ],
+    "journal": "Clinical journal of the American Society of Nephrology : CJASN",
+    "year": 2017,
+    "mesh_terms": [
+      "Depression",
+      "Depressive Disorder",
+      "Fluid Therapy",
+      "Humans",
+      "Kidney Failure, Chronic",
+      "Renal Dialysis"
+    ],
+    "doi": "10.2215/CJN.13031216"
+  },
+  {
+    "pmid": "26059306",
+    "title": "[Depression and addiction comorbidity: towards a common molecular target?].",
+    "abstract": "The comorbidity of depression and cocaine addiction suggests shared mechanisms and anatomical pathways. Specifically, the limbic structures, such as the nucleus accumbens (NAc), play a crucial role in both disorders. P11 (S100A10) is a promising target for manipulating depression and addiction in mice. We summarized the recent genetic and viral strategies used to determine how the titration of p11 levels within the NAc affects hedonic behavior and cocaine reward learning in mice. In particular, p11 in the ChAT+ cells or DRD1+ MSN of the NAc, controls depressive-like behavior or cocaine reward, respectively. Treatments to counter maladaptation of p11 levels in the NAc could provide novel therapeutic opportunities for depression and cocaine addiction in humans.",
+    "authors": [
+      "Arango-Lievano M",
+      "Kaplitt MG"
+    ],
+    "journal": "Medecine sciences : M/S",
+    "year": 2015,
+    "mesh_terms": [
+      "Anhedonia",
+      "Animals",
+      "Annexin A2",
+      "Appetitive Behavior",
+      "Cholinergic Neurons",
+      "Cocaine",
+      "Comorbidity",
+      "Depression",
+      "Depressive Disorder",
+      "Disease Models, Animal",
+      "Genetic Therapy",
+      "Genetic Vectors",
+      "Humans",
+      "Interneurons",
+      "Mice",
+      "Mice, Knockout",
+      "Molecular Targeted Therapy",
+      "Nerve Tissue Proteins",
+      "Neural Pathways",
+      "Neurotransmitter Agents",
+      "Nucleus Accumbens",
+      "Optogenetics",
+      "Pleasure",
+      "Prevalence",
+      "Protein Transport",
+      "RNA Interference",
+      "Receptors, Neurotransmitter",
+      "Reward",
+      "S100 Proteins",
+      "Substance-Related Disorders",
+      "S100 Calcium Binding Protein A10"
+    ],
+    "doi": "10.1051/medsci/20153105017"
+  },
+  {
+    "pmid": "23082730",
+    "title": "Glutamate hypothesis of depression and its consequences for antidepressant treatments.",
+    "abstract": "",
+    "authors": [
+      "Musazzi L",
+      "Treccani G",
+      "Popoli M"
+    ],
+    "journal": "Expert review of neurotherapeutics",
+    "year": 2012,
+    "mesh_terms": [
+      "Animals",
+      "Antidepressive Agents",
+      "Brain",
+      "Depression",
+      "Major Depressive Disorder",
+      "Excitatory Amino Acid Antagonists",
+      "Glutamic Acid",
+      "Humans",
+      "Molecular Targeted Therapy",
+      "Nerve Tissue Proteins",
+      "Neurons",
+      "Receptors, Glutamate",
+      "Synaptic Transmission"
+    ],
+    "doi": "10.1586/ern.12.96"
+  },
+  {
+    "pmid": "40633782",
+    "title": "Effects of combined estrogen and bazedoxifene (CEB) on depressive symptoms in perimenopause.",
+    "abstract": "BACKGROUND: Perimenopause is characterized by ovarian hormone fluctuation and associated with elevated risk for depression. Perimenopausal-onset major depression (PO-MDD) can be alleviated with estrogen treatment. However, due to potential risk for breast and uterine cancer, traditional hormone treatments may not be suitable for some. Conjugated estrogen combined with the selective estrogen receptor modulator (SERM) bazedoxifene (CEB) is a tissue selective estrogen complex (TSEC) used to target hot flashes and postmenopausal osteoporosis. CEB's effect on mood during perimenopause remains understudied. METHODS: In this open-label pilot clinical trial, CEB was administered to perimenopausal women (N = 10) for three weeks with weekly symptom assessments and estradiol measurements. Mixed effects models were used to examine changes in affective and menopausal symptoms. RESULTS: Menopausal symptoms were significantly reduced over the course of treatment, and several depression symptom domains were also reduced (e.g., dysphoria, anhedonia, ill temper, insomnia; all pFDRs < 0.05). DISCUSSION: The current findings suggest that CEB reduces mood and menopausal symptoms without the concurrent risk profile of standard hormonal treatments. Further research is needed to understand potential links with estradiol variability and implications for the further development of treatments.",
+    "authors": [
+      "Bondy E",
+      "Prim J",
+      "Rubinow D",
+      "Schiff L",
+      "Dichter GS",
+      "Schiller CE"
+    ],
+    "journal": "Journal of affective disorders",
+    "year": 2025,
+    "mesh_terms": [
+      "Humans",
+      "Female",
+      "Indoles",
+      "Middle Aged",
+      "Perimenopause",
+      "Selective Estrogen Receptor Modulators",
+      "Pilot Projects",
+      "Drug Therapy, Combination",
+      "Hot Flashes",
+      "Estradiol",
+      "Estrogens, Conjugated (USP)",
+      "Major Depressive Disorder",
+      "Adult",
+      "Affect",
+      "Depression"
+    ],
+    "doi": "10.1016/j.jad.2025.119853"
+  },
+  {
+    "pmid": "34043225",
+    "title": "[Farmacotherapeutic treatment of psychotic depression: a review].",
+    "abstract": "BACKGROUND: Psychotic depression is a severe disease with a lifetime prevalence between 0.35 and 1%. Several guidelines suggest electroconvulsion therapy (ECT) as first choice treatment, however, in practice a pharmacological approach is often used first. AIM: To offer an overview of scientific literature concerning the pharmacotherapeutic treatment of psychotic depression. METHOD: We searched 'Pubmed' for Dutch or English articles, published after 1999. RESULTS: The search strategy produced 26 articles, of which 6 were excluded because of a too small study population. In the references of used literature 4 more articles were witheld. 24 articles were included. Despite the severity of the disease and the high prevalence, the research regarding treatment of psychotic depression is limited. Besides ECT, we consider combination therapy with an antidepressant and an antipsychotic as the most supported treatment, for a duration of at least four months. After four months tapering off the antipsychotic can be considered. CONCLUSION: Based on the discussed research, it's difficult to arrive at conclusions regarding the choice of products. Olanzapine or quetiapine were investigated the most in combination with an SSRI. The combination of an SNRI (venlafaxine) and quetiapine shows good results. The distinct effect of treatment with a TCA calls for further investigation.",
+    "authors": [
+      "Anthonis E",
+      "Sienaert P"
+    ],
+    "journal": "Tijdschrift voor psychiatrie",
+    "year": 2021,
+    "mesh_terms": [
+      "Antipsychotic Agents",
+      "Depression",
+      "Major Depressive Disorder",
+      "Drug Therapy, Combination",
+      "Humans",
+      "Psychotic Disorders"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "24548241",
+    "title": "Targeting classical IL-6 signalling or IL-6 trans-signalling in depression?",
+    "abstract": "INTRODUCTION: Increased IL-6 and soluble IL-6 receptor (sIL-6R) levels in depressed patients was first shown over 20 years ago. The pro-inflammatory effects of IL-6 are predominantly mediated by IL-6 trans-signalling via the sIL-6R, whereas IL-6R membrane signalling has anti-inflammatory effects. AREAS COVERED: We review data on IL-6 and sIL-6R in inflammation, depression, animal models of depression and the effects of different classes of antidepressants. The biological context for IL-6 trans-signalling as a pathogenic factor in depression involves its role in the acute phase response, disorders in zinc and the erythron, hypothalamic-pituitary-adrenal axis activation, induction of the tryptophan catabolite pathway, oxidative stress, bacterial translocation, transition towards sensitisation, autoimmune processes and neuroprogression and the multicausal aetiology of depression, considering that psychosocial stressors and comorbid immune-inflammatory diseases are associated with the onset of depression. EXPERT OPINION: The homeostatic functions of IL-6 imply that ubiquitous IL-6 inhibitors, for example, tocilizumab, may not be the optimal treatment target in depression. A more promising target may be to increase soluble glycoprotein 130 (sgp130) inhibition of IL-6 trans-signalling, while allowing the maintenance of IL-6R membrane signalling. Future research should delineate the effects of treatments with sgp130Fc in combination with antidepressants in various animal models of chronic depression.",
+    "authors": [
+      "Maes M",
+      "Anderson G",
+      "Kubera M",
+      "Berk M"
+    ],
+    "journal": "Expert opinion on therapeutic targets",
+    "year": 2014,
+    "mesh_terms": [
+      "Acute-Phase Reaction",
+      "Animals",
+      "Antidepressive Agents",
+      "Autoimmunity",
+      "Bacterial Translocation",
+      "Cytokines",
+      "Depression",
+      "Depressive Disorder",
+      "Disease Models, Animal",
+      "Genetic Predisposition to Disease",
+      "Humans",
+      "Hypothalamo-Hypophyseal System",
+      "Inflammation",
+      "Interleukin-6",
+      "Meta-Analysis as Topic",
+      "Molecular Targeted Therapy",
+      "Neurodegenerative Diseases",
+      "Neuroimmunomodulation",
+      "Neurotransmitter Agents",
+      "Pituitary-Adrenal System",
+      "Receptors, Interleukin-6",
+      "Signal Transduction",
+      "Stress, Psychological",
+      "T-Lymphocyte Subsets",
+      "Tryptophan",
+      "Zinc",
+      "Interleukin-6 Inhibitors"
+    ],
+    "doi": "10.1517/14728222.2014.888417"
+  },
+  {
+    "pmid": "38205962",
+    "title": "Depressive Syndromes in Men With Hypogonadism in the TRAVERSE Trial: Response to Testosterone-Replacement Therapy.",
+    "abstract": "CONTEXT: The effect of testosterone on depressive symptoms in men with hypogonadism remains incompletely understood. OBJECTIVE: We assessed the effects of testosterone-replacement therapy (TRT) in improving depressive symptoms in hypogonadal men with and without depressive symptoms enrolled in the TRAVERSE cardiovascular safety trial. METHODS: A randomized, placebo-controlled, double-blind study was conducted at 316 trial sites. Participants included men, aged 45 to 80 years, with 2 fasting testosterone levels less than 300 ng/dL, 1 or more hypogonadal symptoms, cardiovascular disease (CVD), or increased risk of CVD. We evaluated 3 subgroups of participants: (1) men with rigorously defined, late-life-onset, low-grade persistent depressive disorder (LG-PDD, previously \"dysthymia\"); (2) all men with significant depressive symptoms (Patient Health Questionnaire-9 Score >4); and (3) all randomly assigned men. Intervention included 1.62% transdermal testosterone or placebo gel. Outcome measures included the proportions of participants (1) meeting criteria for LG-PDD or (2) with significant depressive symptoms; and changes in depressive symptoms, energy, sleep quality, and cognition in testosterone-treated vs placebo-treated men in the 3 subgroups. RESULTS: Of 5204 randomly assigned participants, 2643 (50.8%) had significant depressive symptoms, but only 49 (1.5%) met rigorous criteria for LG-PDD. Among those with LG-PDD, there was no significant difference in any outcome measure between the TRT and placebo groups, possibly reflecting low statistical power. In men with significant depressive symptoms (n = 2643) and in all randomly assigned participants (n = 5204), TRT was associated with modest but significantly greater improvements in mood and energy but not cognition or sleep quality. CONCLUSION: Depressive symptoms are common in middle-aged and older men with hypogonadism but LG-PDD is uncommon. TRT is associated with small improvements in mood and energy in hypogonadal men with and without significant depressive symptoms.",
+    "authors": [
+      "Bhasin S",
+      "Seidman S",
+      "Travison TG",
+      "Pencina KM",
+      "Lincoff AM",
+      "Nissen SE",
+      "Miller MG",
+      "Flevaris P",
+      "Li X",
+      "Wannemuehler KA",
+      "Pope HG"
+    ],
+    "journal": "The Journal of clinical endocrinology and metabolism",
+    "year": 2024,
+    "mesh_terms": [
+      "Humans",
+      "Male",
+      "Testosterone",
+      "Middle Aged",
+      "Hormone Replacement Therapy",
+      "Hypogonadism",
+      "Double-Blind Method",
+      "Aged",
+      "Depression",
+      "Aged, 80 and over",
+      "Depressive Disorder",
+      "Treatment Outcome"
+    ],
+    "doi": "10.1210/clinem/dgae026"
+  },
+  {
+    "pmid": "37940059",
+    "title": "National Network of Depression Centers position statement: Insurance coverage for intravenous ketamine in treatment-resistant major depressive disorder.",
+    "abstract": "",
+    "authors": [
+      "Niciu MJ",
+      "Meisner RC",
+      "Carr BR",
+      "Farooqui AA",
+      "Feifel D",
+      "Kaplin A",
+      "Kendrick EJ",
+      "Kim PM",
+      "Schneck CD",
+      "Vande Voort JL",
+      "Parikh SV"
+    ],
+    "journal": "Journal of affective disorders",
+    "year": 2024,
+    "mesh_terms": [
+      "Humans",
+      "Ketamine",
+      "Major Depressive Disorder",
+      "Depression",
+      "Infusions, Intravenous",
+      "Depressive Disorder, Treatment-Resistant",
+      "Insurance Coverage"
+    ],
+    "doi": "10.1016/j.jad.2023.11.008"
+  },
+  {
+    "pmid": "19709983",
+    "title": "[Diagnosis and therapy of depression in family practice].",
+    "abstract": "Depression is one of the most prevalent mental disorders, according to Hungarian and international data. In Western- Europe, lifetime prevalence of major depression is 13%, while one-year prevalence is 4%. The prevalence of severe depressive symptoms is similar in Hungary: approximately 5 to 8% of all patients seen by primary care physicians suffer from some kind of depressive disorders. Depression is more prevalent in women and in the elderly. According to the World Health Organization, depression is the third most common disabling disorder. Patients with depression experience impaired quality of life, anxiety, sleep disturbances, alcohol and drug abuse, and different somatic disorders. Furthermore, depression is the most important risk factor for suicide. Primary care physicians have a crucial role in the screening and diagnosing of depressive disorders. Depressive disorders can exist not only in patients complaining about depressed mood, but also in patients with \"medically unexplained symptoms\" (headache, fatigue, abdominal pain, gastrointestinal symptoms, weight change). Primary care physicians should have appropriate knowledge about the different therapeutic options (including various psychotherapies, antidepressant medications and other treatment options) to be able to treat their patients properly. We review the literature about the significance and epidemiology of depression and summarize the diagnostic and therapeutic options of depressive disorders in primary care practice.",
+    "authors": [
+      "Torzsa P",
+      "Szeifert L",
+      "Dunai K",
+      "Kalabay L",
+      "Novák M"
+    ],
+    "journal": "Orvosi hetilap",
+    "year": 2009,
+    "mesh_terms": [
+      "Abdominal Pain",
+      "Age Distribution",
+      "Age Factors",
+      "Antidepressive Agents",
+      "Body Weight",
+      "Depression",
+      "Depressive Disorder",
+      "Major Depressive Disorder",
+      "Diagnosis, Differential",
+      "Family Practice",
+      "Fatigue",
+      "Female",
+      "Headache",
+      "Humans",
+      "Hungary",
+      "Incidence",
+      "Male",
+      "Mass Screening",
+      "Prevalence",
+      "Psychotherapy",
+      "Quality of Life",
+      "Referral and Consultation",
+      "Sex Distribution",
+      "Sex Factors",
+      "Sleep Wake Disorders",
+      "Stress, Psychological",
+      "Surveys and Questionnaires"
+    ],
+    "doi": "10.1556/OH.2009.28675"
+  },
+  {
+    "pmid": "14284986",
+    "title": "THE ANTIDEPRESSANT DRUGS.",
+    "abstract": "",
+    "authors": [
+      "HORDERN A"
+    ],
+    "journal": "The New England journal of medicine",
+    "year": 1965,
+    "mesh_terms": [
+      "Amitriptyline",
+      "Antidepressive Agents",
+      "Central Nervous System Stimulants",
+      "Depression",
+      "Depressive Disorder",
+      "Desipramine",
+      "Drug Therapy",
+      "Epidemiology",
+      "Humans",
+      "Imipramine",
+      "Mental Disorders",
+      "Monoamine Oxidase Inhibitors",
+      "Nortriptyline",
+      "Phenelzine",
+      "Psychopharmacology"
+    ],
+    "doi": "10.1056/NEJM196506032722206"
+  },
+  {
+    "pmid": "18438177",
+    "title": "Testosterone and depression in men.",
+    "abstract": "PURPOSE OF REVIEW: The purpose of the review is to update the current literature regarding the role, if any, that testosterone plays in depressive illness. We have considered the influences on depression of endogenous testosterone, that is, hypogonadism and depression; and exogenous testosterone, that is, as a potential antidepressant. RECENT FINDINGS: Studies do not support a consistent relationship between testosterone level and mood. There may be vulnerable subpopulations in whom hypogonadism contributes to depression; and chronic depressive illness may lead to hypogonadism in some men. Results from multiple randomized, controlled clinical trials are conflicting. Most do not support testosterone as a broadly effective antidepressant, but it may be effective in carefully selected populations, such as hypogonadal men, antidepressant-resistant men, men with early onset depression, and/or HIV-infected men. SUMMARY: There is little support for a pervasive influence of testosterone on mood.",
+    "authors": [
+      "Amiaz R",
+      "Seidman SN"
+    ],
+    "journal": "Current opinion in endocrinology, diabetes, and obesity",
+    "year": 2008,
+    "mesh_terms": [
+      "Affect",
+      "Depression",
+      "Depressive Disorder",
+      "Hormone Replacement Therapy",
+      "Humans",
+      "Hypogonadism",
+      "Male",
+      "Testosterone"
+    ],
+    "doi": "10.1097/MED.0b013e3282fc27eb"
+  },
+  {
+    "pmid": "6434175",
+    "title": "Depression and its treatment in alcoholics: a review.",
+    "abstract": "The relationship between Affective Disorder and Alcoholism is complex and has been studied extensively. Increased rates of depression are reported in alcoholics and in families of alcoholics. Some studies report that drinking behaviour may be influenced by the coexistence of depressive disorder while others indicate that depressed mood has little impact on the course and treatment of alcoholism. Some people who are depressed turn to alcohol as a form of self-medication and many of these have positive results from it, both due to the pharmacological effects of the drug and the self-limiting nature of most depressive episodes. Those with more severe depression, however, are less likely to benefit in this way. Excessive alcohol taken under such circumstances results in diminishing returns; alcohol becomes more of a contributor to the problem than a solution to it. There is no convincing evidence that drugs including anti-depressants and lithium are effective in the treatment of depressed alcoholics, except for those minority of patients where the diagnosis of primary affective disorder can be established. In such cases the indications for lithium and anti-depressant usage are similar as for non alcoholics with affective disorder. Decisions about the choice of treatment to be offered the alcoholic must be made as quickly and as accurately as possible and can only be done after a careful assessment, which may include hospitalization. It is worth noting that the pharmacologically induced depression of heavy drinking and the depression associated with the withdrawal phase may be clinically similar to the depression of primary affective disorder.",
+    "authors": [
+      "O'Sullivan K"
+    ],
+    "journal": "Canadian journal of psychiatry. Revue canadienne de psychiatrie",
+    "year": 1984,
+    "mesh_terms": [
+      "Affect",
+      "Alcoholism",
+      "Antidepressive Agents",
+      "Clinical Trials as Topic",
+      "Combined Modality Therapy",
+      "Depression",
+      "Depressive Disorder",
+      "Ethanol",
+      "Humans",
+      "Lithium",
+      "Lithium Carbonate",
+      "Self Medication",
+      "Substance Withdrawal Syndrome"
+    ],
+    "doi": "10.1177/070674378402900503"
+  },
+  {
+    "pmid": "19213197",
+    "title": "[Association of obesity and depression].",
+    "abstract": "It has been long known that the frequency of overweight and obese people is higher among depressed and bipolar patients than in the general population. The marked alteration of body weight (and appetite) is one of the most frequent of the 9 symptoms of major depressive episode, and these symptoms occur during recurrent episodes of depression with a remarkably high consequence. According to studies with representative adult population samples, in case of obesity (BMI over 30) unipolar or bipolar depression is significantly more frequently (20-45%) observable. Since in case of depressed patients appetite and body weight reduction is observable during the acute phase, the more frequent obesity in case of depressed patients is related (primarily) not only to depressive episodes, but rather to lifestyle factors, to diabetes mellitus also more frequently occurring in depressed patients, to comorbid bulimia, and probably to genetic-biological factors (as well as to pharmacotherapy in case of medicated patients). At the same time, according to certain studies, circadian symptoms of depression give rise to such metabolic processes in the body which eventually lead to obesity and insulin resistance. According to studies in unipolar and bipolar patients, 57-68% of patients is overweight or obese, and the rate of metabolic syndrome was found to be between 25-49% in bipolar patients. The rate of metabolic syndrome is further increased by pharmacotherapy. Low total and HDL cholesterol level increases the risk for depression and suicide and recent studies suggest that omega-3-fatty acids possess antidepressive efficacy. Certain lifestyle factors relevant to healthy metabolism (calorie reduction in food intake, regular exercise) may be protective factors related to depression as well. The depression- and possibly suicide-provoking effect of sibutramine and rimonabant used in the pharmacotherapy of obesity is one of the greatest recent challenges for professionals and patients alike.",
+    "authors": [
+      "Rihmer Z",
+      "Purebl G",
+      "Faludi G",
+      "Halmy L"
+    ],
+    "journal": "Neuropsychopharmacologia Hungarica : a Magyar Pszichofarmakologiai Egyesulet lapja = official journal of the Hungarian Association of Psychopharmacology",
+    "year": 2008,
+    "mesh_terms": [
+      "Anti-Obesity Agents",
+      "Antidepressive Agents",
+      "Appetite Depressants",
+      "Appetite Regulation",
+      "Bipolar Disorder",
+      "Circadian Rhythm",
+      "Cyclobutanes",
+      "Depression",
+      "Major Depressive Disorder",
+      "Dietary Carbohydrates",
+      "Energy Intake",
+      "Ghrelin",
+      "Humans",
+      "Hypothalamo-Hypophyseal System",
+      "Insulin Resistance",
+      "Leptin",
+      "Obesity",
+      "Piperidines",
+      "Pituitary-Adrenal System",
+      "Pyrazoles",
+      "Rimonabant",
+      "Seasonal Affective Disorder",
+      "Sleep Wake Disorders",
+      "Surveys and Questionnaires",
+      "Weight Gain",
+      "Weight Loss"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "34314342",
+    "title": "Is ketamine effective and safe for treatment-resistant depression?",
+    "abstract": "MAYBE, but it's too soon to tell. There is limited evidence that ketamine by itself is effective in the very short term. Single-dose intravenous (IV) ketamine is more likely than placebo (odds ratio = 11-13) to produce improvement (> 50%) in standardized depression scores in 1 to 3 days, lasting up to a week. Twice- or thriceweekly IV ketamine improves symptom scores by 20%-25% over 2 weeks (strength of recommendation [SOR]: B, meta-analysis of small, low-quality, randomized controlled trials [RCTs] and a single small RCT).Augmentation of sertraline with daily oral ketamine moderately improves symptom scores for 6 weeks in patients with moderate depression (SOR: B, small, lowquality RCTs).Augmentation of oral antidepressants (duloxetine, escitalopram, sertraline, venlafaxine) with intranasal esketamine spray improves response and remission rates at 4 weeks (16% for both outcomes) in patients with predominantly treatment-resistant major depression (SOR: A, meta-analysis of RCTs).Ketamine therapy is associated with confusion, emotional blunting, headache, dizziness, and blurred vision (SOR: A, metaanalyses).Nasal esketamine spray produces the adverse effects of dizziness, vertigo, and blurred vision severe enough to cause discontinuation in 4% of patients; it also can produce transient elevation of blood pressure (SOR: A, meta-analyses).",
+    "authors": [
+      "Zorn A",
+      "Linn S",
+      "Jenkinson M",
+      "Neher JO",
+      "Safranek S",
+      "Kelsberg G"
+    ],
+    "journal": "The Journal of family practice",
+    "year": 2021,
+    "mesh_terms": [
+      "Administration, Intranasal",
+      "Administration, Oral",
+      "Adult",
+      "Antidepressive Agents",
+      "Depression",
+      "Depressive Disorder, Treatment-Resistant",
+      "Drug Administration Schedule",
+      "Humans",
+      "Ketamine",
+      "Remission Induction",
+      "Treatment Outcome"
+    ],
+    "doi": "10.12788/jfp.0176"
+  },
+  {
+    "pmid": "20691746",
+    "title": "Circadian rhythms and treatment implications in depression.",
+    "abstract": "In humans almost all physiological and behavioural functions occur on a rhythmic basis. Therefore the possibility that delays, advances or desynchronizations of circadian rhythms may play a role in the pathophysiology of psychiatric disorders is an interesting field of research. In particular mood disorders such as seasonal affective disorder and major depression have been linked to circadian rhythms alterations. Furthermore, the antidepressant efficacy of both pharmacological and non-pharmacological strategies affecting endogenous circadian rhythms, such as new antidepressant medications, light-therapy and sleep deprivation, is consistent with the idea that circadian alterations may represent a core component of depression, at least in a subgroup of depressed patients. This paper briefly describes the molecular and genetic mechanisms regulating the endogenous clock system, and reviews the literature supporting the relationships between depression, antidepressant treatments and changes in circadian rhythms.",
+    "authors": [
+      "Monteleone P",
+      "Martiadis V",
+      "Maj M"
+    ],
+    "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+    "year": 2011,
+    "mesh_terms": [
+      "Antidepressive Agents",
+      "Circadian Rhythm",
+      "Depression",
+      "Depressive Disorder",
+      "Major Depressive Disorder",
+      "Humans"
+    ],
+    "doi": "10.1016/j.pnpbp.2010.07.028"
+  },
+  {
+    "pmid": "12858144",
+    "title": "Strategies for treatment-resistant depression.",
+    "abstract": "Approximately 30% of patients with major depression respond poorly to treatment with any given antidepressant regimen, and as many as 60% to 75% experience residual or recurrent symptoms. Strategies for improving response include extending the duration of each treatment beyond the usual 2-4 weeks, increasing the antidepressant dose, switching to another antidepressant, using two or more antidepressants together, and using adjunctive medications or other treatment modalities. Some of these strategies have strong support from clinical investigations while others are based more on clinical experience. This article reviews the risk factors for treatment resistance and provides strategies for improving treatment outcomes.",
+    "authors": [
+      "Ballas C",
+      "Staab JP",
+      "Evans DL"
+    ],
+    "journal": "Psychopharmacology bulletin",
+    "year": 2002,
+    "mesh_terms": [
+      "Antidepressive Agents",
+      "Depression",
+      "Major Depressive Disorder",
+      "Drug Therapy, Combination",
+      "Humans",
+      "Risk Factors",
+      "Treatment Outcome"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "38138957",
+    "title": "Effects of Anxious Depression on Antidepressant Treatment Response.",
+    "abstract": "Anxious depression represents a subtype of major depressive disorder and is associated with increased suicidality, severity, chronicity and lower treatment response. Only a few studies have investigated the differences between anxious depressed (aMDD) and non-anxious depressed (naMDD) patients regarding treatment dosage, serum-concentration and drug-specific treatment response. In our naturalistic and prospective study, we investigated whether the effectiveness of therapy including antidepressants (SSRI, SNRI, NaSSA, tricyclics and combinations) in aMDD patients differs significantly from that in naMDD patients. In a sample of 346 patients, we calculated the anxiety somatization factor (ASF) and defined treatment response as a reduction (≥50%) in the Hamilton Depression Rating Scale (HDRS)-21 score after 7 weeks of pharmacological treatment. We did not observe an association between therapy response and the baseline ASF-scores, or differences in therapy outcomes between aMDD and naMDD patients. However, non-responders had higher ASF-scores, and at week 7 aMDD patients displayed a worse therapy outcome than naMDD patients. In subgroup analyses for different antidepressant drugs, venlafaxine-treated aMDD patients showed a significantly worse outcome at week 7. Future prospective, randomized-controlled studies should address the question of a worse therapy outcome in aMDD patients for different psychopharmaceuticals individually.",
+    "authors": [
+      "Hampf C",
+      "Scherf-Clavel M",
+      "Weiß C",
+      "Klüpfel C",
+      "Stonawski S",
+      "Hommers L",
+      "Lichter K",
+      "Erhardt-Lehmann A",
+      "Unterecker S",
+      "Domschke K",
+      "Kittel-Schneider S",
+      "Menke A",
+      "Deckert J",
+      "Weber H"
+    ],
+    "journal": "International journal of molecular sciences",
+    "year": 2023,
+    "mesh_terms": [
+      "Humans",
+      "Depression",
+      "Major Depressive Disorder",
+      "Prospective Studies",
+      "Treatment Outcome",
+      "Antidepressive Agents"
+    ],
+    "doi": "10.3758/BRM.41.4.1149"
+  },
+  {
+    "pmid": "14273532",
+    "title": "SIDE-EFFECT OF AMITRIPTYLINE.",
+    "abstract": "",
+    "authors": [
+      "BOCKNER S"
+    ],
+    "journal": "British medical journal",
+    "year": 1965,
+    "mesh_terms": [
+      "Amitriptyline",
+      "Depression",
+      "Depressive Disorder",
+      "Drug Therapy",
+      "Movement Disorders",
+      "Speech Disorders",
+      "Toxicology"
+    ],
+    "doi": "10.1136/bmj.1.5443.1188-a"
+  },
+  {
+    "pmid": "2859876",
+    "title": "The use of benzodiazepines in depression.",
+    "abstract": "In clinical practice the benzodiazepines are prescribed almost as frequently as the tricyclic antidepressants for the treatment of depression. The therapeutic effects of the benzodiazepines and tricyclic antidepressants in depression have been compared in only 29 double-blind studies. The antidepressants proved overwhelmingly superior with only one study (alprazolam) even suggesting a possible parity of action. A symptom response analysis failed to show any true antidepressant action for the benzodiazepines. No clear indication for the use of a combination of drugs was revealed, although certain symptoms may show a more rapid response initially with combination therapy.",
+    "authors": [
+      "Johnson DA"
+    ],
+    "journal": "British journal of clinical pharmacology",
+    "year": 1985,
+    "mesh_terms": [
+      "Anti-Anxiety Agents",
+      "Antidepressive Agents, Tricyclic",
+      "Benzodiazepines",
+      "Clinical Trials as Topic",
+      "Depression",
+      "Depressive Disorder",
+      "Drug Therapy, Combination",
+      "Humans"
+    ],
+    "doi": "10.1111/j.1365-2125.1985.tb02740.x"
+  },
+  {
+    "pmid": "34665684",
+    "title": "A systematic review and meta-analysis of maintenance treatment for psychotic depression.",
+    "abstract": "PURPOSE: To perform a systematic review on the use of maintenance treatment to prevent relapse and recurrence in patients with psychotic unipolar or bipolar depression. METHODS: We conducted an electronic search in December 2019 (and an updated search in July 2021) of four databases (PubMed, Embase, PsycINFO, and Cochrane) to identify controlled studies comparing the relapse rates of patients receiving maintenance treatment for psychotic unipolar depression and psychotic bipolar depression. A meta-analysis was made that included three studies comparing antidepressant (AD) and antipsychotic (AP) combination therapy with AD monotherapy. We used the GRADE tool to assess the quality of evidence. RESULTS: We included five randomized controlled trials fulfilling the inclusion criteria, making three comparisons: (a) AD + AP versus AD monotherapy; (b) AD + AP versus AP monotherapy; (c) AD + electroconvulsive therapy versus AD monotherapy. The included studies only examined patients with psychotic unipolar depression. The largest included study reported a statistically significant advantage of AD + AP compared with AD monotherapy. We made a meta-analysis of the three studies comparing AD + AP combination therapy with AD monotherapy, which included 195 patients and 56 events. The meta-analysis did not show a statistically significant difference between these treatments. CONCLUSIONS: Contrary to the finding of the largest study, we did not find a statistically significant difference between AD + AP combination therapy and AD monotherapy in the meta-analysis. There is insufficient evidence to support the superiority of any treatment modality as maintenance treatment for psychotic depression. Further studies are required.",
+    "authors": [
+      "Al-Wandi A",
+      "Holmberg C",
+      "Landén M",
+      "Nordenskjöld A"
+    ],
+    "journal": "Nordic journal of psychiatry",
+    "year": 2022,
+    "mesh_terms": [
+      "Antidepressive Agents",
+      "Antipsychotic Agents",
+      "Bipolar Disorder",
+      "Depression",
+      "Major Depressive Disorder",
+      "Drug Therapy, Combination",
+      "Humans",
+      "Recurrence"
+    ],
+    "doi": "10.1080/08039488.2021.1990997"
+  },
+  {
+    "pmid": "24108180",
+    "title": "[Antidepressants, depression and suicide].",
+    "abstract": "AIM: The goal of this paper is to analyse the complex relationship between antidepressants, depression and suicide. METHOD: Review and synthesis of the Hungarian and English language international literature, published on this topic in the last 15 years. RESULTS: Large-scale, retrospective and prospective, naturalistic (\"real life\") studies show that compared to patients without treatment antidepressants and mood stabilizers reduce the risk of completed and attempted suicide by about 80%. This anti-suicidal potential is significantly higher than the small increase in suicidality of patients taking antidepressants in placebo controlled randomized Phase II/III trials. New data show that based on clinical data this small subgroup can be identified and successfully treated using specific therapy. CONCLUSION: Suicidal behaviour in patients taking antidepressants is mostly the consequence of the lack of antidepressant effect and is rarely the result of suicide-inducing potential of antidepressants. This rare latter case is most frequently the consequence of antidepressant monotherapy of bipolar depression. Appropriate use of antidepressants and mood stabilizers plays a key role in suicide prevention of patients with affective disorders.",
+    "authors": [
+      "Rihmer Z"
+    ],
+    "journal": "Neuropsychopharmacologia Hungarica : a Magyar Pszichofarmakologiai Egyesulet lapja = official journal of the Hungarian Association of Psychopharmacology",
+    "year": 2013,
+    "mesh_terms": [
+      "Affective Disorders, Psychotic",
+      "Antidepressive Agents",
+      "Bipolar Disorder",
+      "Depression",
+      "Major Depressive Disorder",
+      "Drug Therapy, Combination",
+      "Humans",
+      "Prospective Studies",
+      "Randomized Controlled Trials as Topic",
+      "Retrospective Studies",
+      "Suicide",
+      "Suicide, Attempted",
+      "Suicide Prevention"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "35772627",
+    "title": "Antianhedonic effects of serial intravenous subanaesthetic ketamine in anxious versus nonanxious depression.",
+    "abstract": "OBJECTIVES: Patents with anxious depression have poor treatment outcomes compared to their nonanxious counterparts. Ketamine has a rapid and robust antianhedonic effect, independent of depressive symptoms. The difference in the antianhedonic effect of ketamine between patients with anxious versus nonanxious depression remains unknown. METHODS: One hundred thirty-five Chinese individuals with anxious depression (n = 92) and nonanxious depression (n = 43) received six intravenous infusions of ketamine (0.5 mg/kg). Post hoc analyses compared changes in anhedonic symptoms, as measured by the Montgomery-Åsberg Depression Rating Scale (MADRS), between patients with anxious depression (defined by a Hamilton Depression Rating Scale Anxiety-Somatization score ≥7) and nonanxious depression. RESULTS: In this study, 68.1 % of patients were found to have anxious depression. Anxious depressed patients were associated with a relatively lower antianhedonic response (47.8 % versus 51.2 %, p > 0.05) and remission (17.4 % versus 27.9 %, p > 0.05) than their nonanxious counterparts. When compared to baseline, a significant reduction in anhedonic symptoms was observed from the first infusion to the last infusion and 2-week follow-up in both groups (all p < 0.05). A linear mixed model did not find a significant group main effect on the MADRS anhedonia subscale scores (F = 0.5, p = 0.46). CONCLUSION: This preliminary study shows that repeated intravenous infusions of ketamine rapidly ameliorate anhedonic symptoms in individuals experiencing anxious depression, but these individuals displayed a weaker antianhedonic response to ketamine than nonanxious depressed patients.",
+    "authors": [
+      "Zheng W",
+      "Yang XH",
+      "Gu LM",
+      "Tan JQ",
+      "Zhou YL",
+      "Wang CY",
+      "Ning YP"
+    ],
+    "journal": "Journal of affective disorders",
+    "year": 2022,
+    "mesh_terms": [
+      "Antidepressive Agents",
+      "Anxiety",
+      "Depression",
+      "Major Depressive Disorder",
+      "Depressive Disorder, Treatment-Resistant",
+      "Humans",
+      "Infusions, Intravenous",
+      "Ketamine",
+      "Treatment Outcome"
+    ],
+    "doi": "10.1016/j.jad.2022.06.081"
+  },
+  {
+    "pmid": "19225262",
+    "title": "Partial androgen deficiency, depression and testosterone treatment in aging men.",
+    "abstract": "This study provides a critical review of the literature on depressive symptoms of partial androgen deficiency (PADAM) and their treatment with Testosterone (T). PADAM in aging males is responsible for a variety of behavioral symptoms, such as weakness, decreased libido and erectile dysfunction, lower psychological vitality, depressive mood, anxiety, insomnia, difficulty in concentrating, and memory impairment. The psychological and behavioural aspects of PADAM may overlap with signs and symptoms of major depression. Evidence of the relationship between androgen deficiency and male depression comes from studies that have assessed depression in hypogonadal subjects, the association between low T level and male depressive illness, and the antidepressant action of androgen replacement. The etiology of depressive symptoms of PADAM is multifactorial, and results from the interaction of the biological and psychosocial changes that take place during the mid-life transition. Although data derived from androgen treatment trials and androgen replacement do not support T treatment or replacement as more efficacious than placebo for major depressive disorder (MDD), the clinical impression is that, in some sub-threshold depressive syndromes, T may lead to antidepressant benefits.",
+    "authors": [
+      "Amore M",
+      "Scarlatti F",
+      "Quarta AL",
+      "Tagariello P"
+    ],
+    "journal": "Aging clinical and experimental research",
+    "year": 2009,
+    "mesh_terms": [
+      "Aging",
+      "Androgens",
+      "Andropause",
+      "Clinical Trials as Topic",
+      "Depression",
+      "Major Depressive Disorder",
+      "Hormone Replacement Therapy",
+      "Humans",
+      "Male",
+      "Testosterone"
+    ],
+    "doi": "10.1007/BF03324891"
+  },
+  {
+    "pmid": "40415323",
+    "title": "Exploring New Frontiers in Pharmacological Treatment of Depression: A Review on Recent Advances.",
+    "abstract": "The current treatment strategy is still subpar, especially for severe mental problems, despite tremendous progress in the understanding of the central nervous system. Improving healthcare usually entails two main approaches: investigating new treatment approaches and improving current ones. New pharmacological options include enhanced monoaminergic pharmaceuticals, old treatments reassessed with a better knowledge of the biology of mental disease, and medications that target new therapeutic pathways. One major clinical challenge in the treatment of depression is resistance to antidepressant drugs. It appears promising to switch to monotherapy using new multifunctional antidepressants and add new atypical antipsychotics, such as brexpiprazole and aripiprazole. Current efforts are concentrated on unraveling depression's origins and pinpointing fresh targets for pharmacological intervention. This review explores encouraging novel pharmacological avenues for major depressive disorder treatment. These include targeting receptors, such as N-methyl-D-aspartate and metabotropic glutamate receptors, and employing glutamatergic modulators and various augmentation strategies, all of which hold the potential for reversal of depressant effects. Combining innovative concepts with enhancements of existing discoveries may propel antidepressant research forward, offering hope for developing compounds that are effective and rapid in their action, even among patients who have found limited success with other therapies.",
+    "authors": [
+      "Thulasingam M",
+      "Vellapandian C"
+    ],
+    "journal": "Current medicinal chemistry",
+    "year": 2026,
+    "mesh_terms": [
+      "Humans",
+      "Antidepressive Agents",
+      "Major Depressive Disorder",
+      "Receptors, N-Methyl-D-Aspartate",
+      "Animals",
+      "Antipsychotic Agents",
+      "Receptors, Metabotropic Glutamate",
+      "Depression"
+    ],
+    "doi": "10.1007/s41470-019-00063-y"
+  },
+  {
+    "pmid": "37311591",
+    "title": "Progress in treatment-resistant bipolar depression using repeated ketamine infusions.",
+    "abstract": "",
+    "authors": [
+      "van den Brink W",
+      "van Amsterdam J"
+    ],
+    "journal": "Bipolar disorders",
+    "year": 2023,
+    "mesh_terms": [
+      "Humans",
+      "Ketamine",
+      "Bipolar Disorder",
+      "Major Depressive Disorder",
+      "Depressive Disorder, Treatment-Resistant",
+      "Infusions, Intravenous",
+      "Depression"
+    ],
+    "doi": "10.1111/bdi.13360"
+  },
+  {
+    "pmid": "26479314",
+    "title": "The use of antidepressants in bipolar disorder patients with depression.",
+    "abstract": "INTRODUCTION: The proportion of time that bipolar patients experience depressive symptoms and clinical states, with associated psychosocial impairment and elevated risk of suicide, is significantly greater than the time spent in manic/hypomanic forms of bipolar disorders. Yet, manic states and symptoms have been the focus and interest of most clinical research over the past quarter century. Not a single antidepressant approved for treatment of major depressive disorder, as monotherapy, has received regulatory approval for treatment of bipolar depression as monotherapy, despite their common use in bipolar depression. AREAS COVERED: We reviewed randomized studies, particularly ones initially intended for registration purposes, and systematic treatment guidelines, in development of this guide to treatment decision and implementation of interventions for depression in bipolar disorders. EXPERT OPINION: The Expert Opinion section emphasizes strategies, not individual agents. The efficacious performance of mood stabilizers and second-generation antipsychotics as a component of the strategy is strongly supported by published studies. However, this section relies largely on secondary publications and our combined clinical experience, as few randomized, blinded studies have had, as their focus, the comparison of combined regimens for depression. This article summarizes the design features and results of studies dealing with depressive features and intervention strategies for bipolar disorders. The emphasis of the recommendations is on pragmatic treatment decisions that clinicians can make to enhance the probability of both short and long term benefits for patients.",
+    "authors": [
+      "Bowden CL",
+      "Singh V"
+    ],
+    "journal": "Expert opinion on pharmacotherapy",
+    "year": 2016,
+    "mesh_terms": [
+      "Antidepressive Agents",
+      "Antipsychotic Agents",
+      "Bipolar Disorder",
+      "Depression",
+      "Major Depressive Disorder",
+      "Drug Therapy, Combination",
+      "Humans",
+      "Randomized Controlled Trials as Topic",
+      "Suicide"
+    ],
+    "doi": "10.1517/14656566.2016.1104299"
+  },
+  {
+    "pmid": "36516343",
+    "title": "Real-world effectiveness of repeated ketamine infusions for treatment-resistant bipolar depression.",
+    "abstract": "BACKGROUND: Clinical trials have demonstrated rapid antidepressant effects with intravenous (IV) ketamine for major depressive disorder, with relatively less research specifically for bipolar depression. Herein, we describe the real-world effectiveness of repeated ketamine infusions for treatment-resistant bipolar depression. METHODS: This study was conducted in a community clinic in Mississauga, Ontario (Canadian Rapid Treatment Centre of Excellence; Braxia Health). In this observational study (NCT04209296), patients with treatment-resistant bipolar I/II depression (n = 66) received four sub-anesthetic doses of IV ketamine (0.5-0.75 mg/kg) over a two-week period. Symptoms of depression, suicidality, anxiety, and functioning were assessed with validated self-report measures. RESULTS: Statistically and clinically significant antidepressant effects were observed in the overall sample, as measured by the Quick Inventory for Depression Symptomatology-Self Report-16 (QIDS-SR16 ) with further reductions in depressive symptoms observed after each subsequent infusion (n = 66; mean QIDS-SR16 reduction of 6.08+/-1.39; p < 0.0001). Significant reductions of suicidal thoughts (QIDS-SR16 -Suicide Item) and anxiety (Generalized Anxiety Disorder-7) were also observed with functional improvements on the Sheehan Disability Scale (p < 0.0001 on all measures). Moreover, the response rate (QIDS-SR16 total score decrease ≥50% from baseline) was 35% and remission rate (QIDS-SR16 total score ≤5) was 20% after four infusions. Infusions were generally well tolerated with treatment-emergent hypomania observed in only three patients (4.5%) with zero cases of mania or psychosis. CONCLUSIONS: Real-world effectiveness of IV ketamine for bipolar depression was observed. Repeated doses were associated with greater symptom reduction and adequate tolerability.",
+    "authors": [
+      "Fancy F",
+      "Rodrigues NB",
+      "Di Vincenzo JD",
+      "Chau EH",
+      "Sethi R",
+      "Husain MI",
+      "Gill H",
+      "Tabassum A",
+      "Mckenzie A",
+      "Phan L",
+      "McIntyre RS",
+      "Rosenblat JD"
+    ],
+    "journal": "Bipolar disorders",
+    "year": 2023,
+    "mesh_terms": [
+      "Humans",
+      "Ketamine",
+      "Bipolar Disorder",
+      "Major Depressive Disorder",
+      "Canada",
+      "Antidepressive Agents",
+      "Depressive Disorder, Treatment-Resistant",
+      "Infusions, Intravenous",
+      "Depression"
+    ],
+    "doi": "10.1111/bdi.13284"
+  },
+  {
+    "pmid": "29706105",
+    "title": "Quality of life and depression in haemodialysis patients.",
+    "abstract": "Chronic kidney disease is associated with a high prevalence of depression, which increases inversely with the glomerular filtration rate. This paper aims to evaluate the factors associated with a low quality of life and depression in patients on haemodialysis. Two hundred patients undergoing haemodialysis answered the Medical Outcomes Study 36 - Item Short - Form Health Survey (SF-36) and Beck Depression Inventory (BDI). Clinical and laboratory variables were analysed and correlated with these two tools. The prevalence of depression was 29%. Anaemia and hypoalbuminemia were independent risk factors for depression. All SF-36 domains showed worse results in patients with depression, and the pain domain presented the highest correlation. Our findings provide evidence that patients on haemodialysis have a low quality of life and a high prevalence of depression. A greater number of comorbidities, an excessive number of medications, diabetes mellitus, anaemia and hypoalbuminemia were associated with a reduced quality of life.",
+    "authors": [
+      "Teles F",
+      "Amorim de Albuquerque AL",
+      "Freitas Guedes Lins IK",
+      "Carvalho Medrado P",
+      "Falcão Pedrosa Costa A"
+    ],
+    "journal": "Psychology, health & medicine",
+    "year": 2018,
+    "mesh_terms": [
+      "Adult",
+      "Anemia",
+      "Antidepressive Agents",
+      "Brazil",
+      "Comorbidity",
+      "Cross-Sectional Studies",
+      "Depression",
+      "Depressive Disorder",
+      "Diabetes Mellitus",
+      "Female",
+      "Humans",
+      "Hypoalbuminemia",
+      "Kidney Failure, Chronic",
+      "Logistic Models",
+      "Male",
+      "Middle Aged",
+      "Pain",
+      "Polypharmacy",
+      "Prevalence",
+      "Psychiatric Status Rating Scales",
+      "Quality of Life",
+      "Renal Dialysis",
+      "Risk Factors"
+    ],
+    "doi": "10.1080/13548506.2018.1469779"
+  },
+  {
+    "pmid": "19213196",
+    "title": "[The modern psychiatrist].",
+    "abstract": "",
+    "authors": [
+      "Péter L"
+    ],
+    "journal": "Neuropsychopharmacologia Hungarica : a Magyar Pszichofarmakologiai Egyesulet lapja = official journal of the Hungarian Association of Psychopharmacology",
+    "year": 2008,
+    "mesh_terms": [
+      "Adult",
+      "Ambulatory Care",
+      "Antipsychotic Agents",
+      "Comorbidity",
+      "Depression",
+      "Major Depressive Disorder",
+      "Digestive System Diseases",
+      "Drug Prescriptions",
+      "Humans",
+      "Hungary",
+      "Length of Stay",
+      "Longevity",
+      "Mental Disorders",
+      "Middle Aged",
+      "Myocardial Ischemia",
+      "Neoplasms",
+      "Psychotropic Drugs",
+      "Retrospective Studies",
+      "Schizophrenia",
+      "Stroke"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "35475388",
+    "title": "Key considerations for the use of ketamine and esketamine for the treatment of depression: focusing on administration, safety, and tolerability.",
+    "abstract": "INTRODUCTION: Racemic ketamine, a derivative of phencyclidine, has been used as a dissociative anesthetic since 1970. In 2000, the first randomized controlled trial showed a rapid relief of depressive symptoms. Since then, intravenous ketamine and intranasal S-ketamine have been validated for the treatment of depression and suicidal ideation following dose-response and double-blind placebo-controlled clinical trials. In clinical practice, after dose titration and with repeated treatments, patients may experience approximately 2-3 weeks of symptomatic relief from depression. AREAS COVERED: Areas covered in this narrative review include mechanism of action, dosing, safety, and tolerability. Some attention is paid to the possibility of R-ketamine as a future antidepressant. EXPERT OPINION: We recommend further investigation into treatment dosing and frequency strategies as well as approaches that prolong the therapeutic effects. The current fixed dosing of esketamine for obese individuals may be insufficient. Additional investigation into co-administration with somatic and neuromodulation treatments needs investigation. Finally, continuing to monitor research subjects and patients long-term for the emergence of adverse effects on cognition or other organ systems is critical.",
+    "authors": [
+      "Kritzer MD",
+      "Pae CU",
+      "Masand PS"
+    ],
+    "journal": "Expert opinion on drug safety",
+    "year": 2022,
+    "mesh_terms": [
+      "Administration, Intranasal",
+      "Antidepressive Agents",
+      "Depression",
+      "Depressive Disorder, Treatment-Resistant",
+      "Humans",
+      "Ketamine",
+      "Randomized Controlled Trials as Topic"
+    ],
+    "doi": "10.1093/ijnp/pyab088"
+  },
+  {
+    "pmid": "21924209",
+    "title": "The keys to improving depression outcomes.",
+    "abstract": "The heterogeneity of symptoms within major depressive disorder poses significant challenges for treatment and it is likely that current pharmacotherapies do not target all symptoms equally, although they have similar efficacy rates. While there is still continuing interest in understanding monoamine interactions and consequent downstream effects, the limited efficacy and tolerability achieved with classical antidepressants provides a compelling argument to move beyond the monoamines. Several lines of biological research in depression exploring immune function, neurotrophins, amino acid and neuropeptide neurotransmitters, neuroanatomical function and circadian rhythms, may lead to novel therapeutic targets and enhance depression outcomes. This review will evaluate the evidence for emerging treatments as well as recommendations from current international guidelines regarding antidepressant management.",
+    "authors": [
+      "Rizvi SJ",
+      "Kennedy SH"
+    ],
+    "journal": "European neuropsychopharmacology : the journal of the European College of Neuropsychopharmacology",
+    "year": 2011,
+    "mesh_terms": [
+      "Antidepressive Agents",
+      "Circadian Rhythm",
+      "Depression",
+      "Depressive Disorder",
+      "Humans",
+      "Medication Adherence",
+      "Molecular Targeted Therapy",
+      "Treatment Outcome"
+    ],
+    "doi": "10.1016/j.euroneuro.2011.07.002"
+  },
+  {
+    "pmid": "26412066",
+    "title": "Brain Functional Effects of Psychopharmacological Treatment in Major Depression: a Focus on Neural Circuitry of Affective Processing.",
+    "abstract": "In the last two decades, neuroimaging research has reached a much deeper understanding of the neurobiological underpinnings of major depression (MD) and has converged on functional alterations in limbic and prefrontal neural networks, which are mainly linked to altered emotional processing observed in MD patients. To date, a considerable number of studies have sought to investigate how these neural networks change with pharmacological antidepressant treatment. In the current review, we therefore discuss results from a) pharmacological functional magnetic resonance imaging (fMRI) studies investigating the effects of selective serotonin or noradrenalin reuptake inhibitors on neural activation patterns in relation to emotional processing in healthy individuals, b) treatment studies in patients with unipolar depression assessing changes in neural activation patterns before and after antidepressant pharmacotherapy, and c) predictive neural biomarkers of clinical response in depression. Comparing results from pharmacological fMRI studies in healthy individuals and treatment studies in depressed patients nicely showed parallel findings, mainly for a reduction of limbic activation in response to negative stimuli. A thorough investigation of the empirical findings highlights the importance of the specific paradigm employed in every study which may account for some of the discrepant findings reported in treatment studies in depressed patients.",
+    "authors": [
+      "Wessa M",
+      "Lois G"
+    ],
+    "journal": "Current neuropharmacology",
+    "year": 2015,
+    "mesh_terms": [
+      "Animals",
+      "Antidepressive Agents",
+      "Brain",
+      "Depression",
+      "Major Depressive Disorder",
+      "Emotions",
+      "Humans",
+      "Magnetic Resonance Imaging"
+    ],
+    "doi": "10.1371/journal.pone.0006353"
+  },
+  {
+    "pmid": "14201588",
+    "title": "THE PRACTICAL MANAGEMENT OF DEPRESSION.",
+    "abstract": "",
+    "authors": [
+      "KLINE NS"
+    ],
+    "journal": "JAMA",
+    "year": 1964,
+    "mesh_terms": [
+      "Amitriptyline",
+      "Antidepressive Agents",
+      "Benzoates",
+      "Classification",
+      "Depression",
+      "Depressive Disorder",
+      "Drug Therapy",
+      "Electroconvulsive Therapy",
+      "Imipramine",
+      "Isocarboxazid",
+      "Isoniazid",
+      "Monoamine Oxidase Inhibitors",
+      "Nialamide",
+      "Pargyline",
+      "Phenelzine",
+      "Phentolamine",
+      "Psychopharmacology",
+      "Psychotherapy",
+      "Reserpine",
+      "Sulfates",
+      "Toxicology",
+      "Tranylcypromine",
+      "Vitamin B 12"
+    ],
+    "doi": "10.1001/jama.1964.03070210038007"
+  },
+  {
+    "pmid": "27044143",
+    "title": "[Basics of Pharmacotherapy for the Benefits of Patients].",
+    "abstract": "The essence of drug therapy is to avoid the unnecessary use of drugs. We must initially consider whether or not to use a drug. For a depressive state, drugs are not necessary for an understandable psychological reaction, and should be carefully prescribed for mild depression with minor impairment in social and occupational functioning. Antidepressants do not have non-specific mood improvement effects. They exert effects by correcting the neurochemical imbalance related to the pathological depression. When we use pharmacotherapy, monotherapy is the basis. Monotherapy allows us to estimate the effects and side-effects properly, and to check the results with clinical evidence. Although the benefits of drug therapy are certain, we must remember that the risks cannot be reduced to zero even with efforts to minimize them.",
+    "authors": [
+      "Ohmori T"
+    ],
+    "journal": "Seishin shinkeigaku zasshi = Psychiatria et neurologia Japonica",
+    "year": 2015,
+    "mesh_terms": [
+      "Affect",
+      "Antidepressive Agents",
+      "Depression",
+      "Depressive Disorder",
+      "Drug Therapy, Combination",
+      "Humans",
+      "Treatment Outcome"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "17012516",
+    "title": "Assessment and treatment of depression in patients with cardiovascular disease: National Heart, Lung, and Blood Institute Working Group Report.",
+    "abstract": "OBJECTIVE: The National Heart, Lung, and Blood Institute convened an interdisciplinary working group of experts to develop recommendations for the assessment and treatment of depression in patients with coronary heart disease (CHD). METHOD: Consensus of experts. RESULTS: Our current recommendations are that the Beck Depression Inventory-I be employed for epidemiological studies of depression and CHD, that the Patient Health Questionnaire 2-item version be employed for screening for trial eligibility, that the Depression Interview and Structured Hamilton (DISH) be employed for diagnostic ascertainment for trial inclusion, and that the Hamilton rating scale, which is part of the DISH, be employed for both depression symptom reduction and the remission criterion in any trial. We further recommend that a randomized controlled trial be undertaken to determine whether selective serotonin reuptake inhibitors, psychotherapy, or combined treatment can reduce the risk of CHD events and mortality associated with depression in CHD patients. CONCLUSIONS: This report summarizes the recommendations made by the working group and discusses the rationale for each recommendation, the strengths and weaknesses of alternative approaches to assessment and treatment, and the implications for future research in this area.",
+    "authors": [
+      "Davidson KW",
+      "Kupfer DJ",
+      "Bigger JT",
+      "Califf RM",
+      "Carney RM",
+      "Coyne JC",
+      "Czajkowski SM",
+      "Frank E",
+      "Frasure-Smith N",
+      "Freedland KE",
+      "Froelicher ES",
+      "Glassman AH",
+      "Katon WJ",
+      "Kaufmann PG",
+      "Kessler RC",
+      "Kraemer HC",
+      "Krishnan KR",
+      "Lespérance F",
+      "Rieckmann N",
+      "Sheps DS",
+      "Suls JM"
+    ],
+    "journal": "Psychosomatic medicine",
+    "year": 2006,
+    "mesh_terms": [
+      "Antidepressive Agents",
+      "Cardiovascular Diseases",
+      "Clinical Trials as Topic",
+      "Combined Modality Therapy",
+      "Depression",
+      "Depressive Disorder",
+      "Drug Therapy, Combination",
+      "Humans",
+      "Interview, Psychological",
+      "Mass Screening",
+      "Patient Selection",
+      "Psychological Tests",
+      "Psychotherapy",
+      "Risk Factors",
+      "Selective Serotonin Reuptake Inhibitors",
+      "Severity of Illness Index",
+      "Surveys and Questionnaires"
+    ],
+    "doi": "10.1097/01.psy.0000233233.48738.22"
+  },
+  {
+    "pmid": "14328815",
+    "title": "AMITRIPTYLINE POISONING.",
+    "abstract": "",
+    "authors": [
+      "STARK JE",
+      "BETHUNE DW"
+    ],
+    "journal": "Lancet (London, England)",
+    "year": 1965,
+    "mesh_terms": [
+      "Amitriptyline",
+      "Amobarbital",
+      "Barbiturates",
+      "Coma",
+      "Depression",
+      "Depressive Disorder",
+      "Diuresis",
+      "Drug Therapy",
+      "Mannitol",
+      "Norepinephrine",
+      "Poisoning",
+      "Toxicology"
+    ],
+    "doi": "10.1016/s0140-6736(65)90375-2"
+  },
+  {
+    "pmid": "26176368",
+    "title": "Common Questions About the Pharmacologic Management of Depression in Adults.",
+    "abstract": "One in 11 U.S. adults currently meets diagnostic criteria for major depressive disorder, and a similar number report that they have taken an antidepressant medication in the past 30 days. In the primary care population, medications are modestly superior to placebo in achieving remission, with a number needed to treat of seven or eight for selective serotonin reuptake inhibitors and seven to 16 for tricyclic antidepressants. The benefit of antidepressants over placebo is more pronounced in patients with severe depression. Second-generation antidepressants are generally considered first-line therapy. Specific therapy choice should be based on cost, patient preference, and adverse effect profile. About two-thirds of patients receiving second-generation antidepressants experience at least one adverse effect during treatment. Nausea and vomiting are the most common reasons for discontinuation of therapy. The optimal treatment duration is unclear, but clinical guidelines suggest four to 12 months for an initial episode of major depression. Patients with recurrent depression may benefit from prolonged treatment. High-quality evidence is lacking on the benefits and harms of antidepressant use in pregnancy. It is unclear whether selective serotonin reuptake inhibitor use in breastfeeding mothers causes adverse effects in their infants, but sertraline and paroxetine transfer to breast milk in lower concentrations than other antidepressants. Consensus guidelines recommend a \"start low, go slow\" approach to antidepressant therapy in older persons; preferred medications include citalopram, escitalopram, sertraline, mirtazapine, and venlafaxine.",
+    "authors": [
+      "Kovich H",
+      "DeJong A"
+    ],
+    "journal": "American family physician",
+    "year": 2015,
+    "mesh_terms": [
+      "Adult",
+      "Antidepressive Agents",
+      "Depression",
+      "Major Depressive Disorder",
+      "Drug Administration Schedule",
+      "Humans",
+      "Serotonin and Noradrenaline Reuptake Inhibitors",
+      "Treatment Outcome"
+    ],
+    "doi": null
+  },
+  {
+    "pmid": "28697241",
+    "title": "Lessons Learned From the VA Augmentation and Switching Treatments for Improving Depression Outcomes (VAST-D) Study.",
+    "abstract": "",
+    "authors": [
+      "Fava M"
+    ],
+    "journal": "JAMA",
+    "year": 2017,
+    "mesh_terms": [
+      "Depression",
+      "Depressive Disorder",
+      "Drug Therapy, Combination",
+      "Humans"
+    ],
+    "doi": "10.1001/jama.2017.8030"
+  },
+  {
+    "pmid": "34990381",
+    "title": "[Ketamine infusion therapy in treatment-resistant depression].",
+    "abstract": "Τhe Food and Drug Administration (FDA) approval of the use of S-ketamine in the form of nasal spray for the treatment of treatment-resistant depression, launched a new category of therapeutic agents in psychiatry. A well-known class of substances, psychedelics, are introduced with a 30-year delay in the treatment of mental disorders. Intravenous ketamine infusion has been studied in the treatment of depression since the 1990s. Here we present the current protocol for the treatment of ketamine infusion in patients with treatment-resistant depression and related clinical information.",
+    "authors": [
+      "Christodoulakis ΤΕ"
+    ],
+    "journal": "Psychiatrike = Psychiatriki",
+    "year": 2021,
+    "mesh_terms": [
+      "Antidepressive Agents",
+      "Depression",
+      "Depressive Disorder, Treatment-Resistant",
+      "Humans",
+      "Infusions, Intravenous",
+      "Ketamine"
+    ],
+    "doi": "10.22365/jpsych.2021.051"
+  },
+  {
+    "pmid": "32074285",
+    "title": "Association of Depression, Anxiety, and Trauma With Cannabis Use During Pregnancy.",
+    "abstract": "",
+    "authors": [
+      "Young-Wolff KC",
+      "Sarovar V",
+      "Tucker LY",
+      "Goler NC",
+      "Alexeeff SE",
+      "Ridout KK",
+      "Avalos LA"
+    ],
+    "journal": "JAMA network open",
+    "year": 2020,
+    "mesh_terms": [
+      "Adolescent",
+      "Adult",
+      "Anxiety",
+      "Anxiety Disorders",
+      "California",
+      "Cannabis",
+      "Depression",
+      "Depressive Disorder",
+      "Female",
+      "Humans",
+      "Marijuana Smoking",
+      "Pregnancy",
+      "Pregnancy Complications",
+      "Psychological Trauma",
+      "Self Medication",
+      "Stress, Psychological",
+      "Young Adult"
+    ],
+    "doi": "10.1001/jamanetworkopen.2019.21333"
+  },
+  {
+    "pmid": "20180613",
+    "title": "Impact and clinical management of depression in patients with coronary artery disease.",
+    "abstract": "The rates of major adverse coronary events, including recurrent ischemic events and death, in patients with coronary artery disease (CAD) have been shown to be significantly increased in patients with depression. In addition, health care costs are higher and health-related quality of life is lower in depressed patients with CAD. Several pathophysiologic mechanisms have been proposed for the association of increased events seen in this population. Studies have focused on antidepressants (specifically, selective serotonin reuptake inhibitors and mirtazapine), psychotherapy (cognitive behavioral therapy and interpersonal psychotherapy), and a wide range of other nonpharmacologic interventions. Pharmacologic and nonpharmacologic treatments are known to improve depressive symptoms in patients with CAD, but their effects on outcomes such as mortality and hospital admissions remain controversial. If treatment of depression is warranted, strategies should include sertraline or citalopram, with or without cognitive behavioral therapy, based on the known efficacy and safety of the drugs in this population. Nonpharmacologic therapy such as aerobic exercise has been shown to improve not only depression but also cardiovascular health. When selecting an appropriate antidepressant, clinicians should consider their patients' comorbid conditions and the potential for drug interactions, and treatment should be frequently monitored. Screening for depression in patients with cardiac disease should be instituted on a routine basis by using either case-finding or symptom-triggered approaches. Based on the high prevalence of depression and its known adverse effects in patients with CAD, future research is needed to help determine the role of antidepressants and nonpharmacologic strategies in improving outcomes in patients with both comorbidities.",
+    "authors": [
+      "Summers KM",
+      "Martin KE",
+      "Watson K"
+    ],
+    "journal": "Pharmacotherapy",
+    "year": 2010,
+    "mesh_terms": [
+      "Antidepressive Agents",
+      "Behavior Control",
+      "Coronary Artery Disease",
+      "Depression",
+      "Depressive Disorder",
+      "Drug Interactions",
+      "Drug Monitoring",
+      "Exercise",
+      "Humans",
+      "Psychotherapy",
+      "Quality of Life",
+      "Risk-Taking",
+      "Treatment Outcome"
+    ],
+    "doi": "10.1592/phco.30.3.304"
+  },
+  {
+    "pmid": "35027209",
+    "title": "A retrospective analysis of ketamine intravenous therapy for depression in real-world care settings.",
+    "abstract": "BACKGROUND: Outcomes of ketamine intravenous therapy (KIT) for depression in real-world care settings have been minimally evaluated. We set out to quantify treatment response to KIT in a large sample of patients from community-based practices. METHODS: We retrospectively analyzed 9016 depression patients who received KIT between 2016 and 2020 at one of 178 community practices across the United States. Depression symptoms were evaluated using the Patient Health Questionnaire-9 (PHQ-9). The induction phase of KIT was defined to be a series of 4-8 infusions administered over 7 to 28 days. RESULTS: Among the 537 patients who underwent induction and had sufficient data, 53.6% of patients showed a response (≥ 50% reduction in PHQ-9 score) at 14-31 days post-induction and 28.9% remitted (PHQ-9 score drop to < 5). The effect size was d = 1.5. Among patients with baseline suicidal ideation (SI), 73.0% exhibited a reduction in SI. A subset (8.4%) of patients experienced an increase in depressive symptoms after induction while 6.0% of patients reported increased SI. The response rate was uniform across 4 levels of baseline depression severity. However, more severe illness was weakly correlated with a greater drop in scores while remission status was weakly inversely correlated with depression severity. Kaplan-Meier analyses showed that a patient who responds to KIT induction has approximately 80% probability of sustaining response at 4 weeks and approximately 60% probability at 8 weeks, even without maintenance infusions. CONCLUSION: KIT can elicit a robust antidepressant response in community clinics; however, a small percentage of patients worsened.",
+    "authors": [
+      "McInnes LA",
+      "Qian JJ",
+      "Gargeya RS",
+      "DeBattista C",
+      "Heifets BD"
+    ],
+    "journal": "Journal of affective disorders",
+    "year": 2022,
+    "mesh_terms": [
+      "Depression",
+      "Major Depressive Disorder",
+      "Humans",
+      "Infusions, Intravenous",
+      "Ketamine",
+      "Retrospective Studies",
+      "Suicidal Ideation"
+    ],
+    "doi": "10.1016/j.jad.2021.12.097"
+  },
+  {
+    "pmid": "36480392",
+    "title": "Intranasal racemic ketamine for patients hospitalized with treatment-resistant depression: A retrospective analysis.",
+    "abstract": "Most research describing ketamine as a treatment for depression has relied on intravenous dosing. There remains a need for more research to support this treatment with other routes of administration. This was a retrospective chart review of 30 patients hospitalized with unipolar or bipolar treatment-resistant depression who were treated with up to four doses of compounded intranasal racemic ketamine (50 mg or 75 mg). Treatment courses lasted up to 7 days. Symptom improvement was measured with either the Hamilton Depression Rating Scale or the Montgomery-Åsberg Depression Rating Scale. Ketamine was well tolerated with no severe adverse events or treatment discontinuations due to adverse effects. Blood pressures increased by 4-6 mmHg on average with no patients requiring medication to lower blood pressure. Twenty patients (66.7%) were classified as treatment responders based on depression scores decreasing by more than 50%. Among the 27 patients with moderate to severe suicidal ideation scores at baseline, these decreased by 68.5% on average. Overall, the results suggest that compounded intranasal racemic ketamine was safe and effective in the treatment of depressive symptoms and suicidal ideation in a real-world sample of patients hospitalized with treatment-resistant depression. Additional research comparing intranasal ketamine to esketamine and intravenous racemic ketamine is warranted. (PsycInfo Database Record (c) 2023 APA, all rights reserved).",
+    "authors": [
+      "Peters EM",
+      "Halpape K",
+      "Cheveldae I",
+      "Wanson A"
+    ],
+    "journal": "Experimental and clinical psychopharmacology",
+    "year": 2023,
+    "mesh_terms": [
+      "Humans",
+      "Ketamine",
+      "Antidepressive Agents",
+      "Depression",
+      "Retrospective Studies",
+      "Major Depressive Disorder",
+      "Analgesics",
+      "Administration, Intranasal"
+    ],
+    "doi": "10.1037/pha0000627"
+  },
+  {
+    "pmid": "36739717",
+    "title": "Augmentation of Sevoflurane inhalation for treatment-resistant depression with different features: A case series.",
+    "abstract": "",
+    "authors": [
+      "Feng M",
+      "Cheng S",
+      "Fang Y",
+      "Lv L",
+      "Guo P",
+      "Wang S",
+      "Chen H"
+    ],
+    "journal": "Asian journal of psychiatry",
+    "year": 2023,
+    "mesh_terms": [
+      "Humans",
+      "Sevoflurane",
+      "Depression",
+      "Antidepressive Agents",
+      "Antipsychotic Agents",
+      "Depressive Disorder, Treatment-Resistant",
+      "Drug Therapy, Combination"
+    ],
+    "doi": "10.1016/j.ajp.2023.103495"
+  },
+  {
+    "pmid": "36181911",
+    "title": "Functional connectivity differences in the amygdala are related to the antidepressant efficacy of ketamine in patients with anxious depression.",
+    "abstract": "BACKGROUND: The antidepressant effects of ketamine in patients with anxious depression (AD) remain unclear. Functional connectivity (FC) differences in the amygdala have been linked to depression improvement after ketamine treatment in depressed patients, but their role in AD patients is uncertain. We investigated the correlation between depression improvement after ketamine treatment and amygdala FC in AD patients. METHODS: Thirty-one AD patients and 18 non-anxious depression (NAD) patients received six intravenous ketamine infusions (0.5 mg/kg) over two weeks. AD patients were further divided into responders (defined as a ≥50% MADRS total score reduction on day 13) and non-responders. The FC of the amygdala subregions, including the laterobasal amygdala (LBA), centromedial amygdala (CMA), and superficial amygdala, were compared between the groups. Receiver operating characteristic curves were used to predict treatment response after ketamine infusions. RESULTS: The baseline FC difference in the left LBA and the left precuneus between responders and non-responders among AD patients was found to be associated with depression improvement and was a significant predictor of treatment response to ketamine. A marked reduction in baseline LBA-precuneus FC after ketamine infusion was observed in responders. Unlike in patients with NAD, a lower right CMA-right middle temporal gyrus FC was found in AD patients. LIMITATIONS: The sample size is rather small. CONCLUSIONS: Our findings may suggest that amygdala FC is a significant predictor of treatment response to ketamine infusions in patients with AD. Further studies exploring the potential antidepressant mechanisms of ketamine may aid in the treatment of AD patients.",
+    "authors": [
+      "Yuan S",
+      "Luo X",
+      "Chen X",
+      "Wang M",
+      "Hu Y",
+      "Zhou Y",
+      "Ning Y",
+      "Zhang B"
+    ],
+    "journal": "Journal of affective disorders",
+    "year": 2023,
+    "mesh_terms": [
+      "Humans",
+      "Ketamine",
+      "Depression",
+      "NAD",
+      "Antidepressive Agents",
+      "Amygdala",
+      "Infusions, Intravenous",
+      "Depressive Disorder, Treatment-Resistant"
+    ],
+    "doi": "10.1016/j.jad.2022.09.125"
+  },
+  {
+    "pmid": "35475375",
+    "title": "Patient perspectives of lithium and quetiapine augmentation treatment in treatment-resistant depression: A qualitative assessment.",
+    "abstract": "BACKGROUND: Treatment-resistant depression (TRD) has a profound cost to patients and healthcare services worldwide. Pharmacological augmentation is one therapeutic option for TRD, with lithium and quetiapine currently recommended as first-line agents. Patient opinions about pharmacological augmentation may affect treatment outcomes, yet these have not been systematically explored. AIMS: This study aimed to qualitatively assess patient experiences of lithium and quetiapine augmentation. METHODS: Semi-structured interviews were conducted with 32 patients from the ongoing lithium versus quetiapine open-label trial comparing these augmentation agents in patients with TRD. Interviews were audio recorded, transcribed and a thematic analysis was used to assess patient opinions of each agent. RESULTS: Four main themes were generated from the thematic analysis: 'Initial concerns', 'Experience of side effects', 'Perception of treatment efficacy' and 'Positive perception of treatment monitoring'. Patient accounts indicated a predominantly positive experience of lithium and quetiapine augmentation. Greater apprehension about side effects was reported for lithium prior to treatment initiation, but greater experience of negative side effects was reported for quetiapine. Clinical monitoring was perceived positively. CONCLUSION: Patient accounts suggested treatment augmentation with lithium or quetiapine was acceptable and helpful for most patients. However, anticipation and experiences of adverse side effects may prevent some patients from benefitting from these treatments.",
+    "authors": [
+      "McKeown L",
+      "Taylor RW",
+      "Day E",
+      "Shah R",
+      "Marwood L",
+      "Tee H",
+      "Kerr-Gaffney J",
+      "Oprea E",
+      "Geddes JR",
+      "McAllister-Williams RH",
+      "Young AH",
+      "Cleare AJ"
+    ],
+    "journal": "Journal of psychopharmacology (Oxford, England)",
+    "year": 2022,
+    "mesh_terms": [
+      "Antidepressive Agents",
+      "Antipsychotic Agents",
+      "Depression",
+      "Depressive Disorder, Treatment-Resistant",
+      "Drug Therapy, Combination",
+      "Humans",
+      "Lithium",
+      "Quetiapine Fumarate",
+      "Treatment Outcome"
+    ],
+    "doi": "10.1191/1478088706qp063oa"
+  },
+  {
+    "pmid": "31841104",
+    "title": "Esketamine for treatment resistant depression: a trick of smoke and mirrors?",
+    "abstract": "In March 2019, the US Food and Drug Administration (FDA) approved a nasal spray formulation of esketamine for the treatment of resistant depression in adults. Esketamine is the S-enantiomer of ketamine, an FDA-approved anaesthetic, known to cause dissociation and, occasionally, hallucinations. While ketamine has not been approved for depression in the USA or in any other country, it has been used off-label in cases of severe depression. This commentary critically reviewed the evidence on esketamine submitted to the FDA, aiming to draw implications for clinical practice, research and regulatory science.",
+    "authors": [
+      "Gastaldon C",
+      "Papola D",
+      "Ostuzzi G",
+      "Barbui C"
+    ],
+    "journal": "Epidemiology and psychiatric sciences",
+    "year": 2019,
+    "mesh_terms": [
+      "Adult",
+      "Antidepressive Agents",
+      "Depression",
+      "Depressive Disorder, Treatment-Resistant",
+      "Drug Approval",
+      "Evidence-Based Medicine",
+      "Humans",
+      "Infusions, Intravenous",
+      "Ketamine",
+      "United States",
+      "United States Food and Drug Administration"
+    ],
+    "doi": "10.1017/S2045796019000751"
+  },
+  {
+    "pmid": "37545011",
+    "title": "Repeated infusions of ketamine for treatment-resistant bipolar depression in real-world practice.",
+    "abstract": "",
+    "authors": [
+      "Zhou Y",
+      "Chen X",
+      "Ning Y"
+    ],
+    "journal": "Bipolar disorders",
+    "year": 2023,
+    "mesh_terms": [
+      "Humans",
+      "Ketamine",
+      "Bipolar Disorder",
+      "Major Depressive Disorder",
+      "Depressive Disorder, Treatment-Resistant",
+      "Infusions, Intravenous",
+      "Depression"
+    ],
+    "doi": "10.1111/bdi.13372"
+  },
+  {
+    "pmid": "35333448",
+    "title": "Pretreatment anxious depression as a predictor of side effect frequency and severity in escitalopram and aripiprazole adjunctive therapy.",
+    "abstract": "OBJECTIVE: To report side effect frequency and severity in patients with major depressive disorder (MDD) receiving escitalopram and aripiprazole adjunctive therapy and to examine whether pretreatment anxious depression is associated with the number and presence of specific side effects. METHODS: 188 of the 211 trial participants provided information on side effects during treatment with escitalopram (10-20 mg) for 8 weeks, and nonresponders received further augmentation on aripiprazole (2-10 mg) adjunctive therapy for another 8 weeks, whereas responders remained on escitalopram. Participants completed the Toronto Side Effects Scale at weeks 2, 4, 10, and 12. Covariate-adjusted negative binomial regression and Wilcoxon tests examined the association between anxious depression (GAD-7 ≥ 10) and number of side effects. Covariate-adjusted logistic regression and chi-square tests explored the association between anxious depression and specific side effects. RESULTS: For both therapies, the most frequent side effects were also the most severe. They mostly related to the central nervous system (CNS) (i.e., drowsiness and nervousness). Between baseline and week 2, the number of side effects participants experienced (incidence rate ratio [IRR] = 1.38, p = .010) or had trouble with (IRR = 1.34, p = .026) was significantly higher among those with anxious depression for escitalopram but not adjunctive aripiprazole. Further, odds of experiencing and having trouble with nervousness and agitation were also significantly higher in anxious depression for escitalopram only (p < .05). CONCLUSION: Patients on escitalopram and aripiprazole adjunctive therapy may experience and have trouble with CNS side effects. Pretreatment anxious depression may predispose escitalopram recipients with MDD to developing side effects, especially those related to anxiety.",
+    "authors": [
+      "Espinola CW",
+      "Khoo Y",
+      "Parmar R",
+      "Demchenko I",
+      "Frey BN",
+      "Milev RV",
+      "Ravindran AV",
+      "Parikh SV",
+      "Ho K",
+      "Rotzinger S",
+      "Lou W",
+      "Lam RW",
+      "Kennedy SH",
+      "Bhat V"
+    ],
+    "journal": "Brain and behavior",
+    "year": 2022,
+    "mesh_terms": [
+      "Aripiprazole",
+      "Depression",
+      "Major Depressive Disorder",
+      "Drug Therapy, Combination",
+      "Drug-Related Side Effects and Adverse Reactions",
+      "Escitalopram",
+      "Humans",
+      "Treatment Outcome"
+    ],
+    "doi": "10.4088/JCP.08m04978blu"
+  },
+  {
+    "pmid": "37532888",
+    "title": "Intravenous ketamine for benzodiazepine deprescription and withdrawal management in treatment-resistant depression: a preliminary report.",
+    "abstract": "We present the first evidence that sub-anesthetic ketamine infusions for treatment resistant depression (TRD) may facilitate deprescription of long-term benzodiazepine/z-drugs (BZDRs). Long-term BZDR prescriptions are potentially harmful yet common, partly because of challenging withdrawal symptoms. Few pharmacological interventions have evidence for facilitating BZDR discontinuation, and none in patients actively suffering from TRD. In this ambi-directional cohort study, discontinuation of long-term (>6 month) BZDRs was attempted in 22 patients with severe unipolar or bipolar TRD receiving a course of six subanesthetic ketamine infusions over four weeks. We investigated the rates of successful BZDRs deprescription, trajectories of acute psychological withdrawal symptoms, and subsequent BZDRs abstinence during a mean follow-up of 1 year (primary outcome). Clinically significant deteriorations in depression, anxiety, sleep, and/or suicidality during the acute BZDR discontinuation phase were measured by repeated standardized scales and analyzed by latent growth curve models and percent correct classification analysis. Of the 22 eligible patients, all enrolled in this study and 91% (20/22) successfully discontinued all BZDRs by the end of the 4-week intervention, confirmed by urinary analyses. Less than 25% of discontinuers experienced any significant worsening of anxiety, depression, sleep difficulties, or suicidality during treatment. During follow-up (mean [range] duration, 12 [3-24] months), 64% (14/22) of patients remained abstinent from any BZDRs. These preliminary results suggest that ketamine infusions for TRD may facilitate the deprescription of BZDRs, even in patients with active depressive symptoms and significant comorbidity. Further investigation is warranted into this potential novel application of ketamine.",
+    "authors": [
+      "Garel N",
+      "Greenway KT",
+      "Dinh-Williams LL",
+      "Thibault-Levesque J",
+      "Jutras-Aswad D",
+      "Turecki G",
+      "Rej S",
+      "Richard-Devantoy S"
+    ],
+    "journal": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology",
+    "year": 2023,
+    "mesh_terms": [
+      "Humans",
+      "Ketamine",
+      "Benzodiazepines",
+      "Depression",
+      "Cohort Studies",
+      "Depressive Disorder, Treatment-Resistant",
+      "Deprescriptions",
+      "Infusions, Intravenous",
+      "Substance Withdrawal Syndrome"
+    ],
+    "doi": "10.1016/S0006-8993(98)00052-3"
+  },
+  {
+    "pmid": "37148637",
+    "title": "Esketamine in treatment-resistant depression patients comorbid with substance-use disorder: A viewpoint on its safety and effectiveness in a subsample of patients from the REAL-ESK study.",
+    "abstract": "Esketamine, the S-enantiomer of ketamine, has recently emerged as a therapy for treatment-resistant depression (TRD), showing both rapid antidepressant action and good efficacy and high safety. It is also indicated for the acute short-term treatment of psychiatric emergency due to major depressive disorder (MDD) and for depressive symptoms in adults with MDD with acute suicidal thoughts/behavior. We here provide preliminary insights on esketamine nasal spray (ESK-NS) effectiveness and safety among patients with a substance use disorder (SUD) within the sample of patients with TRD collected for the observational, retrospective, multicentre REAL-ESK study. Twenty-six subjects were retrospectively selected according to the presence of a SUD in comorbidity. Subjects enrolled completed the three different follow-up phases (T0/baseline, T1/after one month, and T2/after three months) and there were no dropouts. A decrease in Montgomery-Asberg depression rating scale (MADRS) scores was recorded, thus highlighting the antidepressant efficacy of ESK-NS (MADRS decreased from T0 to T1, t = 6.533, df=23, p<0.001, and from T1 to T2, t = 2.029, df=20, p = 0.056). Considering tolerability and safety issues, one or more side effects were reported by 19/26 subjects (73%) after treatment administration. All reported side effects were time-dependent and did not cause significant sequelae; among them, dissociative symptoms (38%) and sedation (26%) were the most frequently reported. Finally, no cases of abuse or misuse of ESK-NS were reported. Despite study limitations related to the inherent nature of the study, a limited number of patients, and a short follow-up period, ESK-NS showed to be effective and safe in patients diagnosed with TRD comorbid with a SUD.",
+    "authors": [
+      "Chiappini S",
+      "d'Andrea G",
+      "De Filippis S",
+      "Di Nicola M",
+      "Andriola I",
+      "Bassetti R",
+      "Barlati S",
+      "Pettorruso M",
+      "Sensi S",
+      "Clerici M",
+      "Dell'Osso B",
+      "Vita A",
+      "Martinotti G"
+    ],
+    "journal": "European neuropsychopharmacology : the journal of the European College of Neuropsychopharmacology",
+    "year": 2023,
+    "mesh_terms": [
+      "Adult",
+      "Humans",
+      "Administration, Intranasal",
+      "Antidepressive Agents",
+      "Comorbidity",
+      "Depression",
+      "Major Depressive Disorder",
+      "Depressive Disorder, Treatment-Resistant",
+      "Drug-Related Side Effects and Adverse Reactions",
+      "Ketamine",
+      "Retrospective Studies",
+      "Substance-Related Disorders"
+    ],
+    "doi": "10.1016/j.euroneuro.2023.04.011"
+  },
+  {
+    "pmid": "25490458",
+    "title": "GPR39 Zn(2+)-sensing receptor: a new target in antidepressant development?",
+    "abstract": "Zinc is a trace element released from glutamatergic terminals, and modulates the pre- and postsynaptic areas, giving a diverse biological response. Zinc is a natural ligand that inhibits the N-methyl-d-aspartate (NMDA) receptor and regulates the excessive release of glutamate. Moreover, zinc exhibits an antidepressant-like profile, as demonstrated in both preclinical and clinical studies. Recent reports indicate that the GPR39 Zn(2+)-sensing receptor is an important target for zinc \"transmission\" (its activation modulates/induces diverse biochemical pathways involved in neuroprotection). Preclinical studies provide evidence that zinc deficiency leads to depressive-like behavior related to down-regulation of the GPR39 Zn(2+)-sensing receptor. Zinc binds to the GPR39 and triggers signals, leading to CRE-dependent gene transcription, resulting in increases in proteins such as brain-derived neurotrophic factor (BDNF), that plays a pivotal role in antidepressant action. Chronic administration of many antidepressants induces GPR39 up-regulation, which suggests that the Zn(2+)-sensing receptor may be considered as a new target for drug development in the field of depression.",
+    "authors": [
+      "Młyniec K",
+      "Singewald N",
+      "Holst B",
+      "Nowak G"
+    ],
+    "journal": "Journal of affective disorders",
+    "year": 2015,
+    "mesh_terms": [
+      "Animals",
+      "Antidepressive Agents",
+      "Brain",
+      "Brain-Derived Neurotrophic Factor",
+      "Depression",
+      "Depressive Disorder",
+      "Glutamic Acid",
+      "Humans",
+      "Learning",
+      "Memory",
+      "Molecular Targeted Therapy",
+      "Mood Disorders",
+      "Neuroprotective Agents",
+      "Receptors, G-Protein-Coupled",
+      "Signal Transduction",
+      "Up-Regulation",
+      "Weight Gain",
+      "Weight Loss",
+      "Zinc"
+    ],
+    "doi": "10.1016/j.jad.2014.11.033"
+  },
+  {
+    "pmid": "22019084",
+    "title": "A review of the effectiveness of antidepressant medications for depressed nursing home residents.",
+    "abstract": "BACKGROUND: Antidepressant medications are the most common psychopharmacologic therapy used to treat depressed nursing home (NH) residents. Despite a significant increase in the rate of antidepressant prescribing over the past several decades, little is known about the effectiveness of these agents in the NH population. OBJECTIVE: To conduct a systematic review of the literature to examine and compare the effectiveness of antidepressant medications for treating major depressive symptoms in elderly NH residents. METHODS: The following databases were searched with searches completed prior to January 2011 and no language restriction: MEDLINE, Embase, PsycINFO, CINHAL, CENTRAL, LILACS, ClinicalTrials.gov, International Standard Randomized Controlled Trial Number Register, and the WHO International Clinical Trial Registry Platform. Additional studies were identified from citations in evidence-based guidelines and reviews as well as book chapters on geriatric depression and pharmacotherapy from several clinical references. Studies were included if they described a clinical trial that assessed the effectiveness of any currently-marketed antidepressant for adults aged 65 years or older, who resided in the NH, and were diagnosed by DSM criteria and/or standardized validated screening instruments with Major Depressive Disorder, minor depression, dysthymic disorder, or Depression in Alzheimer's disease. RESULTS: A total of eleven studies, including four randomized and seven non-randomized open-label trials, met all inclusion and exclusion criteria. It was not feasible to conduct a meta-analysis because the studies were heterogeneous in terms of study design, operational definitions of depression, participant characteristics, pharmacologic interventions, and outcome measures. Of the four randomized trials, two had a control group and did not demonstrate a statistically-significant benefit for antidepressant pharmacotherapy over placebo. While six of the seven non-randomized studies identified a response to an antidepressant, their results must be interpreted with caution as they lacked a comparison group. CONCLUSIONS: The limited amount of evidence from randomized and non-randomized open-label trials suggests that depressed NH residents have a modest response to antidepressant medications. Further research using rigorous study designs are needed to examine the effectiveness and safety of antidepressants in depressed NH residents, and to determine the various facility, provider, and patient factors associated with response to treatment.",
+    "authors": [
+      "Boyce RD",
+      "Hanlon JT",
+      "Karp JF",
+      "Kloke J",
+      "Saleh A",
+      "Handler SM"
+    ],
+    "journal": "Journal of the American Medical Directors Association",
+    "year": 2012,
+    "mesh_terms": [
+      "Aged",
+      "Aged, 80 and over",
+      "Antidepressive Agents",
+      "Depression",
+      "Depressive Disorder",
+      "Dose-Response Relationship, Drug",
+      "Drug Administration Schedule",
+      "Female",
+      "Geriatric Assessment",
+      "Homes for the Aged",
+      "Humans",
+      "Male",
+      "Nursing Homes",
+      "Prognosis",
+      "Risk Assessment",
+      "Severity of Illness Index",
+      "Treatment Outcome"
+    ],
+    "doi": "10.1016/j.jamda.2011.08.009"
+  },
+  {
+    "pmid": "24331291",
+    "title": "Depression and use of antidepressants in Swedish nursing homes: a 12-month follow-up study.",
+    "abstract": "BACKGROUND: The prescription of antidepressants in nursing homes has increased markedly since the introduction of SSRIs, while at the same time depressive symptoms often go unrecognized and untreated. The aim of this study was to examine whether depression among residents in nursing homes is treated adequately. METHODS: A sample of 429 participants from 11 Swedish nursing homes was selected and was assessed with the Cornell Scale for Depression in Dementia (CSDD) and using medical records and drug prescription data. For 256 participants a follow-up assessment was performed after 12 months. RESULTS: The prevalence of depression, according to medical records, was 9.1%, and the prevalence of CSDD score of ≥8 was 7.5%. Depression persisted in more than 50% of cases at the 12-month follow-up. Antidepressants were prescribed to 33% of the participants without a depression diagnosis or with a CSDD score of <8. 46.2% of all participants were prescribed antidepressants. 14% of the participants without a depression diagnosis or with a CSDD score of <8 had psychotropic polypharmacy. 15.2% of all participants had psychotropic polypharmacy, which persisted at the 12-month follow-up in three-quarters of cases. CONCLUSION: The prescription of antidepressants in frail elderly individuals is extensive and may be without clear indication. The clinical implication is that there is a need for systematic drug reviews at nursing homes, paying special attention to the subjects which are on antidepressants.",
+    "authors": [
+      "Midlöv P",
+      "Andersson M",
+      "Ostgren CJ",
+      "Mölstad S"
+    ],
+    "journal": "International psychogeriatrics",
+    "year": 2014,
+    "mesh_terms": [
+      "Aged",
+      "Aged, 80 and over",
+      "Antidepressive Agents",
+      "Dementia",
+      "Depression",
+      "Depressive Disorder",
+      "Drug Prescriptions",
+      "Female",
+      "Follow-Up Studies",
+      "Frail Elderly",
+      "Homes for the Aged",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Nursing Homes",
+      "Polypharmacy",
+      "Prevalence",
+      "Sweden"
+    ],
+    "doi": "10.1017/S1041610213002354"
+  },
+  {
+    "pmid": "37160235",
+    "title": "A comparative analysis of antidepressant and anti-suicidal effects of repeated ketamine infusions in elderly and younger adults with depression.",
+    "abstract": "OBJECTIVES: This study aims to investigate the differences in safety and antidepressant effects of multi-infusion ketamine treatment between elderly and young adults with depression. METHODS: The safety, antidepressant, and anti-suicidal effects of multi-infusion ketamine were compared between 19 elderly (≥50 years) and 116 younger (<50 years) adults with depression; all were treated with six ketamine infusions (0.5 mg/kg). Montgomery-Åsberg Depression Rating Scale (MADRS) was used to measure the depressive symptoms, and suicidal ideation was measured with Beck Scale for Suicide Ideation (SSI)-part 1, Hamilton Rating Scale for Depression (HAMD) item 3, and (MADRS) item 10. Dissociative and psychotomimetic symptoms were evaluated based on the Clinician-Administered Dissociative States Scale (CADSS) and the Brief Psychiatric Rating Scale (BPRS)-four items. RESULTS: Multi-Ketamine infusions resulted in a lower (trend) antidepressant response (37.1 % versus 57.8 %) and antidepressant remission (15.8 % versus 47.4 %) in elderly patients with depression compared with younger patients with depression (all ps > 0.05). Interestingly, elderly patients with depression had a higher MADRS score after six ketamine infusions compared with younger patients (p = 0.04). No significant differences in SSI-part 1 scores, HAMD item 3 scores, MADRS item 10 scores, CADSS scores, and BPRS-four items scores were found between the two groups at any assessment point (all ps > 0.05). CONCLUSION: Our study shows that repeated-dose infusions of ketamine may be a feasible treatment strategy in elderly Chinese patients with depression; however, elderly patients with depression may be less responsive to ketamine compared with younger adults with depression.",
+    "authors": [
+      "Zheng W",
+      "Zhou YL",
+      "Wang CY",
+      "Lan XF",
+      "Ning YP"
+    ],
+    "journal": "Journal of affective disorders",
+    "year": 2023,
+    "mesh_terms": [
+      "Young Adult",
+      "Humans",
+      "Aged",
+      "Ketamine",
+      "Depression",
+      "Suicidal Ideation",
+      "Major Depressive Disorder",
+      "Infusions, Intravenous",
+      "Psychiatric Status Rating Scales",
+      "Antidepressive Agents",
+      "Depressive Disorder, Treatment-Resistant",
+      "Treatment Outcome"
+    ],
+    "doi": "10.1016/j.jad.2023.04.120"
+  },
+  {
+    "pmid": "31397608",
+    "title": "Major depression but not minor to intermediate depression correlates with unfavorable prognosis in surgical colorectal cancer patients underwent adjuvant chemotherapy.",
+    "abstract": "This study aimed to investigate the correlation of anxiety/depression with clinicopathological features, and the association of anxiety/depression degrees with overall survival (OS) in surgical colorectal cancer (CRC) patients. Three hundred and eighty-one surgical CRC patients were consecutively enrolled and underwent adjuvant chemotherapy accordingly. Anxiety and depression were assessed by the Hospital Anxiety and Depression Scale (HADS). Patients with no, minor, intermediate and major anxiety were 249 (65.4%), 79 (20.7%), 37 (9.7%) and 16 (4.2%), respectively, and patients with no, minor, intermediate and major depression were 231 (60.6%), 73 (19.2%), 44 (11.5%) and 33 (8.7%), respectively. Younger age, increased the pathological grade, elevated tumor, node and metastasis (TNM) stage, as well as higher education correlated with raised HADS-A score, while younger age, drinking history, increased pathological grade, elevated TNM stage and higher education associated with raised HADS-D score. There was no difference in OS among CRC patients with no anxiety, minor anxiety, intermediate anxiety and major anxiety. And CRC patients with major depression were of worse OS compared to those with no depression, minor depression or intermediate depression. Younger age, higher pathological grade, TNM stage and education associates with anxiety and depression, and major depression is negatively correlated with OS in surgical CRC patients underwent adjuvant chemotherapy.",
+    "authors": [
+      "Xia S",
+      "Sun M",
+      "Liu X"
+    ],
+    "journal": "Psychology, health & medicine",
+    "year": 2020,
+    "mesh_terms": [
+      "Adult",
+      "Aged",
+      "Chemotherapy, Adjuvant",
+      "Colorectal Neoplasms",
+      "Depression",
+      "Major Depressive Disorder",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Prognosis"
+    ],
+    "doi": "10.1080/13548506.2019.1643032"
+  },
+  {
+    "pmid": "36169969",
+    "title": "Evaluation of Early Ketamine Effects on Belief-Updating Biases in Patients With Treatment-Resistant Depression.",
+    "abstract": "IMPORTANCE: Clinical research has shown that persistent negative beliefs maintain depression and that subanesthetic ketamine infusions induce rapid antidepressant responses. OBJECTIVE: To evaluate whether ketamine alters belief updating and how such cognitive effects are associated with the clinical effects of ketamine. DESIGN, SETTING, AND PARTICIPANTS: This study used an observational case-control protocol with a mixed-effects design that nested 2 groups by 2 testing time points. Observers were not blinded. Patients with treatment-resistant depression (TRD) and healthy volunteer participants aged 34 to 68 years were included. Patients with TRD were diagnosed with major depressive disorder or bipolar depression, had a Montgomery-Åsberg Depression Rating Scale score greater than 20, a Maudsley Staging Method score greater than 7, and failed to respond to at least 2 prior antidepressant trials. Exclusion criteria were any other psychiatric, neurological, or neurosurgical comorbidities, substance use or addictive disorders, and recreational ketamine consumption. Data were collected from January to February 2019 and from May to December 2019, and data were analyzed from January 2020 to July 2021. EXPOSURES: Patients with TRD were observed 24 hours before single ketamine infusion, 4 hours after the infusion, and 4 hours after the third infusion, which was 1 week after the first infusion. Healthy control participants were observed twice 1 week apart without ketamine exposure. MAIN OUTCOMES AND MEASURES: Montgomery-Åsberg Depression Rating Scale score and belief updating after belief updating when patients received good news and bad news measured by a cognitive belief-updating task and mathematically formalized by a computational reinforcement learning model. RESULTS: Of 56 included participants, 29 (52%) were male, and the mean (SEM) age was 52.3 (1.2) years. A total of 26 patients with TRD and 30 control participants were included. A significant group × testing time point × news valence interaction showed that patients with TRD updated their beliefs more after good than bad news following a single ketamine infusion (controlled for age and education: β = -0.91; 95% CI, -1.58 to -0.24; t216 = -2.67; P = .008) than controls. Computational modeling showed that this effect was associated with asymmetrical learning rates (LRs) after ketamine treatment (good news LRs after ketamine, 0.51 [SEM, 0.04]; bad news LRs after ketamine 0.36 [SEM, 0.03], t25 = 3.8; P < .001) and partially mediated early antidepressant responses (path a*b: β = -1.00 [SEM, 0.66]; t26 = -1.53; z = -1.98; P = .04). CONCLUSIONS AND RELEVANCE: These findings provide novel insights into the cognitive mechanisms of the action of ketamine in patients with TRD, with promising perspectives for augmented psychotherapy for individuals with mood disorders.",
+    "authors": [
+      "Bottemanne H",
+      "Morlaas O",
+      "Claret A",
+      "Sharot T",
+      "Fossati P",
+      "Schmidt L"
+    ],
+    "journal": "JAMA psychiatry",
+    "year": 2022,
+    "mesh_terms": [
+      "Humans",
+      "Male",
+      "Female",
+      "Ketamine",
+      "Major Depressive Disorder",
+      "Depression",
+      "Infusions, Intravenous",
+      "Depressive Disorder, Treatment-Resistant",
+      "Antidepressive Agents",
+      "Bias",
+      "Treatment Outcome"
+    ],
+    "doi": "10.1007/s00213-019-05448-0"
+  },
+  {
+    "pmid": "37194253",
+    "title": "Real-world effectiveness of repeated intravenous ketamine infusions for treatment-resistant depression in transitional age youth.",
+    "abstract": "BACKGROUND: Ketamine is an emerging treatment for treatment-resistant depression (TRD) associated with rapid and robust improvements in depressive symptoms and suicidality. However, the efficacy and safety of ketamine in transitional age youth (TAY; age 18-25) populations remains understudied. METHODS: In this retrospective analysis, TAY patients (n = 52) receiving ketamine for TRD were matched for sex, primary diagnosis, baseline depression severity, and treatment resistance with a general adult (GA) sample (age 30-60). Patients received four ketamine infusions over 2 weeks (0.5-0.75 mg/kg over 40 min). The primary outcome was the change in Quick Inventory of Depressive Symptomatology Self-Report 16-item (QIDS-SR16) over time. Secondary outcomes were changes in QIDS-SR16 suicidal ideation (SI) item, anxiety (Generalized Anxiety Disorder 7-item (GAD-7)), and adverse effects (ClinicalTrials.gov: NCT04209296). RESULTS: A significant main effect of infusions on reduction of total QIDS-SR16 (p < 0.001), QIDS-SR16 SI (p < 0.001), and GAD-7 (p < 0.001) scores was observed in the TAY group with moderate effect sizes, indicative of clinically significant improvements in depression, anxiety, and suicidality. There were no significant differences between TAY and GA groups on these measures over time, suggesting comparable improvements in both groups. Safety and tolerability outcomes were comparable between groups with only mild, transient adverse effects observed. CONCLUSION: Ketamine was associated with comparable clinical benefits, safety, and tolerability in a TAY sample as compared to a matched GA TRD sample.",
+    "authors": [
+      "Chisamore N",
+      "Danayan K",
+      "Rodrigues NB",
+      "Di Vincenzo JD",
+      "Meshkat S",
+      "Doyle Z",
+      "Mansur R",
+      "Phan L",
+      "Fancy F",
+      "Chau E",
+      "Tabassum A",
+      "Kratiuk K",
+      "Arekapudi A",
+      "McIntyre RS",
+      "Rosenblat JD"
+    ],
+    "journal": "Journal of psychopharmacology (Oxford, England)",
+    "year": 2023,
+    "mesh_terms": [
+      "Adult",
+      "Humans",
+      "Adolescent",
+      "Young Adult",
+      "Middle Aged",
+      "Ketamine",
+      "Depression",
+      "Retrospective Studies",
+      "Depressive Disorder, Treatment-Resistant",
+      "Infusions, Intravenous"
+    ],
+    "doi": "10.3389/fpsyt.2022.880496"
+  },
+  {
+    "pmid": "35012701",
+    "title": "How to deprescribe esketamine in resistant depression? A point of view after first clinical uses.",
+    "abstract": "",
+    "authors": [
+      "Taillefer de Laportalière T",
+      "Yrondi A",
+      "Jullien A",
+      "Cestac P",
+      "Montastruc F"
+    ],
+    "journal": "Epidemiology and psychiatric sciences",
+    "year": 2022,
+    "mesh_terms": [
+      "Deprescriptions",
+      "Depression",
+      "Depressive Disorder, Treatment-Resistant",
+      "Humans",
+      "Ketamine"
+    ],
+    "doi": "10.1017/S204579602100072X"
+  },
+  {
+    "pmid": "38477185",
+    "title": "Brain-derived neurotrophic factor Val66Met and CYP2B6 polymorphisms as predictors for ketamine effectiveness in patients with treatment-resistant depression.",
+    "abstract": "BACKGROUND: Converging lines of evidence indicate that ketamine is a rapid antidepressant for individuals with treatment-resistant depression. Hitherto, no reliable a priori predictors of ketamine response have been reported. Pharmacogenetic biomarkers have yielded mixed results regarding potential candidate genes associated with ketamine's biochemistry as reliable predictors of response. AIMS: No studies have examined the effects of Val66Met and CYP2B6 genotypes on patients receiving repeated infusions of intravenous ketamine. METHODS: In all, 85 participants with major depressive disorder who had previously received four infusions of intravenous ketamine were recruited to the foregoing study. Buccal swabs were collected and genotype variants across the Val66Met and CYP2B6 genes were analyzed. A repeated measures mixed linear model was used to assess change in depressive symptoms, suicidality, and anxiety, correcting for sex and age. Multiple regression was run to determine whether these genetic markers were associated with treatment efficacy for depressive severity, suicidal ideation, anxiolytic response, and degree of dissociation to intravenous ketamine. RESULTS: Participants experienced significant overall reductions in depression, suicide, and anxiety. Overall, 25% met the response criteria and 15% met the remission criteria. However, Val66Met and CYP2B6 did not significantly predict changes in symptoms of depression, suicide, anxiety, or average dissociation. CONCLUSIONS: This study contributes to the growing literature that ketamine efficacy is unlikely to be predicted by single genes, and a pleiotropic approach may likely be necessary for developing reliable predictors of clinical benefits.",
+    "authors": [
+      "Rodrigues NB",
+      "Chen-Li D",
+      "Di Vincenzo JD",
+      "Juneja A",
+      "Pinder BD",
+      "McIntyre RS",
+      "Rosenblat JD"
+    ],
+    "journal": "Journal of psychopharmacology (Oxford, England)",
+    "year": 2024,
+    "mesh_terms": [
+      "Humans",
+      "Ketamine",
+      "Cytochrome P-450 CYP2B6",
+      "Major Depressive Disorder",
+      "Depression",
+      "Brain-Derived Neurotrophic Factor",
+      "Depressive Disorder, Treatment-Resistant",
+      "Infusions, Intravenous"
+    ],
+    "doi": "10.1177/02698811241238284"
+  },
+  {
+    "pmid": "31285210",
+    "title": "A Structured Approach to Detecting and Treating Depression in Primary Care: VitalSign6 Project.",
+    "abstract": "PURPOSE: This report describes outcomes of an ongoing quality-improvement project (VitalSign6) in a large US metropolitan area to improve recognition, treatment, and outcomes of depressed patients in 16 primary care clinics (6 charity clinics, 6 federally qualified health care centers, 2 private clinics serving low-income populations, and 2 private clinics serving patients with either Medicare or private insurance). METHODS: Inclusion in this retrospective analysis was restricted to the first 25,000 patients (aged ≥12 years) screened with the 2-item Patient Health Questionnaire (PHQ-2) in the aforementioned quality-improvement project. Further evaluations with self-reports and clinician assessments were recorded for those with positive screen (PHQ-2 >2). Data collected from August 2014 though November 2016 were available at 3 levels: (1) initial PHQ-2 (n = 25,000), (2) positive screen (n = 4,325), and (3) clinician-diagnosed depressive disorder with 18 or more weeks of enrollment (n = 2,160). RESULTS: Overall, 17.3% (4,325/25,000) of patients screened positive for depression. Of positive screens, 56.1% (2,426/4,325) had clinician-diagnosed depressive disorder. Of those enrolled for 18 or more weeks, 64.8% were started on measurement-based pharmacotherapy and 8.9% referred externally. Of the 1,400 patients started on pharmacotherapy, 45.5%, 30.2%, 12.6%, and 11.6% had 0, 1, 2, and 3 or more follow-up visits, respectively. Remission rates were 20.3% (86/423), 31.6% (56/177), and 41.7% (68/163) for those with 1, 2, and 3 or more follow-up visits, respectively. Baseline characteristics associated with higher attrition were: non-white, positive drug-abuse screen, lower depression/anxiety symptom severity, and younger age. CONCLUSION: Although remission rates are high in those with 3 or more follow-up visits after routine screening and treatment of depression, attrition from care is a significant issue adversely affecting outcomes.",
+    "authors": [
+      "Jha MK",
+      "Grannemann BD",
+      "Trombello JM",
+      "Clark EW",
+      "Eidelman SL",
+      "Lawson T",
+      "Greer TL",
+      "Rush AJ",
+      "Trivedi MH"
+    ],
+    "journal": "Annals of family medicine",
+    "year": 2019,
+    "mesh_terms": [
+      "Adolescent",
+      "Adult",
+      "Aged",
+      "Depression",
+      "Major Depressive Disorder",
+      "Female",
+      "Humans",
+      "Male",
+      "Mass Screening",
+      "Middle Aged",
+      "Patient Dropouts",
+      "Primary Health Care",
+      "Quality Improvement",
+      "Remission Induction",
+      "Retrospective Studies",
+      "Surveys and Questionnaires",
+      "United States",
+      "Young Adult"
+    ],
+    "doi": "10.1370/afm.2418"
+  },
+  {
+    "pmid": "37490687",
+    "title": "Association of Neurofilament Light Chain With the Antidepressant Effects of Low-Dose Ketamine Infusion Among Patients With Treatment-Resistant Depression.",
+    "abstract": "BACKGROUND: The role of neurofilament light chain (NFL) in treatment-resistant depression (TRD) is unclear. Whether baseline NFL concentrations are associated with the antidepressant effects of low-dose ketamine infusion has not been determined. METHODS: The NFL concentrations of 71 patients with TRD and 17 healthy controls were assessed. Patients with TRD were randomly administered a single infusion of 0.5 mg/kg ketamine, 0.2 mg/kg ketamine, or normal saline. Depressive symptoms were assessed before infusion and sequentially at postinfusion timepoints (after 240 minutes and after 2-7 and 14 days) using the Hamilton Depression Rating Scale (HDRS). RESULTS: After adjustment for age, sex, and body mass index, patients with TRD were more likely to have higher concentrations of NFL than healthy controls (P < .001). A generalized estimating equation model with adjustments for infusion group, age, sex, body mass index, and baseline HDRS scores showed that baseline NFL concentrations were positively associated with subsequent HDRS scores following low-dose ketamine infusion (P = .038). DISCUSSION: Higher concentrations of NFL were observed among patients with TRD compared with healthy controls. Baseline NFL concentrations may predict the antidepressant effects of low-dose ketamine infusion.",
+    "authors": [
+      "Lin WC",
+      "Su TP",
+      "Li CT",
+      "Wu HJ",
+      "Bai YM",
+      "Liu YL",
+      "Tu PC",
+      "Chen MH"
+    ],
+    "journal": "The international journal of neuropsychopharmacology",
+    "year": 2023,
+    "mesh_terms": [
+      "Humans",
+      "Ketamine",
+      "Depression",
+      "Intermediate Filaments",
+      "Depressive Disorder, Treatment-Resistant",
+      "Infusions, Intravenous",
+      "Antidepressive Agents",
+      "Treatment Outcome"
+    ],
+    "doi": "10.1093/ijnp/pyad045"
+  }
+]

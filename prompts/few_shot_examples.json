@@ -1,0 +1,22 @@
+[
+    {
+      "question": "What is the effect of metformin on HbA1c in patients with type 2 diabetes?",
+      "context_summary": "Two RCTs (PMIDs 38291847, 38190024) reported HbA1c reductions of 1.1-1.4% with metformin monotherapy over 24-52 weeks compared to placebo.",
+      "answer": {
+        "answer": "Metformin monotherapy consistently reduces HbA1c by approximately 1.1 to 1.4 percentage points in patients with type 2 diabetes over 24 to 52 weeks of treatment, compared to placebo. Both trials enrolled adults with newly diagnosed type 2 diabetes and baseline HbA1c between 7.5 and 9.5%. Reductions were sustained at 52-week follow-up in both studies.",
+        "cited_pmids": ["38291847", "38190024"],
+        "confidence": "high",
+        "confidence_reason": "Two concordant randomized controlled trials with consistent effect sizes and comparable patient populations."
+      }
+    },
+    {
+      "question": "Are SGLT2 inhibitors effective for heart failure with reduced ejection fraction?",
+      "context_summary": "One large RCT (PMID 38245193) found empagliflozin reduced hospitalization for heart failure by 25% in HFrEF patients. A smaller observational study (PMID 38100211) reported similar directional findings.",
+      "answer": {
+        "answer": "Empagliflozin significantly reduced the risk of hospitalization for heart failure by 25% in patients with heart failure with reduced ejection fraction (HFrEF) in a large randomized trial. A smaller observational study reported directionally consistent findings, though with wider confidence intervals. The evidence supports SGLT2 inhibitor use in HFrEF, though the observational study carries a higher risk of confounding.",
+        "cited_pmids": ["38245193", "38100211"],
+        "confidence": "high",
+        "confidence_reason": "Large RCT with statistically significant primary endpoint, supported by a consistent observational study."
+      }
+    }
+  ]

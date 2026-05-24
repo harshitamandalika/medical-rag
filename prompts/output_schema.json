@@ -1,0 +1,6 @@
+{
+    "answer": "Full answer in clear prose for a clinician audience.",
+    "cited_pmids": ["38291847", "38245193"],
+    "confidence": "high | moderate | low",
+    "confidence_reason": "Brief note on why — e.g. multiple consistent RCTs, or limited evidence."
+}

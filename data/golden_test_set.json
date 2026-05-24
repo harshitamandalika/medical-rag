@@ -1,0 +1,153 @@
+[
+    {
+      "question": "What is the effect of metformin on HbA1c in type 2 diabetes?",
+      "ground_truth": "Metformin reduces HbA1c by approximately 1.0 to 1.5 percentage points in patients with type 2 diabetes compared to placebo, with effects sustained over 24 to 52 weeks.",
+      "condition": "type2_diabetes",
+      "pmids": []
+    },
+    {
+      "question": "What are the cardiovascular benefits of SGLT2 inhibitors in type 2 diabetes?",
+      "ground_truth": "SGLT2 inhibitors reduce major adverse cardiovascular events, hospitalization for heart failure, and cardiovascular mortality in patients with type 2 diabetes and established cardiovascular disease.",
+      "condition": "type2_diabetes",
+      "pmids": []
+    },
+    {
+      "question": "How effective is semaglutide compared to other GLP-1 agonists for weight loss in type 2 diabetes?",
+      "ground_truth": "Semaglutide produces greater body weight reduction compared to other GLP-1 receptor agonists such as liraglutide and exenatide, with weekly subcutaneous semaglutide achieving weight loss of 4 to 6 kg over 30 to 56 weeks.",
+      "condition": "type2_diabetes",
+      "pmids": []
+    },
+    {
+      "question": "What lifestyle interventions are effective for preventing progression from prediabetes to type 2 diabetes?",
+      "ground_truth": "Intensive lifestyle interventions including dietary modification and at least 150 minutes of moderate physical activity per week reduce progression from prediabetes to type 2 diabetes by approximately 58%, outperforming metformin monotherapy.",
+      "condition": "type2_diabetes",
+      "pmids": []
+    },
+    {
+      "question": "What is the role of basal insulin in type 2 diabetes management?",
+      "ground_truth": "Basal insulin added to oral antidiabetic therapy effectively reduces fasting plasma glucose and HbA1c in patients with inadequately controlled type 2 diabetes, with insulin glargine and insulin detemir showing similar efficacy and lower nocturnal hypoglycemia compared to NPH insulin.",
+      "condition": "type2_diabetes",
+      "pmids": []
+    },
+    {
+      "question": "What are the first-line pharmacological treatments for hypertension?",
+      "ground_truth": "First-line pharmacological treatment for hypertension includes thiazide diuretics, ACE inhibitors, angiotensin receptor blockers, and calcium channel blockers. Choice depends on comorbidities, with ACE inhibitors or ARBs preferred in patients with diabetes or chronic kidney disease.",
+      "condition": "hypertension",
+      "pmids": []
+    },
+    {
+      "question": "How effective are ACE inhibitors in reducing cardiovascular events in hypertensive patients?",
+      "ground_truth": "ACE inhibitors significantly reduce major cardiovascular events including myocardial infarction, stroke, and cardiovascular death in hypertensive patients, with risk reductions of 20 to 30% compared to placebo in large randomized trials.",
+      "condition": "hypertension",
+      "pmids": []
+    },
+    {
+      "question": "What is the target blood pressure in elderly patients with hypertension?",
+      "ground_truth": "Clinical trials support a systolic blood pressure target below 130 mmHg in elderly patients with hypertension when tolerated, though targets of below 140 mmHg are acceptable in frail patients or those with multiple comorbidities given increased risk of adverse events with intensive treatment.",
+      "condition": "hypertension",
+      "pmids": []
+    },
+    {
+      "question": "What is the evidence for combination antihypertensive therapy versus monotherapy?",
+      "ground_truth": "Combination antihypertensive therapy achieves blood pressure targets more effectively than monotherapy in patients with stage 2 hypertension or high cardiovascular risk, with fixed-dose combinations improving adherence. ACE inhibitor plus calcium channel blocker combinations reduce cardiovascular events more than ACE inhibitor plus diuretic.",
+      "condition": "hypertension",
+      "pmids": []
+    },
+    {
+      "question": "How effective are inhaled corticosteroids for asthma control?",
+      "ground_truth": "Inhaled corticosteroids are the most effective controller therapy for persistent asthma, reducing exacerbation frequency, hospitalizations, and asthma-related mortality. Low-dose ICS reduces exacerbations by 40 to 60% compared to placebo.",
+      "condition": "asthma",
+      "pmids": []
+    },
+    {
+      "question": "What is the role of biologics in severe asthma treatment?",
+      "ground_truth": "Biologic agents targeting IgE (omalizumab), IL-5 (mepolizumab, reslizumab, benralizumab), IL-4/13 (dupilumab), and TSLP (tezepelumab) reduce exacerbations by 50 to 70% and oral corticosteroid use in patients with severe eosinophilic or allergic asthma inadequately controlled by standard therapy.",
+      "condition": "asthma",
+      "pmids": []
+    },
+    {
+      "question": "What are the outcomes of LABA plus ICS combination therapy in moderate to severe asthma?",
+      "ground_truth": "Adding a long-acting beta-agonist to inhaled corticosteroid therapy improves lung function, reduces exacerbations, and decreases rescue bronchodilator use compared to ICS alone in patients with moderate to severe asthma, without a significant increase in serious adverse events when used with ICS.",
+      "condition": "asthma",
+      "pmids": []
+    },
+    {
+      "question": "What pharmacological treatments reduce hospitalizations in heart failure with reduced ejection fraction?",
+      "ground_truth": "ACE inhibitors or ARBs, beta-blockers, mineralocorticoid receptor antagonists, SGLT2 inhibitors, and sacubitril-valsartan reduce hospitalizations for heart failure in HFrEF. The combination of these four drug classes constitutes guideline-directed medical therapy with additive mortality benefit.",
+      "condition": "heart_failure",
+      "pmids": []
+    },
+    {
+      "question": "What is the evidence for SGLT2 inhibitors in heart failure with reduced ejection fraction?",
+      "ground_truth": "Dapagliflozin and empagliflozin each reduce the composite of worsening heart failure or cardiovascular death by approximately 25% in patients with HFrEF regardless of diabetes status, with consistent benefit across subgroups in large randomized controlled trials.",
+      "condition": "heart_failure",
+      "pmids": []
+    },
+    {
+      "question": "How does sacubitril-valsartan compare to ACE inhibitors in heart failure?",
+      "ground_truth": "Sacubitril-valsartan reduces cardiovascular death and heart failure hospitalization by 20% compared to enalapril in patients with HFrEF and is recommended over ACE inhibitors in eligible patients who can tolerate renin-angiotensin system blockade.",
+      "condition": "heart_failure",
+      "pmids": []
+    },
+    {
+      "question": "What are the most effective antidepressants for major depressive disorder?",
+      "ground_truth": "SSRIs and SNRIs are first-line pharmacological treatment for major depressive disorder, with comparable efficacy across agents. Response rates are approximately 50 to 60% at 8 weeks. Escitalopram and sertraline show favorable efficacy and tolerability profiles in network meta-analyses.",
+      "condition": "depression",
+      "pmids": []
+    },
+    {
+      "question": "What is the evidence for combining psychotherapy and pharmacotherapy in depression?",
+      "ground_truth": "Combined cognitive behavioral therapy and antidepressant pharmacotherapy produces superior outcomes compared to either treatment alone in moderate to severe major depressive disorder, with higher remission rates and lower relapse rates at 12-month follow-up.",
+      "condition": "depression",
+      "pmids": []
+    },
+    {
+      "question": "What is the role of ketamine in treatment-resistant depression?",
+      "ground_truth": "Intravenous ketamine and intranasal esketamine produce rapid antidepressant effects within hours in patients with treatment-resistant depression, with response rates of 50 to 70% after a single infusion. Effects are transient without repeated dosing and dissociative side effects require clinical monitoring.",
+      "condition": "depression",
+      "pmids": []
+    },
+    {
+      "question": "How effective is cognitive behavioral therapy for depression compared to pharmacotherapy?",
+      "ground_truth": "Cognitive behavioral therapy demonstrates comparable efficacy to antidepressant medication for mild to moderate major depressive disorder in acute treatment and superior relapse prevention at 12 to 24 months follow-up. CBT is preferred in patients who decline medication or have a history of medication intolerance.",
+      "condition": "depression",
+      "pmids": []
+    },
+    {
+      "question": "What interventions slow progression of chronic kidney disease?",
+      "ground_truth": "RAAS blockade with ACE inhibitors or ARBs, blood pressure control below 130/80 mmHg, glycemic control in diabetic CKD, and SGLT2 inhibitors slow CKD progression and reduce the composite of kidney failure, cardiovascular events, and death in patients with CKD.",
+      "condition": "chronic_kidney",
+      "pmids": []
+    },
+    {
+      "question": "What is the evidence for SGLT2 inhibitors in chronic kidney disease?",
+      "ground_truth": "Dapagliflozin reduces the risk of sustained kidney function decline, end-stage kidney disease, cardiovascular death, and hospitalization for heart failure in patients with CKD across a wide range of eGFR values, including patients without diabetes.",
+      "condition": "chronic_kidney",
+      "pmids": []
+    },
+    {
+      "question": "What dietary interventions are recommended for patients with chronic kidney disease?",
+      "ground_truth": "Low-protein diets of 0.6 to 0.8 g per kg per day reduce CKD progression in non-dialysis patients. Sodium restriction below 2g per day controls blood pressure and proteinuria. Potassium and phosphate restriction are indicated in advanced CKD to prevent hyperkalemia and secondary hyperparathyroidism.",
+      "condition": "chronic_kidney",
+      "pmids": []
+    },
+    {
+      "question": "What is the comparative efficacy of DPP-4 inhibitors versus GLP-1 agonists in type 2 diabetes?",
+      "ground_truth": "GLP-1 receptor agonists produce greater HbA1c reduction of 1.0 to 1.5% and significant weight loss compared to DPP-4 inhibitors which reduce HbA1c by 0.5 to 0.8% with a weight-neutral effect. GLP-1 agonists also demonstrate cardiovascular and renal benefits not shown with DPP-4 inhibitors.",
+      "condition": "type2_diabetes",
+      "pmids": []
+    },
+    {
+      "question": "What is the evidence for beta-blockers in heart failure with preserved ejection fraction?",
+      "ground_truth": "Unlike in HFrEF, beta-blockers have not demonstrated consistent mortality benefit in heart failure with preserved ejection fraction in randomized controlled trials. Current evidence does not support routine use of beta-blockers in HFpEF in the absence of other indications such as atrial fibrillation or coronary artery disease.",
+      "condition": "heart_failure",
+      "pmids": []
+    },
+    {
+      "question": "What is the efficacy of mineralocorticoid receptor antagonists in resistant hypertension?",
+      "ground_truth": "Spironolactone and eplerenone as fourth-line agents reduce systolic blood pressure by 15 to 20 mmHg in patients with resistant hypertension uncontrolled on three antihypertensive agents, with spironolactone being the most effective add-on therapy in randomized trials.",
+      "condition": "hypertension",
+      "pmids": []
+    }
+  ]
+  
