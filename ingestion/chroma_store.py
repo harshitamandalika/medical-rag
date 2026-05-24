@@ -9,6 +9,7 @@ COLLECTION_NAME = "pubmed_abstracts"
 CHROMA_PATH     = str(Path(__file__).parent.parent / "chroma_db")
 
 def get_client() -> chromadb.ClientAPI:
+    print(f"  chroma_store: opening DB at {CHROMA_PATH}")
     return chromadb.PersistentClient(
         path=CHROMA_PATH,
         settings=Settings(anonymized_telemetry=False),
