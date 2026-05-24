@@ -113,6 +113,18 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
+import chromadb
+from chromadb.config import Settings
+from pathlib import Path
+
+_debug_path = str(Path(__file__).parent.parent / "chroma_db")
+st.write(f"DEBUG chroma path: `{_debug_path}`")
+try:
+    _debug_client = chromadb.PersistentClient(path=_debug_path, settings=Settings(anonymized_telemetry=False))
+    _debug_col = _debug_client.get_or_create_collection("pubmed_abstracts")
+    st.write(f"DEBUG collection count: {_debug_col.count()}")
+except Exception as e:
+    st.write(f"DEBUG error: {e}")
 
 if "pipeline" not in st.session_state:
     with st.spinner("Loading pipeline - this takes about 2 seconds on first run..."):
