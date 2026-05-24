@@ -3,8 +3,7 @@ import os
 import time
 from dataclasses import dataclass
 
-import nest_asyncio
-nest_asyncio.apply()
+
 
 import aiohttp
 if not hasattr(aiohttp, "ClientConnectorDNSError"):
@@ -104,6 +103,8 @@ def evaluate_result(
     result:       PipelineResult,
     ground_truth: str | None = None,
 ) -> RAGASResult:
+    import nest_asyncio
+    nest_asyncio.apply()
     contexts = [chunk["text"] for chunk in result.chunks]
 
     row = {
