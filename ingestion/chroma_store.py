@@ -2,11 +2,11 @@ from __future__ import annotations
 import chromadb
 from chromadb.config import Settings
 from ingestion.chunker import Chunk
+from pathlib import Path
 
 
 COLLECTION_NAME = "pubmed_abstracts"
-CHROMA_PATH     = "./chroma_db"
-
+CHROMA_PATH     = str(Path(__file__).parent.parent / "chroma_db")
 
 def get_client() -> chromadb.ClientAPI:
     return chromadb.PersistentClient(
