@@ -3,25 +3,6 @@ import os
 import time
 from dataclasses import dataclass
 
-
-
-import aiohttp
-if not hasattr(aiohttp, "ClientConnectorDNSError"):
-    aiohttp.ClientConnectorDNSError = aiohttp.ClientConnectorError
-
-from datasets import Dataset
-from ragas import evaluate, RunConfig
-from ragas.metrics import (
-    faithfulness,
-    answer_relevancy,
-    context_precision,
-    context_recall,
-)
-from ragas.llms import LangchainLLMWrapper
-from ragas.embeddings import LangchainEmbeddingsWrapper
-from langchain_google_genai import ChatGoogleGenerativeAI
-from langchain_huggingface import HuggingFaceEmbeddings
-
 from pipeline.rag_pipeline import PipelineResult
 
 
@@ -51,7 +32,9 @@ class RAGASResult:
             print(f"  {k:<22} {score}")
 
 
-def _build_ragas_llm() -> LangchainLLMWrapper:
+def _build_ragas_llm():
+    from ragas.llms import LangchainLLMWrapper
+    from langchain_google_genai import ChatGoogleGenerativeAI
     llm = ChatGoogleGenerativeAI(
         model=JUDGE_MODEL,
         google_api_key=os.getenv("GEMINI_API_KEY"),
@@ -61,7 +44,9 @@ def _build_ragas_llm() -> LangchainLLMWrapper:
     return LangchainLLMWrapper(llm)
 
 
-def _build_ragas_embeddings() -> LangchainEmbeddingsWrapper:
+def _build_ragas_embeddings():
+    from ragas.embeddings import LangchainEmbeddingsWrapper
+    from langchain_huggingface import HuggingFaceEmbeddings
     embeddings = HuggingFaceEmbeddings(
         model_name=EMBEDDING_MODEL,
         model_kwargs={"device": "cpu"},
@@ -72,6 +57,8 @@ def _build_ragas_embeddings() -> LangchainEmbeddingsWrapper:
 
 
 def _build_metrics(include_recall: bool, include_precision: bool = True) -> list:
+    from ragas.metrics import faithfulness, answer_relevancy, context_precision, context_recall
+
     ragas_llm        = _build_ragas_llm()
     ragas_embeddings = _build_ragas_embeddings()
 
@@ -90,7 +77,8 @@ def _build_metrics(include_recall: bool, include_precision: bool = True) -> list
     return metrics
 
 
-def _run_evaluate(dataset: Dataset, metrics: list) -> object:
+def _run_evaluate(dataset, metrics: list):
+    from ragas import evaluate, RunConfig
     run_config = RunConfig(
         max_workers=1,
         timeout=180,
@@ -103,8 +91,15 @@ def evaluate_result(
     result:       PipelineResult,
     ground_truth: str | None = None,
 ) -> RAGASResult:
+    import aiohttp
+    if not hasattr(aiohttp, "ClientConnectorDNSError"):
+        aiohttp.ClientConnectorDNSError = aiohttp.ClientConnectorError
+
     import nest_asyncio
     nest_asyncio.apply()
+
+    from datasets import Dataset
+
     contexts = [chunk["text"] for chunk in result.chunks]
 
     row = {
