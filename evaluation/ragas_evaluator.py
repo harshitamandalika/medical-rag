@@ -1,6 +1,8 @@
 from __future__ import annotations
 import os
 import time
+import asyncio
+import concurrent.futures
 from dataclasses import dataclass
 
 from pipeline.rag_pipeline import PipelineResult
@@ -95,9 +97,6 @@ def evaluate_result(
     if not hasattr(aiohttp, "ClientConnectorDNSError"):
         aiohttp.ClientConnectorDNSError = aiohttp.ClientConnectorError
 
-    import nest_asyncio
-    nest_asyncio.apply()
-
     from datasets import Dataset
 
     contexts = [chunk["text"] for chunk in result.chunks]
@@ -115,8 +114,19 @@ def evaluate_result(
         include_recall    = ground_truth is not None,
         include_precision = ground_truth is not None,
     )
-    scores  = _run_evaluate(dataset, metrics)
-    df      = scores.to_pandas()
+
+    def _run_in_thread():
+        loop = asyncio.new_event_loop()
+        asyncio.set_event_loop(loop)
+        try:
+            return _run_evaluate(dataset, metrics)
+        finally:
+            loop.close()
+
+    with concurrent.futures.ThreadPoolExecutor(max_workers=1) as executor:
+        scores = executor.submit(_run_in_thread).result()
+
+    df = scores.to_pandas()
 
     def _get(col: str) -> float | None:
         if col in df.columns:
