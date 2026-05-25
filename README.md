@@ -61,9 +61,9 @@ flowchart TD
 ---
 ## Dashboard
 
-![Dashboard Query Panel](docs/dashboard_1.png)
+![Dashboard](docs/dashboard_1.png)
 
-![Dashboard Eval Panel](docs/dashboard_2.png)
+![Dashboard](docs/dashboard_2.png)
 
 ## MLflow Tracking
 
