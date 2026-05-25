@@ -1,6 +1,6 @@
 # Medical Literature RAG + Eval Dashboard
 
-A production-style RAG system over PubMed medical abstracts with a live RAGAS evaluation dashboard. Ask clinical questions in natural language — the system retrieves relevant abstracts, generates a grounded answer with cited PMIDs, and scores every query with four RAGAS metrics in real time.
+A production-style RAG system over PubMed medical abstracts with a live RAGAS evaluation dashboard. Ask clinical questions in natural language - the system retrieves relevant abstracts, generates a grounded answer with cited PMIDs, and scores every query with four RAGAS metrics in real time.
 
 ---
 
@@ -57,6 +57,17 @@ flowchart TD
 ## Corpus
 
 574 chunks across 6 conditions: Type 2 Diabetes, Hypertension, Heart Failure, Depression, Chronic Kidney Disease, Asthma.
+
+---
+## Dashboard
+
+![Dashboard Query Panel](docs/dashboard_1.png)
+
+![Dashboard Eval Panel](docs/dashboard_2.png)
+
+## MLflow Tracking
+
+![MLflow Runs](docs/mlflow_ss.png)
 
 ---
 

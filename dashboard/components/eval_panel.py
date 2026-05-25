@@ -1,8 +1,9 @@
 from __future__ import annotations
 import streamlit as st
 import plotly.graph_objects as go
-from evaluation.ragas_evaluator import RAGASResult
-
+from typing import TYPE_CHECKING
+if TYPE_CHECKING:
+    from evaluation.ragas_evaluator import RAGASResult
 
 METRIC_LABELS = {
     "faithfulness":      "Faithfulness",
